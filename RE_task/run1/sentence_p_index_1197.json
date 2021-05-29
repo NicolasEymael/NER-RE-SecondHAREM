@@ -1,0 +1,87 @@
+{
+  "text": "Circunscrevendo-se, pela facilidade de informações diretas, ao que se vem fazendo no Rio de Janeiro, cabe menção a um ou dois capítulos da 1.ª série dos Estudos Filológicos de Antenor Nascentes | Estudos Filológicos de Antenor Nascentes, saídos em 1939, e, mais recentemente, os levantamentos de Sílvio Elia, nos Ensaios de Filologia e Lingüística.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 99
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 153,
+        "end": 193
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 196,
+        "end": 215
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 219,
+        "end": 236
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 245,
+        "end": 252
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 296,
+        "end": 307
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 313,
+        "end": 347
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "obra_de",
+      "subj": "T7",
+      "obj": "T7"
+    }
+  ]
+}

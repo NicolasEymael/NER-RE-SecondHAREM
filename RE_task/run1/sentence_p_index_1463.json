@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade fica o Passeio da Fama?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

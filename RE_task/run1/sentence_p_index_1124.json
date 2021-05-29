@@ -1,0 +1,14 @@
+{
+  "text": "Matéria publicada originalmente na Folha online",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

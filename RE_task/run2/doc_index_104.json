@@ -1,0 +1,703 @@
+{
+  "text": " Fim de ano com uísque barato no Rio. Por favor, não entenda, por uísque barato, uísque vagabundo. É uísque bom, sem batismo, só que de preço baixo mesmo. Venho notando isso nos últimos meses. Deve ser por conta da queda do dólar: os donos de bares, finalmente, estão entendendo que uísque escocês não tem, necessariamente, que sair caro no balcão. Aquele \"ouro\" líquido, que o balconista costumava servir a conta-gotas e com um chorinho miserável e sem vela, está deixando de existir. Com a garrafa de um bom scotch sendo vendida a menos de R$ 60 em qualquer supermercado, já é possível encontrar, com facilidade, bares e botequins que assumiram o serviço regado do puro scotch. O Belmonte da Rua do Lavradio, por exemplo, é um desses. Por R$ 8,50, toma-se uma dose boca larga de Johnny Walker Red Label. E a régua é só de vinte doses, contra as absurdas 24 doses de alguns bares por aí. Nada mal, não?. Para você, leitor que não toma uísque, ter uma idéia do que isso significa, basta dizer que a menos de 150 metros dali, no Carlitos da Rua Mem de Sá, uma dose do mesmo Red Label, servido em dedal de moça, custa R$ 12,50. Uma diferença exorbitante de preço e quantidade. E por que isso?, você há de perguntar. Puro preconceito, amigo. Os donos do Carlitos ainda acham que uísque é coisa de rico, coitados. Mas, para nossa sorte, essa ignorância aos poucos vai sendo riscada do mapa. Até quando o dólar deixar, claro... Outros exemplos de bom uísque barato e regado na cidade do Rio:. - Aboim, na Rua Souza Lima, em Copacabana: o Pé-Sujo mais especializado em uísque da cidade serve mais de dez marcas diferentes de scotch. As mais baratas (White Horse e Grants 8 anos) saem a R$ 7,00, sempre na tala larga. - Azeitona & Cia, na Rua Dias Ferreira, no Leblon: O melhor custo-benefício do scotch na Zona Sul do Rio | Zona Sul do Rio. Uma dose caprichadíssima de Red Label no copo longo sai por meros R$ 7. E ainda vem com a boa conversa do Azeitona, o dono. - Bar do Adão da Rua Dona Mariana, em Botafogo: Não é muito boteco, mas ali o Ballantines 12 anos sai por R$ 9 a dose. Espetáculo que melhora ainda mais às terças-feiras, quando a casa especializada em pastel serve tudo dobrado. E o mesmo uísque sai, então, pela bagatela de R$ 4,50. - Bar Barata Ribeiro, na esquina das Ruas Barata Ribeiro e Barão de Ipanema, em Copacabana: Botequinho escondido no meio do caos copacabanense, mas que tem um coração de ouro e uma blea prateleira de uísques. - Bar Vieira Souto, na Praça da Cruz Vermelha, Centro da cidade: Um restaurante popular dos bons, que serve um filé com fritas espetacular e uísque de excelente procedência a R$ 8, no capricho. - BotecoTaco, no Humaitá: As madrugadas varam e o uísque não pára de sair no templo carioca dos notívagos. Doses cavalares de uísque oito anos, a menos de R$ 10.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 1,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 191
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 533,
+        "end": 547
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 682,
+        "end": 690
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 694,
+        "end": 709
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 741,
+        "end": 748
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 781,
+        "end": 804
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 856,
+        "end": 858
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 999,
+        "end": 1018
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 1028,
+        "end": 1036
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 1040,
+        "end": 1053
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 1073,
+        "end": 1082
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 1116,
+        "end": 1124
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1251,
+        "end": 1259
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 1482,
+        "end": 1485
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 1490,
+        "end": 1495
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 1500,
+        "end": 1514
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1519,
+        "end": 1529
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1533,
+        "end": 1540
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "outro",
+      "span": {
+        "begin": 1644,
+        "end": 1655
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "outro",
+      "span": {
+        "begin": 1658,
+        "end": 1671
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 1680,
+        "end": 1687
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1713,
+        "end": 1727
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1732,
+        "end": 1749
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1754,
+        "end": 1760
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 1800,
+        "end": 1815
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1818,
+        "end": 1826
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1830,
+        "end": 1833
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "outro",
+      "span": {
+        "begin": 1863,
+        "end": 1872
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "valor",
+      "span": {
+        "begin": 1901,
+        "end": 1905
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1941,
+        "end": 1949
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1961,
+        "end": 1972
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1976,
+        "end": 1992
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1997,
+        "end": 2005
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "outro",
+      "span": {
+        "begin": 2037,
+        "end": 2056
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "valor",
+      "span": {
+        "begin": 2065,
+        "end": 2069
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 2112,
+        "end": 2128
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "valor",
+      "span": {
+        "begin": 2234,
+        "end": 2241
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "local",
+      "span": {
+        "begin": 2245,
+        "end": 2263
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 2280,
+        "end": 2299
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 2302,
+        "end": 2318
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "local",
+      "span": {
+        "begin": 2323,
+        "end": 2333
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "local",
+      "span": {
+        "begin": 2454,
+        "end": 2470
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "local",
+      "span": {
+        "begin": 2475,
+        "end": 2497
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 2499,
+        "end": 2505
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "valor",
+      "span": {
+        "begin": 2627,
+        "end": 2631
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 2648,
+        "end": 2658
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 2663,
+        "end": 2670
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 2672,
+        "end": 2685
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "valor",
+      "span": {
+        "begin": 2792,
+        "end": 2806
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R8",
+      "pred": "localizado_em",
+      "subj": "T15",
+      "obj": "T11"
+    },
+    {
+      "id": "R9",
+      "pred": "localizado_em",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "sede_de",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "inclui",
+      "subj": "T19",
+      "obj": "T18"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T2"
+    },
+    {
+      "id": "R16",
+      "pred": "sede_de",
+      "subj": "T25",
+      "obj": "T24"
+    },
+    {
+      "id": "R17",
+      "pred": "inclui",
+      "subj": "T25",
+      "obj": "T24"
+    },
+    {
+      "id": "R18",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T2"
+    },
+    {
+      "id": "R19",
+      "pred": "inclui",
+      "subj": "T26",
+      "obj": "T25"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T2"
+    },
+    {
+      "id": "R21",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T19"
+    },
+    {
+      "id": "R22",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T26"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T2"
+    },
+    {
+      "id": "R24",
+      "pred": "inclui",
+      "subj": "T28",
+      "obj": "T19"
+    },
+    {
+      "id": "R25",
+      "pred": "inclui",
+      "subj": "T28",
+      "obj": "T26"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T2"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T13"
+    },
+    {
+      "id": "R28",
+      "pred": "proprietario_de",
+      "subj": "T32",
+      "obj": "T24"
+    },
+    {
+      "id": "R29",
+      "pred": "sede_de",
+      "subj": "T34",
+      "obj": "T33"
+    },
+    {
+      "id": "R30",
+      "pred": "inclui",
+      "subj": "T34",
+      "obj": "T33"
+    },
+    {
+      "id": "R31",
+      "pred": "inclui",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R32",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T2"
+    },
+    {
+      "id": "R33",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T27"
+    },
+    {
+      "id": "R34",
+      "pred": "sede_de",
+      "subj": "T41",
+      "obj": "T40"
+    },
+    {
+      "id": "R35",
+      "pred": "inclui",
+      "subj": "T41",
+      "obj": "T40"
+    },
+    {
+      "id": "R36",
+      "pred": "sede_de",
+      "subj": "T42",
+      "obj": "T40"
+    },
+    {
+      "id": "R37",
+      "pred": "inclui",
+      "subj": "T42",
+      "obj": "T40"
+    },
+    {
+      "id": "R38",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T19"
+    },
+    {
+      "id": "R39",
+      "pred": "inclui",
+      "subj": "T43",
+      "obj": "T41"
+    },
+    {
+      "id": "R40",
+      "pred": "inclui",
+      "subj": "T43",
+      "obj": "T42"
+    },
+    {
+      "id": "R41",
+      "pred": "sede_de",
+      "subj": "T45",
+      "obj": "T44"
+    },
+    {
+      "id": "R42",
+      "pred": "inclui",
+      "subj": "T45",
+      "obj": "T44"
+    },
+    {
+      "id": "R43",
+      "pred": "inclui",
+      "subj": "T46",
+      "obj": "T45"
+    },
+    {
+      "id": "R44",
+      "pred": "incluido",
+      "subj": "T46",
+      "obj": "T2"
+    },
+    {
+      "id": "R45",
+      "pred": "sede_de",
+      "subj": "T49",
+      "obj": "T48"
+    },
+    {
+      "id": "R46",
+      "pred": "inclui",
+      "subj": "T49",
+      "obj": "T48"
+    },
+    {
+      "id": "R47",
+      "pred": "incluido",
+      "subj": "T49",
+      "obj": "T2"
+    },
+    {
+      "id": "R48",
+      "pred": "incluido",
+      "subj": "T49",
+      "obj": "T27"
+    }
+  ]
+}

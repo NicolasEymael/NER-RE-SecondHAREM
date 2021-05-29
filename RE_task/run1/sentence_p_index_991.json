@@ -1,0 +1,22 @@
+{
+  "text": "Como, facilmente, se pode notar, o mundo roda enquanto a cultura das periferias gira, circula, como um bambolê. Somos do Overmundo , o pá! O Bicho, o vírus da maçã. Y love you Angola !",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 121,
+        "end": 130
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 176,
+        "end": 182
+      }
+    }
+  ],
+  "relations": []
+}

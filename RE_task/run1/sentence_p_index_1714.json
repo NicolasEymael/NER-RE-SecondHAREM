@@ -1,0 +1,29 @@
+{
+  "text": "O que é um iPod? Quem é que o faz? Quando é que foi lançado? Quem fez o disco duro para os iPod de primeira geração?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 11,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 91,
+        "end": 95
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

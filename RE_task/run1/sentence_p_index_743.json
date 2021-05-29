@@ -1,0 +1,22 @@
+{
+  "text": "O líder do campeonato, que podia muito bem esperar para ver como decorria a prova, tentou passar o bicampeão e cometeu um erro de trajectória na 4.ª curva da primeira volta, saindo de pista e descendo para a 8.ª posição, atrás dos Toyota.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 208,
+        "end": 211
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 231,
+        "end": 237
+      }
+    }
+  ],
+  "relations": []
+}

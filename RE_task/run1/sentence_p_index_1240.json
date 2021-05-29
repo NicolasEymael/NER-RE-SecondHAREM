@@ -1,0 +1,22 @@
+{
+  "text": "Houaiss, mais jovem e mais bem aparelhado para receber as mudanças, soube melhor compreender o modernismo e futurismo, sem renegar - como fizera Oiticica - seu partidarismo de uma sociedade baseada na ordem, no belo, na estética.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 145,
+        "end": 153
+      }
+    }
+  ],
+  "relations": []
+}

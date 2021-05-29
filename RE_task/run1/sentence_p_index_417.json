@@ -1,0 +1,123 @@
+{
+  "text": "E foi durante uma de suas apresentações no Cassino da Urca | Cassino da Urca , no Rio , em 1939 , que o produtor americano Lee Shubert viu Carmen e se encantou. Levou-a para a Broadway e o sucesso foi inevitável. Ela, com o Bando da Lua , ficou consagrada já no início com o espetáculo The Streets of Paris . Daí em diante, tornou-se uma das maiores celebridades que o mundo já conheceu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 76
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 82,
+        "end": 85
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 134
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 139,
+        "end": 145
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 176,
+        "end": 184
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 224,
+        "end": 236
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 286,
+        "end": 306
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_profissional",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R3",
+      "pred": "ter_participacao_de",
+      "subj": "T10",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "ter_participacao_de",
+      "subj": "T10",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "ter_participacao_de",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

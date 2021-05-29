@@ -1,0 +1,14 @@
+{
+  "text": "Qual o verdadeiro nome de Michael Caine?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

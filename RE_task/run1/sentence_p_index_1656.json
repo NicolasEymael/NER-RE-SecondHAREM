@@ -1,0 +1,51 @@
+{
+  "text": "Quantas pessoas tiverem que abandonar as sus casas durante as cheias de 1995 na Holanda? Que percentagem da Holanda está abaixo do nível do mar? Que altura atingiram as águas em Lobith durante as cheias? Quem era o primeiro-ministro holandês na altura?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 69,
+        "end": 76
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 80,
+        "end": 87
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 108,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 178,
+        "end": 184
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

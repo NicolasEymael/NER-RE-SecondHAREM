@@ -1,0 +1,46 @@
+{
+  "text": "Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome Prius tornou-se um sinónimo de híbrido Nos Estados Unidos da America foram vendidos em 2004 mais de 50 mil unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 69,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 137
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 160
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 161,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 280,
+        "end": 285
+      }
+    }
+  ],
+  "relations": []
+}

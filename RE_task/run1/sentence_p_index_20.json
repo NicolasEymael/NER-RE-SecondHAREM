@@ -1,0 +1,22 @@
+{
+  "text": "É a pedra oficial do anel de formatura dos psicologos, assim considerada a partir de 31 de março de 2006 , pela resolução Nº 002/2006, do Conselho Federal de Psicologia brasileiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 104
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 168
+      }
+    }
+  ],
+  "relations": []
+}

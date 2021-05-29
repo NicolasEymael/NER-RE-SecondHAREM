@@ -1,0 +1,54 @@
+{
+  "text": "O que nos é dito é que em Janeiro tudo vai mudar, aparecerão propostas e tomadas de posição, vai começar a oposição \"a sério\", quando estiverem gabinetes e assessores a funcionar. É um pouco bizarro que se anuncie um tempo de adiamento da oposição, uma paragem para uma retoma anunciada, quando antes tudo era tempo urgente. Menezes criticava Marques Mendes por não fazer oposição dia a dia , minuto a minuto , fogosa, ardente, caso a caso, para o que, dizia, não faltavam temas nem razões e que \"com ele\" isso iria mudar radicalmente. Já não me refiro às idas às fábricas que encerraram - entretanto já encerraram várias -, mas a um estilo prometido de pathos oposicionista, comunhão com o povo e de entusiasmo militante, que, de todo, não se vê. Não é que o estilo prometido fosse bom, mas foi o que foi prometido, antes deste enorme esforço de respeitabilidade fabricado por agências de comunicação. Estas flutuações matam o flutuante, mas, infelizmente, são o que é normal, quando se actua para uma sociedade do espectáculo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 23,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 295,
+        "end": 300
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 325,
+        "end": 332
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 343,
+        "end": 357
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 381,
+        "end": 390
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 393,
+        "end": 408
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,38 @@
+{
+  "text": "Em Basket Ball também perdemos, e infelizmente sem as características do Ping Pong, na segunda parte eu e Vilarinho Cardoso, tivemos que substituir dois jogadores caprichosos, e sem o menor intuito de honrar não a terra em que nasceram, mas sim a que representavam, perdemos por 33-12 salvo erro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 73,
+        "end": 82
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 106,
+        "end": 123
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 279,
+        "end": 284
+      }
+    }
+  ],
+  "relations": []
+}

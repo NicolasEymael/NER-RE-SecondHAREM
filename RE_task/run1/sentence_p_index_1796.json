@@ -1,0 +1,14 @@
+{
+  "text": "Qual o estado mais populoso da Índia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

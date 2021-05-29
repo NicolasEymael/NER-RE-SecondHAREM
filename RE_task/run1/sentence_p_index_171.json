@@ -1,0 +1,30 @@
+{
+  "text": "Em seguida, quando começou a movimentação com bola, Ronaldo seguiu correndo. Aí quem se destacou - negativamente, de acordo com o jornal italiano \" La Gazzetta dello Sport \" - foi o goleiro Dida .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 148,
+        "end": 171
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 190,
+        "end": 194
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,111 @@
+{
+  "text": "As propostas afirmam que tais substâncias estão isentas das restrições relativas à guerra biológica. Mas isso não é verdade, argumenta Mark Wheelis da Universidade da California | Universidade da California , Davis . A Convenção das Armas Biológicas e Tóxicas de 1972 | Convenção das Armas Biológicas e Tóxicas de 1972 proíbe o \"desenvolvimento, produção, armazenagem ou aquisição de agentes biológicos ou toxinas\" se não forem para finalidades pacíficas. Além disso, no ano passado os próprios EUA introduziram uma lei banindo a posse de bio-armas, inclusive micróbios concebidos para atacarem materiais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 135,
+        "end": 147
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 151,
+        "end": 177
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 180,
+        "end": 192
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 206
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 209,
+        "end": 214
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 219,
+        "end": 267
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 270,
+        "end": 310
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 311,
+        "end": 318
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 468,
+        "end": 482
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 495,
+        "end": 498
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

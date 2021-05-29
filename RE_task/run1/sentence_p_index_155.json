@@ -1,0 +1,69 @@
+{
+  "text": "Vans/Eastpak Club Tour 2007 ( Almada ) com SK6 , Humble , Devil in Me , Tara Perdida e Strike Anywhere",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 46
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 55
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 69
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 72,
+        "end": 84
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 87,
+        "end": 102
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

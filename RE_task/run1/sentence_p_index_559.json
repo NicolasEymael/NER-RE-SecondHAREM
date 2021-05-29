@@ -1,0 +1,30 @@
+{
+  "text": "De acordo com os números revelados hoje pela organização, na edição 2007 do rali mais de um milhão de pessoas assistiram à passagem por Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

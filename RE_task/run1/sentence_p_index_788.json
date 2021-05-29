@@ -1,0 +1,126 @@
+{
+  "text": "G.S. , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no Mundo de hoje como Angola e que são também holocautos tão ou mais graves que Kosovo e/ou Israel-Palestina : Darfur , Birmânia , Congo , Ruanda , Singapura , Indonésia , Tibete, povos da Amazónia , Curdos e Nações sem Estado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 252,
+        "end": 257
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 258,
+        "end": 265
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 271,
+        "end": 277
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 329,
+        "end": 335
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 341,
+        "end": 357
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 360,
+        "end": 366
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 369,
+        "end": 377
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 380,
+        "end": 385
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 388,
+        "end": 394
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 397,
+        "end": 406
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 409,
+        "end": 418
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 421,
+        "end": 427
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 438,
+        "end": 446
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 449,
+        "end": 455
+      }
+    }
+  ],
+  "relations": []
+}

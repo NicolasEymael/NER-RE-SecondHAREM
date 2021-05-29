@@ -1,0 +1,45 @@
+{
+  "text": "O Governo russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema \" O Pai Natal não existe \". O argumento é que tal ideia era nefasta para as criancinhas russas. Conclusão: o Governo russo acredita no Pai Natal e quer que as criancinhas também acreditem.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 91,
+        "end": 100
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 196,
+        "end": 203
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 222,
+        "end": 231
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

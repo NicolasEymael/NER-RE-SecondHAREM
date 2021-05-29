@@ -1,0 +1,14 @@
+{
+  "text": "Os cenários tiveram em conta a utilização do Oseltamivir (o anti-viral tido como o mais eficaz contra uma eventual pandemia com origem da gripe das aves), mas não consideraram outras medidas de saúde pública, apesar de os autores admitirem que estas «terão um efeito principal, embora não exclusivo, na diminuição da incidência da doença e, portanto, nas taxas de ataque».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 45,
+        "end": 56
+      }
+    }
+  ],
+  "relations": []
+}

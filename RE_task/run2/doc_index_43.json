@@ -1,0 +1,515 @@
+{
+  "text": " Camacho ganhou sempre a Jesualdo mas não ao FC Porto. Se as estatísticas quiserem dizer alguma coisa, Camacho pode encarar o clássico de sábado com optimismo. O espanhol soma por vitórias os 3 jogos frente a Jesualdo Ferreira, técnico ao qual sucedeu no comando do Benfica, em 2002/2003. No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o FC Porto para o campeonato. Em três \"duelos\", face a Jesualdo, então ao comando do Sp.Braga, Camacho venceu por duas vezes como visitante (3-1 em 2002/2003 e 3-0 em 2003/2004) e uma como anfitrião (2-0 em 2003/2004). O espanhol está 100 por cento vitorioso face a Jesualdo, mas nunca enceu o FC Porto para o campeonato, tendo como melhor registo o empate na Luz, em 2003/2004 (1-1). Na mesma temporada, Camacho perdeu no FC Porto por 2-0 e, na anterior, já tinha perdido em casa por 1-0. A 16 de Maio de 2004, na final da Taça de Portugal | Taça de Portugal, o FC Porto adiantou-se, por Derlei, mas o grego Fyssas empatou e, no prolongamento, Simão derrotou o \"onze\" de José Mourinho, que, 10 dias depois | 10 dias depois, viria a vencer a Liga dos Campeões (3-0 ao AS Mónaco). Por seu lado, Jesualdo Ferreira tem um balanço negativo nos confrontos com o Benfica, com quatro vitórias, três empates e cinco derrotas (13-19 em golos), mas nunca perdeu ao comando do FC Porto: \"a época passada, venceu no Dragão (3-2) e empatou na Luz (1-1).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 53
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 103,
+        "end": 110
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 135,
+        "end": 144
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 192,
+        "end": 193
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 209,
+        "end": 226
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 266,
+        "end": 273
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 275,
+        "end": 287
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 367,
+        "end": 375
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 420,
+        "end": 428
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 450,
+        "end": 458
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 460,
+        "end": 467
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 475,
+        "end": 489
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 506,
+        "end": 509
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 510,
+        "end": 522
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 529,
+        "end": 541
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 565,
+        "end": 568
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 569,
+        "end": 581
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 631,
+        "end": 639
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 659,
+        "end": 667
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 725,
+        "end": 728
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 730,
+        "end": 742
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 744,
+        "end": 747
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 770,
+        "end": 777
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 788,
+        "end": 796
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "valor",
+      "span": {
+        "begin": 801,
+        "end": 804
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "valor",
+      "span": {
+        "begin": 850,
+        "end": 853
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 855,
+        "end": 875
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 889,
+        "end": 905
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 908,
+        "end": 912
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 916,
+        "end": 924
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 928,
+        "end": 936
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 954,
+        "end": 960
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "individuo",
+      "span": {
+        "begin": 974,
+        "end": 980
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 1010,
+        "end": 1015
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "individuo",
+      "span": {
+        "begin": 1037,
+        "end": 1050
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1057,
+        "end": 1071
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "valor",
+      "span": {
+        "begin": 1074,
+        "end": 1081
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1107,
+        "end": 1124
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "valor",
+      "span": {
+        "begin": 1126,
+        "end": 1129
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1133,
+        "end": 1142
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 1159,
+        "end": 1176
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1222,
+        "end": 1229
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "valor",
+      "span": {
+        "begin": 1283,
+        "end": 1288
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1331,
+        "end": 1339
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "local",
+      "span": {
+        "begin": 1369,
+        "end": 1375
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "valor",
+      "span": {
+        "begin": 1377,
+        "end": 1380
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 1395,
+        "end": 1398
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "valor",
+      "span": {
+        "begin": 1400,
+        "end": 1403
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "participante_em",
+      "subj": "T30",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "participante_em",
+      "subj": "T31",
+      "obj": "T3"
+    },
+    {
+      "id": "R14",
+      "pred": "inclui",
+      "subj": "T32",
+      "obj": "T26"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T3"
+    },
+    {
+      "id": "R16",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T3"
+    },
+    {
+      "id": "R17",
+      "pred": "incluido",
+      "subj": "T36",
+      "obj": "T3"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T2"
+    }
+  ]
+}

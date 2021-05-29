@@ -1,0 +1,14 @@
+{
+  "text": "A que partido pertencia Spadolini?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

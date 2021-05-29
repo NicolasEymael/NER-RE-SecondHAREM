@@ -1,0 +1,54 @@
+{
+  "text": "Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos. Afinal, a linguagem das HQs, um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem. Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop. Isso pode ser visto na obra de Roy Lichtenstein e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de Andy Warhol. Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de Marilyn Monroe, Mao Tsé Tung e James Dean - do que propriamente por se comportar como um quadrinhista tradicional.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 181,
+        "end": 184
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 419,
+        "end": 435
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 526,
+        "end": 537
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 689,
+        "end": 703
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 705,
+        "end": 717
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 720,
+        "end": 730
+      }
+    }
+  ],
+  "relations": []
+}

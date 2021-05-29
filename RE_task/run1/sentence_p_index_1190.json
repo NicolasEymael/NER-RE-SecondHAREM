@@ -1,0 +1,97 @@
+{
+  "text": "Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por 5 pratas, menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os Bopes, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como Tulé Peak (diretor de arte), Braulio Mantovani (roteirista) e Daniel Rezende (montador) - não por acaso, o mesmo trio ternura por trás de Cidade de Deus -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc. Uma trabalheira danada. E depois de tudo isso, ver um pedaço mutilado do seu \"filho\" de 3 anos parar na mão de geral por 5 real (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na 16ª versão da montagem).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 109,
+        "end": 117
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 218,
+        "end": 223
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 305,
+        "end": 314
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 334,
+        "end": 351
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 367,
+        "end": 381
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 443,
+        "end": 457
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 822,
+        "end": 828
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 855,
+        "end": 861
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 969,
+        "end": 972
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ter_participacao_de",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

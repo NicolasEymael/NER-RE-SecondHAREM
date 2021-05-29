@@ -1,0 +1,549 @@
+{
+  "text": " New York, New York | New York , New York. No mês passado , o presidente da Câmara de Nova Iorque | presidente da Câmara de Nova Iorque | presidente da Câmara de Nova Iorque , Michael Bloomberg , decidiu entregar o cartão de militante do Partido Conservador . O gesto foi entendido como o arregaçar de mangas para entrar na corrida presidencial numa candidatura independente. E se ele avançar, as mais recentes sondagens indicam que o boletim de voto das eleições de 2008 podem ter três rostos ligados à \" Big Apple \": Hillary Clinton , senadora pelo estado de Nova Iorque , Rudy Giuliani , o republicano que já foi presidente da Câmara | presidente da Câmara da cidade, e Michael Bloomberg , o homem que sucedeu a Giuliani no cargo. Este cenário deverá irritar solenemente a classe política de cidades como Boston , St. Louis , Chicago , ou Los Angeles , que nunca viram com agrado a intromissão de políticos nova-iorquinos nos assuntos presidenciais. Aliás, os últimos sete presidentes eleitos vieram de regiões no Sul ou do Oeste , e ser oriundo do Nordeste americano passou a ser quase considerado uma garantia de derrota eleitoral (que o digam Dukakis ou Kerry ). Como recordava um artigo num recente número da revista New Yorker , Nova Iorque já não via uma coisa assim desde 1951 , quando, no campeonato de basebol, as equipas de Brooklin Dodgers e dos New York Giants disputaram o \"play off\" para decidir quem iria à final com os New York Yankees (que acabaram vencedores da \" World Séries \"). Para uma eventual candidatura, Bloomberg nem sequer está preocupado com o facto de arrancar tarde, numas eleições em que as primárias servem para angariar fundos (em anteriores eleições, o também magnata dos \"media\" já gastou mais de 160 milhões de dólares do seu bolso, e tem muitos mais para gastar). Além disso, Bloomberg conta com o efeito de subida de popularidade dos independentes nos EUA . Os estudos dizem que cerca de 40% dos eleitores não tem simpatia por nenhum dos partidos. E este dado torna o estatuto de independente muito atraente -- um fenómeno semelhante ao verificado com a candidatura de Manuel Alegre , nas últimas presidenciais portuguesas, ou com aquilo que esperam conseguir Helena Roseta e Carmona Rodrigues nas próximas eleições intercalares para a Câmara de Lisboa | Câmara de Lisboa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 1,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 30
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 41
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 57
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 97
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 114,
+        "end": 120
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 124,
+        "end": 135
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 152,
+        "end": 173
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 176,
+        "end": 193
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 238,
+        "end": 257
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 464,
+        "end": 471
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 506,
+        "end": 515
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 519,
+        "end": 534
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 561,
+        "end": 572
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 575,
+        "end": 588
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 616,
+        "end": 636
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 653,
+        "end": 659
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 673,
+        "end": 690
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 715,
+        "end": 723
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 808,
+        "end": 814
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 817,
+        "end": 826
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 829,
+        "end": 836
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 842,
+        "end": 853
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1017,
+        "end": 1020
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1027,
+        "end": 1032
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1052,
+        "end": 1060
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1149,
+        "end": 1156
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1160,
+        "end": 1165
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1224,
+        "end": 1234
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1237,
+        "end": 1248
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1276,
+        "end": 1286
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1337,
+        "end": 1353
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1360,
+        "end": 1375
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1438,
+        "end": 1454
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1485,
+        "end": 1497
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 1533,
+        "end": 1542
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "valor",
+      "span": {
+        "begin": 1728,
+        "end": 1758
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 1817,
+        "end": 1826
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1894,
+        "end": 1897
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "valor",
+      "span": {
+        "begin": 1921,
+        "end": 1933
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "individuo",
+      "span": {
+        "begin": 2111,
+        "end": 2124
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "individuo",
+      "span": {
+        "begin": 2202,
+        "end": 2215
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 2218,
+        "end": 2235
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2278,
+        "end": 2294
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2297,
+        "end": 2303
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 2307,
+        "end": 2313
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T39"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "natural_de",
+      "subj": "T13",
+      "obj": "T39"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "natural_de",
+      "subj": "T15",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "natural_de",
+      "subj": "T15",
+      "obj": "T39"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T15"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T9"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T15"
+    },
+    {
+      "id": "R16",
+      "pred": "natural_de",
+      "subj": "T20",
+      "obj": "T9"
+    },
+    {
+      "id": "R17",
+      "pred": "natural_de",
+      "subj": "T27",
+      "obj": "T39"
+    },
+    {
+      "id": "R18",
+      "pred": "natural_de",
+      "subj": "T28",
+      "obj": "T39"
+    },
+    {
+      "id": "R19",
+      "pred": "natural_de",
+      "subj": "T30",
+      "obj": "T2"
+    },
+    {
+      "id": "R20",
+      "pred": "ter_participacao_de",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R21",
+      "pred": "ter_participacao_de",
+      "subj": "T35",
+      "obj": "T32"
+    },
+    {
+      "id": "R22",
+      "pred": "ter_participacao_de",
+      "subj": "T35",
+      "obj": "T33"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T9"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T9"
+    },
+    {
+      "id": "R25",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T2"
+    },
+    {
+      "id": "R26",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T20"
+    },
+    {
+      "id": "R27",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T21"
+    },
+    {
+      "id": "R28",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T22"
+    },
+    {
+      "id": "R29",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T23"
+    }
+  ]
+}

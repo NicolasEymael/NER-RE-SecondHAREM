@@ -1,0 +1,30 @@
+{
+  "text": "Onde se disputaram os Jogos Mediterrânicos de 1997 | Jogos Mediterrânicos de 1997?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 22,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 81
+      }
+    }
+  ],
+  "relations": []
+}

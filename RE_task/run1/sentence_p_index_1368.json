@@ -1,0 +1,14 @@
+{
+  "text": "Para quem trabalha Jack Bauer?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

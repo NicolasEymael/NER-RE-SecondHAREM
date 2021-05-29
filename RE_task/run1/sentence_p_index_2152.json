@@ -1,0 +1,30 @@
+{
+  "text": "-Base de dados com mapas de Portugal, Espanha e sul de França incorporados",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 61
+      }
+    }
+  ],
+  "relations": []
+}

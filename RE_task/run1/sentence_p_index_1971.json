@@ -1,0 +1,22 @@
+{
+  "text": "Quando foram as Antilhas Holandesas legalmente equiparadas aos Países Baixos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 63,
+        "end": 76
+      }
+    }
+  ],
+  "relations": []
+}

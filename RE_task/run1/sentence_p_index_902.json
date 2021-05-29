@@ -1,0 +1,53 @@
+{
+  "text": "Em Madrugada..., Sílvio vive um negro de alta classe média que, julgando-se inalcançável pela insegurança que (infelizmente) tem sido a marca das noites nas grandes cidades, é humilhado durante um assalto. Já o show de Karine se apoiou nas canções em homenagem a diversos orixás que estruturam seu segundo CD, Epahei!, lançado em agosto. (Palhinha dela no linque, di grátis)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 3,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 23
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 219,
+        "end": 225
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 310,
+        "end": 317
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 327,
+        "end": 336
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T3"
+    }
+  ]
+}

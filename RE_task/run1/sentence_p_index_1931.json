@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Ernesto Zedillo Ponce de León?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

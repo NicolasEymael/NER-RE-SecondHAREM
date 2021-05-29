@@ -1,0 +1,14 @@
+{
+  "text": "Quando teve lugar a primeira edição da Taça Davis?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 39,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

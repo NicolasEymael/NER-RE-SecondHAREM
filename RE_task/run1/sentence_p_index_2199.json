@@ -1,0 +1,30 @@
+{
+  "text": "Desde o dia 1° de junho de 1999 o valor da mensalidade é de R$ 20,00 (vinte reais). Nos débitos automáticos e boletos é acrescido o valor de R$ 2,00 (dois reais), relativo a taxa bancária.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 60,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 141,
+        "end": 148
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Em Portugal , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    }
+  ],
+  "relations": []
+}

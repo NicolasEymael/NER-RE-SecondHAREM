@@ -1,0 +1,29 @@
+{
+  "text": " Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal. A descoberta, segundo pesquisadores da Universidade de Wisconsin-Madison | Universidade de Wisconsin - Madison ( EUA ), poderá levar à compreensão de como as epidemias da doença surgem e qual a melhor forma de combatê-las. A equipe liderada por Yoshihiro Kawaoka analisou amostras do H5N1 , o vírus influenza que, em 1997 , matou 6 das 18 pessoas infectadas, em Hong Kong . Para descobrir a razão dessa diferença, Kawaoka usou uma estratégia de \"engenheirar\" os vírus, trocando genes entre as linhagens virais. Desse modo, conseguiu identificar qual deles era o responsável pela maior capacidade de infecção do influenza. \"Uma mudança de apenas uma base [letra] no gene PB2 [que resultou na modificação de um aminoácido na proteína por ele codificada] parece ser a causa da virulência do influenza\", explica. Os cientistas ainda não sabem exatamente qual o papel do PB2 , mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas. O estudo do grupo de Kawaoka está na edição de hoje da revista científica \" Science \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 358,
+        "end": 375
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 188,
+        "end": 200
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

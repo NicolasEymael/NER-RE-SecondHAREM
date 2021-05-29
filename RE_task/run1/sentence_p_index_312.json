@@ -1,0 +1,22 @@
+{
+  "text": "- identificar lacunas existentes no espaço da União Europeia (ex: sistema de alerta precoce para tsunamis) e delinear as bases para um Plano de Acção destinado a suprir as lacunas identificadas;",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 60
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 135,
+        "end": 149
+      }
+    }
+  ],
+  "relations": []
+}

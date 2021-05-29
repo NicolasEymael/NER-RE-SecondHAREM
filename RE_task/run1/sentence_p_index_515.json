@@ -1,0 +1,53 @@
+{
+  "text": "« Call girl » podia ser uma variação moderna de Anjo Azul , de Josef von Sternberg , disse o realizador à agência Lusa , acompanhando «o percurso da decadência, da perdição», do autarca alentejano até ao momento em que aceita dinheiro em troca de um favor.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 48,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 82
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 114,
+        "end": 118
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 197,
+        "end": 211
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Que percentagem da população do Québec fala francês?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

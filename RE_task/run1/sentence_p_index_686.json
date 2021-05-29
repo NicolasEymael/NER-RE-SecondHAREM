@@ -1,0 +1,89 @@
+{
+  "text": "Na sequência do desejo de el-Rei continuar a obra iniciada pelo infante D. Henrique dos Descobrimentos , escolhe novamente Pêro da Covilhã para embaixador nos tratados de paz com os berberes do Magrebe (como o rei de Fez | rei de Fez e o de Tremecém ), que convinham ao reino para convergir os esforços na odisseia marítima.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 64,
+        "end": 83
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 88,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 194,
+        "end": 201
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 210,
+        "end": 220
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 230,
+        "end": 233
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 241,
+        "end": 249
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T5"
+    }
+  ]
+}

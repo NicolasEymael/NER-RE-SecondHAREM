@@ -1,0 +1,14 @@
+{
+  "text": "Que autor foi o primeiro árabe galardoado com o Nobel da Literatura?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 48,
+        "end": 67
+      }
+    }
+  ],
+  "relations": []
+}

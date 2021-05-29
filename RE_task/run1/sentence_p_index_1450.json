@@ -1,0 +1,14 @@
+{
+  "text": "Quando foi criado o Prémio Schiller?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

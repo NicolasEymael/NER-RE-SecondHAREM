@@ -1,0 +1,893 @@
+{
+  "text": " Paquistão após o assassinato. de Benazir Bhutto. 28/Dezembro/2007 · 0:01 · 147 Comentários. É sempre chocante assistir à decomposição de um país. Mas, após o assassinato de Benazir Bhutto, é o que está acontecendo com o Paquistão. O momento é tenso. Uma revolta popular pode estourar. Agora, que faria sentido declarar Estado de Emergência | Estado de Emergência e impor a Lei Marcial, o presidente Pervez Musharraf está desautorizado. Afinal, há coisa de dois meses, aplicou um golpe contra a Suprema Corte utilizando-se justamente desta tática. Será que ousaria um novo Estado de Emergência | Estado de Emergência ? Será que sobreviveria a tal decreto? Será que o Exército se manterá fiel a ele? Será que o Serviço de Inteligência, tão ligado ao norte islâmico, ainda o respeita minimamente?. O que acontecerá não é possível prever. Eleições estão marcadas para 8 de janeiro, Bhutto era favorita. O partido mais votado do parlamento eleito fará o primeiro ministro. Num país estável, o assassinato de um dos principais candidatos a essa altura seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato. Mas, se já foi um dia, o Paquistão deixou de ser um país normal, quanto mais estável. O ideal seria que eleições ocorressem. É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez. Os partidários de Bhutto, ontem, acusavam Musharraf do assassinato. Mas será?. Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o Talibã, o radicalismo islâmico e sua cria, a al-Qaeda, alojados ao norte. Benazir Bhutto contava com a simpatia dos EUA por conta. Não há dúvidas de que, como premiê, Bhutto forçaria o presidente Musharraf a ampliar sua ofensiva. A conversa da experiente política com o presidente afegão Hamid Karzai, o outro chefe de Estado preocupado com esta briga, faz poucos dias, é indício de qual sua prioridade no governo. Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política. Se o conflito entre ambos era aberto, ausência de Bhutto piora a situação. Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o Talibã e a al-Qaeda. A al-Qaeda às vezes assume seus atentados. Outras vezes, não. No Onze de Setembro, ficou em silêncio por mais de mês enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos EUA ao Afeganistão. Neste caso, a falta de autoria clara favorece o caos. O caos interessa à turma de bin-Laden. Com Bhutto de fora, os olhos voltam-se para outro ex-premiê, também candidato, Nawaz Sharif. Mal se passara uma hora da morte de Bhutto quando ele entrou no Hospital Geral de Rawalpindi | Hospital Geral de Rawalpindi para as condolências. Dada a confusão que imperava, foi um feito. É arte política, sujeito hábil. Embora os dois ensaiassem uma aliança, Sharif não poderia ser mais diferente de Bhutto. Se ela era pró-EUA, ele não esconde seus laços com a Arábia Saudita. E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente. A al-Qaeda é um grupo saudita. A Arábia Saudita era um dos três países do mundo que reconheciam, no Afeganistão, o governo Talibã. A vertente de islamismo radical que impera no norte do Paquistão é profundamente semelhante à que a Arábia Saudita espalha pelo mundo. Sharif não é fundamentalista. Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação. O que vai imperar? A Arábia Saudita interessada em regimes islâmicos como os defendidos pelos radicais? Ou a Arábia Saudita interessada em combater o terrorismo? No Paquistão, as duas opções são incompatíveis. Enterros no Paquistão acontecem rápido. Provavelmente hoje, talvez amanhã. Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões. A multidão é incontrolável. Se o país rachar. Se houver um golpe de Estado. Se radicais islâmicos conseguirem um atalho para o poder. O mundo respira fundo. O \"Paquistão é uma potência nuclear.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 34,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 50,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 69,
+        "end": 73
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 76,
+        "end": 79
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 230
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 320,
+        "end": 340
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 374,
+        "end": 385
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 389,
+        "end": 416
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 445,
+        "end": 467
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 495,
+        "end": 508
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 573,
+        "end": 593
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 667,
+        "end": 675
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 710,
+        "end": 733
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 860,
+        "end": 877
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 879,
+        "end": 885
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 1033,
+        "end": 1046
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 1200,
+        "end": 1206
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1210,
+        "end": 1219
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1420,
+        "end": 1426
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1428,
+        "end": 1433
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1444,
+        "end": 1453
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1564,
+        "end": 1570
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1609,
+        "end": 1617
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 1638,
+        "end": 1652
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1680,
+        "end": 1683
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1731,
+        "end": 1737
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1749,
+        "end": 1769
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1852,
+        "end": 1864
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 1874,
+        "end": 1889
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 1917,
+        "end": 1932
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 2165,
+        "end": 2171
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2316,
+        "end": 2322
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2327,
+        "end": 2335
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2339,
+        "end": 2347
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 2348,
+        "end": 2356
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2402,
+        "end": 2418
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 2438,
+        "end": 2453
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2558,
+        "end": 2561
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 2565,
+        "end": 2576
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "individuo",
+      "span": {
+        "begin": 2660,
+        "end": 2669
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 2675,
+        "end": 2681
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "individuo",
+      "span": {
+        "begin": 2750,
+        "end": 2762
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "tempo",
+      "span": {
+        "begin": 2779,
+        "end": 2787
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "individuo",
+      "span": {
+        "begin": 2800,
+        "end": 2806
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "local",
+      "span": {
+        "begin": 2828,
+        "end": 2856
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 2859,
+        "end": 2873
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 2877,
+        "end": 2887
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "individuo",
+      "span": {
+        "begin": 3025,
+        "end": 3031
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "individuo",
+      "span": {
+        "begin": 3066,
+        "end": 3072
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3089,
+        "end": 3092
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3127,
+        "end": 3141
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3261,
+        "end": 3269
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3292,
+        "end": 3306
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "local",
+      "span": {
+        "begin": 3359,
+        "end": 3370
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3382,
+        "end": 3388
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "local",
+      "span": {
+        "begin": 3445,
+        "end": 3454
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3490,
+        "end": 3504
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "individuo",
+      "span": {
+        "begin": 3525,
+        "end": 3531
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3710,
+        "end": 3724
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3798,
+        "end": 3812
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "local",
+      "span": {
+        "begin": 3854,
+        "end": 3863
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "local",
+      "span": {
+        "begin": 3911,
+        "end": 3920
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "tempo",
+      "span": {
+        "begin": 3953,
+        "end": 3957
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "tempo",
+      "span": {
+        "begin": 3966,
+        "end": 3972
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4132,
+        "end": 4138
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "local",
+      "span": {
+        "begin": 4224,
+        "end": 4233
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "localizado_em",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T10",
+      "obj": "T7"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T7"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T7"
+    },
+    {
+      "id": "R9",
+      "pred": "vinculo_inst",
+      "subj": "T14",
+      "obj": "T7"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T15",
+      "obj": "T7"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T10"
+    },
+    {
+      "id": "R15",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T24"
+    },
+    {
+      "id": "R16",
+      "pred": "localizado_em",
+      "subj": "T25",
+      "obj": "T20"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T2"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T2"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T10"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T30"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T2"
+    },
+    {
+      "id": "R22",
+      "pred": "vinculo_inst",
+      "subj": "T34",
+      "obj": "T24"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T25"
+    },
+    {
+      "id": "R24",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T35"
+    },
+    {
+      "id": "R26",
+      "pred": "vinculo_inst",
+      "subj": "T36",
+      "obj": "T35"
+    },
+    {
+      "id": "R27",
+      "pred": "produzido_por",
+      "subj": "T38",
+      "obj": "T35"
+    },
+    {
+      "id": "R28",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T27"
+    },
+    {
+      "id": "R29",
+      "pred": "vinculo_inst",
+      "subj": "T41",
+      "obj": "T30"
+    },
+    {
+      "id": "R30",
+      "pred": "vinculo_inst",
+      "subj": "T42",
+      "obj": "T34"
+    },
+    {
+      "id": "R31",
+      "pred": "vinculo_inst",
+      "subj": "T42",
+      "obj": "T35"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T6"
+    },
+    {
+      "id": "R33",
+      "pred": "natural_de",
+      "subj": "T44",
+      "obj": "T1"
+    },
+    {
+      "id": "R34",
+      "pred": "vinculo_inst",
+      "subj": "T44",
+      "obj": "T1"
+    },
+    {
+      "id": "R35",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T6"
+    },
+    {
+      "id": "R36",
+      "pred": "incluido",
+      "subj": "T47",
+      "obj": "T1"
+    },
+    {
+      "id": "R37",
+      "pred": "incluido",
+      "subj": "T49",
+      "obj": "T1"
+    },
+    {
+      "id": "R38",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T44"
+    },
+    {
+      "id": "R39",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T6"
+    },
+    {
+      "id": "R40",
+      "pred": "ident",
+      "subj": "T52",
+      "obj": "T27"
+    },
+    {
+      "id": "R41",
+      "pred": "inclui",
+      "subj": "T53",
+      "obj": "T35"
+    },
+    {
+      "id": "R42",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T36"
+    },
+    {
+      "id": "R43",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T36"
+    },
+    {
+      "id": "R44",
+      "pred": "ident",
+      "subj": "T55",
+      "obj": "T53"
+    },
+    {
+      "id": "R45",
+      "pred": "ident",
+      "subj": "T56",
+      "obj": "T41"
+    },
+    {
+      "id": "R46",
+      "pred": "localizado_em",
+      "subj": "T57",
+      "obj": "T56"
+    },
+    {
+      "id": "R47",
+      "pred": "ident",
+      "subj": "T57",
+      "obj": "T34"
+    },
+    {
+      "id": "R48",
+      "pred": "ident",
+      "subj": "T58",
+      "obj": "T20"
+    },
+    {
+      "id": "R49",
+      "pred": "inclui",
+      "subj": "T59",
+      "obj": "T42"
+    },
+    {
+      "id": "R50",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T44"
+    },
+    {
+      "id": "R51",
+      "pred": "ident",
+      "subj": "T61",
+      "obj": "T53"
+    },
+    {
+      "id": "R52",
+      "pred": "ident",
+      "subj": "T61",
+      "obj": "T59"
+    },
+    {
+      "id": "R53",
+      "pred": "ident",
+      "subj": "T62",
+      "obj": "T59"
+    },
+    {
+      "id": "R54",
+      "pred": "ident",
+      "subj": "T63",
+      "obj": "T20"
+    },
+    {
+      "id": "R55",
+      "pred": "ident",
+      "subj": "T64",
+      "obj": "T20"
+    },
+    {
+      "id": "R56",
+      "pred": "ident",
+      "subj": "T67",
+      "obj": "T7"
+    },
+    {
+      "id": "R57",
+      "pred": "ident",
+      "subj": "T68",
+      "obj": "T64"
+    }
+  ]
+}

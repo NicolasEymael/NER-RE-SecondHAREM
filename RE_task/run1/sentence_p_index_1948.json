@@ -1,0 +1,14 @@
+{
+  "text": "De que grupo é presidente Claude Bébéar?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

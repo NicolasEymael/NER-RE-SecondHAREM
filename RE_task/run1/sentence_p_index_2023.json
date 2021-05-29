@@ -1,0 +1,14 @@
+{
+  "text": "A que dinastia pertencia Gengis Khan?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

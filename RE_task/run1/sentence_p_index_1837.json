@@ -1,0 +1,14 @@
+{
+  "text": "Qual o primeiro nome do presidente Trovoada?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

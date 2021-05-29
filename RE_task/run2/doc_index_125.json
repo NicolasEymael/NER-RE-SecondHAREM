@@ -1,0 +1,29 @@
+{
+  "text": " É neste contexto que surge a ECOMAIS - Recolha e Valorização de Resíduos, Lda. uma empresa dinamizadora na área do ambiente direccionada para a área dos resíduos industriais e urbanos. Oferecendo um serviço diversificado, eficaz, rápido e completo na área dos resíduos, torna-se o parceiro ideal na Gestão Global de Resíduos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 300,
+        "end": 325
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Segundo Wang , este será um dos principais temas da pesquisa tecnológica chinesa em 2008 , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 8,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 88
+      }
+    }
+  ],
+  "relations": []
+}

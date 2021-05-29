@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica o Banat?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 12,
+        "end": 17
+      }
+    }
+  ],
+  "relations": []
+}

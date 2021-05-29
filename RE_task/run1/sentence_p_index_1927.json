@@ -1,0 +1,22 @@
+{
+  "text": "Que cargo ocupava François Mitterrand ao ingressar no hospital de Cochin ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 66,
+        "end": 72
+      }
+    }
+  ],
+  "relations": []
+}

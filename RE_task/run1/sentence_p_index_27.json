@@ -1,0 +1,14 @@
+{
+  "text": "Os cientistas ainda não sabem exatamente qual o papel do PB2 , mas ele parece codificar uma enzima responsável pela indução de um número maior de partículas virais nas células infectadas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 57,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

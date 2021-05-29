@@ -1,0 +1,14 @@
+{
+  "text": "Pelo que vi nos três dias de evento, tenho certeza que esse objetivo vai ser alcançado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

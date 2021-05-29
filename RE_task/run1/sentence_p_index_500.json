@@ -1,0 +1,69 @@
+{
+  "text": "Ao quinto minuto do dia , novamente na Maternidade Alfredo da Costa , em Lisboa ,nasceu um rapaz, de parto assistido por ventosa, com 3,360 quilos . O bebé encontra-se bem, tal como a mãe, Cristina , de 30 anos , disse à Lusa a fonte do hospital.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 67
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 134,
+        "end": 146
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 197
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 203,
+        "end": 210
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 225
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

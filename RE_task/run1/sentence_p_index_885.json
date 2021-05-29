@@ -1,0 +1,53 @@
+{
+  "text": "Outra proposta de 1998 , de um laboratório de biotecnologia da base de Brooks da Força Aérea , próxima de San Antonio no Texas , era refinar \"biocatalizadores anti-material\" já em desenvolvimento. Um deles envolvia uma bactéria derivada que decompunha moléculas orgânicas como combustíveis e plásticos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 71,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 81,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 117
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 121,
+        "end": 126
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

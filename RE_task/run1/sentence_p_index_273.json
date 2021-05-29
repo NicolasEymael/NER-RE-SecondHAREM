@@ -1,0 +1,38 @@
+{
+  "text": "\" Sexta-feira estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do Sol com Telescópios | Telescópios e construir enfeites de Natal | de Natal com motivos de astronomia\", acrescentou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 2,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 175,
+        "end": 178
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 183,
+        "end": 194
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 230,
+        "end": 238
+      }
+    }
+  ],
+  "relations": []
+}

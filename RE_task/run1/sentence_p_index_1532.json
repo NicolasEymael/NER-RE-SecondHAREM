@@ -1,0 +1,14 @@
+{
+  "text": "Onde ficam as Ilhas Marquesas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

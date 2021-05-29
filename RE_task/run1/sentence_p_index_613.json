@@ -1,0 +1,14 @@
+{
+  "text": "NÃO FOI SÓ EM PORTUGAL QUE O HINO PUXOU PELAS EMOÇÕES FORTES",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

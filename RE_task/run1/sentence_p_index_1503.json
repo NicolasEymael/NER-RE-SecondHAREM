@@ -1,0 +1,30 @@
+{
+  "text": "Qual o comprimento da alameda principal do Prater? O que e o \"Wurstelprater\"? Onde fica o Calafati?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 62,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 90,
+        "end": 98
+      }
+    }
+  ],
+  "relations": []
+}

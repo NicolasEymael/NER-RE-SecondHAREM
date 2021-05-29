@@ -1,0 +1,29 @@
+{
+  "text": " Restauração da Independência. Guerra da Restauração. Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta de 1640 , na qual um grupo de conspiradores da nobreza aclamou o duque de Bragança como Rei de Portugal | Rei de Portugal , com o título de D. João IV ( 1640-1656 ), dando início à quarta Dinastia -- Dinastia de Bragança . O esforço nacional foi mantido durante vinte e oito anos , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de Filipe III e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo em 1668 . Esses anos foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na Catalunha , os esforços diplomáticos da Inglaterra , França , Holanda e Roma , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa. Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do Brasil , como também de Angola e de São Tomé e Príncipe ( 1641-1654 ), restabelecendo o poder atlântico português. No entanto, as perdas no Oriente tornaram-se irreversíveis e Ceuta ficaria na posse dos Habsburgo . Devido a estarem indisponíveis as mercadorias indianas, Portugal passou a só obter lucro com a cana-de-açúcar do Brasil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1165,
+        "end": 1170
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 1129,
+        "end": 1136
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

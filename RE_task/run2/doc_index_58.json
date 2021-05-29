@@ -1,0 +1,287 @@
+{
+  "text": " Lobos recebidos em apoteose. SELECÇÃO DE REGRESSO APÓS BOA PRESTAÇÃO NO MUNDIAL. Centenas de pessoas recepcionaram no Aeroporto da Portela | Aeroporto da Portela , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi. A boa prestação global da equipa no Mundial da modalidade, que ainda decorre em França , não passou despercebida em Portugal , embora \" Os Lobos \" não tenham conseguido vencer um único jogo. Quando a comitiva portuguesa saiu na área de chegadas, por volta das 16.30 horas , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de Portugal de forma entusiasmada. Vasco Uva : «Honrámos o país». Um dos jogadores mais acarinhados pelos adeptos na chegada a Lisboa , o capitão Vasco Uva explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português. \"Foi a maneira como nos batemos, a maneira como fizemos honrar o País \", considerou, acrescentando que o momento mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos \" Lobos \", contra a Escócia , em St. Etienne . \"Foi muito bom.\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 73,
+        "end": 80
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 139
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 142,
+        "end": 151
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 155,
+        "end": 162
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 277,
+        "end": 284
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 321,
+        "end": 327
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 357,
+        "end": 365
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 377,
+        "end": 385
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 487,
+        "end": 512
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 587,
+        "end": 595
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 619,
+        "end": 628
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 711,
+        "end": 717
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 730,
+        "end": 739
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 915,
+        "end": 919
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 953,
+        "end": 962
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1055,
+        "end": 1060
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1073,
+        "end": 1080
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1086,
+        "end": 1097
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T10"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T9"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T4"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T6"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T9"
+    },
+    {
+      "id": "R16",
+      "pred": "natural_de",
+      "subj": "T16",
+      "obj": "T9"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T10"
+    },
+    {
+      "id": "R18",
+      "pred": "participante_em",
+      "subj": "T18",
+      "obj": "T7"
+    },
+    {
+      "id": "R19",
+      "pred": "participante_em",
+      "subj": "T19",
+      "obj": "T7"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T8"
+    }
+  ]
+}

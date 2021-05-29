@@ -1,0 +1,22 @@
+{
+  "text": "A quem foi conquistada Lisboa em 1147?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

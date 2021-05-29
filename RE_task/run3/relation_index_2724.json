@@ -1,0 +1,29 @@
+{
+  "text": " Panda elege os vírus mais curiosos de 2007. O laboratório anti-malware da Panda Security, revelou um relatório onde agrupa os \"mais curiosos\" exemplos de malware que emergiram no último semestre de 2007. -O código malicioso \"mais pontual\" detectado nos últimos tempos, revela a Panda, foi o Trojan Aifone.A. O nome não engana: é um malware associado ao iPhone da Apple | iPhone da Apple. Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores... -\"O worm mais travesso\" foi o RogueMario.A, destinado a entreteter os utilizadores enquanto os infecta. Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo Mario Bros de cada vez que infecta um computador. -A categoria Lost in Translation\" vai para worms como os MSNFunny.B, Mimbot.A ou MsnSend.A, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas. -O Voter.A é um worm com \"consciência cívica\", conta a Panda. Convida os cidadãos do Quénia a participarem em eleições e a votarem num dos candidatos. Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato de nove a nove segundos. -O Trojan LiveDeath.A tem associado a si a curiosidade. Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como \"Qual a sua cor favorita?\". O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á. Ainda que algumas destas ameaças lhe possam parecer interessantes, a Panda recomenda o afastamento face a estes exemplos de malware.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 75,
+        "end": 89
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

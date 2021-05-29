@@ -1,0 +1,22 @@
+{
+  "text": "Colocada: Quarta-feira Maio 04, 2005 23:36 Assunto: Como efectuar um Registo (tem vantagens)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 10,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 37,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

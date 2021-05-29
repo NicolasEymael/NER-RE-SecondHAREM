@@ -1,0 +1,30 @@
+{
+  "text": "A lei do Tabaco, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor às 00:00 do dia 01 de Janeiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 9,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 145,
+        "end": 153
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 154,
+        "end": 174
+      }
+    }
+  ],
+  "relations": []
+}

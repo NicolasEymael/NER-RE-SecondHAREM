@@ -1,0 +1,61 @@
+{
+  "text": "Dito isto, o Kuduro , inserido no âmbito da cultura Hip Hop , é uma dança de rua (ou uma street dance, para quem gosta americanismos) Como todos os outros gêneros assemelhados, o Funk carioca e o Kwaito (da África do Sul ) é a resposta africana avassaladora influência da indústria cultural de massa capitalista, cujo eixo como se sabe, localiza-se, desde o fim da segunda guerra mundial, na América do Norte .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 13,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 179,
+        "end": 183
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 196,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 207,
+        "end": 220
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 392,
+        "end": 408
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "pratica_se",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

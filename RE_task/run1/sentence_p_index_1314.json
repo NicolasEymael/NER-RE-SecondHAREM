@@ -1,0 +1,14 @@
+{
+  "text": "Que exército era comandado por Rommel?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

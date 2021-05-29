@@ -1,0 +1,14 @@
+{
+  "text": "A que partido pertence Mahfoudh Nahnah?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

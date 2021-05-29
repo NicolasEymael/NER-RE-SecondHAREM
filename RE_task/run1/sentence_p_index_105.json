@@ -1,0 +1,75 @@
+{
+  "text": "Também referido como \" Académica \", o clube de futebol profissional mais conhecido de Coimbra , de seu verdadeiro nome Associação Académica de Coimbra - Organismo Autónomo de Futebol ( AAC-OAF ), é considerado o herdeiro da secção de futebol da AAC (que se mantém na pratica amadora), mas é hoje um clube independente, cuja ligação com a AAC é cada vez mais ténue.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 23,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 86,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 119,
+        "end": 182
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 185,
+        "end": 192
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 245,
+        "end": 248
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 295
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 338,
+        "end": 341
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

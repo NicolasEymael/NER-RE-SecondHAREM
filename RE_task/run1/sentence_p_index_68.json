@@ -1,0 +1,59 @@
+{
+  "text": "FAZER A FESTA, LANÇAR OS FOGUETES E APANHAR AS CANAS: Ao que parece, Paulo Pinto Mascarenhas tem a convicção firme de que certa personagem que interpretei está a falar com ele. A generalidade dos malucos ouve a voz de Jesus Cristo ; PPM ouve a minha. Enfim, cada um tem a Alexandra Solnado que merece e, mesmo sendo ateu, parece-me mais do que justo que eu tenha pior sorte que o Messias .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 69,
+        "end": 92
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 218,
+        "end": 230
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 233,
+        "end": 236
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 272,
+        "end": 289
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 380,
+        "end": 387
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

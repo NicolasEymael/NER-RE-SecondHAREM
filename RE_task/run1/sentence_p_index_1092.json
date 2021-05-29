@@ -1,0 +1,59 @@
+{
+  "text": "Para você, leitor que não toma uísque, ter uma idéia do que isso significa, basta dizer que a menos de 150 metros dali, no Carlitos da Rua Mem de Sá, uma dose do mesmo Red Label, servido em dedal de moça, custa R$ 12,50. Uma diferença exorbitante de preço e quantidade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 94,
+        "end": 113
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 123,
+        "end": 131
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 135,
+        "end": 148
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 168,
+        "end": 177
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 211,
+        "end": 219
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quais são os membros fundadores da Star Alliance?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Qual a envergadura do Airbus 380? Quantos passageiros transportou no dia 4 de Setembro de 2006? Quanto custa cada unidade?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 22,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 66,
+        "end": 94
+      }
+    }
+  ],
+  "relations": []
+}

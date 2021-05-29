@@ -1,0 +1,22 @@
+{
+  "text": "(Este texto é dedicado ao professor e poeta Jorge Wanderley (em memória) que me \"incomodava\" com Borges e com a literatura.)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 44,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 97,
+        "end": 103
+      }
+    }
+  ],
+  "relations": []
+}

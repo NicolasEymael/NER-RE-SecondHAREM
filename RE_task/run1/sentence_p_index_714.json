@@ -1,0 +1,46 @@
+{
+  "text": "No seu discurso, o dirigente europeu disse concordar com a apreciação feita minutos antes por José Sócrates sobre os seis meses da presidência portuguesa, principalmente a assinatura do Tratado de Lisboa , novo relacionamento com o Brasil e a cimeira com África .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 76,
+        "end": 89
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 94,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 186,
+        "end": 203
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 232,
+        "end": 238
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 255,
+        "end": 261
+      }
+    }
+  ],
+  "relations": []
+}

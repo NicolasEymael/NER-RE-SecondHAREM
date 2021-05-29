@@ -1,0 +1,37 @@
+{
+  "text": "O que á AFNOR? Qual é o equivalente da AFNOR nos Estados Unidos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 63
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

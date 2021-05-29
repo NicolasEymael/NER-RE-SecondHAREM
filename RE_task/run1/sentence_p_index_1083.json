@@ -1,0 +1,37 @@
+{
+  "text": "No entanto, Christina Eisenberg, uma bióloga que estuda os lobos e trabalha para o Serviço Americano de Vida Selvagem e Aquática conta que parou de usar o sistema porque ele travava inesperadamente. \"Perdi os dados de um dia inteiro de trabalho, depois de me embrenhar milhas e milhas sobre terreno acidentado mato adentro\", lembra. \"Não foi nada agradável\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 83,
+        "end": 128
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 215,
+        "end": 232
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

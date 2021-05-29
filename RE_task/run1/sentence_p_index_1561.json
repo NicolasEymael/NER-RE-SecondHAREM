@@ -1,0 +1,14 @@
+{
+  "text": "Quem se suicidou a 8 de Abril de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

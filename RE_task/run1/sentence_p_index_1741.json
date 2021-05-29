@@ -1,0 +1,14 @@
+{
+  "text": "Que mar banha Braga?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

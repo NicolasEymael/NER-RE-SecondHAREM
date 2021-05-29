@@ -1,0 +1,30 @@
+{
+  "text": "Quem foi o 13º rei de Portugal | rei de Portugal?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 11,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 30
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 40,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

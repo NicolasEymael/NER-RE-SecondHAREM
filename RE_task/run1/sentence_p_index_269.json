@@ -1,0 +1,14 @@
+{
+  "text": ":: 2007-12-13",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 3,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

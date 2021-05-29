@@ -1,0 +1,14 @@
+{
+  "text": "Quem desenhou o processador Zilog Z80? De quantos bits era este processador?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 28,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Allan Frederick Jacobsen? Por que clube joga? Quanto é que ele pesa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

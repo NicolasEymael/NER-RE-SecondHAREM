@@ -1,0 +1,65 @@
+{
+  "text": "Transmissores: São artrópodes da classe Insecta, ordem Hemiptera, família Reduviidae e subfamília Triatominae. Sugam sangue (hematofágos) em todas as fases de seu ciclo evolutivo. Vivem em média entre um a dois anos, com evolução de ovo, ninfa e adulto, com grande capacidade de reprodução e, dependendo da espécie, com intensa resistência ao jejum.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 40,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 55,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 74,
+        "end": 84
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 98,
+        "end": 109
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 195,
+        "end": 215
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

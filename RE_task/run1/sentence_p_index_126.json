@@ -1,0 +1,22 @@
+{
+  "text": "\"Eu estou tentando mostrar minha idéia de como será a vida no século vinte e um . A tecnologia vai moldar a maneira como pensamos. Por exemplo, à medida que as coisas ficam mais caras, o espaço se torna uma coisa rarefeita. Posso ver isso já acontecendo em Londres . Logo, a tecnologia vai criar espaços de outras formas. Espaços virtuais. Espaços sonoros.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 59,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 257,
+        "end": 264
+      }
+    }
+  ],
+  "relations": []
+}

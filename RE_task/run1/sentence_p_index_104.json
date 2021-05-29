@@ -1,0 +1,157 @@
+{
+  "text": "A AAC alberga uma série de secções culturais e desportivas. Entre as secções culturais pontificam, o Centro de Estudos Cinematográficos ( CEC ) que realiza anualmente o Festival \" Caminhos do Cinema Português \" | Festival \"Caminhos do Cinema Português\" , a Rádio Universidade de Coimbra ( RUC ), a Secção de Jornalismo (que edita o jornal universitário \" A Cabra \"), a secção de fado, o Grupo de folclore e etnografia | Grupo de folclore e etnografia ( GEFAC ) e os grupos de teatro ( TEUC e CITAC ). As secções desportivas abrangem um vasto leque de desportos, tais como o futebol, andebol, basquetebol, rugby, conoagem, natação, voleibol, ténis, artes marciais e xadrez, entre outros. A \" Académica \" é assim o \"clube\" mais eclético do pais, uma vez que \"pratica\" o maior número de modalidades.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 101,
+        "end": 135
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 141
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 156,
+        "end": 166
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 180,
+        "end": 208
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 213,
+        "end": 252
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 257,
+        "end": 286
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 289,
+        "end": 292
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 298,
+        "end": 318
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 355,
+        "end": 362
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 387,
+        "end": 417
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 453,
+        "end": 458
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 485,
+        "end": 489
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 492,
+        "end": 497
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 691,
+        "end": 700
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "produzido_por",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "produzido_por",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "produzido_por",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

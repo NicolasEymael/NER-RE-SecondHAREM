@@ -1,0 +1,14 @@
+{
+  "text": "Quantos poços tiveram que ser encerrados após a ruptura de um oleoduto na Sibéria?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 81
+      }
+    }
+  ],
+  "relations": []
+}

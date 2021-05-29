@@ -1,0 +1,51 @@
+{
+  "text": "Também Vítor Pereira, um recém-licenciado em Medicina, 28 anos, de Matosinhos, usa a bicicleta como opção de transporte: «(...) a ida para o trabalho, sempre que possível uso a bicicleta ou o transporte público.»",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 45,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 55,
+        "end": 62
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 67,
+        "end": 77
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_por",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

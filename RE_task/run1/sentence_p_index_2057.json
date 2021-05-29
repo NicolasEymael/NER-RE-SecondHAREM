@@ -1,0 +1,14 @@
+{
+  "text": "Mencione um membro da Academia Francesa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

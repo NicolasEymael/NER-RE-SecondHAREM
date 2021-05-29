@@ -1,0 +1,29 @@
+{
+  "text": " Biografia de Fitacola. Os Fitacola são um grupo de amigos, que um dia , em 2003 em Coimbra , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam. O projecto foi continuando nesta toada de brincadeira e divertimento até 2005 , altura em que a banda fixou a formação actual. Os Fitacola caracterizam-se por um som jovem. Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco. As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos Fitacola para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal. Em dois anos a banda já superou a marca dos 75 concertos, entre os quais se destacam:. Cercal Rock 9ª edição. Festival Acção Directa 2005 ( Açores Ilha Terceira ). Recepção ao Caloiro 2005 (Covilhã) com Squeeze theeze pleeze e Fonzie. Queima das Fitas de Coimbra 2006 com Hands on Approach e Boss AC. Semana Académica da Universidade de Aveiro | Semana Académica da Universidade de Aveiro| Semana Académica da Universidade de Aveiro ( 2006 ) com Pluto e Expensive Soul. Semana Académica 2006 ( Castelo Branco ) com Tara Perdida. Hardclub ( V.N. Gaia .) - com Twenty Toon. Recepção ao Caloiro 2006 ( IPC ) Coimbra com Peste & Sida e Asher Lane ( Alemanha ). RockOff 2006 VI edição ( Cantanhede ). Março Jovem 2006 (C.M. Seixal) com Triplet. Vans/Eastpak Club Tour 2007 ( Almada ) com SK6 , Humble , Devil in Me , Tara Perdida e Strike Anywhere. Sesimbra Xtream Beach Fest 2007 ( Sesimbra ). Os Fitacola contam para já, apenas com um EP , edição de autor, com 6 musicas, intitulado « Rebobina e Pensa ». Neste nomento os Fitacola estiveram três semanas em estúdio a gravar aquele que será o seu primeiro álbum. Será composto por 12 temas e o seu lançamento está previsto para os primeiros meses de 2008 . Diogo Guitarra. Libelinha Baixo/coros. Besugo Guitarra. Xico Bateria/coros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1990,
+        "end": 1999
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 22
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

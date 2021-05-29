@@ -1,0 +1,22 @@
+{
+  "text": "Lisboa e Portimão deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 9,
+        "end": 17
+      }
+    }
+  ],
+  "relations": []
+}

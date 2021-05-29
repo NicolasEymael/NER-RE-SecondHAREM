@@ -1,0 +1,95 @@
+{
+  "text": "Na Vermelho, o Superflex apresenta o \"Free Beer Kit\", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop \"O Mundo da Cerveja\", com os especialistas Cilene Saorin e Arnaldo Ribeiro, no próximo dia 15 de dezembro, às 14 h.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 24
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 38,
+        "end": 51
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 186,
+        "end": 204
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 228,
+        "end": 241
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 244,
+        "end": 259
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 261,
+        "end": 290
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 292,
+        "end": 299
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "participante_em",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "data_de",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T8",
+      "obj": "T4"
+    }
+  ]
+}

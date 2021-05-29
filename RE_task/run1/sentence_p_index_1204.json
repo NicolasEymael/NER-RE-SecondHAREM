@@ -1,0 +1,30 @@
+{
+  "text": "Sinto-me em condições favoráveis para fazer esse exercício de crítica construtiva na reunião de alguns dados fragmentários que julgo importantes para uma visão aprofundada do nosso Houaiss, porque convivi - para pouca alegria e regozijo meu - porque convivi, repito, pouco com ele, se por convivência queremos aludir à proximidade da presença física. Permanentemente estava eu com Houaiss na sua produção lingüístico-filológica refletida e plasmada nos seus livros, nos seus artigos, nas suas conferências. E, como éramos joeiradores da mesma seara, percebia com mais nitidez as afinidades com suas fontes de formação e informações, percebendo suas ligações intelectuais mais próximas - percebendo ou supondo perceber -, ainda que se manifestassem, quase sempre, mais elaboradas e mais contundentes do que suas fontes originais, detectava matrizes que honravam os mestres e dignificavam o discípulo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 181,
+        "end": 188
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 351,
+        "end": 366
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 381,
+        "end": 388
+      }
+    }
+  ],
+  "relations": []
+}

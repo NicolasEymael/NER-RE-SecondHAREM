@@ -1,0 +1,14 @@
+{
+  "text": "Quantos habitantes tem Catmandu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

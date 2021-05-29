@@ -1,0 +1,22 @@
+{
+  "text": "Quantos quilómetros separam Kikwit de Kinshasa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

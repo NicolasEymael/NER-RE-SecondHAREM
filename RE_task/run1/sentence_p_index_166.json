@@ -1,0 +1,29 @@
+{
+  "text": "Ronaldo volta a treinar com bola no Milan",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 36,
+        "end": 41
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

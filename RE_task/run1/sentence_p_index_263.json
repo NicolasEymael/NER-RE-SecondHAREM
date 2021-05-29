@@ -1,0 +1,62 @@
+{
+  "text": "O Ministro da Defesa Nacional , Nuno Severiano Teixeira , desloca-se ao Afeganistão , no dia 29 de Dezembro , para efectuar uma visita às Forças Nacionais Destacadas em Cabul | Forças Nacionais Destacadas em Cabul .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 86,
+        "end": 107
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 174
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 177,
+        "end": 204
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 208,
+        "end": 213
+      }
+    }
+  ],
+  "relations": []
+}

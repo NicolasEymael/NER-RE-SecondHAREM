@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que Cleópatra se suicidou?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano morreu o Capitão América?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

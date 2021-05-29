@@ -1,0 +1,14 @@
+{
+  "text": "O que é \"Margarita e o Mestre\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 9,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

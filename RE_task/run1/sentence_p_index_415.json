@@ -1,0 +1,129 @@
+{
+  "text": "A imagem recorrente que vem à cabeça é a da baiana com badulaques na cabeça sempre sorridente - ela se apresentava com nada menos que 20 quilos sobre o corpo, entre roupas e acessórios, e uma plataforma de 15 cm de altura. Carmen Miranda ( 1909-1955 ) \"nasceu personagem, era uma artista\" , como diz o jornalista e escritor Ruy Castro , que há pouco lançou uma biografia sobre a estrela. Apesar do enorme sucesso conquistado a partir do fim da década de 1930 nos EUA , para Ruy Castro a fase da artista no Brasil é a que precisa ser \"urgentemente conhecida pelo público brasileiro\". Ele, que fez consultoria dos textos presentes na mostra, vai realizar uma palestra gratuita na sexta-feira, , às 19h30 , sobre a vida e a obra da artista na Biblioteca Victor Civita , no Memorial .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 134,
+        "end": 143
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 206,
+        "end": 211
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 223,
+        "end": 237
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 240,
+        "end": 249
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 324,
+        "end": 334
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 425,
+        "end": 458
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 463,
+        "end": 466
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 474,
+        "end": 484
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 506,
+        "end": 512
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 675,
+        "end": 689
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 693,
+        "end": 701
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 740,
+        "end": 764
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 770,
+        "end": 778
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T12"
+    }
+  ]
+}

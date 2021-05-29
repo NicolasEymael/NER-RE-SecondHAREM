@@ -1,0 +1,29 @@
+{
+  "text": "Em que zona de Espanha nasce o rio Douro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 40
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

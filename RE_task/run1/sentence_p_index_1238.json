@@ -1,0 +1,54 @@
+{
+  "text": "Como Oiticica, Houaiss não perfilhou a tese populista para quem, no dizer de Sílvio, \"a língua errada do povo\" era a forma autêntica da fala brasileira. Nisto, Oiticica enquanto anarquista, e Houaiss enquanto socialista, tocam numa e mesma tecla. Como bem resumiu Sílvio Elia, «Pode, por conseguinte, o homem, ser racional e livre que é, melhorar, aperfeiçoar o seu comportamento por um processo chamado \"educação\" (...) A escola, no que tange ao ensino da língua portuguesa, ministrará, portanto, ao aluno os conhecimentos necessários para o domínio satisfatório do padrão culto do idioma pátrio».8",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 5,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 160,
+        "end": 168
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 192,
+        "end": 199
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 264,
+        "end": 275
+      }
+    }
+  ],
+  "relations": []
+}

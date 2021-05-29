@@ -1,0 +1,46 @@
+{
+  "text": "R: A luta pela institucionalização dos órgãos de Advocacia Pública constitui uma das principais bandeiras do Instituto Brasileiro de Advocacia Pública e está, na realidade, presente em praticamente todas as manifestações públicas do Instituto Brasileiro de Advocacia Pública. O editorial do Boletim Advocacia Pública n. 1, intitulado \"Institucionalização dos Órgãos de Advocacia Pública\", oferece as diretrizes básicas de nossa linha de atuação.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 49,
+        "end": 66
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 109,
+        "end": 150
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 233,
+        "end": 274
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 291,
+        "end": 321
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 335,
+        "end": 386
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "O estudo do grupo de Kawaoka está na edição de hoje da revista científica \" Science \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 44,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 76,
+        "end": 83
+      }
+    }
+  ],
+  "relations": []
+}

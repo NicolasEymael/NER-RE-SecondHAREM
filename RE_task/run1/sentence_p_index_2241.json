@@ -1,0 +1,54 @@
+{
+  "text": "No âmbito judicial, o IBAP requereu o seu ingresso na qualidade de assistente, em ação civil pública ajuizada pelo Ministério Público Federal, na Justiça Federal de São Paulo | Justiça Federal de São Paulo, na defesa das prerrogativas do Procurador da Fazenda Nacional.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 115,
+        "end": 141
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 146,
+        "end": 174
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 177,
+        "end": 192
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 205
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 238,
+        "end": 268
+      }
+    }
+  ],
+  "relations": []
+}

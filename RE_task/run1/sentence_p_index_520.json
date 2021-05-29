@@ -1,0 +1,38 @@
+{
+  "text": "« Call Girl » é o sétimo filme de António-Pedro Vasconcelos , 68 anos , e o último de produção nacional a estrear este ano nas salas de cinema.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 34,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 62,
+        "end": 69
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 114,
+        "end": 122
+      }
+    }
+  ],
+  "relations": []
+}

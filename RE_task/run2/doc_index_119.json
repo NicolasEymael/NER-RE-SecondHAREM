@@ -1,0 +1,118 @@
+{
+  "text": " \"Se a música comtemporânea pôde ser considerada incompreensível quanto ao seu código de leitura, hoje já não é a música que se tornou incompreensível mas sim o público.\". Metzger, Heins-Klaus.cit.,p.2. posted by DGP @ 4:29 AM. 2 Comments:. At 1:55 PM, César Viana said... Será que hoje ainda podemos falar de \"a\" música contemporânea? Há uma diversidade de manifestações que se movem nesta área, desde as mais exigentes às mais oportunisticamente simplistas, todas sobre essa mesma capa de \"música contemporânea\". At 2:20 AM, DGP said... Estava a reler um livro - Revoluções Musicais, a música contemporânea depois de 1945 | Revoluções Musicais, a música contemporânea depois de 1945. Pareceu-me infeliz a frase de Heinz-Klaus (\"já não é a música que se tornou incompreensível mas sim o público). No fundo aquilo de que discordo é o facto de neste caso o criador estar de fora do grupo colectivo. É claro que é mais apetecível e mais fácil, mas depois falta-lhe amor. (Como tão bem defeniu no post em que falava de Alvaro Cunhal). De qualquer maneira e infelizmente, não conheço música feita nos últimos anos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 98,
+        "end": 102
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 172,
+        "end": 192
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 213,
+        "end": 216
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 219,
+        "end": 226
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 228,
+        "end": 229
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 241,
+        "end": 251
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 253,
+        "end": 264
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 282,
+        "end": 286
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 515,
+        "end": 525
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 527,
+        "end": 530
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 565,
+        "end": 623
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 716,
+        "end": 727
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 1016,
+        "end": 1029
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 1093,
+        "end": 1109
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Como são os peixes-espada? Qual é o recorde da IGFA para este tipo de peixe?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 47,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

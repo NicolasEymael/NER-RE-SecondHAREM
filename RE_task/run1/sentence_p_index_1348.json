@@ -1,0 +1,14 @@
+{
+  "text": "Qual a capacidade de carga do Antonov An-124?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 30,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Estimativas da agência davam conta de que mais de 40 pedaços, com até 120 kg , poderiam resistir ao atrito com o ar e chegar ao solo. A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a Agência Espacial Brasileira , estavam prontas para qualquer contingência.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 42,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 66,
+        "end": 76
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 246,
+        "end": 273
+      }
+    }
+  ],
+  "relations": []
+}

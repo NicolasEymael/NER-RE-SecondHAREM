@@ -1,0 +1,667 @@
+{
+  "text": " Mosteiro de Santa Cruz. A Igreja de Santa Cruz de Coimbra | Igreja de Santa Cruz de Coimbra foi fundada em 1131 por D. Telo ( São Teotónio ) e 11 outros religiosos, que adotaram a regra dos Cónegos Regrantes de Santo Agostinho . A nova Igreja recebeu muitos privilégios papais e doações dos primeiros reis de Portugal | reis de Portugal , tornando-se a mais importante casa monástica do reino. Sua escola foi uma das melhores instituições de ensino do Portugal medieval , tendo uma grande biblioteca (agora na Biblioteca Pública Municipal do Porto | Biblioteca Pública Municipal do Porto ) e um activo scriptorium. Nos tempos de D. Afonso Henriques , primeiro monarca português, o scriptorium de Santa Cruz foi usado como máquina de consolidação do poder real. A importância da Igreja é evidenciada pelo fato de que D. Afonso Henriques e seu sucessor, D. Sancho I , foram sepultados lá. Na Idade Média , o mais famoso estudante da Igreja de Santa Cruz foi Fernando Martins de Bulhões , o futuro Santo António de Lisboa | Santo António de Lisboa (ou Santo António de Pádua | Santo António de Pádua ). Em 1220 , o religioso assiste à chegada à Igreja dos restos mortais de cinco frades franciscanos martirizados no Marrocos (os Mártires do Marrocos | Mártires do Marrocos ), e decide fazer-se missionário e partir de Portugal . No início do século XVI , o rei D. Manuel I ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro. Nessa época são transladados os restos de Afonso Henriques e Sancho I dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino. Entre 1530 e 1577 funcionou uma imprensa no claustro. É possível que o poeta Luís de Camões tenha estudado em Santa Cruz , uma vez que um parente seu ( D. Bento de Camões ) era prior do mosteiro na época , e há evidências em sua poesia de uma estadia em Coimbra .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 92
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 105,
+        "end": 112
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 117,
+        "end": 124
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 127,
+        "end": 139
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 144,
+        "end": 146
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 191,
+        "end": 227
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 237,
+        "end": 243
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 302,
+        "end": 318
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 329,
+        "end": 337
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 453,
+        "end": 461
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 511,
+        "end": 548
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 551,
+        "end": 579
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 583,
+        "end": 588
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 616,
+        "end": 626
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 630,
+        "end": 649
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 697,
+        "end": 707
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 779,
+        "end": 785
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 817,
+        "end": 836
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 853,
+        "end": 864
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 891,
+        "end": 902
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 932,
+        "end": 952
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 957,
+        "end": 984
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 996,
+        "end": 1019
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1022,
+        "end": 1035
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1039,
+        "end": 1045
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1050,
+        "end": 1072
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1075,
+        "end": 1088
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1092,
+        "end": 1097
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 1101,
+        "end": 1108
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1143,
+        "end": 1149
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1214,
+        "end": 1222
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1227,
+        "end": 1247
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1250,
+        "end": 1258
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1262,
+        "end": 1270
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "local",
+      "span": {
+        "begin": 1316,
+        "end": 1324
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 1327,
+        "end": 1350
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 1355,
+        "end": 1370
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 1449,
+        "end": 1460
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "individuo",
+      "span": {
+        "begin": 1491,
+        "end": 1507
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 1510,
+        "end": 1518
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "tempo",
+      "span": {
+        "begin": 1599,
+        "end": 1616
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "individuo",
+      "span": {
+        "begin": 1676,
+        "end": 1690
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 1709,
+        "end": 1719
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "individuo",
+      "span": {
+        "begin": 1751,
+        "end": 1769
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 1853,
+        "end": 1860
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "praticado_por",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T4"
+    },
+    {
+      "id": "R10",
+      "pred": "outrarel",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R11",
+      "pred": "outrarel",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T11"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T18",
+      "obj": "T12"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T2"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T2"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T2"
+    },
+    {
+      "id": "R17",
+      "pred": "localizado_em",
+      "subj": "T20",
+      "obj": "T2"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T18"
+    },
+    {
+      "id": "R19",
+      "pred": "relacao_familiar",
+      "subj": "T22",
+      "obj": "T21"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T11"
+    },
+    {
+      "id": "R21",
+      "pred": "vinculo_inst",
+      "subj": "T22",
+      "obj": "T12"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T19"
+    },
+    {
+      "id": "R23",
+      "pred": "localizado_em",
+      "subj": "T24",
+      "obj": "T19"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T25"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T28",
+      "obj": "T12"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T26"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T10"
+    },
+    {
+      "id": "R28",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T34"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T12"
+    },
+    {
+      "id": "R30",
+      "pred": "sede_de",
+      "subj": "T38",
+      "obj": "T12"
+    },
+    {
+      "id": "R31",
+      "pred": "outrarel",
+      "subj": "T38",
+      "obj": "T13"
+    },
+    {
+      "id": "R32",
+      "pred": "inclui",
+      "subj": "T38",
+      "obj": "T4"
+    },
+    {
+      "id": "R33",
+      "pred": "inclui",
+      "subj": "T38",
+      "obj": "T14"
+    },
+    {
+      "id": "R34",
+      "pred": "inclui",
+      "subj": "T38",
+      "obj": "T16"
+    },
+    {
+      "id": "R35",
+      "pred": "inclui",
+      "subj": "T38",
+      "obj": "T33"
+    },
+    {
+      "id": "R36",
+      "pred": "vinculo_inst",
+      "subj": "T40",
+      "obj": "T24"
+    },
+    {
+      "id": "R37",
+      "pred": "vinculo_inst",
+      "subj": "T40",
+      "obj": "T12"
+    },
+    {
+      "id": "R38",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T39"
+    },
+    {
+      "id": "R39",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T21"
+    },
+    {
+      "id": "R40",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T22"
+    },
+    {
+      "id": "R41",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T19"
+    },
+    {
+      "id": "R42",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T19"
+    },
+    {
+      "id": "R43",
+      "pred": "relacao_familiar",
+      "subj": "T47",
+      "obj": "T45"
+    },
+    {
+      "id": "R44",
+      "pred": "sede_de",
+      "subj": "T48",
+      "obj": "T46"
+    },
+    {
+      "id": "R45",
+      "pred": "inclui",
+      "subj": "T48",
+      "obj": "T46"
+    },
+    {
+      "id": "R46",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T4"
+    }
+  ]
+}

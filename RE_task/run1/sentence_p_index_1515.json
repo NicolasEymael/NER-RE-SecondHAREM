@@ -1,0 +1,30 @@
+{
+  "text": "Que profissão praticou Gerhard Schröder e 1978 a 1990? Em que encontro ele foi representado por Chirac? Como se chama a quarta mulher dele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 102
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Em que ano é que o Real Zaragoza ganhou a Taça das Taças?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 42,
+        "end": 56
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

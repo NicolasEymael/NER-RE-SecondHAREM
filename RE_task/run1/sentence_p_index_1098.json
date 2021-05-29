@@ -1,0 +1,75 @@
+{
+  "text": "- Bar Barata Ribeiro, na esquina das Ruas Barata Ribeiro e Barão de Ipanema, em Copacabana: Botequinho escondido no meio do caos copacabanense, mas que tem um coração de ouro e uma blea prateleira de uísques.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 75
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 80,
+        "end": 90
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

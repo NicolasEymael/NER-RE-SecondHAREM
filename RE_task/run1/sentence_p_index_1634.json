@@ -1,0 +1,22 @@
+{
+  "text": "Como se chama o presidente das Filipinas | presidente das Filipinas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 67
+      }
+    }
+  ],
+  "relations": []
+}

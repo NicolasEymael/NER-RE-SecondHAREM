@@ -1,0 +1,38 @@
+{
+  "text": "Mas a imagem é tão forte quanto: sobre o verdinho do BankBoston , escorria uma gosmenta tinta vermelha impregnada, difícil de limpar. \"Só outro, algum transeunte pode ter balbuciado na ida para o ponto de ônibus de mais uma segunda-feira , dessa vez surpreendente e politizada. A mensagem é assim: \"Estamos devolvendo simbolicamente o sangue derramado às empresas que representam entre nós o predomínio do Império , as quais serão consideradas cúmplices deste projeto macabro até que tomem publicamente posição contra (1). E veio de um coletivo organizado e anônimo de \"cidadãos de boa índole indignados com essa nova fase do imperialismo, com o nome de \" Operação Sangue Quente. Gente pacífica, mas não passiva .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 53,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 212,
+        "end": 237
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 406,
+        "end": 413
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 656,
+        "end": 711
+      }
+    }
+  ],
+  "relations": []
+}

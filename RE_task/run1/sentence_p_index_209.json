@@ -1,0 +1,110 @@
+{
+  "text": "O Arquivo Histórico preserva, ainda, importante coleção referente ao compositor brasileiro Ântonio Carlos Gomes , que inclui o primeiro volume da partitura original de um de seus primeiros trabalhos, a ópera \" Joana de Flandres \". Formada a partir de diversas doações, a coleção reúne 216 documentos, entre desenhos de cenários, cartas, fotografias, partituras originais e libretos de algumas obras como \" Condor \", \" Morena \" e \" Colombo \", preciosos para uma melhor compreensão do trabalho de Carlos Gomes , cuja obra de maior sucesso, \" O Guarani \", estreou no Teatro Scala de Milão | Teatro Scala de Milão em 1870 , sendo encenada em diversos países.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 91,
+        "end": 111
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 210,
+        "end": 227
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 285,
+        "end": 288
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 406,
+        "end": 412
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 418,
+        "end": 424
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 431,
+        "end": 438
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 495,
+        "end": 507
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 540,
+        "end": 549
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 564,
+        "end": 576
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 580,
+        "end": 585
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 588,
+        "end": 609
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 610,
+        "end": 617
+      }
+    }
+  ],
+  "relations": []
+}

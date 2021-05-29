@@ -1,0 +1,14 @@
+{
+  "text": "O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 100,
+        "end": 109
+      }
+    }
+  ],
+  "relations": []
+}

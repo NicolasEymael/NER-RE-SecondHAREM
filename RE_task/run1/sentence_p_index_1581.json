@@ -1,0 +1,14 @@
+{
+  "text": "Que dois bancos se fundiram para formar o banco Tokyo-Mitsubishi?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 64
+      }
+    }
+  ],
+  "relations": []
+}

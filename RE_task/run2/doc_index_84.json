@@ -1,0 +1,493 @@
+{
+  "text": " Tour : Procura-se candidato. PAULINHO EM PROVA DESFALCADA DE VEDETAS. Pelo segundo ano consecutivo e após a era de Lance Armstrong , o Tour está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão Jan Ullrich e do italiano Ivan Basso , e até de outro transalpino, Alessandro Petacchi , a « Grand Boucle » inicia-se amanhã em Londres sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 | 1. Ainda está por definir quem será declarado vencedor de 2006 , depois do caso de doping de Floyd Landis . Daí a organização ter decidido suspender os dorsais entre o 1 | 1 e o 1 | 1 , começando o Tour no 11 . Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de Armstrong , que se retirou após a sétima vitória em 2005 --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória. São eles o cazaque Alexandre Vinokourov ( Astana ), os espanhóis Alberto Contador ( Discovery ) e Alejandro Valverde ( Caisse ), e o norte-americano Levy Leipheimer ( Discovery ). Nós, portugueses, teremos em atenção a estreia de Sérgio Paulinho . Cerca de 5 mil polícias foram destacados para estarem de serviço em Londres por ocasião da passagem do Tour por Inglaterra . A segurança foi reforçada depois dos atentados terroristas verificados a semana passada na capital inglesa e em Glasgow . E, para além do Tour , há ainda o Torneio de Ténis de Wimbledon | Torneio de Ténis de Wimbledon , e o GP de F1 de Silverstone | GP de F1 de Silverstone .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 116,
+        "end": 131
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 136,
+        "end": 140
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 235,
+        "end": 246
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 261,
+        "end": 271
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 302,
+        "end": 321
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 328,
+        "end": 340
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 353,
+        "end": 359
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 363,
+        "end": 370
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 485,
+        "end": 486
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 544,
+        "end": 551
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 582,
+        "end": 594
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 657,
+        "end": 658
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 661,
+        "end": 662
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 687,
+        "end": 691
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 695,
+        "end": 697
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 814,
+        "end": 823
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 863,
+        "end": 870
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 975,
+        "end": 995
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 998,
+        "end": 1004
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1021,
+        "end": 1037
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1040,
+        "end": 1049
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1054,
+        "end": 1072
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1075,
+        "end": 1081
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1105,
+        "end": 1120
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1123,
+        "end": 1132
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1186,
+        "end": 1201
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "valor",
+      "span": {
+        "begin": 1204,
+        "end": 1218
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1272,
+        "end": 1279
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1307,
+        "end": 1311
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1316,
+        "end": 1326
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 1400,
+        "end": 1416
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1441,
+        "end": 1448
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1467,
+        "end": 1471
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1485,
+        "end": 1514
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1517,
+        "end": 1533
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1537,
+        "end": 1546
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1553,
+        "end": 1576
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1579,
+        "end": 1587
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1591,
+        "end": 1602
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "participante_em",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "inclui",
+      "subj": "T22",
+      "obj": "T21"
+    },
+    {
+      "id": "R9",
+      "pred": "participante_em",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "inclui",
+      "subj": "T24",
+      "obj": "T23"
+    },
+    {
+      "id": "R11",
+      "pred": "participante_em",
+      "subj": "T25",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T26",
+      "obj": "T25"
+    },
+    {
+      "id": "R13",
+      "pred": "participante_em",
+      "subj": "T27",
+      "obj": "T1"
+    },
+    {
+      "id": "R14",
+      "pred": "inclui",
+      "subj": "T28",
+      "obj": "T27"
+    },
+    {
+      "id": "R15",
+      "pred": "participante_em",
+      "subj": "T29",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T11"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T5"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T5"
+    },
+    {
+      "id": "R19",
+      "pred": "inclui",
+      "subj": "T33",
+      "obj": "T11"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T33"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T1"
+    },
+    {
+      "id": "R22",
+      "pred": "localizado_em",
+      "subj": "T37",
+      "obj": "T31"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T39",
+      "obj": "T31"
+    },
+    {
+      "id": "R24",
+      "pred": "localizado_em",
+      "subj": "T40",
+      "obj": "T33"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T42",
+      "obj": "T33"
+    }
+  ]
+}

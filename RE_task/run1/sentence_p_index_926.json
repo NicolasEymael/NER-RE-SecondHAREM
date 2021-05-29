@@ -1,0 +1,97 @@
+{
+  "text": "Celebração ao Dia de Reis | ao Dia de Reis , evento que acontece sempre dia 06 de janeiro , estaremos antecipando-o um pouco, para o dia 05 de janeiro de 2008 , e com motivos de sobra para comemorá-lo: Mestre Grimário acaba de receber incentivo para finalizar seu CD CAVALO-MARINHO BOI PINTADO , o qual tem a participação especial das crianças do Ponto de Cultura do MOVIMENTO PRÓ-CRIANÇA através da Lei Rouanet !!!!!!!!!!!!!!!!!!!!!!!!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 11,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 31,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 72,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 126,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 202,
+        "end": 217
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 267,
+        "end": 293
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 347,
+        "end": 363
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 367,
+        "end": 388
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 400,
+        "end": 411
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

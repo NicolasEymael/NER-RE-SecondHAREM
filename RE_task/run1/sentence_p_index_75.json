@@ -1,0 +1,62 @@
+{
+  "text": "Uma nota final: estou muito habituado às críticas do PPM , que têm, aliás, sempre o mesmo sentido. Normalmente, comento-as aqui mesmo. Na televisão e na imprensa, costumo satirizar gente que a generalidade do público conhece, e que diz coisas ridículas. Enquanto o PPM continuar a preencher apenas um destes requisitos, pela minha parte também continuarei a responder-lhe apenas aqui no blog. Por isso, e para evitar confusões futuras, gostava de sublinhar o seguinte: se, um dia, eu interpretar uma personagem megalómana, moralista e que mente para fazer valer os seus argumentos, o mais provável é que eu não esteja a satirizar o PPM . Há mais Marias na Terra . RAP",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 53,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 265,
+        "end": 268
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 473,
+        "end": 479
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 632,
+        "end": 635
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 646,
+        "end": 652
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 656,
+        "end": 661
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 664,
+        "end": 667
+      }
+    }
+  ],
+  "relations": []
+}

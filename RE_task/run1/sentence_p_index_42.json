@@ -1,0 +1,38 @@
+{
+  "text": "Não, ela era uma senhora que tinha vindo da Alemanha só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia nessa altura , na Avenida , perto da Praça da Alegria . Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 175,
+        "end": 187
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 193,
+        "end": 200
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 212,
+        "end": 228
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a área do Oceano Pacífico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

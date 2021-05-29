@@ -1,0 +1,14 @@
+{
+  "text": "Segundo a responsável, um dos principais objectivos da FASCINIO é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, \"muito ligados\" à investigação de vanguarda e pouco reconhecidos pelo grande público.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 55,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

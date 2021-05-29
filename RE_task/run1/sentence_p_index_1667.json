@@ -1,0 +1,79 @@
+{
+  "text": "O que é que Alister McRae faz? De onde é que ele é? Que idade é que ele tinha em 1995? Em que tipo de carro é que Alister McRae competiu no Rali dos Mil Lagos, na Finlândia, em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 78,
+        "end": 85
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 114,
+        "end": 127
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 140,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 163,
+        "end": 172
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 181
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

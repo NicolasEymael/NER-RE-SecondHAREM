@@ -1,0 +1,37 @@
+{
+  "text": "Como se chamava o presidente do Burundi | presidente do Burundi que morreu em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 56,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 75,
+        "end": 82
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_morte",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

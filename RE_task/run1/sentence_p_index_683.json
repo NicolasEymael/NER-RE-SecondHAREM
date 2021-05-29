@@ -1,0 +1,97 @@
+{
+  "text": "D. Afonso simpatiza com Pêro também pelo seu domínio de línguas, nomeadamente a língua árabe e D. Juan cede a el-Rei os serviços do português. É assim que Pêro da Covilhã , aos seus 24 anos , é admitido como moço de esporas de D. Afonso V . Passado pouco tempo , decide el-Rei elevá-lo a escudeiro, com direito a armas e cavalo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 28
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 95,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 110,
+        "end": 116
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 155,
+        "end": 170
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 182,
+        "end": 189
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 227,
+        "end": 238
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 241,
+        "end": 260
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 270,
+        "end": 276
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    }
+  ]
+}

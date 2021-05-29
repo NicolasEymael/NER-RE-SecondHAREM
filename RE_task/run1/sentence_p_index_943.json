@@ -1,0 +1,38 @@
+{
+  "text": "O documento, será apresentado em março de 2008 e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas. Ao todo, foram mais de 1,4 mil questionários aplicados em 325 comunidades, o equivalente a 43 etnias visitadas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 142,
+        "end": 157
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 185,
+        "end": 188
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 218,
+        "end": 220
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Que farda tinha vestida o Rei quando apareceu na televisão após o golpe de estado de Tejero?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 85,
+        "end": 91
+      }
+    }
+  ],
+  "relations": []
+}

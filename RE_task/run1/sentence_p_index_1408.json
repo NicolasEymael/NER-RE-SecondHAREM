@@ -1,0 +1,14 @@
+{
+  "text": "Que avião supersónico teve os seus últimos voos comerciais em Maio de 2003? Quantos passageiros conseguia transportar esse modelo de avião?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 59,
+        "end": 74
+      }
+    }
+  ],
+  "relations": []
+}

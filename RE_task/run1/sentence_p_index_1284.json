@@ -1,0 +1,14 @@
+{
+  "text": "Em que país fica a Muralha de Adriano?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Entre os mais antigos, o maior crescimento foi registado pelo Metro que passou a distribuir mais 22.600 exemplares do que fazia no ano passado, atingindo este ano os 180 mil.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 62,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 92,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 128,
+        "end": 142
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 154,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    }
+  ],
+  "relations": []
+}

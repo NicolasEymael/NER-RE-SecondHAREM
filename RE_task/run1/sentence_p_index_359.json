@@ -1,0 +1,419 @@
+{
+  "text": "Na noite de Acção de Graças | Na noite de Acção de Graças apresento-vos um blogue escrito dos EUA , da cidade onde eu várias vezes passei este feriado. Evidentemente, é mais um blogue de um LEFTista (embora neste caso não vá insistir muito no aspecto LEFT porque o rapaz nem é muito disso...). O autor, para além de um velho amigo - conheço-o desde caloiro -, é uma pessoa interessantíssima, e tem com certeza uma perspectiva muito sua a acrescentar ao assunto para mim fascinante das relações entre a Europa e a América , o Velho e o Novo Continente . Antes de eu ir para os EUA falava-me entusiasmadíssimo do american way of life e de como era boa a comida nas universidades americanas - a escolha de pizzas! os hot-dogs! os hamburgers! - sem se aperceber de como me estava a deixar horrorizado. Depois da LEFT o Pedro veio para Paris fazer Teoria de Cordas . Na Cité Universitaire arranjou maneira de não ficar muito tempo na Residência André de Gouveia , indo antes para uma casa que era a cara dele - a Deutsche de la Meurthe , a mais antiga, a mais clássica, aquela onde Simone de Beauvoir ia visitar o estudante Jean-Paul Sartre . Quando eu cheguei, deu-me a conhecer a área de Montparnasse e do Port Royal . Nessa altura era um parisiense com uma costela americana, português q.b. e vagamente judeu. Agora é um americano parisiense, um verdadeiro mangeur de fromage. Pôs a Europa e a Teoria das Cordas de parte e foi para a melhor cidade da América do Norte mostrar que um físico matemático é pau para toda a obra - nem que seja para mostrar que a Biologia Celular é só \"quebra de simetria\" e que não há nada como o outono na Nova Inglaterra . Que rica prenda de Thanksgiving | de Thanksgiving . Bem vindo, Pedro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 42,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 94,
+        "end": 97
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 190,
+        "end": 194
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 502,
+        "end": 508
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 513,
+        "end": 520
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 525,
+        "end": 530
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 535,
+        "end": 550
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 576,
+        "end": 579
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 808,
+        "end": 812
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 815,
+        "end": 820
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 831,
+        "end": 836
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 843,
+        "end": 859
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 865,
+        "end": 883
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 914,
+        "end": 925
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 929,
+        "end": 956
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 1008,
+        "end": 1030
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 1077,
+        "end": 1095
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 1119,
+        "end": 1135
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 1185,
+        "end": 1197
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 1203,
+        "end": 1213
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 1216,
+        "end": 1228
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1381,
+        "end": 1387
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1392,
+        "end": 1409
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1449,
+        "end": 1465
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1556,
+        "end": 1572
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 1622,
+        "end": 1630
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1634,
+        "end": 1649
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 1668,
+        "end": 1683
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1689,
+        "end": 1701
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1715,
+        "end": 1720
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R5",
+      "pred": "praticado_por",
+      "subj": "T14",
+      "obj": "T12"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R7",
+      "pred": "residencia_de",
+      "subj": "T17",
+      "obj": "T12"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T17",
+      "obj": "T13"
+    },
+    {
+      "id": "R9",
+      "pred": "residencia_de",
+      "subj": "T18",
+      "obj": "T12"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T13"
+    },
+    {
+      "id": "R11",
+      "pred": "natural_de",
+      "subj": "T19",
+      "obj": "T13"
+    },
+    {
+      "id": "R12",
+      "pred": "natural_de",
+      "subj": "T20",
+      "obj": "T13"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T13"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T13"
+    },
+    {
+      "id": "R15",
+      "pred": "inclui",
+      "subj": "T24",
+      "obj": "T13"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T8"
+    },
+    {
+      "id": "R17",
+      "pred": "sede_de",
+      "subj": "T24",
+      "obj": "T6"
+    },
+    {
+      "id": "R18",
+      "pred": "natural_de",
+      "subj": "T24",
+      "obj": "T6"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T14"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T7"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T9"
+    },
+    {
+      "id": "R22",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T3"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T28",
+      "obj": "T3"
+    },
+    {
+      "id": "R24",
+      "pred": "residencia_de",
+      "subj": "T29",
+      "obj": "T12"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T2"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T12"
+    }
+  ]
+}

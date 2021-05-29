@@ -1,0 +1,46 @@
+{
+  "text": "Oferece, ainda, o Centro de Referência Luso-Brasileiro , ligado ao Arquivo Histórico e criado em 1998 , no âmbito das comemorações dos 500 anos da chegada dos portugueses ao Brasil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 67,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 94,
+        "end": 101
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 135,
+        "end": 143
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 174,
+        "end": 180
+      }
+    }
+  ],
+  "relations": []
+}

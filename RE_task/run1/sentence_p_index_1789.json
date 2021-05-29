@@ -1,0 +1,14 @@
+{
+  "text": "O que é a Granja do Torto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

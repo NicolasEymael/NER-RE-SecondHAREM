@@ -1,0 +1,29 @@
+{
+  "text": "Das agências de notícias Dubai , Emirados Árabes",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 48
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

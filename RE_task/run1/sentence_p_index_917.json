@@ -1,0 +1,125 @@
+{
+  "text": "Num imenso galpão com estruturas metálicas, acontece todo ano um evento que prima pela liberdade. É o Fórum Internacional Software Livre , o fisl, que chega a sua oitava edição cada vez maior. E mais diversificado. Diferentes tipos circulam pelo local em harmonia. E não haveria por que ser diferente. Todos estão lá por um motivo em comum: o uso de ferramentas livres, baseadas na colaboração. E dentro desse evento, ocorre outra manifestação de liberdade: o Criei, Tive Como! , Festival Multimídia de Cultura Livre do Brasil | Festival Multimídia de Cultura Livre do Brasil , que acontece pela segunda vez . Se no ano passado o festival tinha um estande acanhado, num dos cantos do Centro de Eventos da Fiergs | Centro de Eventos da Fiergs , em Porto Alegre , agora as coisas foram bem diferentes. E Como!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 53,
+        "end": 61
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 102,
+        "end": 136
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 460,
+        "end": 477
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 480,
+        "end": 526
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 529,
+        "end": 565
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 569,
+        "end": 575
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 613,
+        "end": 627
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 684,
+        "end": 711
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 714,
+        "end": 731
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 735,
+        "end": 741
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 747,
+        "end": 759
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T9",
+      "obj": "T4"
+    }
+  ]
+}

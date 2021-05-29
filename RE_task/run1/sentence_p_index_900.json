@@ -1,0 +1,111 @@
+{
+  "text": "É disso mesmo, de diálogo e reflexão que se falou um tantão da abertura ao encerramento do encontro. Fabio diz que foi assim no monólogo Madrugada, me Proteja | Madrugada, me Proteja, também de Cuti, interpretado no sábado, 15, pelo ator Sílvio Ramão; na única atração musical do Encontro, o show Epahei!, da cantora e compositora Karine Cunha, na quinta, 13, de quem nem vou falar muito porque vira prosa de fã e não tô aqui pra torrar vocês com meu gostinho particular e sim pra reportar as coisas como foram vistas pelo Fabio, né?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 101,
+        "end": 106
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 137,
+        "end": 158
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 194,
+        "end": 198
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 213,
+        "end": 226
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 238,
+        "end": 250
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 280,
+        "end": 288
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 297,
+        "end": 304
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 331,
+        "end": 343
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 345,
+        "end": 358
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 523,
+        "end": 528
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "participante_em",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem realizou «O Dia da Besta»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

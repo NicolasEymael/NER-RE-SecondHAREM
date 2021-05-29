@@ -1,0 +1,14 @@
+{
+  "text": "A que se dedica a Industrial Light and Magic?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

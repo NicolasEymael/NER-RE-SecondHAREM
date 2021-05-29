@@ -1,0 +1,115 @@
+{
+  "text": "- Azeitona & Cia, na Rua Dias Ferreira, no Leblon: O melhor custo-benefício do scotch na Zona Sul do Rio | Zona Sul do Rio. Uma dose caprichadíssima de Red Label no copo longo sai por meros R$ 7. E ainda vem com a boa conversa do Azeitona, o dono.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 49
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 89,
+        "end": 104
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 107,
+        "end": 115
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 122
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 152,
+        "end": 161
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 190,
+        "end": 194
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 238
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "proprietario_de",
+      "subj": "T9",
+      "obj": "T1"
+    }
+  ]
+}

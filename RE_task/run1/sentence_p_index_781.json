@@ -1,0 +1,30 @@
+{
+  "text": "Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: \"Há 15 ou mais pilotos com hipóteses de chegar à vitória e ao pódio. As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela Internet | Internet, mas para os pilotos vai ser uma luta até ao último dia\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 133
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 264,
+        "end": 272
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 322,
+        "end": 339
+      }
+    }
+  ],
+  "relations": []
+}

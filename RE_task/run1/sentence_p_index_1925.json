@@ -1,0 +1,22 @@
+{
+  "text": "A que organização aderiu a Grécia em 1952?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

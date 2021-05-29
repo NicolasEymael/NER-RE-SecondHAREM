@@ -1,0 +1,61 @@
+{
+  "text": "Eduardo EGS · Porto Alegre ( RS ) · 20/4/2007 15:38 · 153 votos",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 31
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 45
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 46,
+        "end": 51
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 54,
+        "end": 57
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

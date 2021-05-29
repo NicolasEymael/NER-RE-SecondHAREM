@@ -1,0 +1,46 @@
+{
+  "text": "Neste nomento os Fitacola estiveram três semanas em estúdio a gravar aquele que será o seu primeiro álbum. Será composto por 12 temas e o seu lançamento está previsto para os primeiros meses de 2008 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 48
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 125,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 167,
+        "end": 198
+      }
+    }
+  ],
+  "relations": []
+}

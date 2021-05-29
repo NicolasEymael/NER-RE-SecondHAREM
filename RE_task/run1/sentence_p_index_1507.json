@@ -1,0 +1,37 @@
+{
+  "text": "Qual é o pico mais alto de África? Quando é que foi criado o Parque Nacional do Kilimanjaro? De que material é feito o Kilimanjaro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 119,
+        "end": 130
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

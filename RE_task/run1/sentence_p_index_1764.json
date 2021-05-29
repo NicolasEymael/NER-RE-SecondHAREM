@@ -1,0 +1,22 @@
+{
+  "text": "Que dinastia reinava em Portugal em 1500?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

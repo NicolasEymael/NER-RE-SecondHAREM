@@ -1,0 +1,69 @@
+{
+  "text": "A Associação Nacional dos Industriais de Arroz (ANIA) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em Portugal um acréscimo do valor por tonelada de 200 a 230 euros em 2006 para 280 a 290 euros este ano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 52
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 248,
+        "end": 256
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 295,
+        "end": 310
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 311,
+        "end": 318
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 324,
+        "end": 339
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 340,
+        "end": 348
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": "5. O Plano Tecnológico traduz muito do deslumbramento de Sócrates e da sua geração pelo poder das tecnologias, e pela crença que as tecnologias tem efeitos sociais de per si. Não tem. São instrumentos que só actuam em contextos sociais próprios e muitos milhares de euros de material avariado, computadores, gadgets, estão por essas escolas e instituições públicas onde depois das belas sessões públicas de ofertas e inaugurações não se cuidou, por exemplo, da manutenção. Para além disso, ter banda larga em Ferreira do Alentejo é excelente se ela servir para alguma coisa, se as literacias para a usar existirem para além da ida à Internet | Internet para ver os sítios de futebol, pornografia e as fotografias da turma no Hi5.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 5,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 57,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 509,
+        "end": 529
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 633,
+        "end": 641
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 725,
+        "end": 728
+      }
+    }
+  ],
+  "relations": []
+}

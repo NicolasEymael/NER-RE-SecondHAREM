@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que foi assinada a Lei Áurea? Por quem?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 28,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

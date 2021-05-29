@@ -1,0 +1,46 @@
+{
+  "text": "O satélite, com massa total de aproximadamente 1,4 tonelada , foi construído pelos italianos, em colaboração com a Holanda , para o estudo dos raios X vindos do espaço cósmico. O equipamento foi lançado ao espaço em 1996 , numa órbita baixa ( cerca de 600 km de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a linha do Equador .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 31,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 115,
+        "end": 122
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 213,
+        "end": 220
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 243,
+        "end": 258
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 334,
+        "end": 350
+      }
+    }
+  ],
+  "relations": []
+}

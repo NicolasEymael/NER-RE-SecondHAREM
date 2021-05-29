@@ -1,0 +1,86 @@
+{
+  "text": "A fotografia mais famosa de guerra, o instante em que Federico Borrell , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade. Há anos que se discute se a fotografia da autoria do famoso fotojornalista Robert Capa é ou não encenada. Agora um documentário, \" A Sombra do Iceberg \", premiado com o prémio Melhor documentário ibero-americano , no México , vem outra vez questionar a autenticidade da cena ocorrida em Cerro Muriano , povoação dos arredores de Córdoba , e feita em 1936 , no dia 5 de Setembro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 54,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 192,
+        "end": 199
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 267,
+        "end": 278
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 323,
+        "end": 342
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 368,
+        "end": 387
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 409,
+        "end": 415
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 479,
+        "end": 492
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 521,
+        "end": 528
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 539,
+        "end": 546
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 549,
+        "end": 569
+      }
+    }
+  ],
+  "relations": []
+}

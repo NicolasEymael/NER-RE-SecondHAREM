@@ -1,0 +1,65 @@
+{
+  "text": "Que companhia britânica foi absorvida pela BMW em 1994? Quantos milhões de libras pagou a BMW pela Rover? Em que país foi construída a primeira fábrica da BMW no estrangeiro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 47,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 90,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 99,
+        "end": 104
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 155,
+        "end": 158
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "propriedade_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "text": "Quais os nomes completos de Flanders e Swann? Em que ano é que eles se tornaram famosos? Em que línguas é que Flanders e Swann | Flanders e Swann cantavam? Em que ano morreu Flanders?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 110,
+        "end": 118
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 121,
+        "end": 126
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 129,
+        "end": 145
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 182
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    }
+  ]
+}

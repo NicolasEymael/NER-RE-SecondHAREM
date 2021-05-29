@@ -1,0 +1,14 @@
+{
+  "text": "Em que mar desagua o rio Orentes?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

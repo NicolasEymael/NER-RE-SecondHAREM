@@ -1,0 +1,269 @@
+{
+  "text": " Sistema de Posicionamento Global. O Sistema de Posicionamento Global , vulgarmente conhecido por GPS (do acrónimo do inglês Global Positioning System ), é um sistema de posicionamento por satélite americano, por vezes incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da Terra ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o Galileo europeu e o Compass chinês. O sistema GPS foi criado e é controlado pelo Departamento de Defesa dos Estados Unidos da América | Departamento de Defesa dos Estados Unidos da América , DoD , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O DoD fornece dois tipos de serviços GPS : Standard e Precision . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da Zona Equatorial , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor GPS ( GPSR ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema WGS84 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 37,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 98,
+        "end": 101
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 125,
+        "end": 150
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 209,
+        "end": 218
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 341,
+        "end": 346
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 437,
+        "end": 440
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 455,
+        "end": 462
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 522,
+        "end": 529
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 542,
+        "end": 549
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 568,
+        "end": 571
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 603,
+        "end": 655
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 658,
+        "end": 680
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 685,
+        "end": 710
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 713,
+        "end": 716
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 856,
+        "end": 859
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "outro",
+      "span": {
+        "begin": 891,
+        "end": 894
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 897,
+        "end": 905
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 908,
+        "end": 917
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1288,
+        "end": 1303
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "outro",
+      "span": {
+        "begin": 1596,
+        "end": 1599
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "outro",
+      "span": {
+        "begin": 1602,
+        "end": 1606
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 1841,
+        "end": 1846
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "produtor_de",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T1"
+    }
+  ]
+}

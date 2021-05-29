@@ -1,0 +1,37 @@
+{
+  "text": "Hardclub ( V.N. Gaia .) - com Twenty Toon",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 11,
+        "end": 20
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 41
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

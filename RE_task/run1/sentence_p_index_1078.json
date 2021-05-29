@@ -1,0 +1,45 @@
+{
+  "text": "O que um dia foi necessário à sobrevivência, no entanto, é hoje uma prática em extinção. Atualmente, Liebenberg afirma conhecer apenas seis caçadores tribais que usam suas habilidades para subsistência. A maioria dos jovens das tribos da região hoje freqüentam a escola - ao contrário de seus pais e avós, que eram analfabetos - mas raramente chegam a aprender as técnicas e o conhecimento de mundo necessários para caçar como as gerações anteriores.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 6,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 59,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 101,
+        "end": 111
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 245,
+        "end": 249
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

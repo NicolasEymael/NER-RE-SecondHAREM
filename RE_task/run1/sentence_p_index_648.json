@@ -1,0 +1,30 @@
+{
+  "text": "O Zimbabwe foi convidado para participar na cimeira, apesar da oposição do Reino Unido que ameaçou boicotar a reunião se Mugabe estiver presente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 75,
+        "end": 86
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 121,
+        "end": 127
+      }
+    }
+  ],
+  "relations": []
+}

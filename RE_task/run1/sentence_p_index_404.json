@@ -1,0 +1,99 @@
+{
+  "text": "No mesmo registo, Martin SCHULZ ( PSE , DE ), líder do PSE | líder do PSE , recordou que, na República de Weimar , se queria acabar com os inimigos em forma de coro e quem dirigia esse coro era Hitler \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 37
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 42
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 46,
+        "end": 58
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 70,
+        "end": 73
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 93,
+        "end": 112
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 194,
+        "end": 200
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

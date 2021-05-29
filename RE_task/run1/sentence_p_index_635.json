@@ -1,0 +1,289 @@
+{
+  "text": "Em 1715 , foi fundado o Convento de Nossa Senhora e Santo António de Mafra | Convento de Nossa Senhora e Santo António de Mafra , que pertencia à província eclesiástica da Arrábida . Teve origem numa comunidade do Hospício do Espírito Santo . Em 1730 , sagrada a Igreja de Nossa Senhora e Santo António , junto de Mafra , foi para lá transferida a sobredita comunidade. Entre 1771 e 1791 , por breve de Clemente XIV , de 4 de julho de 1770 , a requerimento do Marquês de Pombal , foi ocupado pelos Cónegos Regulares de Santo Agostinho da Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra ; os Franciscanos da Província da Arrábida | Franciscanos da Província da Arrábida saíram do Convento de Mafra | Convento de Mafra , em Maio de 1771 . Em 1791 , os Cónegos Regulares de Santo Agostinho saíram do edifício de Mafra .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 77,
+        "end": 118
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 122,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 172,
+        "end": 180
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 214,
+        "end": 240
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 243,
+        "end": 250
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 263,
+        "end": 302
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 314,
+        "end": 319
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 370,
+        "end": 387
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 403,
+        "end": 415
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 418,
+        "end": 439
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 460,
+        "end": 477
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 498,
+        "end": 534
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 538,
+        "end": 574
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 577,
+        "end": 602
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 606,
+        "end": 613
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 616,
+        "end": 627
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 631,
+        "end": 641
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 645,
+        "end": 652
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 658,
+        "end": 695
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 698,
+        "end": 710
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 714,
+        "end": 735
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 746,
+        "end": 763
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 766,
+        "end": 774
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 778,
+        "end": 783
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 786,
+        "end": 801
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 804,
+        "end": 811
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 817,
+        "end": 853
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 876,
+        "end": 881
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "datado_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "datado_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T16",
+      "obj": "T14"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T14"
+    }
+  ]
+}

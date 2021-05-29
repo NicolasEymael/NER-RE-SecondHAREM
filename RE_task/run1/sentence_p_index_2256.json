@@ -1,0 +1,110 @@
+{
+  "text": "No final da tarde realizou-se a manga do Absoluto, e mais uma vez Luís Correia demonstrou porque é o piloto mais rápido a correr em Portugal com máquinas da classe 125. Alcançou o 3º lugar em termos de Absoluto e foi o melhor piloto da classe 125. Para Ricardo Pazos esta manga ficou marcada por uma queda espectacular que sofreu logo na volta inicial e quando tentava assumir a liderança, numa descida em que os pilotos alcançam velocidades muito elevadas. Apesar do grande aparato da queda, Ricardo Pazos pode prosseguir em prova, pois os seus equipamentos protegeram-no de lesões graves, nomeadamente o capacete CMS, botas Oxtar e equipamento Shift.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 41,
+        "end": 49
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 66,
+        "end": 78
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 132,
+        "end": 140
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 164,
+        "end": 167
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 180,
+        "end": 182
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 202,
+        "end": 210
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 243,
+        "end": 246
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 253,
+        "end": 266
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 493,
+        "end": 506
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 615,
+        "end": 618
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 626,
+        "end": 631
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 646,
+        "end": 651
+      }
+    }
+  ],
+  "relations": []
+}

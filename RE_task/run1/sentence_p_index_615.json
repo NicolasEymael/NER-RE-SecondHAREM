@@ -1,0 +1,78 @@
+{
+  "text": "Não é todos os dias que se vê um «gigante» de 1,84 metros e 140 kg a chorar como uma criança. Mas Rui Cordeiro foi um dos Lobos que mais impressionou a cantar hino. Logo ele, que «é difícil ir às lágrimas». «Senti tanta coisa. O hino sempre foi um momento importante nos nossos jogos e nós não o cantamos, gritamos! Depois entre o aquecimento e o regresso, as bancadas, que ainda estavam quase vazias, compuseram-se. Deu-me muitas ganas», explicou Cordeiro, prosseguindo: «Assim como a Nova Zelândia se motiva com o 'haka', nós fazemo-lo com 'A Portuguesa'.»",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 6,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 46,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 60,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 110
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 127
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 316,
+        "end": 322
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 448,
+        "end": 456
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 486,
+        "end": 499
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 543,
+        "end": 555
+      }
+    }
+  ],
+  "relations": []
+}

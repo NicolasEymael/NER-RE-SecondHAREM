@@ -1,0 +1,30 @@
+{
+  "text": "O final do 2º Encontro de Arte de Matriz Africana teve a apresentação de Hamlet Sincrético. Golaço da produção, conforme Fábio Gomes.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 11,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 73,
+        "end": 90
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 121,
+        "end": 132
+      }
+    }
+  ],
+  "relations": []
+}

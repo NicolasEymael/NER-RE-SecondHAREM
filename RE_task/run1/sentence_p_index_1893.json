@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano morreu Charles de Gaulle?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

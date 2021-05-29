@@ -1,0 +1,30 @@
+{
+  "text": "2. A propaganda governamental está a esgotar-se. PowerPoint, simulações de computador, assistências reverendas ou de casting, já só sobrevivem na RTP e nos «momentos-\"Chávez» . Os especialistas, as agências, os assessores, bem podem estudar novas fórmulas para «comunicar», que a teimosia dos factos erodiu as técnicas de propaganda que o governo e o Primeiro-ministro tem usado até à exaustâo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 49,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 146,
+        "end": 149
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 351,
+        "end": 368
+      }
+    }
+  ],
+  "relations": []
+}

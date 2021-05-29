@@ -1,0 +1,14 @@
+{
+  "text": "Quem é sir Denys Henderson?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

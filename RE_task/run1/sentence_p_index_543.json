@@ -1,0 +1,14 @@
+{
+  "text": "CONGRESSOS DO PSD , VOLTEM QUE ESTÃO PERDOADOS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 17
+      }
+    }
+  ],
+  "relations": []
+}

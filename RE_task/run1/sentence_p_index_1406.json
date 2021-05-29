@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a capital da Terra do Nunca?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Que inglês foi treinador do Porto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 28,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

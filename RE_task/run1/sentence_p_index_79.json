@@ -1,0 +1,110 @@
+{
+  "text": "Durante estes anos de viragem do século, o CCB acolheu alguns dos maiores espectáculos apresentados em Lisboa , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais. O balanço desta década e meia de actividade praticamente ininterrupta (o Centro só fecha no Dia de Natal ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do CCB , além dos muitos milhares que ferquentam as suas actividades. Em 2006 , 150.000 pessoas assistiram a espectáculos, 200.000 visitaram as exposições, 90.000 frequentaram reuniões e congressos, 20.000 crianças participaram em actividades de pedagogia e animação.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 39
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 46
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 267,
+        "end": 286
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 330,
+        "end": 336
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 346,
+        "end": 361
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 463,
+        "end": 466
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 530,
+        "end": 537
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 540,
+        "end": 547
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 583,
+        "end": 590
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 616,
+        "end": 622
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 659,
+        "end": 665
+      }
+    }
+  ],
+  "relations": []
+}

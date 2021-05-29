@@ -1,0 +1,61 @@
+{
+  "text": "Toda a coleção Sophia Jobim é doada ao Museu após a sua morte. Os trajes típicos são preservados na Reserva Técnica , os livros na Biblioteca e os 1.124 documentos textuais e iconográficos, inclusive livros de receitas de pratos regionais e álbuns de fotografia de eventos relacionados à trajetória da titular da coleção, estão à disposição do pesquisador no Arquivo Histórico .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 131,
+        "end": 141
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 147,
+        "end": 152
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 359,
+        "end": 376
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "proprietario_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

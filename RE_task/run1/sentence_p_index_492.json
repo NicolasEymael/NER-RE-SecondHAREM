@@ -1,0 +1,14 @@
+{
+  "text": "Tenho feito alguma coisa na A.C.M. que por não ter tomado notas desde o princípio me esqueceram, e por não terem valor deixo de as mencionar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

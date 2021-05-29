@@ -1,0 +1,115 @@
+{
+  "text": "O tema é quente o bastante para gerar semanas de debates acalorados, mas aqui se limitou a um final de semana onde se sucederam mesas abertas, performances e apresentações de projetos. Teóricos e historiadores de arte ativista em coletivos como Gregory Sholette , Alan Moore e Brian Holmes , grupos como Critical Art Ensemble e Guerrilla Girls , net críticos como McKenzie Wark , ou o teórico maior da colaboração online, o alemão Cristoph Spehr , estiveram presentes. Spehr , autor do cultuado livro Die Aliens sind unter uns! |Die Aliens sind unter uns! (\" \"Os alienígenas estão entre nós! \"), tem servido como o melhor tradutor da mecânica funcional do código aberto (open source) para o campo da política, da organização social, e da economia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 89,
+        "end": 109
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 245,
+        "end": 261
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 264,
+        "end": 274
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 277,
+        "end": 289
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 304,
+        "end": 325
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 328,
+        "end": 343
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 364,
+        "end": 377
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 431,
+        "end": 445
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 469,
+        "end": 474
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 501,
+        "end": 527
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 559,
+        "end": 591
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T12",
+      "obj": "T9"
+    }
+  ]
+}

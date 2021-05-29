@@ -1,0 +1,333 @@
+{
+  "text": " 2008: novas entradas em bolsa após recuperação confiança. A recuperação da confiança nos mercados de capitais deverá estimular a entrada de novas empresas em bolsa, quer através de privatizações, como ANA, TAP e Aquapor, quer através de capital privado, segundo gestores de activos contactados pela Lusa. O Santander Gestão de Activos considera que \"o início de 2008 não deverá ter muitas novidades em termos de novas entradas em bolsa, face ao aumento de aversão ao risco verificado nas últimas semanas e a redução de liquidez verificada nos mercados financeiros». O Santander Gestão de Activos aponta para que as novas listagens no próximo ano na Euronext Lisboa aconteçam quer através de privatizações, dando como exemplos os casos da ANA e da TAP, quer através de sociedades de capital privado como o grupo Visabeira. Opinião idêntica tem o gestor do Banif Gestão de Activos, Pedro Castro, para quem a expectativa é que se estreiem na bolsa portuguesa, além da ANA e da TAP, também a Aquapor, a Sonae Capital e a Neo. No ano que agora termina houve duas entradas na bolsa portuguesa, concretamente da REN (através da privatização de 24% do capital) e da Martifer.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 202,
+        "end": 205
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 207,
+        "end": 210
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 213,
+        "end": 220
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 300,
+        "end": 304
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 308,
+        "end": 335
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 351,
+        "end": 367
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 485,
+        "end": 504
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 569,
+        "end": 596
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 632,
+        "end": 646
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 650,
+        "end": 665
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 739,
+        "end": 742
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 748,
+        "end": 751
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 812,
+        "end": 821
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 856,
+        "end": 879
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 881,
+        "end": 893
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 966,
+        "end": 969
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 975,
+        "end": 978
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 989,
+        "end": 996
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1000,
+        "end": 1013
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1018,
+        "end": 1021
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1023,
+        "end": 1029
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1106,
+        "end": 1109
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 1138,
+        "end": 1141
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1159,
+        "end": 1167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T3"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T11"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T12"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T4"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T11"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T11"
+    },
+    {
+      "id": "R16",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T11"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T1"
+    },
+    {
+      "id": "R18",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T11"
+    },
+    {
+      "id": "R19",
+      "pred": "localizado_em",
+      "subj": "T23",
+      "obj": "T11"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T11"
+    },
+    {
+      "id": "R21",
+      "pred": "localizado_em",
+      "subj": "T25",
+      "obj": "T11"
+    }
+  ]
+}

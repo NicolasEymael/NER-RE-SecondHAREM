@@ -1,0 +1,30 @@
+{
+  "text": "Quem foi nomeado presidente da SNCF | presidente da SNCF em 20 de Dezembro de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 52,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 82
+      }
+    }
+  ],
+  "relations": []
+}

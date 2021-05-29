@@ -1,0 +1,62 @@
+{
+  "text": "O número de caixas Multibanco mais do que triplicou em Portugal na última década , revela um estudo da Marktest . Desde 1995 , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela SIBS e incluídos na pesquisa « Os Concelhos Portugueses -- 1995/2005 ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 80
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 111
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 114,
+        "end": 124
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 227,
+        "end": 231
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 258,
+        "end": 295
+      }
+    }
+  ],
+  "relations": []
+}

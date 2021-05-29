@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi Marco Pantani? Qual era a sua alcunha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

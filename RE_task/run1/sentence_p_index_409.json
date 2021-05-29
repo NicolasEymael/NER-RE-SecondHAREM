@@ -1,0 +1,29 @@
+{
+  "text": "Do grupo IND/DEM , Jens-Peter BONDE assinalou que, pessoalmente, não participou nos protestos mas que vestiu a camisola com a referência à realização de um referendo, que faz parte da vida democrática.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 9,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 35
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Ora, é evidente que, olhando detidamente os movimentos de dança deste Funk Carioca , iremos encontrar a mesma filosofia coreográfica do Kuduro , em nosso caso, representada por passos de umbanda e candomblé (ritmos aliás, hoje banidos de algumas favelas cariocas, dominadas pela cultura ditatorial-evangélica das milícias).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 70,
+        "end": 82
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 136,
+        "end": 142
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 222,
+        "end": 226
+      }
+    }
+  ],
+  "relations": []
+}

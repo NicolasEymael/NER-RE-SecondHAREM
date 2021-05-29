@@ -1,0 +1,75 @@
+{
+  "text": "O preço actual do petróleo ficou agora mais próximo do pico de 100 dólares de 1980 provocado pela guerra entre o Irão e o Iraque , dois países-membros da OPEP . O preço de então ajustado à inflação representa hoje 101,7 dólares .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 63,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 75,
+        "end": 82
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 113,
+        "end": 117
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 128
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 154,
+        "end": 158
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 209,
+        "end": 213
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 214,
+        "end": 227
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

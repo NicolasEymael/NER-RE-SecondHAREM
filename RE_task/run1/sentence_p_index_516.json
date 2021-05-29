@@ -1,0 +1,22 @@
+{
+  "text": "«Neste caso a personagem é corrompida, no outro [ Anjo azul | Anjo azul ] perde toda a dignidade e reputação», compara António-Pedro Vasconcelos , até porque é um tema «recorrente na literatura e na ficção ocidental».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 50,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 119,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

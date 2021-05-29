@@ -1,0 +1,46 @@
+{
+  "text": "Por determinação do Presidente Epitácio Pessoa , o Pavilhão abrigou, em duas de suas salas, o núcleo inicial do Museu Histórico Nacional . Com o encerramento da Exposição , o Museu veio ocupando progressivamente toda a área.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 112,
+        "end": 136
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 161,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 175,
+        "end": 180
+      }
+    }
+  ],
+  "relations": []
+}

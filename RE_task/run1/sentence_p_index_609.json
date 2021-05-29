@@ -1,0 +1,46 @@
+{
+  "text": "Refira-se que os dados hoje divulgados pela APCT não contabilizam ainda o jornal lançado pelo Público e A Bola, o Sexta-feira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 23,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 94,
+        "end": 101
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 104,
+        "end": 110
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 114,
+        "end": 125
+      }
+    }
+  ],
+  "relations": []
+}

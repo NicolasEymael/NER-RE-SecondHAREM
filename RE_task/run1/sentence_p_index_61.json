@@ -1,0 +1,22 @@
+{
+  "text": "Não. Foi por isso que o meu pai nunca aceitou fazer uma praia na Areia Branca !Porque ele tinha tido a possibilidade de comprar terreno baratíssimo e fazer a segunda casa da Areia Branca ! Ele não queria um sítio fixo que o obrigasse a...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 77
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 174,
+        "end": 186
+      }
+    }
+  ],
+  "relations": []
+}

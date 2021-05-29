@@ -1,0 +1,54 @@
+{
+  "text": "Se as estatísticas quiserem dizer alguma coisa, Camacho pode encarar o clássico de sábado com optimismo. O espanhol soma por vitórias os 3 jogos frente a Jesualdo Ferreira, técnico ao qual sucedeu no comando do Benfica, em 2002/2003.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 48,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 80,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 137,
+        "end": 138
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 154,
+        "end": 171
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 211,
+        "end": 218
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 220,
+        "end": 232
+      }
+    }
+  ],
+  "relations": []
+}

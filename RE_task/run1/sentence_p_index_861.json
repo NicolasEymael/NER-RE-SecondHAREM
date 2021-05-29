@@ -1,0 +1,73 @@
+{
+  "text": "A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura. Hunter S. Thompson e Tom Wolfe criam o \"new journalism\" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência. Se, por um lado, Thompson experimentou todos os tipos de substâncias legais e ilegais para escrever Fear & Loathing in Las Vegas, um relato de suas maluquices na capital mundial do jogo, Wolfe desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das HQs. Inclusive com a utilização de onomatopéias:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 146,
+        "end": 164
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 167,
+        "end": 176
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 338,
+        "end": 346
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 421,
+        "end": 449
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 508,
+        "end": 513
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 592,
+        "end": 595
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

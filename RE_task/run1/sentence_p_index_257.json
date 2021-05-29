@@ -1,0 +1,22 @@
+{
+  "text": "E é pelo medo, também, que eles esperam ganhar esta batalha contra o Ocidente , destruindo o nosso amor à liberdade. Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância. Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e Guantanamo , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 69,
+        "end": 77
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 536,
+        "end": 546
+      }
+    }
+  ],
+  "relations": []
+}

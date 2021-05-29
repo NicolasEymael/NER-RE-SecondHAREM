@@ -1,0 +1,223 @@
+{
+  "text": " Indústria e Comércio: Informática | Indústria e Comércio: Informática:. Consultoria e Sistemas RML - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas.OperFit, Adm pro, R white e Life sport. CooperSis Informática - Somos especializados em pequenas e medias empresas que nao possuem informatizacao ou estao descontentes com o que tem. Credi-Telemática Eletro-Eletrônicos - Loja virtual que atende todo o território nacional com eletro-eletrônicos importados, material de informática e de telefonia. Configurações personalizadas e as últimas novidades são encontradas aqui. Croma Eletrônica Ltda. - Componentes eletrônicos antenas áudio vídeo som informática telefonia fios cabos conectores plugs garras adaptadores transformadores pilhas transistores diodos cis fones microfones caixas multímetros câmeras porteiros PABX(21)2233-0030. Darun Informática - Comércio de produtos de informática como impressoras, softwares, equipamentos para automação comercial e suprimentos. Desenhos em Cad e serviços de informatica - Desenhos em CAD, desenhos elétricos, diagramas de força e comando, desenhos para engenharia, etc. Se seu Windows sempre trava ou não funciona direito mande um e-mail. DHCP Informática - Comércio de equipamentos de informática. Trabalha com placas mães, processadores, HDs, placas de vídeo, gravadores, CD-ROMs, DVDs, disquetes, monitores, placas aceleradoras, mémorias, cooler, drives,hubs, placas da rede, placa de som, fax. Di Bello Informática... seu Polo de Informática em MADUREIRA - A mais antiga loja de Informática em Madureira, são vinte anos de credibilidade...Hardware, software, suprimentos e manutenção. Diacon Informática - A Diacon presta serviços de consultoria, treinamento e desenvolvimento de sistemas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 37,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 49,
+        "end": 57
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 59,
+        "end": 70
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 73,
+        "end": 99
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 221,
+        "end": 228
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 230,
+        "end": 237
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 239,
+        "end": 246
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 249,
+        "end": 259
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 261,
+        "end": 282
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 404,
+        "end": 439
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 642,
+        "end": 664
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 904,
+        "end": 921
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 1054,
+        "end": 1057
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 1098,
+        "end": 1101
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 1191,
+        "end": 1198
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1253,
+        "end": 1269
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1512,
+        "end": 1532
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1540,
+        "end": 1559
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1563,
+        "end": 1572
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1597,
+        "end": 1608
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 1612,
+        "end": 1621
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1703,
+        "end": 1721
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1726,
+        "end": 1732
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T20",
+      "obj": "T18"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T21",
+      "obj": "T18"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T20"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T23"
+    }
+  ]
+}

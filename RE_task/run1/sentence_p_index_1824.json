@@ -1,0 +1,14 @@
+{
+  "text": "O que é a constante de Néper| constante de Néper?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 10,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

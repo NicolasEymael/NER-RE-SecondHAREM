@@ -1,0 +1,70 @@
+{
+  "text": "Já no final de 1939 , Sousa Mendes tinha desobedecido às instruções do seu governo e emitido alguns vistos. Entre as pessoas que ele tinha então decidido ajudar encontra-se o Rabino de Antuérpia Jacob Kruger | Rabino de Antuérpia Jacob Kruger | Rabino de Antuérpia Jacob Kruger , que lhe faz compreender que há que salvar os refugiados judeus.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 3,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 175,
+        "end": 207
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 210,
+        "end": 229
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 242
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 245,
+        "end": 251
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 255,
+        "end": 264
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 265,
+        "end": 277
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,229 @@
+{
+  "text": "Depois de participar em 1913 numa exposição com oito trabalhos nos Estados Unidos da América, no Armory Show, voltou a Portugal, onde teve a ousadia de realizar duas exposições, respectivamente em Porto e em Lisboa. Nesse ano participou ainda no Herbstsalon da Galeria Der Sturm, em Berlim. Em 1914 encontrou-se em Barcelona com Antoni Gaudí, e parte para Madrid onde é surpreendido pelo início da I Guerra Mundial. Regressou então a Portugal, onde iniciou meteórica carreira na experimentação de novas formas de expressão, tendo pintado com grande constância ao ponto de, em 1916, expor no Porto 114 obras com o título \"Abstraccionismo\", que serão também expostas em Lisboa, num e noutro caso com novidade e algum escândalo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 21,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 67,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 97,
+        "end": 108
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 197,
+        "end": 202
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 208,
+        "end": 214
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 216,
+        "end": 225
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 246,
+        "end": 257
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 261,
+        "end": 278
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 283,
+        "end": 289
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 298
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 315,
+        "end": 324
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 329,
+        "end": 341
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 356,
+        "end": 362
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 398,
+        "end": 414
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 442
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 573,
+        "end": 580
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 591,
+        "end": 596
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "valor",
+      "span": {
+        "begin": 597,
+        "end": 600
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 621,
+        "end": 636
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 668,
+        "end": 674
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "produtor_de",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T4"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T5"
+    }
+  ]
+}

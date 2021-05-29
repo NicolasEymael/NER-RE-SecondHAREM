@@ -1,0 +1,53 @@
+{
+  "text": "Eis aqui uma pálida amostra do que se pode fazer de análise microscópica na obra lingüístico-filológica de Antônio Houaiss, nas suas aproximações com seus mestres e contemporâneos. A Houaiss se podem bem aplicar as palavras com que Oiticica se definia a si mesmo, no seu último livro de sonetos Fonte Perene (1954):",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 107,
+        "end": 122
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 183,
+        "end": 190
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 232,
+        "end": 240
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 295,
+        "end": 307
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 309,
+        "end": 313
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

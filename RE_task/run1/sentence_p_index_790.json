@@ -1,0 +1,87 @@
+{
+  "text": "O presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo (CPPT) considerou hoje «um exemplo lamentável» o facto de o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo ter sido fotografado a fumar num casino depois da entrada em vigor da lei do Tabaco.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 69
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 139
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 141,
+        "end": 145
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 158,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 200,
+        "end": 267
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 284,
+        "end": 337
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 415,
+        "end": 421
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

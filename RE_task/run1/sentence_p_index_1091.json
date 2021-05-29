@@ -1,0 +1,59 @@
+{
+  "text": "O Belmonte da Rua do Lavradio, por exemplo, é um desses. Por R$ 8,50, toma-se uma dose boca larga de Johnny Walker Red Label. E a régua é só de vinte doses, contra as absurdas 24 doses de alguns bares por aí. Nada mal, não?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 61,
+        "end": 68
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 101,
+        "end": 124
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 176,
+        "end": 178
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

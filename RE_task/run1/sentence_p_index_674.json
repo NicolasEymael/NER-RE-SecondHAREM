@@ -1,0 +1,14 @@
+{
+  "text": "PASSAPORTE BIOLÓGICO EM 2008",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 21,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,83 @@
+{
+  "text": "Após a execução do Duque de Bragança pelas próprias mãos do rei, Pêro da Covilhã foi designado para investigar quais os nobres que conspiravam contra D. João II , conseguindo identificar o D. Diogo , duque de Viseu e D. Garcia de Meneses , bispo de Évora | bispo de Évora .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 65,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 150,
+        "end": 160
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 197
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 200,
+        "end": 214
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 217,
+        "end": 237
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 240,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 266,
+        "end": 271
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

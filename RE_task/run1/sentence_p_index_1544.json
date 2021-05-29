@@ -1,0 +1,29 @@
+{
+  "text": "Quem é Paul Touvier? Quando é que começou o julgamento de Paul Touvier?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 70
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

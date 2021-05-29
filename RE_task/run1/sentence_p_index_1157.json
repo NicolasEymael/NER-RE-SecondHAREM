@@ -1,0 +1,777 @@
+{
+  "text": "Os triatomíneos têm ampla distribuição geográfica no Novo Mundo, desde os Estados Unidos até o sul do Chile e Argentina, existindo espécies que são tipicamente silvestres; e das 118 espécies conhecidas, 105 são do Novo Mundo. Todas as espécies são vetoras em potencial para o Trypanosoma cruzi, mas seis têm importância epidemiológica na América do Sul: Triatoma infestans, T. brasiliensis, T. dimidiata, T. sordida, P. megistus e Rhodnius prolixus. A espécie vetora mais importante, devido ao seu hábito quase que estritamente doméstico e também com a mais extensa área de distribuição, é o T. infestans, encontrado na Argentina, Bolívia, Brasil, Chile, Paraguai, Peru e Uruguai. Em algumas localidades do sul do Brasil (Rio Grande do Sul), sul do Peru, Bolívia e algumas localidades do noroeste da Argentina, T. infestans também tem hábito peridoméstico, ocupando galinheiros, currais etc. As colônias em ecótopos artificias têm tendência a se concentrarem nas partes mais altas da parede. Neste gênero, Triatoma, um exemplo típico é dado pelo T. arthurneivai que, habita fendas de pedras e está associado a lagartos e roedores. É encontrado no Brasil nos estados da Bahia, Minas Gerais e São Paulo. No estado de São Paulo, Rodrigues et al. (1992) encontraram adultos da referida espécie em ecótopos artificiais e com infecção natural pelo T. cruzi. Ainda no Brasil, no estado do Rio Grande do Sul, no Uruguai e no norte da Argentina encontra-se outra espécie T. rubrovaria, tipicamente silvestre que convive com roedores em ambientes pedregosos. Apresenta alto índice de infecção natural e invade os domicílios principalmente no verão. Na Argentina temos mais duas espécies deste grupo que são T. eratyrusiformis e T. patagonica: criam-se em lugares pedregosos e alimentam-se de pequenos roedores, mas atacam o homem e os animais domésticos à noite. T. brasiliensis com altas taxas de infecção pelo T. cruzi é o vetor mais importante no nordeste do Brasil, e pode ser encontrado com alguma freqüência em domicílios. Tem hábitos silvestres e peridomiciliares, onde está associado com abrigo de cabras, galinheiros e ecótopos rochosos; no peridomicílio e domicílio tem as aves como principal fonte alimentar, seguidas por humanos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 53,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 88
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 102,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 110,
+        "end": 119
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 178,
+        "end": 181
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 203,
+        "end": 206
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 214,
+        "end": 224
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 276,
+        "end": 293
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 338,
+        "end": 352
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 354,
+        "end": 372
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 374,
+        "end": 389
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 391,
+        "end": 403
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 405,
+        "end": 415
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 417,
+        "end": 428
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 431,
+        "end": 448
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 592,
+        "end": 604
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 620,
+        "end": 629
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 631,
+        "end": 638
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 640,
+        "end": 646
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 648,
+        "end": 653
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 655,
+        "end": 663
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 665,
+        "end": 669
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 672,
+        "end": 679
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 714,
+        "end": 720
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 722,
+        "end": 739
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 749,
+        "end": 753
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 755,
+        "end": 762
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 800,
+        "end": 809
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "outro",
+      "span": {
+        "begin": 811,
+        "end": 823
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "outro",
+      "span": {
+        "begin": 1006,
+        "end": 1014
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "outro",
+      "span": {
+        "begin": 1046,
+        "end": 1061
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 1147,
+        "end": 1153
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1169,
+        "end": 1174
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1176,
+        "end": 1188
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1191,
+        "end": 1200
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 1215,
+        "end": 1224
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1226,
+        "end": 1242
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1244,
+        "end": 1248
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "outro",
+      "span": {
+        "begin": 1342,
+        "end": 1350
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "local",
+      "span": {
+        "begin": 1361,
+        "end": 1367
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 1382,
+        "end": 1399
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1404,
+        "end": 1411
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "local",
+      "span": {
+        "begin": 1426,
+        "end": 1435
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "outro",
+      "span": {
+        "begin": 1462,
+        "end": 1475
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "tempo",
+      "span": {
+        "begin": 1629,
+        "end": 1637
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 1642,
+        "end": 1651
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "outro",
+      "span": {
+        "begin": 1697,
+        "end": 1715
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "outro",
+      "span": {
+        "begin": 1718,
+        "end": 1731
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "tempo",
+      "span": {
+        "begin": 1844,
+        "end": 1851
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "outro",
+      "span": {
+        "begin": 1853,
+        "end": 1868
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "outro",
+      "span": {
+        "begin": 1902,
+        "end": 1910
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "local",
+      "span": {
+        "begin": 1952,
+        "end": 1958
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "localizado_em",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R7",
+      "pred": "outrarel",
+      "subj": "T11",
+      "obj": "T8"
+    },
+    {
+      "id": "R8",
+      "pred": "localizado_em",
+      "subj": "T11",
+      "obj": "T9"
+    },
+    {
+      "id": "R9",
+      "pred": "outrarel",
+      "subj": "T12",
+      "obj": "T8"
+    },
+    {
+      "id": "R10",
+      "pred": "localizado_em",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R11",
+      "pred": "outrarel",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R12",
+      "pred": "localizado_em",
+      "subj": "T13",
+      "obj": "T9"
+    },
+    {
+      "id": "R13",
+      "pred": "outrarel",
+      "subj": "T14",
+      "obj": "T8"
+    },
+    {
+      "id": "R14",
+      "pred": "localizado_em",
+      "subj": "T14",
+      "obj": "T9"
+    },
+    {
+      "id": "R15",
+      "pred": "outrarel",
+      "subj": "T15",
+      "obj": "T8"
+    },
+    {
+      "id": "R16",
+      "pred": "localizado_em",
+      "subj": "T15",
+      "obj": "T9"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T10"
+    },
+    {
+      "id": "R18",
+      "pred": "sede_de",
+      "subj": "T17",
+      "obj": "T10"
+    },
+    {
+      "id": "R19",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T9"
+    },
+    {
+      "id": "R21",
+      "pred": "sede_de",
+      "subj": "T18",
+      "obj": "T10"
+    },
+    {
+      "id": "R22",
+      "pred": "sede_de",
+      "subj": "T19",
+      "obj": "T10"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T3"
+    },
+    {
+      "id": "R24",
+      "pred": "sede_de",
+      "subj": "T20",
+      "obj": "T10"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R26",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T9"
+    },
+    {
+      "id": "R27",
+      "pred": "sede_de",
+      "subj": "T21",
+      "obj": "T10"
+    },
+    {
+      "id": "R28",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T1"
+    },
+    {
+      "id": "R29",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T9"
+    },
+    {
+      "id": "R30",
+      "pred": "sede_de",
+      "subj": "T22",
+      "obj": "T10"
+    },
+    {
+      "id": "R31",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R32",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T9"
+    },
+    {
+      "id": "R33",
+      "pred": "sede_de",
+      "subj": "T23",
+      "obj": "T10"
+    },
+    {
+      "id": "R34",
+      "pred": "sede_de",
+      "subj": "T25",
+      "obj": "T10"
+    },
+    {
+      "id": "R35",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T22"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T18"
+    },
+    {
+      "id": "R37",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T10"
+    },
+    {
+      "id": "R38",
+      "pred": "inclui",
+      "subj": "T30",
+      "obj": "T10"
+    },
+    {
+      "id": "R39",
+      "pred": "inclui",
+      "subj": "T30",
+      "obj": "T11"
+    },
+    {
+      "id": "R40",
+      "pred": "inclui",
+      "subj": "T30",
+      "obj": "T12"
+    },
+    {
+      "id": "R41",
+      "pred": "inclui",
+      "subj": "T30",
+      "obj": "T13"
+    },
+    {
+      "id": "R42",
+      "pred": "incluido",
+      "subj": "T31",
+      "obj": "T30"
+    },
+    {
+      "id": "R43",
+      "pred": "sede_de",
+      "subj": "T33",
+      "obj": "T31"
+    },
+    {
+      "id": "R44",
+      "pred": "sede_de",
+      "subj": "T34",
+      "obj": "T31"
+    },
+    {
+      "id": "R45",
+      "pred": "sede_de",
+      "subj": "T35",
+      "obj": "T31"
+    },
+    {
+      "id": "R46",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T35"
+    },
+    {
+      "id": "R47",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T8"
+    },
+    {
+      "id": "R48",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T25"
+    },
+    {
+      "id": "R49",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T25"
+    },
+    {
+      "id": "R50",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T23"
+    },
+    {
+      "id": "R51",
+      "pred": "incluido",
+      "subj": "T44",
+      "obj": "T30"
+    },
+    {
+      "id": "R52",
+      "pred": "localizado_em",
+      "subj": "T44",
+      "obj": "T41"
+    },
+    {
+      "id": "R53",
+      "pred": "localizado_em",
+      "subj": "T44",
+      "obj": "T42"
+    },
+    {
+      "id": "R54",
+      "pred": "localizado_em",
+      "subj": "T44",
+      "obj": "T43"
+    },
+    {
+      "id": "R55",
+      "pred": "incluido",
+      "subj": "T47",
+      "obj": "T30"
+    },
+    {
+      "id": "R56",
+      "pred": "incluido",
+      "subj": "T48",
+      "obj": "T30"
+    },
+    {
+      "id": "R57",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T11"
+    },
+    {
+      "id": "R58",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T8"
+    },
+    {
+      "id": "R59",
+      "pred": "sede_de",
+      "subj": "T52",
+      "obj": "T11"
+    }
+  ]
+}

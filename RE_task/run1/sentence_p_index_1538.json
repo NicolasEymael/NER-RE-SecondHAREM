@@ -1,0 +1,29 @@
+{
+  "text": "Qual era a nacionalidade de Ayrton Senna? Quantas vezes é que ele foi campeão do mundo? Quando é que ele morreu? Em que circuito de F1 é que ele morreu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 132,
+        "end": 134
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_por",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

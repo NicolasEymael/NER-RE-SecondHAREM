@@ -1,0 +1,29 @@
+{
+  "text": " Tratado de Lisboa ( 2007 ). O Tratado de Lisboa ou Tratado de Reforma , é o acordo ratificado pelo Conselho da União Europeia | Conselho daUnião Europeia em Lisboa , a 19 de Outubro de 2007 , e que substitui a Constituição europeia de 2004 .[1]. O Tratado de Lisboa confere à União Europeia , personalidade jurídica própria para assinar acordos internacionais a nível comunitário. O termo « Comunidade » será substituído por « União », nomeia o Alto Representante para a Política Exterior e de Segurança Comum da União Europeia | Alto Representante para a Política Exterior e de Segurança Comum da União Europeia e estabelece a aplicação formal da dupla maioria a partir de 2014 . A emenda proposta pela Presidência alemã do Conselho da União Europeia | Conselho da União Europeia ( 2007 ) a 19 de Maio de 2007 incluiu a \"essência da Constituição \". A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos 27 estados membros durante o primeiro semestre de 2007 . Decidiu-se abandonar o formato do ' Tratado constitucional ' e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o Tratado da União Europeia e o Tratado da Comunidade Europeia , que passaria a chamar-se Tratado sobre o funcionamento da União . Portugal , que assumiu a presidência da UE durante o segundo semestre de 2007 , lançou uma conferência intergovernamental ( CIG ) nos dias 23 e 24 de Julho , para acabar a redação do texto, coincidindo com a reunião de ministros dos Negócios Estrangeiros . O novo Tratado foi apresentado na cimeira de 18 de Outubro , em Lisboa , tendo sido assinado pelos representantes dos vários governos no dia 13 de Dezembro de 2007 , no Mosteiro dos Jerónimos . Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor em 2009 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 835,
+        "end": 847
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 211,
+        "end": 223
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

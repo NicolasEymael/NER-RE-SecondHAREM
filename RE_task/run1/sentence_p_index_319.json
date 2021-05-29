@@ -1,0 +1,133 @@
+{
+  "text": "De forma a permitir uma mais abrangente troca de pontos de vista neste campo, realizou-se no dia 24 de Outubro , no Porto , uma reunião informal entre os Directores-Gerais de Protecção Civil dos Países do Mediterrâneo | Directores-Gerais de Protecção Civil dos Países do Mediterrâneo | Directores-Gerais de Protecção Civil dos Países do Mediterrâneo e os Directores-Gerais de Protecção Civil da União Europeia | Directores-Gerais de Protecção Civil da União Europeia . Essa reunião permitiu concluir da existência de abertura para um trabalho comum futuro, o qual, numa primeira fase, deverá estar integrado do Programa para a Prevenção e Redução de Desastres do Projecto Euromed e, numa segunda fase, deverá visar a inclusão de países do Mediterrâneo no Mecanismo Comunitário de Protecção Civil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 90,
+        "end": 110
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 116,
+        "end": 121
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 154,
+        "end": 217
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 220,
+        "end": 256
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 261,
+        "end": 283
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 286,
+        "end": 322
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 327,
+        "end": 333
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 337,
+        "end": 349
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 355,
+        "end": 409
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 412,
+        "end": 448
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 452,
+        "end": 466
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 611,
+        "end": 659
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 663,
+        "end": 679
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 739,
+        "end": 751
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "obra",
+      "span": {
+        "begin": 755,
+        "end": 795
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T12"
+    }
+  ]
+}

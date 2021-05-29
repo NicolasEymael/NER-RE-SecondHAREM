@@ -1,0 +1,14 @@
+{
+  "text": "Links Relacionados: HQ Nacional",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

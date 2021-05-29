@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que nasceu Franz Kafka?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

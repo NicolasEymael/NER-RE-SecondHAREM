@@ -1,0 +1,14 @@
+{
+  "text": "Qual a língua mais falada no Québec?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

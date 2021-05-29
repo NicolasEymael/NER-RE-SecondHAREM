@@ -1,0 +1,38 @@
+{
+  "text": "Carlos Sousa acredita que este ano o rali vai ser mais duro. \"Vai ser um percurso para os mais resistentes. É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo\", afirmou o piloto da Lagos Team, que vai conduzir um Volkswagen Touareg idêntico aos de fábrica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 223,
+        "end": 233
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 255,
+        "end": 273
+      }
+    }
+  ],
+  "relations": []
+}

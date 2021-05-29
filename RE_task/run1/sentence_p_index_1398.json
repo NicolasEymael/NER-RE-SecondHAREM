@@ -1,0 +1,30 @@
+{
+  "text": "Quais são as ilhas cuja posse a Argentina disputou ao Reino Unido de 2 de Abril a 14 de Junho de 1982?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 66,
+        "end": 101
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,65 @@
+{
+  "text": "Multibanco é uma marca registada propriedade da empresa SIBS . O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela SIBS . Neste contexto, também se utiliza o termo ATM , do inglês Automatic Teller Machine .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 56,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 314,
+        "end": 318
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 363,
+        "end": 366
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 379,
+        "end": 403
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "proprietario_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

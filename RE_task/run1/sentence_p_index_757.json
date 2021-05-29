@@ -1,0 +1,14 @@
+{
+  "text": "Actualmente é de 570,6 euros",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 17,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

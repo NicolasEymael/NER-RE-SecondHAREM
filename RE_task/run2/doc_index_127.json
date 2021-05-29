@@ -1,0 +1,735 @@
+{
+  "text": " Team Suzuki Cepsa - Notícias. 27 Março de 2005. Luís Correia domina concorrência em Casais S.Quintino. Luís Correia em Suzuki RMZ 250 voltou a demonstrar o seu excelente momento de forma ao dominar por completo a classe 125cc na 2ª jornada do Campeonato Nacional de Motocross, que se realizou este domingo em Casais de S.Quintino. Numa pista em bom estado, apesar da ameaça de chuva que pairou na região durante o domingo de Páscoa, foram muitos os espectadores que resolveram ver o espectáculo do Motocross. E o piloto a dar mais espectáculo foi Luís Correia que deu um recital de condução aos seus mais directos adversários, averbando uma vitória que não deixa margens para dúvidas. Para o piloto do Team Suzuki Cepsa, o dia até começou muito bem com a conquista do 1º lugar na grelha de partida. Na partida não conseguiu chegar à primeira curva na liderança mas após algumas voltas, cedo instalou-se no comando do numeroso pelotão, distanciando-se a partir desse momento dos seus perseguidores. Com esta vitória cimentou a liderança na classificação actual do Campeonato Nacional de Motocross, classe 125. Os seus companheiros de equipa tiveram prestações diferentes, tendo Ricardo Pereira alcançado o 6º lugar e Hugo Basaula o 15º lugar. Para o mais jovem membro do Team Suzuki Cepsa, Hugo Basaula, esta manga começou muito bem, pois o piloto fez uma partida fenomenal e assumiu a 3ª posição no pelotão. Mas uma queda que sofreu num salto, fez com que tivesse que recuperar da última posição e já com muito tempo de atraso para os seus adversários. Após uma recuperação endiabrada conseguiu então a 15º posição final. Ricardo Pereira esteve mais uma vez muito regular e rápido terminando no 6º lugar com a Suzuki RMZ 250. Na classe maior, Ricardo Pazos, partiu determinado a melhorar a sua prestação relativamente à Águeda, e com uma condução mais adaptada à Suzuki RMZ 450, alcançou o 3º lugar, muito perto de Paulo Gonçalves que secundou Hugo Santos no Podium | Podium. No final da tarde realizou-se a manga do Absoluto, e mais uma vez Luís Correia demonstrou porque é o piloto mais rápido a correr em Portugal com máquinas da classe 125. Alcançou o 3º lugar em termos de Absoluto e foi o melhor piloto da classe 125. Para Ricardo Pazos esta manga ficou marcada por uma queda espectacular que sofreu logo na volta inicial e quando tentava assumir a liderança, numa descida em que os pilotos alcançam velocidades muito elevadas. Apesar do grande aparato da queda, Ricardo Pazos pode prosseguir em prova, pois os seus equipamentos protegeram-no de lesões graves, nomeadamente o capacete CMS, botas Oxtar e equipamento Shift. Apesar de ter quase uma volta de atraso para os seus adversários, não baixou os braços e realizou uma grande recuperação, alcançando o 12º lugar. Para o publico presente a luta travada entre Hugo Basaula e Ricardo Pereira foi empolgante, pois os pilotos trocavam de posições em todo o percurso da pista. No final seria Ricardo Pereira a levar a melhor sobre o colega de equipa, alcançando o 11º lugar e Hugo Basaula o 17º lugar. Esta prova também contava para o Troféu Suzuki Cepsa Cetelem Motojornal, e o lugar mais alto do Podium | Podium voltou a ser ocupado por Ricardo Pereira, que assim permanece invicto deste o início desta iniciativa em 2004.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 49,
+        "end": 61
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 102
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 104,
+        "end": 116
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 120,
+        "end": 134
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 221,
+        "end": 226
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 244,
+        "end": 276
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 294,
+        "end": 306
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 310,
+        "end": 330
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 405,
+        "end": 432
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 499,
+        "end": 508
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 548,
+        "end": 560
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 703,
+        "end": 720
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 722,
+        "end": 727
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 769,
+        "end": 771
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 952,
+        "end": 974
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1064,
+        "end": 1096
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 1105,
+        "end": 1108
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 1178,
+        "end": 1193
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 1206,
+        "end": 1208
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 1217,
+        "end": 1229
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 1232,
+        "end": 1235
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1271,
+        "end": 1288
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1290,
+        "end": 1302
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "valor",
+      "span": {
+        "begin": 1386,
+        "end": 1388
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "valor",
+      "span": {
+        "begin": 1604,
+        "end": 1607
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1623,
+        "end": 1638
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "valor",
+      "span": {
+        "begin": 1696,
+        "end": 1698
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "outro",
+      "span": {
+        "begin": 1711,
+        "end": 1725
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 1744,
+        "end": 1757
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1821,
+        "end": 1827
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "outro",
+      "span": {
+        "begin": 1864,
+        "end": 1878
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "valor",
+      "span": {
+        "begin": 1891,
+        "end": 1893
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "individuo",
+      "span": {
+        "begin": 1916,
+        "end": 1931
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 1945,
+        "end": 1956
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "outro",
+      "span": {
+        "begin": 1960,
+        "end": 1966
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1977,
+        "end": 1994
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "outro",
+      "span": {
+        "begin": 2018,
+        "end": 2026
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 2043,
+        "end": 2055
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 2109,
+        "end": 2117
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "outro",
+      "span": {
+        "begin": 2141,
+        "end": 2144
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "valor",
+      "span": {
+        "begin": 2157,
+        "end": 2159
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "outro",
+      "span": {
+        "begin": 2179,
+        "end": 2187
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "outro",
+      "span": {
+        "begin": 2220,
+        "end": 2223
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "individuo",
+      "span": {
+        "begin": 2230,
+        "end": 2243
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "individuo",
+      "span": {
+        "begin": 2470,
+        "end": 2483
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "outro",
+      "span": {
+        "begin": 2592,
+        "end": 2595
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "outro",
+      "span": {
+        "begin": 2603,
+        "end": 2608
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "outro",
+      "span": {
+        "begin": 2623,
+        "end": 2628
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "valor",
+      "span": {
+        "begin": 2765,
+        "end": 2768
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "individuo",
+      "span": {
+        "begin": 2821,
+        "end": 2833
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "individuo",
+      "span": {
+        "begin": 2836,
+        "end": 2851
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "individuo",
+      "span": {
+        "begin": 2949,
+        "end": 2964
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "valor",
+      "span": {
+        "begin": 3021,
+        "end": 3024
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "individuo",
+      "span": {
+        "begin": 3033,
+        "end": 3045
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "valor",
+      "span": {
+        "begin": 3048,
+        "end": 3051
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 3092,
+        "end": 3130
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "outro",
+      "span": {
+        "begin": 3155,
+        "end": 3161
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "individuo",
+      "span": {
+        "begin": 3196,
+        "end": 3211
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "tempo",
+      "span": {
+        "begin": 3273,
+        "end": 3280
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "participante_em",
+      "subj": "T5",
+      "obj": "T58"
+    },
+    {
+      "id": "R4",
+      "pred": "propriedade_de",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "data_de",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R8",
+      "pred": "sede_de",
+      "subj": "T10",
+      "obj": "T8"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R10",
+      "pred": "pratica_se",
+      "subj": "T12",
+      "obj": "T8"
+    },
+    {
+      "id": "R11",
+      "pred": "praticado_por",
+      "subj": "T12",
+      "obj": "T3"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T8"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T7"
+    },
+    {
+      "id": "R16",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "ter_participacao_de",
+      "subj": "T20",
+      "obj": "T3"
+    },
+    {
+      "id": "R18",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T1"
+    },
+    {
+      "id": "R19",
+      "pred": "ter_participacao_de",
+      "subj": "T22",
+      "obj": "T3"
+    },
+    {
+      "id": "R20",
+      "pred": "praticante_de",
+      "subj": "T22",
+      "obj": "T12"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T1"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T22"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T20"
+    },
+    {
+      "id": "R24",
+      "pred": "praticante_de",
+      "subj": "T28",
+      "obj": "T12"
+    },
+    {
+      "id": "R25",
+      "pred": "propriedade_de",
+      "subj": "T30",
+      "obj": "T20"
+    },
+    {
+      "id": "R26",
+      "pred": "ter_participacao_de",
+      "subj": "T31",
+      "obj": "T8"
+    },
+    {
+      "id": "R27",
+      "pred": "praticante_de",
+      "subj": "T31",
+      "obj": "T12"
+    },
+    {
+      "id": "R28",
+      "pred": "propriedade_de",
+      "subj": "T33",
+      "obj": "T31"
+    },
+    {
+      "id": "R29",
+      "pred": "ter_participacao_de",
+      "subj": "T35",
+      "obj": "T8"
+    },
+    {
+      "id": "R30",
+      "pred": "praticante_de",
+      "subj": "T35",
+      "obj": "T12"
+    },
+    {
+      "id": "R31",
+      "pred": "ter_participacao_de",
+      "subj": "T36",
+      "obj": "T8"
+    },
+    {
+      "id": "R32",
+      "pred": "praticante_de",
+      "subj": "T36",
+      "obj": "T12"
+    },
+    {
+      "id": "R33",
+      "pred": "ident",
+      "subj": "T52",
+      "obj": "T22"
+    },
+    {
+      "id": "R34",
+      "pred": "ident",
+      "subj": "T53",
+      "obj": "T20"
+    },
+    {
+      "id": "R35",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T20"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T56",
+      "obj": "T22"
+    },
+    {
+      "id": "R37",
+      "pred": "participante_em",
+      "subj": "T56",
+      "obj": "T58"
+    },
+    {
+      "id": "R38",
+      "pred": "inclui",
+      "subj": "T58",
+      "obj": "T4"
+    },
+    {
+      "id": "R39",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T20"
+    },
+    {
+      "id": "R40",
+      "pred": "participante_em",
+      "subj": "T60",
+      "obj": "T58"
+    }
+  ]
+}

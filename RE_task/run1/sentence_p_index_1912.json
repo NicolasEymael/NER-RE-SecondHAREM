@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o director de operações da NASA?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Vírus no sistema. O Mocinho verdadeiro desta história- o anti herói - não é a sociedade,mas sim o homem.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

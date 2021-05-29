@@ -1,0 +1,29 @@
+{
+  "text": " Bibliografia de Censurados. Os Censurados nasceram em Lisboa \"no ano de 1988, pelo antigo vocalista da banda Ku de Judas, João Ribas, juntando-se-lhe Orlando Cohen, o ex-membro dos Peste & Sida, Samuel Palitos e ainda Fred Valsassina. Os Censurados começaram por tocar ao vivo. Muito. As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude da era Cavaquista. O primeiro registo em vinil, na compilação \"Feedback\" incluiu os temas \"Senhores Politicos\", Não Vales Nada\" e \"Está a andar de Mota\" (um instrumental). \"Tu ò Bófia\", \"Não Vales Nada\", \"Angústia\", \"Senhores Politicos\" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum \"Censurados\"1990. Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao Punk e Hardore \"na altura, a Maximum Rockn'Roll(EUA) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos. Em 1991 editam o 2º | 2º album \"Confusão\" e passam os anos seguintes na estrada. Em 1993 sai o \"Sopa\" com o single de mesmo nome e uma participação de Jorge Palma na música \"Estou agarrado a ti\". O ano de 1994 é o ano da despedida, mas antes participam no tributo a Zeca Afonso, \"Filhos da Madrugada\" com a reedição do tema \"O que faz falta\". Em 1998 a editora \"El Tatu\" de Tim reedita os albuns \"Censurados\" e \"Sopa\". Em 1999 os Censurados reaparecem, para rejubilo dos fãns, participando no tributo de Xutos & Pontapés, \"XX Anos XX Bandas\". Participaram na tourné de promoção desse disco com os Xutos, mas ao contrário do que se esperava os Censurados ficaram por aí, não voltando nunca mais. Em 2006 é lançado a biografia da banda, \"Censurados Até Morrer\", escrita por Augusto Figueira e Renato Conteiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 219,
+        "end": 234
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

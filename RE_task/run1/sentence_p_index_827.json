@@ -1,0 +1,29 @@
+{
+  "text": "Tratado de Lisboa ( 2007 )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 20,
+        "end": 24
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

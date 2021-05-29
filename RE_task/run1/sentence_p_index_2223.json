@@ -1,0 +1,14 @@
+{
+  "text": "6.2. Como faço para publicar meu artigo numa edição do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 59
+      }
+    }
+  ],
+  "relations": []
+}

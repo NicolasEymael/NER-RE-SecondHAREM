@@ -1,0 +1,14 @@
+{
+  "text": "Quando viveu Ludwig Wittgenstein?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

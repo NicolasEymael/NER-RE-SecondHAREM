@@ -1,0 +1,70 @@
+{
+  "text": "Por seu lado, Jesualdo Ferreira tem um balanço negativo nos confrontos com o Benfica, com quatro vitórias, três empates e cinco derrotas (13-19 em golos), mas nunca perdeu ao comando do FC Porto: \"a época passada, venceu no Dragão (3-2) e empatou na Luz (1-1).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 77,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 138,
+        "end": 143
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 186,
+        "end": 194
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 224,
+        "end": 230
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 232,
+        "end": 235
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 250,
+        "end": 253
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 255,
+        "end": 258
+      }
+    }
+  ],
+  "relations": []
+}

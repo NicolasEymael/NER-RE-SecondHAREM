@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamam as bolas usadas no Quidditch?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 34,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

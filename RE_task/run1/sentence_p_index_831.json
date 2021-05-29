@@ -1,0 +1,117 @@
+{
+  "text": "A emenda proposta pela Presidência alemã do Conselho da União Europeia | Conselho da União Europeia ( 2007 ) a 19 de Maio de 2007 incluiu a \"essência da Constituição \". A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos 27 estados membros durante o primeiro semestre de 2007 . Decidiu-se abandonar o formato do ' Tratado constitucional ' e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o Tratado da União Europeia e o Tratado da Comunidade Europeia , que passaria a chamar-se Tratado sobre o funcionamento da União .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 70
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 73,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 85,
+        "end": 99
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 106
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 109,
+        "end": 129
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 153,
+        "end": 165
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 264,
+        "end": 266
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 283,
+        "end": 318
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 357,
+        "end": 379
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 499,
+        "end": 524
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 529,
+        "end": 559
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 587,
+        "end": 625
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Quem venceu o open da Austrália em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 32,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

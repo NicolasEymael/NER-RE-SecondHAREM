@@ -1,0 +1,30 @@
+{
+  "text": "Pêro da Covilhã torna-se, entretanto, escudeiro da guarda real e casa com Catarina que em poucos meses engravida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 82
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 102
+      }
+    }
+  ],
+  "relations": []
+}

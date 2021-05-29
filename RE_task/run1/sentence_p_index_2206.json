@@ -1,0 +1,59 @@
+{
+  "text": "A Diretoria do IBAP | Diretoria do IBAP tem estrutura colegiada. A Diretoria Nacional é formada por oito coordenadores gerais e um conselho assessor formado por seis associados eleitos em Assembléia Geral.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 31
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 39
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 67,
+        "end": 85
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 188,
+        "end": 204
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

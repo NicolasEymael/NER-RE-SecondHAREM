@@ -1,0 +1,14 @@
+{
+  "text": "Que profundidade atinge a Fossa das Marianas? Onde fica? Quando se atingiu o seu fundo? Por que veículo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

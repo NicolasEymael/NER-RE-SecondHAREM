@@ -1,0 +1,129 @@
+{
+  "text": "Alista-se com 25 anos na armada que foi à Índia, comandada por Francisco de Almeida, embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu oito anos, que esteve em Goa, Cochim, Quíloa, que acompanhou Diogo Lopes de Sequeira a Malaca, viagem que acabou em naufrágio. No Oriente, Magalhães estabeleceu estreitas relações de amizade com Francisco Serrão, que veio a ser feitor nas Molucas; dele teria tido informações quanto à situação dos lugares produtores de especiarias.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 14,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 166,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 191,
+        "end": 194
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 202
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 210
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 227,
+        "end": 250
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 253,
+        "end": 259
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 296,
+        "end": 303
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 305,
+        "end": 314
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 361,
+        "end": 377
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 405,
+        "end": 412
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T10"
+    }
+  ]
+}

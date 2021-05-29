@@ -1,0 +1,22 @@
+{
+  "text": "Bem baixinho, só aqui pra nós do Overmundo, a cobertura é um espetáculo a mais, embora não fizesse parte da programação. Um estouro, como diz vovó Marinalva.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 33,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 142,
+        "end": 156
+      }
+    }
+  ],
+  "relations": []
+}

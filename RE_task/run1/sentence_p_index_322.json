@@ -1,0 +1,46 @@
+{
+  "text": "Após intensas negociações, o Consenso Europeu foi adoptado pelo CAGRE em 20 de Novembro , tendo-se conseguido que, na sua versão final, o Consenso não imponha limitações ao uso de recursos de protecção civil nos cenários de desastres naturais, tecnológicos e ambientais em tempo de paz. No entanto, para situações de emergências complexas (conflitos ou situações de fragilidade) o uso de meios de protecção civil acabou por ser considerado como excepcional.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 29,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 64,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 70,
+        "end": 87
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 138,
+        "end": 146
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 270,
+        "end": 278
+      }
+    }
+  ],
+  "relations": []
+}

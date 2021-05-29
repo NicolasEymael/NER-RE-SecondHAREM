@@ -1,0 +1,29 @@
+{
+  "text": "Em que ano nasceu Christian von Holst em Gdansk?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

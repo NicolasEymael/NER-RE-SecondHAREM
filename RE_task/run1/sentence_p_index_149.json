@@ -1,0 +1,103 @@
+{
+  "text": "Semana Académica da Universidade de Aveiro | Semana Académica da Universidade de Aveiro| Semana Académica da Universidade de Aveiro ( 2006 ) com Pluto e Expensive Soul",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 45,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 65,
+        "end": 87
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 89,
+        "end": 105
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 109,
+        "end": 121
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 131
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 134,
+        "end": 138
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 145,
+        "end": 150
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 153,
+        "end": 167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T7",
+      "obj": "T1"
+    }
+  ]
+}

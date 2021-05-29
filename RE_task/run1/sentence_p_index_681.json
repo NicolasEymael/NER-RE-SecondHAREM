@@ -1,0 +1,38 @@
+{
+  "text": "Pedro ou Pêro da Covilhã ( Covilhã ?, 1450? --- 1530? ) foi um diplomata e explorador português.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 24
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 34
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

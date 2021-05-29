@@ -1,0 +1,30 @@
+{
+  "text": "\"Trata-se de um êxito extraordinário de que a UE se deve sentir orgulhosa. É particularmente importante que aconteça numa Europa alargada que esteve dividia por regimes ditatoriais. Se conjugarmos esforços para estimular esta cultura de direitos humanos, daremos um contributo essencial para uma Europa de valores\", concluiu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 122,
+        "end": 128
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 296,
+        "end": 302
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o actor principal do filme «Tarzan, o Homem-Macaco»? Quanto recordes mundiais é que ele bateu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 35,
+        "end": 57
+      }
+    }
+  ],
+  "relations": []
+}

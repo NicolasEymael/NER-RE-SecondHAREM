@@ -1,0 +1,14 @@
+{
+  "text": "Que animais puxam o carro de Cíbele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

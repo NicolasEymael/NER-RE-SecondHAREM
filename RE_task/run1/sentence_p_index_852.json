@@ -1,0 +1,22 @@
+{
+  "text": "Dr. Frederick Werthan - The Seduction of the Inocents",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 24,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

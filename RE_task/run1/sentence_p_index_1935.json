@@ -1,0 +1,30 @@
+{
+  "text": "Onde se realizaram os Jogos Olímpicos de 1993 | Jogos Olímpicos de 1993?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 22,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 48,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 71
+      }
+    }
+  ],
+  "relations": []
+}

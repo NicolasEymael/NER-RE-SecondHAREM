@@ -1,0 +1,14 @@
+{
+  "text": "Por Hari Kunzru",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

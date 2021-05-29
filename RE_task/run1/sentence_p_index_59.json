@@ -1,0 +1,62 @@
+{
+  "text": "Estava, estava em Portugal , e foi lá parece, casar com uma senhora que era a rainha da Boémia | rainha da Boémia e que ... tinha um filho. Mas isto foi muito mais tarde, foi aos quinze anos ... ou dezasseis , porqu nós fomos. Não íamos nunca seguidamente para um sítio, não é? ìamos um aano para uma praia, outro ano para outra...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 18,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 78,
+        "end": 94
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 107,
+        "end": 113
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 169
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 179,
+        "end": 190
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 198,
+        "end": 207
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 308,
+        "end": 317
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,38 @@
+{
+  "text": "No Reino Unido , Tintim na África é vendido entre os livros adultos, não entre os juvenis, justamente por conta do conteúdo racista. Traz na capa um alerta. Já velho, antes de morrer, Hergé falou da obra. \"Quando jovem, disse, \"fui muito influenciado pelos preconceitos e estereótipos burgueses do tempo. Ele listava Tintim na África entre seus pecados de juventude.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 17,
+        "end": 33
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 184,
+        "end": 189
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 317,
+        "end": 333
+      }
+    }
+  ],
+  "relations": []
+}

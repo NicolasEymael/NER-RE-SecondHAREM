@@ -1,0 +1,22 @@
+{
+  "text": "Quantas horas há de diferença entre Nova Iorque e São Francisco?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 50,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

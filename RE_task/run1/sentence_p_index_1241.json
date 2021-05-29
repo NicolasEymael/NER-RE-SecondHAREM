@@ -1,0 +1,54 @@
+{
+  "text": "Também Houaiss se aproximava das atividades de Oiticica no que toca a uma permanente e intensa atuação como crítico literário, labor que não praticavam, com regularidade, Nascentes nem Sousa da Silveira. Curioso é que até neste domínio Houaiss se aproxima de Oiticica, pois que a crítica literária entre eles assinala o domínio de menor relevo e importância de suas atividades.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 47,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 171,
+        "end": 180
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 185,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 236,
+        "end": 243
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 259,
+        "end": 267
+      }
+    }
+  ],
+  "relations": []
+}

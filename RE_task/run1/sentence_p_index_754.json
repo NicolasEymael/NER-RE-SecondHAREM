@@ -1,0 +1,46 @@
+{
+  "text": "Sob o comando de Watson-Watt, que liderou um projeto secreto, os ingleses desenvolveram o primeiro identificador activo de amigo ou inimigo (IFF -- Identify Friend or Foe) . Foi colocado um transmissor em cada avião britânico. Quando esses transmissores recebiam sinais das estações de radar no solo, começavam a transmitir um sinal de resposta, que identificava o aeroplano como Friendly (amigo). Os RFID funcionam no mesmo princípio básico. Um sinal é enviado a um transponder, o qual é ativado e reflete de volta o sinal (sistema passivo) ou transmite seu próprio sinal (sistemas ativos).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 141,
+        "end": 144
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 148,
+        "end": 170
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 380,
+        "end": 388
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 401,
+        "end": 405
+      }
+    }
+  ],
+  "relations": []
+}

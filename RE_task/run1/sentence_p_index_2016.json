@@ -1,0 +1,14 @@
+{
+  "text": "Quanta cerveja bebe um brasileiro anualmente?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

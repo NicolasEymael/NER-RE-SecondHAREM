@@ -1,0 +1,37 @@
+{
+  "text": "Em França, quem foi nomeado Primeiro Ministro a 17 de Maio de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 46,
+        "end": 66
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

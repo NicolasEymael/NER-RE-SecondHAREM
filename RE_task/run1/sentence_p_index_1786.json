@@ -1,0 +1,14 @@
+{
+  "text": "Além da girafa, que outro animal pertence à família Giraffidae?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 52,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

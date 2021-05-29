@@ -1,0 +1,14 @@
+{
+  "text": "A que movimento político pertence a Arlette Laguiller?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 36,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

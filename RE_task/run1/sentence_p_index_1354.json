@@ -1,0 +1,29 @@
+{
+  "text": "Quem inaugurou o Templo de Debod em Madrid?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 42
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

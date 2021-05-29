@@ -1,0 +1,61 @@
+{
+  "text": "Também o Presidente da Comissão Europeia | Presidente da Comissão Europeia , José Manuel Durão BARROSO , declarou que, com a Carta dos Direitos Fundamentais , a Europa está \"mais equipada para levar a cabo o seu combate pela liberdade, democracia e paz\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 43,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 57,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 102
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 125,
+        "end": 156
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 161,
+        "end": 167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

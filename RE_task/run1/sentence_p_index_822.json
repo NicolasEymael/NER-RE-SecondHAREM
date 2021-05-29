@@ -1,0 +1,141 @@
+{
+  "text": "Cerca de 5 mil polícias foram destacados para estarem de serviço em Londres por ocasião da passagem do Tour por Inglaterra . A segurança foi reforçada depois dos atentados terroristas verificados a semana passada na capital inglesa e em Glasgow . E, para além do Tour , há ainda o Torneio de Ténis de Wimbledon | Torneio de Ténis de Wimbledon , e o GP de F1 de Silverstone | GP de F1 de Silverstone .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 122
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 196,
+        "end": 212
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 237,
+        "end": 244
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 263,
+        "end": 267
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 281,
+        "end": 310
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 313,
+        "end": 329
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 333,
+        "end": 342
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 349,
+        "end": 372
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 375,
+        "end": 383
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 387,
+        "end": 398
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "localizado_em",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T4"
+    }
+  ]
+}

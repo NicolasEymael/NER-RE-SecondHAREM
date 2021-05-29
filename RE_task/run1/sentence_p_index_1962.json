@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a terceira maior cidade da Baviera?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

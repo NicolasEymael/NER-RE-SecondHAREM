@@ -1,0 +1,91 @@
+{
+  "text": "2. O Benfica jogava em Guimarães sob o peso de ter três jogadores ameaçados de não poderem defrontar o FC Porto caso vissem um cartão amarelo. Lucílio Baptista foi a escolha adequada para a ocasião (mas digo desde já que nenhum daqueles três mereceu um amarelo). Mas, no resto, Lucílio não deixou os seus predicados por mãos alheias: num jogo sem dureza nem indisciplina, com faltas distribuídas por igual por ambas as equipas, Lucílio Batista conseguiu marcar o dobro de faltas ao Vitória , deixando inúmeras por assinalar contra o Benfica , e mostrar sete cartões amarelos a jogadores do Guimarães contra apenas um aos benfiquistas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 5,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 111
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 143,
+        "end": 159
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 278,
+        "end": 285
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 428,
+        "end": 443
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 482,
+        "end": 489
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 533,
+        "end": 540
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 590,
+        "end": 599
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

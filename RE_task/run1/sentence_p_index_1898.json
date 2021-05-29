@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano teve lugar o Desembarque da Normandia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

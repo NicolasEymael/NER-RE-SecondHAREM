@@ -1,0 +1,22 @@
+{
+  "text": "Quantas pessoas morreram na Europa durante a epidemia de peste do século XIV?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 63,
+        "end": 76
+      }
+    }
+  ],
+  "relations": []
+}

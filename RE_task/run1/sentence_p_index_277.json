@@ -1,0 +1,70 @@
+{
+  "text": "\"O Observatório de Coimbra | Observatório de Coimbra tem um grande acervo de imagens do Sol , que registam diariamente desde os anos vinte do século passado , e estão a digitalizar essas imagens para que possam estar à disposição das escolas\", explica Rosa Doran , realçando que desta forma \"os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol nas últimas décadas e comparar essa evolução, por exemplo, com as mudanças do clima\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 41
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 45,
+        "end": 52
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 88,
+        "end": 91
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 107,
+        "end": 118
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 119,
+        "end": 156
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 252,
+        "end": 262
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 388,
+        "end": 407
+      }
+    }
+  ],
+  "relations": []
+}

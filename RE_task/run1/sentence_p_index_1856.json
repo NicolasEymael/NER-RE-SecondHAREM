@@ -1,0 +1,14 @@
+{
+  "text": "Quem sucedeu a Augusto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

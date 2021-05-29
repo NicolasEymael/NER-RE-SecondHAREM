@@ -1,0 +1,14 @@
+{
+  "text": "Que vírus atingiu o Zaire?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

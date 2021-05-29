@@ -1,0 +1,57 @@
+{
+  "text": "1. Acabou para Sócrates o alibi dos governos anteriores. Com excepcionais condições de governação, com maioria absoluta, com o show europeu para dar dimensão internacional, sem «forças de bloqueio» na Presidência, com uma oposição nos dois primeiros anos muito mais responsável do que alguma vez o PS foi, gozando de muitas simpatias e ainda de mais cumplicidades, mas agora são os resultados que se esperam.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 201,
+        "end": 212
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 231,
+        "end": 254
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 298,
+        "end": 300
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

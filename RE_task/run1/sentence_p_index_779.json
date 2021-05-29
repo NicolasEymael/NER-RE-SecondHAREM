@@ -1,0 +1,62 @@
+{
+  "text": "O piloto português Carlos Sousa revelou que tem \"capacidade para chegar ao pódio\" dos automóveis na edição de 2008 do Lisboa-Dakar | Lisboa - Dakar cujo percurso foi hoje apresentado em Lisboa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 107,
+        "end": 114
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 133,
+        "end": 139
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 142,
+        "end": 147
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 166,
+        "end": 170
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 186,
+        "end": 192
+      }
+    }
+  ],
+  "relations": []
+}

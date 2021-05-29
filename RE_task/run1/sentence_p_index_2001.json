@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica Beslan?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

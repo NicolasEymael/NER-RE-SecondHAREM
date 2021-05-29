@@ -1,0 +1,14 @@
+{
+  "text": "O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil. Funciona com o sistema operativo MacOS X , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 123,
+        "end": 130
+      }
+    }
+  ],
+  "relations": []
+}

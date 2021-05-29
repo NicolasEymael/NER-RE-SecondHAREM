@@ -1,0 +1,61 @@
+{
+  "text": "Sem contas fechadas, os CTT adiantam que «os preços dos serviços de correios não vão aumentar já em Janeiro» e, na água, o Instituto Regulador das Águas e Resíduos (IRAR) diz que o procedimento para 2008 está actualmente em curso, prevendo-se a sua conclusão em Janeiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 123,
+        "end": 163
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 165,
+        "end": 169
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 194,
+        "end": 203
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 259,
+        "end": 269
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

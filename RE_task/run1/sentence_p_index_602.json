@@ -1,0 +1,38 @@
+{
+  "text": "O facto de ter o sistema operativo OS X - usado nos computadores da Apple - significa que o iPhone terá muitas das funções habituais naquelas máquinas. Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do Google .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 35,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 68,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 92,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 231,
+        "end": 237
+      }
+    }
+  ],
+  "relations": []
+}

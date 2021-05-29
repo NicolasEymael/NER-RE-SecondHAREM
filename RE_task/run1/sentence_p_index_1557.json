@@ -1,0 +1,29 @@
+{
+  "text": "Quem ganhou o Torneio das Cinco Nações em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 14,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 39,
+        "end": 46
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "text": "As Directrizes de Oslo são um documento das Nações Unidas , destinado a orientar o uso de meios militares e da defesa civil nos cenários de emergências naturais, tecnológicas ou ambientais em tempo de paz. Aquando da última revisão destas directrizes, em 2006 , os recursos de protecção civil foram englobados no mesmo grupo dos recursos militares, implicando que apenas poderiam ser utilizados como «último recurso», após esgotamento de outras alternativas civis.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 3,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 189,
+        "end": 197
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 252,
+        "end": 259
+      }
+    }
+  ],
+  "relations": []
+}

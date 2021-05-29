@@ -1,0 +1,14 @@
+{
+  "text": "Quantos cavalos tem as turbinas do USS Nimitz?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 35,
+        "end": 45
+      }
+    }
+  ],
+  "relations": []
+}

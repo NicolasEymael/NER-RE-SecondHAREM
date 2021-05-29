@@ -1,0 +1,99 @@
+{
+  "text": "Impelido pela caça às bruxas do Senador Joseph MacCarthy - cujo alvo foi, principalmente, atores, roteiristas e diretores de Hollywood acusados de comunismo - e o livro do Dr. Werthan , o governo norte-americano tentou acabar com todo o tipo de publicação cujo conteúdo fosse considerado \"imoral\" ou \"impróprio\". A primeira a dançar foi a EC Comics . Todos seus títulos foram proibidos e a MAD passou a pegar menos pesado em suas sátiras e mudou de formato para poder continuar nas bancas. Outro caso célebre foi a perseguição que o criador de Ferdinando , All Capp , sofreu por causa de uma história sobre os schmoos, um bichinho fictício semelhante a uma foca que se proliferava à velocidade da luz e tinha uma carne deliciosa, além de dar leite e pôr ovos. Na história, os Estados Unidos entram em polvorosa porque ninguém mais queria trabalhar, já que todo mundo tinha um schmoo em casa e não passava mais fome. Por isso, o schmoos foram considerados pelo governo como uma apologia ao comunismo e All Capp teve que tirá-los das aventuras de Ferdinando .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 134
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 172,
+        "end": 183
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 339,
+        "end": 348
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 390,
+        "end": 393
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 544,
+        "end": 554
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 557,
+        "end": 565
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 776,
+        "end": 790
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 1001,
+        "end": 1009
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 1045,
+        "end": 1055
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T6"
+    }
+  ]
+}

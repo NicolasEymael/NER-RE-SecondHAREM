@@ -1,0 +1,22 @@
+{
+  "text": "O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de 9 de Março , e salienta frequentemente o seu balanço económico positivo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 95,
+        "end": 105
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 119,
+        "end": 133
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que é Zanussi? Onde é que fica a sede?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

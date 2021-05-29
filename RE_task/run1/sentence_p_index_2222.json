@@ -1,0 +1,213 @@
+{
+  "text": "O IBAP já editou três volumes da Série Advocacia Pública e Sociedade: \"Direitos da Pessoa Portadora de Deficiência\", \"Primeiro Congresso Brasileiro de Advocacia Pública\" e \"Temas de Direito Ambiental e Urbanístico\", todos pela Editora Max Limonad e distribuídos gratuitamente aos associados regulares. No mês de maio de 2000 estará sendo lançado o livro \"Temas de Direito Constitucional - Estudos em Homenagem ao Advogado Público André Franco Montoro\", pela Editora Esplanada, também com distribuição gratuita para associados regulares. Além de livros, o IBAP também publica trimestralmente a Revista Advocacia Pública que, no mês de abril de 2000 já se encontrava em sua nona edição. A partir de maio de 2000 estará sendo lançada a Revista de Direitos Difusos, com mais de 100 páginas e periodicidade bimestral, distribuída também gratuitamente aos associados regulares. O IBAP também publicou a Série Advocacia Pública em Debate, consiscia Internet.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 33,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 71,
+        "end": 114
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 118,
+        "end": 168
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 173,
+        "end": 213
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 227,
+        "end": 246
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 302,
+        "end": 324
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 355,
+        "end": 450
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 458,
+        "end": 475
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 555,
+        "end": 559
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 575,
+        "end": 590
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 593,
+        "end": 618
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 624,
+        "end": 647
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 685,
+        "end": 709
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "obra",
+      "span": {
+        "begin": 733,
+        "end": 760
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 766,
+        "end": 777
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 874,
+        "end": 878
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "obra",
+      "span": {
+        "begin": 897,
+        "end": 930
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 942,
+        "end": 950
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "proprietario_de",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "proprietario_de",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "proprietario_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "data_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R8",
+      "pred": "proprietario_de",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R9",
+      "pred": "proprietario_de",
+      "subj": "T10",
+      "obj": "T8"
+    }
+  ]
+}

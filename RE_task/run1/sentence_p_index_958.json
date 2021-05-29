@@ -1,0 +1,22 @@
+{
+  "text": "O conto, classificado pelo autor como policial, narra o percurso do personagem principal da cama até o jardim em que comete um assassinato como estratégia de sua missão de espionagem. No entanto, no seu enredo (e aqui também me apoio na leitura que Calvino faz dele) Borges desenvolve várias noções acerca do tempo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 249,
+        "end": 256
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 267,
+        "end": 273
+      }
+    }
+  ],
+  "relations": []
+}

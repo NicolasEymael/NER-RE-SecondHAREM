@@ -1,0 +1,14 @@
+{
+  "text": "Tour : Procura-se candidato",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    }
+  ],
+  "relations": []
+}

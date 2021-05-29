@@ -1,0 +1,117 @@
+{
+  "text": "Em 1997, por ocasião do Primeiro Congresso Brasileiro de Advocacia Pública, realizado em Campos do Jordão/SP, a abertura do evento também privilegiou o debate sobre esse tema, ocasião em que Guilherme José Purvin de Figueiredo (PGE/SP | PGE/SP) expôs sobre o tema \"Advocacia Pública: Tendências e Desafios\" e o Deputado Estadual José Eduardo Ferreira Neto, sobre o tema \"Independência das Procuradorias dos Estados e Municípios frente ao Poder Público\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 89,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 108
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 226
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 228,
+        "end": 234
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 241,
+        "end": 243
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 265,
+        "end": 305
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 311,
+        "end": 355
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 371,
+        "end": 451
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "datado_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "outrarel",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

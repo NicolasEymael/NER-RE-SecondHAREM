@@ -1,0 +1,29 @@
+{
+  "text": " Mosteiro de Santa Clara-a-Velha. O Mosteiro de Santa Clara-a-Velha situa-se na margem esquerda do Mondego em frente à cidade de Coimbra, e foi mandado construir por D. Isabel de Aragão | D. Isabel de Aragão, em 1314, no local do primitivo núcleo de monjas clarissas fundado em 1283 por D. Mor Dias. Um curioso exemplar, óbvio momento de experimentação portuguesa do gótico, o Convento de Santa Clara de Coimbra | Convento de Santa Clara de Coimbra, melhor conhecido por Mosteiro de Santa Clara-a-Velha. A fundação é posterior a 1286, mas só com o auxílio de D. Isabel de Aragão | D. Isabel de Aragão, as obras do edifício actual tiveram início. Respeita, em termos de planta e alçados, a disposição dos templos de Clarissas - três naves de sete tramos sem transepto, e cabeceira com três capelas (as dos extremos quadrangulares, poligonal a capela-mor). Ao mestre Domingos Domingues devem-se as primeiras campanhas que decorreram de 1316 até 1325, sendo depois sucedido por Estevão Domingues. Estevão cobriu a nave central de uma abóbada de berço quebrado sustentada em arcos torais de grande porte, desistindo, ao que parece, de a cobrir com cruzaria de ogivas. Mas nas colaterais optou claramente por este sistema, apesar de grandes imperfeições técnicas a que não serão estranhas dificuldades de implantação do templo, que muito cedo se afundaria nos campos alagados do rio Mondego. Não podemos esquecer que o objectivo do mestre foi conseguido: o de construir um templo vertical, (ainda que hoje o afundamento e o piso intermédio construído nos impeça de perceber as proporções esguias do conjunto), bem iluminado por frestas laterais de grande altura. Este templo inscreve-se pela sua importância enquanto estaleiro-escola, numa conjuntura de gradual influência e aceitação dos Franciscanos na corte e na sociedade em geral: a rainha D. Isabel era particularmente dedicada à Ordem, ingressando depois de viúva na Ordem Terceira de São Francisco e fazendo-se sepultar numa magnífica arca feral neste mesmo Mosteiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 594,
+        "end": 600
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 201,
+        "end": 207
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

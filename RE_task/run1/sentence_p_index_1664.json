@@ -1,0 +1,67 @@
+{
+  "text": "Quando é que foram ordenadas as primeiras mulheres pela Igreja de Inglaterra | Igreja de Inglaterra? Quantas mulheres foram ordenadas? Quem é que era então Arcebispo de Cantuária | Arcebispo de Cantuária? Em que catedral é que se realizaram as ordenações?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 56,
+        "end": 76
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 79,
+        "end": 85
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 89,
+        "end": 99
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 156,
+        "end": 178
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 181,
+        "end": 190
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 194,
+        "end": 203
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

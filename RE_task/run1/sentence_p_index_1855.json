@@ -1,0 +1,14 @@
+{
+  "text": "Quantos espartanos lutaram na Batalha das Termópilas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 30,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

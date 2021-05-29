@@ -1,0 +1,251 @@
+{
+  "text": "As comemorações terão assim início já em Dezembro , com a apresentação da Oratória de Natal de J. S. Bach | Oratória de Natal de J. S. Bach pela Akademie für Alte Musik e o RIAS Kammerchor de Berlim , para a qual o preço dos bilhetes varia entre os 5 ( Galerias ) e os 25 EUR ( 1ª Plateia ); em Janeiro , a ópera visual Operação Orfeu, apresentada pela companhia dinamarquesa Hotel ProForma , será também um espectáculo CCB 15 Anos (bilhetes entre 15 e 20 EUR ): CCB 15 Anos será também o ciclo de piano Beethoven 2008 (cinco recitais com o preço único de 15 EUR por concerto). E em Fevereiro haverá três espectáculos integrados nas comemorações : o concerto do quinteto de Enrico Rava , um dos maiores trompetistas de jazz da actualidade, oferecerá preços entre os 5 e os 20 EUR ; as duas récitas da coreografia de William Forsythe Impressing the Czar, pelo Ballet Real da Flandres , terão bilhetes entre 5 e 30 EUR ; e a Carta Branca a Jorge Palma, no último dia do mês , propõe entradas entre 5 e 20 EUR .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 74,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 95,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 108,
+        "end": 139
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 145,
+        "end": 168
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 173,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 192,
+        "end": 198
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 249,
+        "end": 250
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 253,
+        "end": 261
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 269,
+        "end": 275
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 278,
+        "end": 288
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 292,
+        "end": 302
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 320,
+        "end": 334
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 376,
+        "end": 390
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 420,
+        "end": 431
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 442,
+        "end": 459
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 463,
+        "end": 474
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 504,
+        "end": 518
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "valor",
+      "span": {
+        "begin": 556,
+        "end": 562
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 580,
+        "end": 592
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 674,
+        "end": 685
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 757,
+        "end": 779
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 816,
+        "end": 832
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "obra",
+      "span": {
+        "begin": 833,
+        "end": 852
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 859,
+        "end": 882
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "valor",
+      "span": {
+        "begin": 900,
+        "end": 916
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 923,
+        "end": 949
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 951,
+        "end": 971
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "valor",
+      "span": {
+        "begin": 990,
+        "end": 1006
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T24",
+      "obj": "T23"
+    }
+  ]
+}

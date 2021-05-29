@@ -1,0 +1,22 @@
+{
+  "text": "MINISTÉRIOS DO AMBIENTE, DO ORDENAMENTO DO TERRITÓRIO E DO DESENVOLVIMENTO REGIONAL E DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 83
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 139
+      }
+    }
+  ],
+  "relations": []
+}

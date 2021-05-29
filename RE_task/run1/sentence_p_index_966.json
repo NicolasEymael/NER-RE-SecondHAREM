@@ -1,0 +1,38 @@
+{
+  "text": "Mas o Kuduro também é um símbolo dos mais fortes, neste momento , da enorme capacidade da resistência cultural das populações não-brancas, do outrora chamado Terceiro Mundo , diante da pressão globalizante, sinônimo evidente de aculturação.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 6,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 50,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 142,
+        "end": 149
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 158,
+        "end": 172
+      }
+    }
+  ],
+  "relations": []
+}

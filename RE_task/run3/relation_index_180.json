@@ -1,0 +1,29 @@
+{
+  "text": " HEIDEGGER e o 4-4-2: Foi, ontem , apresentado o livro « Liderança - As Lições de José Mourinho » de Luís Lourenço , baseado na sua tese de mestrado. Segundo o autor, José Mourinho \"é diferente por partir de um novo paradigma de pensamento, preconizado por Heidegger ou Morin , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o Todo , que põe de parte a divisão e análise das partes e o pensamento cartesiano de há quatro séculos \". Cada vez que leio isto (e faço-o várias vezes ao dia , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de Stanford Bridge :. - Eh pá, o Chelsea não merecia ter empatado este jogo. - Pois não. Mas a primeira parte foi tão má que parecia que o Mourinho não tinha lido « O Ser e o Tempo ». - Quantas vezes é que o Heidegger avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?. - Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o Mourinho não conseguiu ver o Todo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1042,
+        "end": 1046
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 345,
+        "end": 349
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

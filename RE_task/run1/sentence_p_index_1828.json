@@ -1,0 +1,22 @@
+{
+  "text": "Que cidades realizaram Jogos Olímpicos antes de 1900?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 23,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 39,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

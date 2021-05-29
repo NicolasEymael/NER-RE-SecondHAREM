@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a sigla da Administração Federal de Aviação?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

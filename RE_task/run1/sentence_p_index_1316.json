@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava o barco de Costeau?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Depois de a Carta ser assinada pelos Presidentes das três instituições, ouviu-se o hino europeu no hemiciclo de Estrasburgo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 12,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 123
+      }
+    }
+  ],
+  "relations": []
+}

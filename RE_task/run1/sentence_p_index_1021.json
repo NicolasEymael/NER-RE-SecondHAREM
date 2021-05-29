@@ -1,0 +1,22 @@
+{
+  "text": "A Comissão pela Igualdade Racial , do governo britânico, pediu que as livrarias interrompam a venda de Tintim na África , segundo álbum em quadrinhos de uma das séries mais populares do mundo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 103,
+        "end": 119
+      }
+    }
+  ],
+  "relations": []
+}

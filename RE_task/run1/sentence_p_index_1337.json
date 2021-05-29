@@ -1,0 +1,14 @@
+{
+  "text": "Quantos lugares o parlamento da Islândia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

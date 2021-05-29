@@ -1,0 +1,101 @@
+{
+  "text": "Ao levar para as galerias a estética das HQs, a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido na década de 50. Claro que isso não seria possível sem a renovação promovida pelos Comix. Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade. Jules Feiffer tem suas tiras publicadas nas páginas da elitista New Yorker. Na Europa, François Truffaut, Alain Resnais, Federico Fellini e Umberto Eco, teorizam sobre as HQs e declaram seu amor aos quadrinistas norte-americanos. Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 41,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 147
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 215,
+        "end": 220
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 324,
+        "end": 337
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 388,
+        "end": 398
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 403,
+        "end": 409
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 411,
+        "end": 428
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 430,
+        "end": 443
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 445,
+        "end": 461
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 464,
+        "end": 475
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 495,
+        "end": 498
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

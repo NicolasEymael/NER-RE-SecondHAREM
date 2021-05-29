@@ -1,0 +1,14 @@
+{
+  "text": "Gostava! Tinha uns livros assim muito engraçados, que ainda hoje conheces, que conservo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 60,
+        "end": 64
+      }
+    }
+  ],
+  "relations": []
+}

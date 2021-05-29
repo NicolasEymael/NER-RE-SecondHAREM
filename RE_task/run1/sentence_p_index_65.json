@@ -1,0 +1,14 @@
+{
+  "text": "- Quantas vezes é que o Heidegger avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,181 @@
+{
+  "text": "Em conclusão, a Dinastia de Avis, popular entre o povo após ter guiado Portugal à sua época de ouro, acabou por submergir na busca de um sonho: a União Peninsular. As mesmas complicações causadas pela procriação consanguínea causou as mortes das crianças de D. João III e Catarina de Áustria | Catarina de Áustria e a loucura e desespero dos seus netos (Sebastião e Carlos), os últimos príncipes de Avis-Habsburgo | príncipes de Avis-Habsburgo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 71,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 80,
+        "end": 91
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 146,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 258,
+        "end": 269
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 272,
+        "end": 291
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 294,
+        "end": 302
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 306,
+        "end": 313
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 354,
+        "end": 363
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 366,
+        "end": 372
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 399,
+        "end": 413
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 416,
+        "end": 443
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_familiar",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "relacao_familiar",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "relacao_familiar",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "relacao_familiar",
+      "subj": "T10",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "relacao_familiar",
+      "subj": "T10",
+      "obj": "T6"
+    },
+    {
+      "id": "R7",
+      "pred": "relacao_familiar",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R8",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T9"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T9"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T10"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "text": "A recuperação da confiança nos mercados de capitais deverá estimular a entrada de novas empresas em bolsa, quer através de privatizações, como ANA, TAP e Aquapor, quer através de capital privado, segundo gestores de activos contactados pela Lusa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 143,
+        "end": 146
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 148,
+        "end": 151
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 154,
+        "end": 161
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 241,
+        "end": 245
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Juventude em Durban",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 13,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

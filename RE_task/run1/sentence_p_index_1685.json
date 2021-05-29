@@ -1,0 +1,29 @@
+{
+  "text": "Quem é Thom Rotella? De onde é que ele é? Diga um tipo de viola que Rotella toque. Diga um clube onde ele tenha tocado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "text": "A quantos quilómetros de Huesca fica o Castelo de Loarre | Castelo de Loarre?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 70,
+        "end": 76
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,75 @@
+{
+  "text": "É sempre chocante assistir à decomposição de um país. Mas, após o assassinato de Benazir Bhutto, é o que está acontecendo com o Paquistão. O momento é tenso. Uma revolta popular pode estourar. Agora, que faria sentido declarar Estado de Emergência | Estado de Emergência e impor a Lei Marcial, o presidente Pervez Musharraf está desautorizado. Afinal, há coisa de dois meses, aplicou um golpe contra a Suprema Corte utilizando-se justamente desta tática.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 81,
+        "end": 95
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 128,
+        "end": 137
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 227,
+        "end": 247
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 281,
+        "end": 292
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 296,
+        "end": 323
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 352,
+        "end": 374
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 402,
+        "end": 415
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T2"
+    }
+  ]
+}

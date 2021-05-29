@@ -1,0 +1,515 @@
+{
+  "text": "Tudo começou em 1991 com um grupo de amigos que andavam de Skate em Vitória . Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente Hardcore . Em 1995 lançam a demo-tape \" Re-Progresso \" e três anos depois , seu primeiro CD Full-Lenght | CD Full-Lenght , chamado \" Sirva-se \" pelo selo capixaba Lona Records . Após o \" Sirva-se \", lançaram \" Sonho Médio \" em 1999 e \" Afasia \" em 2001 . Giuliano , até então guitarrista, resolveu deixar a banda, em 2002 lançam o Projeto Peixe Morto e no mesmo ano também lançam o EP 2002 , mas que foi gravado em 2000 . Alguns guitarristas de bandas amigas do Dead Fish foram chamados para quebrar um galho, entre eles: Alexandre \"Capilé\" ( Sugar Kane ), Philippe Fargnoli ( Reffer ) e Tiago \"Hóspede\" ( Aditive ). Em 2003 gravaram um CD Ao Vivo | CD Ao Vivo no Hangar 110 em São Paulo . Murilo , o outro guitarrista do Dead Fish , deixa a banda que ameaça acabar. No fim do mesmo ano , eles recebem uma proposta de uma gravadora, a Deckdisc . A banda aceita a proposta, chama Philippe e Hóspede para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o \" Zero e Um \". Em 2004 , o Dead Fish ganha projeção nacional ao receber o prêmio Video Music Brasil de artista revelação, lançando seu primeiro DVD , o \" MTV Apresenta: Dead Fish \". Em 2006 , lançam mais um disco pela mesma gravadora, chamado \" Um Homem Só \" e tem relançadas sua primeiras demo-tapes pelo selo Laja Records , sob o título de \" Dead Fish - Demo Tapes \". \" Demo Tapes \" ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 13,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 199,
+        "end": 207
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 210,
+        "end": 217
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 239,
+        "end": 251
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 256,
+        "end": 272
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 288,
+        "end": 302
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 332,
+        "end": 340
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 362,
+        "end": 374
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 386,
+        "end": 394
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 409,
+        "end": 420
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 423,
+        "end": 430
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 435,
+        "end": 441
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 444,
+        "end": 451
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 454,
+        "end": 462
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 513,
+        "end": 520
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "obra",
+      "span": {
+        "begin": 530,
+        "end": 549
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 552,
+        "end": 564
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "obra",
+      "span": {
+        "begin": 581,
+        "end": 588
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 611,
+        "end": 618
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 661,
+        "end": 670
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 721,
+        "end": 739
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 742,
+        "end": 752
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 756,
+        "end": 773
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 776,
+        "end": 782
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 787,
+        "end": 802
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 805,
+        "end": 812
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 816,
+        "end": 823
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "outro",
+      "span": {
+        "begin": 836,
+        "end": 846
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 863,
+        "end": 873
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 877,
+        "end": 886
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 889,
+        "end": 895
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 921,
+        "end": 930
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 966,
+        "end": 985
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1034,
+        "end": 1042
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 1078,
+        "end": 1086
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "individuo",
+      "span": {
+        "begin": 1089,
+        "end": 1096
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "obra",
+      "span": {
+        "begin": 1187,
+        "end": 1196
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 1200,
+        "end": 1207
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1212,
+        "end": 1221
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "outro",
+      "span": {
+        "begin": 1266,
+        "end": 1284
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "obra",
+      "span": {
+        "begin": 1339,
+        "end": 1363
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "tempo",
+      "span": {
+        "begin": 1367,
+        "end": 1374
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1430,
+        "end": 1441
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1496,
+        "end": 1508
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1529,
+        "end": 1551
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "obra",
+      "span": {
+        "begin": 1557,
+        "end": 1567
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T10"
+    },
+    {
+      "id": "R4",
+      "pred": "produzido_por",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R5",
+      "pred": "data_de",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "data_de",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R7",
+      "pred": "data_de",
+      "subj": "T17",
+      "obj": "T16"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T16"
+    },
+    {
+      "id": "R9",
+      "pred": "data_de",
+      "subj": "T19",
+      "obj": "T16"
+    },
+    {
+      "id": "R10",
+      "pred": "inclui",
+      "subj": "T23",
+      "obj": "T22"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T25",
+      "obj": "T24"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T26"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T31",
+      "obj": "T30"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T24"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T26"
+    },
+    {
+      "id": "R16",
+      "pred": "data_de",
+      "subj": "T38",
+      "obj": "T28"
+    },
+    {
+      "id": "R17",
+      "pred": "outrarel",
+      "subj": "T41",
+      "obj": "T39"
+    },
+    {
+      "id": "R18",
+      "pred": "data_de",
+      "subj": "T42",
+      "obj": "T39"
+    },
+    {
+      "id": "R19",
+      "pred": "datado_de",
+      "subj": "T44",
+      "obj": "T43"
+    },
+    {
+      "id": "R20",
+      "pred": "datado_de",
+      "subj": "T46",
+      "obj": "T43"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T3"
+    },
+    {
+      "id": "R22",
+      "pred": "data_de",
+      "subj": "T47",
+      "obj": "T43"
+    }
+  ]
+}

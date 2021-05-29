@@ -1,0 +1,30 @@
+{
+  "text": "Qual a capacidade do Estádio Santiago Bernabéu nos anos 80? Quem é o dono do estádio? Quanto dinheiro foi gasto na sua ampliação entre 2001 e 2006?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 47,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 129,
+        "end": 146
+      }
+    }
+  ],
+  "relations": []
+}

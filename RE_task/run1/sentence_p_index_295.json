@@ -1,0 +1,62 @@
+{
+  "text": "Pessoa é internado no dia 29 de Novembro de 1935 , no Hospital de São Luís dos Franceses , com diagnóstico de \"cólica hepática\" (provavelmente uma colangite aguda causada por cálculo biliar), falecendo de suas complicações, possivelmente associada a uma cirrose hepática provocada pelo óbvio excesso de álcool ao longo da sua vida (a título de curiosidade acredita-se que era muito fiel à aguardente \" Águia Real \"). No dia 30 de Novembro morre aos 47 anos . Nos últimos momentos da sua vida pede os óculos e clama pelos seus heterónimos. A sua última frase é escrita no idioma no qual foi educado, o inglês: I know not what tomorrow will bring (\"Eu não sei o que o amanhã trará\").",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 88
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 402,
+        "end": 412
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 417,
+        "end": 438
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 449,
+        "end": 456
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 459,
+        "end": 479
+      }
+    }
+  ],
+  "relations": []
+}

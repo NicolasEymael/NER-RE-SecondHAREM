@@ -1,0 +1,30 @@
+{
+  "text": "Na edição da VU Robert Capa era apresentado como o melhor fotógrafo de guerra do Mundo | Mundo e a paginação da reportagem era feito num estilo então vanguardista de fotohistória.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 13,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 81,
+        "end": 86
+      }
+    }
+  ],
+  "relations": []
+}

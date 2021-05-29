@@ -1,0 +1,30 @@
+{
+  "text": "- Sei sim, mas hoje só quero o Tropa mesmo - já quase íntimo do filme do Padilha.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 31,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 73,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

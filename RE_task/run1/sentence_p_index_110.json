@@ -1,0 +1,150 @@
+{
+  "text": "A posição da Europa , dando milhares de milhões que a dispensem de contribuir para uma resolução política, é a mais contraproducente. A Europa prefere pagar para não ser incomodada, e prefere transformar, como transformou, os palestinianos numa nação de pedintes. A velha e cínica Europa , origem de todo este problema, a assassina Europa como lhe chama o escritor israelita Amos Oz , sabe que não pode contrariar os Estados Unidos e não quer contrariar os israelitas por má consciência. Sabe também que os palestinianos são um povo espoliado, banido, revoltado e oprimido, e que parte da responsabilidade histórica dessa opressão lhe pertence. Como contribui para o problema sem contribuir para a solução, a Europa adoptou um discurso de duplicidades e subentendidos, de fraquezas e recuos, de que o senhor Javier Solanas é o exemplo acabado. A rematar o discurso, a Europa passa cheques. Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, de tanto em tanto tempo, a uma compensação monetária. Muitos milhões acabam, como no tempo de Arafat, em contas secretas e nos bolsos de uma oligarquia. Tanto dinheiro não chega para comprar os palestinianos que não estão à venda. Os palestinianos vêem o Muro entrar-lhes pelas vidas dentro, vêem a sua destituição transformada em humilhação, e votam Hamas ou Jihad Islâmica . Em Gaza , as crianças querem ser mártires. E sem Gaza , não haverá Palestina .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 136,
+        "end": 142
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 281,
+        "end": 287
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 332,
+        "end": 338
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 375,
+        "end": 382
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 417,
+        "end": 431
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 709,
+        "end": 715
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 801,
+        "end": 822
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 868,
+        "end": 874
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 1032,
+        "end": 1055
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 1114,
+        "end": 1122
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 1126,
+        "end": 1132
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1287,
+        "end": 1291
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1383,
+        "end": 1388
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1392,
+        "end": 1406
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 1412,
+        "end": 1416
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 1458,
+        "end": 1462
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 1476,
+        "end": 1485
+      }
+    }
+  ],
+  "relations": []
+}

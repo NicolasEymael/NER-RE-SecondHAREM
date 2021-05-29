@@ -1,0 +1,14 @@
+{
+  "text": "O Kuduro e nós. Teria mesmo algo a ver?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2,
+        "end": 8
+      }
+    }
+  ],
+  "relations": []
+}

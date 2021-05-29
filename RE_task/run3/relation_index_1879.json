@@ -1,0 +1,29 @@
+{
+  "text": " CONGRESSOS DO PSD , VOLTEM QUE ESTÃO PERDOADOS. Há poucas coisas que me entristecem tanto como esta história das directas do PSD . É que eu sempre fui um aficcionado dos congressos do PSD . Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: « PSD: Responsabilidade e sentido de Estado .». Habituei-me, ao longo dos anos , a assistir às transmissões televisivas dos congressos social-democratas, madrugada adentro , enquanto comia pipocas. Menos quando Santana Lopes fazia aqueles discursos improvisados, que me provocavam um nó na garganta. Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o Conselho Nacional lhe fez... Cafagestes!». É certo que, agora que já não há intervenções pungentes de Santana Lopes , os congressos do PSD ficariam demasiado dependentes das gaffes de Luís Filipe Menezes . Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem. Costuma-se dizer -- e com razão - que o PSD é o Sport Lisboa e Benfica da política, uma vez que se trata do partido com a maior diversidade de classes sociais. O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão. Segundo Pacheco Pereira , é esta diversidade social que começa a estar seriamente ameaçada. Há uns tempos , escreveu no PÚBLICO que «o problema do PSD é começar a ter só um Portugal ou dois dentro de si». Não podia estar mais em desacordo com esta afirmação. Para mim, é precisamente esse o problema do partido. Se, em vez de « Portugais », o PSD tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado. De resto, fico já satisfeito por ter conseguido escrever um post sobre o PSD , sem uma única referência à baixa estatura de Marques Mendes . (O quê? Isto conta como referência?).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 185,
+        "end": 188
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 18
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

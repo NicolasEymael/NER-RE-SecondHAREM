@@ -1,0 +1,14 @@
+{
+  "text": "Como se chama a primeira mulher a escalar o Evereste sem máscara de oxigénio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

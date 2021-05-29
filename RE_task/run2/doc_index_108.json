@@ -1,0 +1,297 @@
+{
+  "text": " A chamada Cultura Pop sempre foi gerada no caldeirão fervente das periferias. Obvio ululante. Mesmo a cultura HipHop, este emaranhado de atitudes sócio culturais atribuído à juventude desvalida das grandes metrópoles norte americanas, pode ser descrita, coerentemente, como o ôvo do futuro, gerado no mais remoto e desprezado dos passados. Pura relatividade, portanto. Sejamos francos: Não há 'modernidade', 'novidade' possível (pelo menos em se tratando de música e dança populares) fora do contexto efervescente das periferias. Fora dos guetos e favelas nada se cria. Tudo se copia. Sempre foi assim e, talvez, sempre será. O eixo irradiador de toda esta fervura é o mesmo eixo de um centro econômico de cada época, cada ocasião, no caso, em nossos dias, Nova York, onde vicejaram o Rap, o Street Dance, o Grafitti, manifestações criadas nas periferias da grande maçã podre, a Big Apple sem Beatles, sem MacIntosh, sem nada. Se duvidam, experimentem traçar uma linha de tempo e enxerguem (em preto & branco, é claro), lá longe, nos idos dos anos 50, um grupo de negros marcando o tempo com o estalar dos dedos, criando vocais em contraponto, nas esquinas de conjuntos habitacionais infectos ou cantos de quadras de basqueteball suburbanas. Soul e Funk básicos (e ainda o velho Rock and Roll), rolando já ali naquelas manifestações atávicas, quase ancestrais. Firmem a vista e vejam o que se dança nestas esquinas. Andem para trás, um pouco mais, e vejam o som das plaquetas metálicas do sapateado ecoando no paralelepípedos das ruas. Isto mesmo! É aquele mesmo sapateado do Gregory Heynes, do Sammy Davis Junior, antes mal assimilado pelos Fred Astaires de ocasião, usufruidores dos lucros do mainstream, este ambiente insípido, onde tudo que uns criam os outros copiam. Saiam da Broadway, rápido, e vejam mais longe ainda o som vibrante do bate-enxadas e do baticum ritmado das botas dos trabalhadores das estradas de ferro que cruzaram os States de leste á oeste, unificando as distancias, antes, sofridamente, percorridas à cavalo ou pelas empoeiradas diligências que conhecemos nos filmes de Far West (e bota Far nisto). Escutem o que eles cantam. Há work songs, Gospels, Spirituals, Rhytm'n' Blues, Soul e Funk ainda rolando por ali. Querem regredir um pouco mais? Não? Ok. Já sabemos muito bem onde isto vai dar. Os criadores são o que são - ocorre que, no caso deste nosso estranho mundo 'moderno', eles têm sido negros (ou não brancos, tanto faz) desde há muito tempo - É que o universo capitalista é mesmo este insano criador de periferias, pústulas urbanas, lixo debaixo do tapete, encruzilhadas e guerras. Mundo extremista, cruel, que ainda morre disto um dia. Mas, e o Kuduro? Brasileiros que somos, se focarmos mais ainda a nossa lente, vamos encontrar no Kuduro, a mais pura essência (os tonalistas também odeiam este conceito) de nossa tão ambígua e fugidia brasilidade. Duvidam?.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 11,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 111,
+        "end": 117
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 742,
+        "end": 756
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 758,
+        "end": 767
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 786,
+        "end": 789
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 793,
+        "end": 805
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 809,
+        "end": 817
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 880,
+        "end": 889
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 894,
+        "end": 901
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 907,
+        "end": 916
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 1031,
+        "end": 1051
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1243,
+        "end": 1247
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1250,
+        "end": 1254
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1280,
+        "end": 1293
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 1577,
+        "end": 1591
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 1596,
+        "end": 1614
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 1616,
+        "end": 1621
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 1643,
+        "end": 1656
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1783,
+        "end": 1791
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1944,
+        "end": 1950
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1995,
+        "end": 2000
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2099,
+        "end": 2107
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2170,
+        "end": 2177
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2179,
+        "end": 2189
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2191,
+        "end": 2205
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2207,
+        "end": 2211
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2214,
+        "end": 2218
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 2458,
+        "end": 2478
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 2667,
+        "end": 2673
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2684,
+        "end": 2690
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2772,
+        "end": 2778
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_em",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "praticado_em",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "praticado_em",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T12"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T13"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T30"
+    }
+  ]
+}

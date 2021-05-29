@@ -1,0 +1,29 @@
+{
+  "text": " Sistema de Posicionamento Global. O Sistema de Posicionamento Global , vulgarmente conhecido por GPS (do acrónimo do inglês Global Positioning System ), é um sistema de posicionamento por satélite americano, por vezes incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da Terra ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o Galileo europeu e o Compass chinês. O sistema GPS foi criado e é controlado pelo Departamento de Defesa dos Estados Unidos da América | Departamento de Defesa dos Estados Unidos da América , DoD , e pode ser utilizado por qualquer pessoa, gratuitamente, necessitando apenas de um receptor que capte o sinal emitido pelos satélites. O DoD fornece dois tipos de serviços GPS : Standard e Precision . Contrariamente ao que inicialmente acontecia, actualmente os dois serviços estão disponíveis em regime aberto em qualquer parte do mundo. O sistema está dividido em três partes: espacial, de controlo e utilizador. O segmento espacial é composto pela constelação de satélites. O segmento de controlo é formado pelas estações terrestres dispersas pelo mundo ao longo da Zona Equatorial , responsáveis pela monitorização das órbitas dos satélites, sincronização dos relógios atómicos de bordo dos satélites e actualização dos dados de almanaque que os satélites transmitem. O segmento do utilizador consiste num receptor que capta os sinais emitidos pelos satélites. Um receptor GPS ( GPSR ) descodifica as transmissões do sinal de código e fase de múltiplos satélites e calcula a sua posição com base nas distâncias a estes. A posição é dada por latitude, longitude e altitude, coordenadas geodésicas referentes ao sistema WGS84 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 98,
+        "end": 101
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 437,
+        "end": 440
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

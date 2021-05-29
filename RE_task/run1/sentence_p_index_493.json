@@ -1,0 +1,69 @@
+{
+  "text": "Tratando-se da criação de uma Federação de Basket Ball, fui indicado também para fazer parte da comissão de propaganda, juntamente com os srs. Eduardo Moreira, Dr. João Gomes de Oliveira, Artur Araújo, tendo feito relatos para a secção especial do Diário do Sport, tem havido vários desafios; faço parte do grupo do Boxing Club de Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 138,
+        "end": 158
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 160,
+        "end": 186
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 188,
+        "end": 200
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 248,
+        "end": 263
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 316,
+        "end": 327
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 331,
+        "end": 339
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

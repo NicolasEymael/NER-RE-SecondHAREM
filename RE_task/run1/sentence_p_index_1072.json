@@ -1,0 +1,14 @@
+{
+  "text": "Deck Cowboy (deckcowboy@riseup.net)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 11
+      }
+    }
+  ],
+  "relations": []
+}

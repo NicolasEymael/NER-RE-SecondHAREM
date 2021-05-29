@@ -1,0 +1,171 @@
+{
+  "text": "Bem, na província, às vezes brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até. Brincava... Ali, em Alenquer . Porque depois viemos, voltámos para Lisboa , o meu pai esteve então, se não me engano, como ... chefe de gabinete do Ministro da Justiça , por isso, voltámos, que era o dr. Catanho de Meneses . Voltámos para Lisboa e foi quando saímos de Santa Quitéria para a Rua Sampaio Pina . E na Rua Sampaio Pina , que era ao lado do Rádio Clube Português , a casa que ainda existe hoje e faz esquina para a rua Castilho , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha três vezes por semana, dar-me lição de alemão. Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a Kaethe Goethe , não. Vinha três vezes por semana dar-me a lição de alemão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 138,
+        "end": 146
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 156,
+        "end": 162
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 185,
+        "end": 191
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 266,
+        "end": 285
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 318,
+        "end": 340
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 357,
+        "end": 363
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 387,
+        "end": 401
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 409,
+        "end": 425
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 433,
+        "end": 449
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 471,
+        "end": 492
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 519,
+        "end": 523
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 549,
+        "end": 557
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 704,
+        "end": 725
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 909,
+        "end": 922
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 936,
+        "end": 957
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T4"
+    }
+  ]
+}

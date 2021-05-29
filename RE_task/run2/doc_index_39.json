@@ -1,0 +1,287 @@
+{
+  "text": " Primeiro bebé de 2008 nasceu em Lisboa às 00:00:30 segundos. O provável primeiro bebé português do ano é do sexo masculino e nasceu aos 30 segundos de hoje na Maternidade Alfredo da Costa , em Lisboa , disse à agência Lusa uma fonte daquele hospital. Com 3,520 quilos , o bebé nasceu de parto normal e encontra-se bem, tal como a sua mãe, Mariana , de 16 anos . O provável segundo bebé do ano nasceu no Hospital de São João , no Porto ao primeiro minuto do dia , de parto normal. Chama-se Francisco e é o terceiro filho de um casal residente no Porto , disse à Lusa fonte hospitalar. Ao quinto minuto do dia , novamente na Maternidade Alfredo da Costa , em Lisboa ,nasceu um rapaz, de parto assistido por ventosa, com 3,360 quilos . O bebé encontra-se bem, tal como a mãe, Cristina , de 30 anos , disse à Lusa a fonte do hospital.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 39
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 103
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 133,
+        "end": 148
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 149,
+        "end": 156
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 160,
+        "end": 188
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 194,
+        "end": 200
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 219,
+        "end": 223
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 256,
+        "end": 268
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 340,
+        "end": 347
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 353,
+        "end": 360
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 387,
+        "end": 393
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 404,
+        "end": 424
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 430,
+        "end": 435
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 436,
+        "end": 461
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 490,
+        "end": 499
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 546,
+        "end": 551
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 562,
+        "end": 566
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 585,
+        "end": 608
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 624,
+        "end": 652
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 658,
+        "end": 664
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 719,
+        "end": 731
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 774,
+        "end": 782
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "valor",
+      "span": {
+        "begin": 788,
+        "end": 795
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 806,
+        "end": 810
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T22"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T15"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T9"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T7"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T22",
+      "obj": "T21"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T19"
+    }
+  ]
+}

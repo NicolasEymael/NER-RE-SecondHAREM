@@ -1,0 +1,43 @@
+{
+  "text": "Em que três categorias é que Whitney Houston ganhou o prémio Single por \"I will always love you\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 61,
+        "end": 67
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 73,
+        "end": 95
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

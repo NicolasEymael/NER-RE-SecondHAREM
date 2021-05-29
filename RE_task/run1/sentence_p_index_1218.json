@@ -1,0 +1,38 @@
+{
+  "text": "E apresso-me em consignar aqui meu profundo reconhecimento aos jovens professores Almir Câmara de Matos Peixoto, Antônio Houaiss, Sílvio Elia e Rocha Lima, por muitas preciosas sugestões, levando-me a emendas sérias, modificações de quadros e acuramento na disposição geral.2",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 82,
+        "end": 111
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 113,
+        "end": 128
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 130,
+        "end": 141
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 144,
+        "end": 154
+      }
+    }
+  ],
+  "relations": []
+}

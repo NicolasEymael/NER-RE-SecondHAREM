@@ -1,0 +1,37 @@
+{
+  "text": "Em quantas províncias está dividido o Afeganistão? Que língua é falada pela maioria da população afegã? Quantas escolas havia no Afeganistão em 2003?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 129,
+        "end": 140
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 141,
+        "end": 148
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Em que lugar ficou Paulo de Carvalho no Festival da Eurovisão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 40,
+        "end": 61
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

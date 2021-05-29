@@ -1,0 +1,94 @@
+{
+  "text": "\" Constantemente eles se salvam um ao outro de ataques violentos de um número sem-fim de inimigos. Transmite-se a sensação de que nós, homens, devemos nos manter juntos porque há muitas criaturas malvadas que têm que ser exterminadas... Às vezes , Batman acaba numa cama, ferido, e mostra-se o jovem Robin sentado ao seu lado. Em casa, levam uma vida idílica. São Bruce Wayne e Dick Grayson . Bruce é descrito como um grã-fino e o relacionamento oficial é que Dick é pupilo de Bruce . Vivem em aposentos suntuosos com lindas flores em grandes vasos... Batman é, às vezes , mostrado num robe de chambre...é como um sonho de dois homossexuais vivendo juntos\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 2,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 237,
+        "end": 245
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 248,
+        "end": 254
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 300,
+        "end": 305
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 364,
+        "end": 375
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 378,
+        "end": 390
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 393,
+        "end": 398
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 460,
+        "end": 464
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 477,
+        "end": 482
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 552,
+        "end": 558
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 562,
+        "end": 570
+      }
+    }
+  ],
+  "relations": []
+}

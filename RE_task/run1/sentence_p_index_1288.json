@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade nasceu Natalie Hershlag? Quem é o prefeito dessa cidade?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "AdC dá aprovação à compra da Carrefour Portugal pela Sonae",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 3
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 53,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

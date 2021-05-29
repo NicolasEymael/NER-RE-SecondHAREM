@@ -1,0 +1,30 @@
+{
+  "text": "Não. Todos os diretores do IBAP | diretores do IBAP exercem as suas atividades estatutárias sem prejuízo de suas funções como Advogados Públicos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 47,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 126,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a principal indústria da República Dominicana?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

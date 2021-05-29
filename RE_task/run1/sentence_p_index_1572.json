@@ -1,0 +1,51 @@
+{
+  "text": "Que aconteceu na Argélia na noite de 17 para 18 de Agosto de 1994? Quantas pessoas morreram no terramoto? Quantos quilómetros são de Orão a Macara?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 133,
+        "end": 137
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 140,
+        "end": 146
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

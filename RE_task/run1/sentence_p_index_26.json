@@ -1,0 +1,14 @@
+{
+  "text": "\"Uma mudança de apenas uma base [letra] no gene PB2 [que resultou na modificação de um aminoácido na proteína por ele codificada] parece ser a causa da virulência do influenza\", explica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 48,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

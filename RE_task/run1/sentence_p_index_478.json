@@ -1,0 +1,14 @@
+{
+  "text": "A Segunda Guerra Mundial",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

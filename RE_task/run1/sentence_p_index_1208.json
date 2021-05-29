@@ -1,0 +1,43 @@
+{
+  "text": "A primeira proposta aponta a influência de seu professor Ernesto Faria na Escola Amaro Cavalcanti, onde concluiu seu curso de perito-contador. Como sabemos, Ernesto Faria foi excelente professor de latim, entusiasta do ensino clássico, autor de livros na suas especialidade e um grande propagandista do magistério do latim entre seus alunos, quer no curso secundário, quer no curso superior.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 47,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 74,
+        "end": 97
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 170
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

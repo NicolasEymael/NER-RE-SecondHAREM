@@ -1,0 +1,14 @@
+{
+  "text": "De qualquer maneira e infelizmente, não conheço música feita nos últimos anos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 61,
+        "end": 77
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "O tecno de Detroit é o som da cidade. Não das pessoas da cidade, mas da própria cidade. Os humanos, se eles ainda estão vivos mesmo, foram totalmente cooptados pela máquina urbana, absorvidos em seus processos, seus corpos disciplinados pelos ritmos implacáveis dela. Não é exagero dizer que este estilo, com seus frios tons sintéticos e batidas rápidas e rígidas de quatro-por-quatro teve provavelmente mais influencia no tipo de música que soa pelo mundo do que qualquer outro gênero desde o Blues .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 11,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 494,
+        "end": 499
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,103 @@
+{
+  "text": "Nuno Severiano Teixeira aproveita a deslocação a Cabul para manter encontros com as autoridades afegãs. O Ministro da Defesa deverá reunir-se com o Ministro da Defesa afegão, Raheem Wardag , e com o Presidente da República Islâmica do Afeganistão | Presidente da República Islâmica do Afeganistão , Hamid Karzai .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 106,
+        "end": 124
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 148,
+        "end": 166
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 175,
+        "end": 188
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 199,
+        "end": 246
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 249,
+        "end": 259
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 263,
+        "end": 296
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 299,
+        "end": 311
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T8"
+    }
+  ]
+}

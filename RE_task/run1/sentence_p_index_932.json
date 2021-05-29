@@ -1,0 +1,179 @@
+{
+  "text": "Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar. Entre elas, há personagens realísticas, como o Valentão , o Cangaceiro e o Vaqueiro - que fala na poesia do Sertão , e imaginárias- como o Caboclo de Urubá | Caboclo de Urubá . A apresentação termina com a entrada, dança, morte e ressurreição do Boi . O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam Rabeca | Rabeca , Pandeiro | Pandeiro , Bage | Bage ( Reco-reco | Reco-reco ) e Mineiro | Mineiro ( Ganzá | Ganzá ). Os Percussionistas e, às vezes , o Rabequeiro também cantam. Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 151,
+        "end": 159
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 174
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 179,
+        "end": 187
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 212,
+        "end": 218
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 243,
+        "end": 259
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 262,
+        "end": 269
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 273,
+        "end": 278
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 350,
+        "end": 353
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 436,
+        "end": 442
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 454,
+        "end": 462
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 476,
+        "end": 480
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 490,
+        "end": 499
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 516,
+        "end": 523
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 536,
+        "end": 541
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 556,
+        "end": 571
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 575,
+        "end": 583
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 588,
+        "end": 598
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R3",
+      "pred": "outrarel",
+      "subj": "T15",
+      "obj": "T10"
+    },
+    {
+      "id": "R4",
+      "pred": "outrarel",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R5",
+      "pred": "outrarel",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R6",
+      "pred": "outrarel",
+      "subj": "T17",
+      "obj": "T9"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "A chamada Cultura Pop sempre foi gerada no caldeirão fervente das periferias. Obvio ululante. Mesmo a cultura HipHop, este emaranhado de atitudes sócio culturais atribuído à juventude desvalida das grandes metrópoles norte americanas, pode ser descrita, coerentemente, como o ôvo do futuro, gerado no mais remoto e desprezado dos passados. Pura relatividade, portanto.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 10,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 110,
+        "end": 116
+      }
+    }
+  ],
+  "relations": []
+}

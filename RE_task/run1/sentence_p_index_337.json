@@ -1,0 +1,46 @@
+{
+  "text": "A fotografia foi publicada pela primeira vez, em 1936 , na revista VU - pioneira do fotojornalismo moderno e inspiradora de LIFE - e dois anos mais tarde (como andava devagar então a informação!) na LIFE .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 46,
+        "end": 53
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 67,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 124,
+        "end": 128
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 133,
+        "end": 153
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 199,
+        "end": 203
+      }
+    }
+  ],
+  "relations": []
+}

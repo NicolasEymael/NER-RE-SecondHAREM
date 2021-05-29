@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade é que fica o Roque Santeiro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Em que ano é que Eugène Ionesco entrou na Academia Francesa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 42,
+        "end": 59
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

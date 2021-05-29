@@ -1,0 +1,14 @@
+{
+  "text": "Que festival de cinema atribui o \"Urso de Ouro\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 34,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

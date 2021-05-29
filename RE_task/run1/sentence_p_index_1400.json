@@ -1,0 +1,22 @@
+{
+  "text": "Que navio é que James Cook comandou de 1768 a 1769?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

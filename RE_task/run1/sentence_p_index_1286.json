@@ -1,0 +1,14 @@
+{
+  "text": "Em que país fica Minas Gerais?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

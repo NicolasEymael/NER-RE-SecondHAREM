@@ -1,0 +1,86 @@
+{
+  "text": "Mills é um homem calmo, um tipo parecido com um pássaro, com uma cara ossuda e longos dedos. Quando está na cabine ele usa três picapes, raramente tocando um vinil por mais de um minuto , e frequentemente abrindo todos os três canais ao mesmo tempo; filtrando o som, logo uma picape toca a linha de baixo, o segundo a linha do meio e o terceiro a linha principal. Seu envolvimento com as máquinas é tão intenso, tão concentrado que, como ele se lança do mixer para a picape, Mills o DJ parece evidentemente um componente de uma assemblage homem-máquina, um sistema que inclui público, PA , o aparato completo da produção de vinis, e o Stylus de cartucho, cuja sensibilidade ele aprimorou de forma que o cartucho produza um triplo zumbido raivoso e metálico. Não é surpreendente que quando Mills descreve a experiencia de fazer música num estúdio, ele está preocupado com a frustração que sente quando \"a mensagem\" (para Mills música é sempre \"a mensagem\", ou \"comunicação\") é perdida ou degradada na transmissão da mente para o DAT .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 137,
+        "end": 146
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 164,
+        "end": 185
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 190,
+        "end": 204
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 475,
+        "end": 480
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 585,
+        "end": 587
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 635,
+        "end": 641
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 789,
+        "end": 794
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 920,
+        "end": 925
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 1028,
+        "end": 1031
+      }
+    }
+  ],
+  "relations": []
+}

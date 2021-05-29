@@ -1,0 +1,53 @@
+{
+  "text": "No início do século XX o Arsenal é transferido para a Ponta do Caju , abrindo o caminho para a adaptação do conjunto para suas novas funções : Pavilhão das Grandes Indústrias da \" Exposição Internacional de 1922 \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 143,
+        "end": 174
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 180,
+        "end": 211
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

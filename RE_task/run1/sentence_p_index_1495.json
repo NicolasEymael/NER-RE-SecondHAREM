@@ -1,0 +1,46 @@
+{
+  "text": "Quem era Herbert Erhardt? Quando foi construído o estádio do Malmö? Onde é que teve lugar o Campeonato do Mundo de Futebol de 1970 | Campeonato do Mundo de Futebol de 1970?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 66
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 92,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 133,
+        "end": 163
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 164,
+        "end": 171
+      }
+    }
+  ],
+  "relations": []
+}

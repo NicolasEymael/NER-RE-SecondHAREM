@@ -1,0 +1,62 @@
+{
+  "text": "Mas há duas fortes objeções a essa primeira tentativa de explicação: Houaiss freqüentou uma escola pública secundária no tempo em que ela atraía verdadeiros mestres de nível universitário, e na Amaro Cavalcanti Houaiss tivera professores dessa estirpe, como Clóvis Monteiro e Mattoso Câmara Jr., que, a prevalecer e explicação por influência de seus mestres, melhor o iriam levar a matricular-se no Curso de Letras Neolatinas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 69,
+        "end": 76
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 118,
+        "end": 126
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 194,
+        "end": 210
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 211,
+        "end": 218
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 258,
+        "end": 273
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 276,
+        "end": 294
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 399,
+        "end": 425
+      }
+    }
+  ],
+  "relations": []
+}

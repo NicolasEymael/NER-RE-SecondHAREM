@@ -1,0 +1,54 @@
+{
+  "text": "George Steiner esteve recentemente em Portugal e de acordo com notícia no Ciência Hoje o ensaísta vem proferir um discurso que a Europa é uma civilização decadente e que aparecerão outros locais do planeta como a China e a Índia ?. Esta afirmação levantou-me uma série de inquitações:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 86
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 129,
+        "end": 135
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 213,
+        "end": 218
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 223,
+        "end": 228
+      }
+    }
+  ],
+  "relations": []
+}

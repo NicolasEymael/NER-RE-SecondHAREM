@@ -1,0 +1,89 @@
+{
+  "text": "Artur Jorge foi, entretanto, escolhido para seleccionador do Irão, equipa que se encontrava há seis meses sem treinador. Tendo em atenção o que se tem passado nos últimos anos na carreira do ex-treinador do FC Porto, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a Federação Iraniana de Futebol acredita no Pai Natal . E Artur Jorge também, claro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 61,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 92,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 159,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 207,
+        "end": 215
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 327,
+        "end": 356
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 369,
+        "end": 378
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 383,
+        "end": 394
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_profissional",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

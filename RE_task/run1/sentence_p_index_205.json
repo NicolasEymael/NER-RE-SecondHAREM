@@ -1,0 +1,70 @@
+{
+  "text": "Fotografia Francisco Pesce , 1888 O Arquivo Histórico reúne importantes documentos manuscritos e iconográficos referentes à nossa história e divididos em coleções, como a \" Coleção Família Imperial \", compreendendo 1.445 documentos de diversas procedências, relacionados aos Imperadores D. Pedro I e D. Pedro II e respectivos familiares. São gravuras e álbuns de fotografias com retratos da realeza e nobreza da época, vistas de cidades brasileiras e estrangeiras e documentos pessoais, como os exercícios de caligrafia de D. Pedro II ; de correspondência entre membros da família imperial e outros, além de homenagens como poesias, sonetos, hinos ou músicas dedicados a membros da família.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 29,
+        "end": 33
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 53
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 173,
+        "end": 197
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 215,
+        "end": 220
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 275,
+        "end": 297
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 300,
+        "end": 311
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 523,
+        "end": 534
+      }
+    }
+  ],
+  "relations": []
+}

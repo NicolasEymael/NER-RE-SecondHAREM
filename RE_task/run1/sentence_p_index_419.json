@@ -1,0 +1,145 @@
+{
+  "text": "Carmen Miranda para sempre . Galeria Marta Traba . Memorial da América Latina | Memorial da América Latina . Av. Auro Soares de Moura Andrade , 664, 3823-4741. 9h/18h (fecha 2.ª ). Grátis. Até 16/4 . Abertura hoje , 19h30 , para convidados. Diariamente , às 10h30 e às 15h , exibição do documentário Bananas Is My Business",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 80,
+        "end": 88
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 92,
+        "end": 106
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 109,
+        "end": 141
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 166
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 177
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 189,
+        "end": 197
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 209,
+        "end": 213
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 216,
+        "end": 221
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 241,
+        "end": 252
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 255,
+        "end": 263
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 266,
+        "end": 272
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "obra",
+      "span": {
+        "begin": 300,
+        "end": 322
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

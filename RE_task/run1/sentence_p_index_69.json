@@ -1,0 +1,86 @@
+{
+  "text": "Talvez seja bom explicar o que se passa. O povo português tem tido, até agora, a decência de não delegar em PPM qualquer espécie de poder. Mas a verdade é que o povo português não tem sido tão sensato no que respeita a outras pessoas. Eu sei que esta notícia vai cair como uma bomba no 31 da Armada , mas há gente um pouco mais poderosa do que o PPM . É uma coisa muito ligeira, mas tem, de facto, um bocadinho mais de poder. E essa gente, quando se sente atingida, ou quando sente que os amigos foram atingidos (mesmo que seja por uma rábula humorística), pressiona, corta relações com a estação de televisão em que a rábula foi emitida, manda recados com ameaças, faz saber que ficará à espera de uma oportunidade para nos fazer, digamos, coisas bonitas (sempre que posso, uso expressões de Artur Jorge ). É isso que tem acontecido desde que o Diz Que É Uma Espécie de Magazine começou e foi o que aconteceu agora, de forma bastante mais intensa, na sequência do sketch sobre Marcelo Rebelo de Sousa . Em tempos , o Herman disse-me que o pequeno poder (e, às vezes , não tão pequeno como isso) sabe encontrar maneiras de pressionar no sentido de fazer censura sem sujar as mãos, de ameaçar sem poder ser denunciado, de intimidar sem aparecer. Na semana passada percebi isso melhor do que gostaria, e dei-lhe razão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 108,
+        "end": 111
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 286,
+        "end": 298
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 346,
+        "end": 349
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 793,
+        "end": 804
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 846,
+        "end": 879
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 978,
+        "end": 1001
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 1004,
+        "end": 1013
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 1018,
+        "end": 1024
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 1058,
+        "end": 1066
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 1245,
+        "end": 1262
+      }
+    }
+  ],
+  "relations": []
+}

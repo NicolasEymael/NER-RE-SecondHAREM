@@ -1,0 +1,29 @@
+{
+  "text": " Protocolo de Quioto. Decreto 7/2002, de 25 de Março que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas. Documentos relacionados com o PNALE. Decisão da Comissão Europeia sobre o PNALE português. Comunicado de imprensa da COMISSÃO - \"Comércio de Emissões: a Comissão deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista\" (IP/04/1250). Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007 (versão notificada à Comissão Europeia). PNALE 2005-2007 - Relatório da Consulta Pública | PNALE 2005-2007 - Relatório da Consulta Pública. Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007 | Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007. Documentos relacionados com o Comércio Europeu de Licenças de Emissão. Directiva 2003/87/CE do Parlamento Europeu e do Concelho | Directiva 2003/87/CE do Parlamento Europeu e do Concelho, de 13 de Outubro de 2003, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva 96/61/CE do Conselho | Directiva 96/61/CE do Conselho. Decreto-Lei n.º 233/2004, de 14 de Dezembro, alterado pelo Decreto-Lei n.º 243-A/2004, de 31 de Dezembro, que estabelece o regime de comércio de licenças de gases com efeito de estufa na União Europeia. Decisão da Comissão n.º 156/2004, de 29 de Janeiro de 2004, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa. Regulamento (CE) n.º 2216/2004 da Comissão de 21 de Dezembro de 2004, relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do Parlamento Europeu e do Conselho e a Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho. International Emissions Trading Association, \"Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme\" (em inglês). Directiva 2004/101/CE do Parlamento Europeu e do Conselho | Directiva 2004/101/CE do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004, que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade, no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1778,
+        "end": 1786
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 1730,
+        "end": 1750
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

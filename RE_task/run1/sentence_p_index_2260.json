@@ -1,0 +1,38 @@
+{
+  "text": "Decreto 7/2002, de 25 de Março que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 16,
+        "end": 30
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 44,
+        "end": 63
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 66,
+        "end": 128
+      }
+    }
+  ],
+  "relations": []
+}

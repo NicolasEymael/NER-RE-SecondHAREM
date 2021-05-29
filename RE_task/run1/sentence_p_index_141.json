@@ -1,0 +1,22 @@
+{
+  "text": "Os Fitacola caracterizam-se por um som jovem. Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco. As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos Fitacola para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 329,
+        "end": 337
+      }
+    }
+  ],
+  "relations": []
+}

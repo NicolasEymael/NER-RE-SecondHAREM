@@ -1,0 +1,271 @@
+{
+  "text": "Às três horas e vinte minutos da tarde de 13 de Junho de 1888 | Às três horas e vinte minutos da tarde de 13 de Junho de 1888 nascia em Lisboa , capital portuguesa, Fernando Pessoa . O parto ocorreu no quarto andar esquerdo do nº 4 do Largo de São Carlos , em frente da ópera de Lisboa ( Teatro de São Carlos ). O seu pai era funcionário público do Ministério da Justiça e crítico musical do « Diário de Notícias », Joaquim de Seabra Pessoa ( 38 ), natural de Lisboa ; e a sua mãe D. Maria Magdalena Pinheiro Nogueira Pessoa ( 26 ), natural da Ilha Terceira ( Açores ). Viviam com eles a avó Dionísia , doente mental e duas criadas velhas, Joana e Emília .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 39,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 94,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 142
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 165,
+        "end": 180
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 235,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 279,
+        "end": 285
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 288,
+        "end": 308
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 349,
+        "end": 370
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 394,
+        "end": 412
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 440
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 443,
+        "end": 445
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 460,
+        "end": 466
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 481,
+        "end": 524
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 527,
+        "end": 529
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 544,
+        "end": 557
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 560,
+        "end": 566
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 588,
+        "end": 600
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 640,
+        "end": 645
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 648,
+        "end": 654
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_nascimento",
+      "subj": "T2",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "data_nascimento",
+      "subj": "T4",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R7",
+      "pred": "relacao_familiar",
+      "subj": "T12",
+      "obj": "T6"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T5"
+    },
+    {
+      "id": "R9",
+      "pred": "natural_de",
+      "subj": "T14",
+      "obj": "T12"
+    },
+    {
+      "id": "R10",
+      "pred": "relacao_familiar",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R11",
+      "pred": "relacao_familiar",
+      "subj": "T15",
+      "obj": "T6"
+    },
+    {
+      "id": "R12",
+      "pred": "natural_de",
+      "subj": "T17",
+      "obj": "T15"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R14",
+      "pred": "relacao_familiar",
+      "subj": "T19",
+      "obj": "T12"
+    },
+    {
+      "id": "R15",
+      "pred": "relacao_familiar",
+      "subj": "T19",
+      "obj": "T6"
+    },
+    {
+      "id": "R16",
+      "pred": "relacao_familiar",
+      "subj": "T19",
+      "obj": "T15"
+    }
+  ]
+}

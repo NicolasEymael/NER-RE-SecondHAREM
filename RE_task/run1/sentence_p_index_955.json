@@ -1,0 +1,22 @@
+{
+  "text": "No decorrer do capítulo, o autor italiano mostra várias formas de multiplicidades que ocorrem na literatura. No entanto, para não sairmos do foco da discussão do texto, fiquemos inicialmente com o exemplo do romancista italiano Carlo Emilio Gadda , de quem, entre outros autores, Calvino se serve como ilustração.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 228,
+        "end": 246
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 280,
+        "end": 287
+      }
+    }
+  ],
+  "relations": []
+}

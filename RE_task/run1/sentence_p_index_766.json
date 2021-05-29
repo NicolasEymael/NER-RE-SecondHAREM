@@ -1,0 +1,78 @@
+{
+  "text": "O Mosteiro de Santa Clara-a-Velha situa-se na margem esquerda do Mondego em frente à cidade de Coimbra, e foi mandado construir por D. Isabel de Aragão | D. Isabel de Aragão, em 1314, no local do primitivo núcleo de monjas clarissas fundado em 1283 por D. Mor Dias.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 95,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 132,
+        "end": 151
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 154,
+        "end": 163
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 167,
+        "end": 173
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 175,
+        "end": 182
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 241,
+        "end": 248
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 253,
+        "end": 264
+      }
+    }
+  ],
+  "relations": []
+}

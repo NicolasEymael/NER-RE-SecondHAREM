@@ -1,0 +1,54 @@
+{
+  "text": "Se o racismo nos incomoda hoje , se mesmo racistas envergonham-se de demonstrar o que pensam, é por conta de tragédias e lutas que, entre o Holocausto e Luther King , remodelaram nossa percepção do mundo. Esquecer que o racismo era natural há oitenta anos é desdenhar do esforço envolvido em dominá-lo. Se deixamos de ler os registros cotidianos daquele tempo - como Tintim na África -, estimulamos este esquecimento. Nenhuma obra deve ser lida ignorando a época na qual foi escrita.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 140,
+        "end": 150
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 153,
+        "end": 164
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 240,
+        "end": 255
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 346,
+        "end": 359
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 367,
+        "end": 383
+      }
+    }
+  ],
+  "relations": []
+}

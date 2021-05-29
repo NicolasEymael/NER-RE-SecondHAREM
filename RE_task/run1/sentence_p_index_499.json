@@ -1,0 +1,75 @@
+{
+  "text": "O provável segundo bebé do ano nasceu no Hospital de São João , no Porto ao primeiro minuto do dia , de parto normal. Chama-se Francisco e é o terceiro filho de um casal residente no Porto , disse à Lusa fonte hospitalar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 24,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 67,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 98
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 127,
+        "end": 136
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 183,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 199,
+        "end": 203
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

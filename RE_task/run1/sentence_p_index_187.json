@@ -1,0 +1,22 @@
+{
+  "text": "Recuperar a arquitetura original, ampliar espaços destinados ao público, aprimorar os serviços oferecidos aos visitantes, democratizar o acesso dos mais diversos segmentos da sociedade e viabilizar uma circulação e um percurso adequados ao discurso museográfico: essas foram as diretrizes que nortearam o \" Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 \", concluído em 19 de maio de 2006 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 307,
+        "end": 384
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 398,
+        "end": 419
+      }
+    }
+  ],
+  "relations": []
+}

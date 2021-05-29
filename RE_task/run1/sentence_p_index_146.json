@@ -1,0 +1,43 @@
+{
+  "text": "Festival Acção Directa 2005 ( Açores Ilha Terceira )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 50
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

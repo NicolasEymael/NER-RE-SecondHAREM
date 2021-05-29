@@ -1,0 +1,126 @@
+{
+  "text": "Jeff Mills sai para o cinema e deixa as máquinas evoluirem sua sequência no estúdio, e ao fazê-lo assim faz o comentário talvez mais eloquente que nós temos de uma mudança cultural em todos os tipos de produção, artística e de outro tipo. É uma tensão que tem sido há muito tempo sentida na música pop, bem expressa no slogan mal intensionado de camiseta de garotada indie de alguns anos atrás : 'os escrotos sem cara do tecno.' (Por todo lugar outras camisetas respondiam \"foda-se o Britpop \"). Nestes dias o ídolo de rock, Liam Oásis da Vida , em cada polegada o artista tradicional, solitário e romanticamente sofrendo no palco, está em combate mortal com alguma coisa distribuída, cambiante ( Mills é x102 , UR , Axis ...) e não de todo humana. Algumas vezes Mills se auto denomina ' Criador de propósitos' e o ouvinte encontra a seguinte afirmação (não-assinada) numa capa: \"só a consciência de um propósito que é maior que qualquer homem pode semear e fortificar as almas dos homens.\" É muito fácil identificar o criador de propósitos como o artista e o poder como Deus . Em Detroit o poder que é maior que o homem, que está semeando e fertilizando sua alma, é inorgânico, sem nome, baseado em silício.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 265,
+        "end": 279
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 373,
+        "end": 393
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 484,
+        "end": 491
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 496,
+        "end": 507
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 525,
+        "end": 543
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 697,
+        "end": 702
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 705,
+        "end": 709
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 712,
+        "end": 714
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 717,
+        "end": 721
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 749,
+        "end": 762
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 763,
+        "end": 768
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 788,
+        "end": 795
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1071,
+        "end": 1075
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 1081,
+        "end": 1088
+      }
+    }
+  ],
+  "relations": []
+}

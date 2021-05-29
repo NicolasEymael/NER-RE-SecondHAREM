@@ -1,0 +1,75 @@
+{
+  "text": "Se estamos no caminho do bonnet blanc, blanc bonnet, como dizem os franceses, esta é a melhor receita para matar o lado reformista do PSD , o de Sá Carneiro e Cavaco Silva . Sem esse lado reformista, o PSD ficará tão próximo do Governo e do PS que, à luz de um, não se vê a sombra do outro. E nem de holofote a laser, banhado no mais forte néon, Diógenes encontrará qualquer homem na cidade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 134,
+        "end": 137
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 145,
+        "end": 156
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 159,
+        "end": 171
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 202,
+        "end": 205
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 228,
+        "end": 235
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 241,
+        "end": 243
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 346,
+        "end": 354
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

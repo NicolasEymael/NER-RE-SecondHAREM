@@ -1,0 +1,38 @@
+{
+  "text": "Firmem a vista e vejam o que se dança nestas esquinas. Andem para trás, um pouco mais, e vejam o som das plaquetas metálicas do sapateado ecoando no paralelepípedos das ruas. Isto mesmo! É aquele mesmo sapateado do Gregory Heynes, do Sammy Davis Junior, antes mal assimilado pelos Fred Astaires de ocasião, usufruidores dos lucros do mainstream, este ambiente insípido, onde tudo que uns criam os outros copiam.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 215,
+        "end": 229
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 234,
+        "end": 252
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 254,
+        "end": 259
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 281,
+        "end": 294
+      }
+    }
+  ],
+  "relations": []
+}

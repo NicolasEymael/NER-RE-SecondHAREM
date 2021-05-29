@@ -1,0 +1,89 @@
+{
+  "text": "O anúncio foi feito ontem , em São Francisco , nos EUA , onde decorre a Macworld , feira que a Apple organiza todos os anos para apresentar as suas novidades. Como de costume, a conferência de Steve Jobs , o director-geral da empresa, foi o ponto alto para os fãs da Apple .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 20,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 54
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 72,
+        "end": 80
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 95,
+        "end": 100
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 110,
+        "end": 123
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 193,
+        "end": 203
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 267,
+        "end": 272
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "produtor_de",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

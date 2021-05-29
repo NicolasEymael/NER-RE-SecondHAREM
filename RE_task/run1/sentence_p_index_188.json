@@ -1,0 +1,183 @@
+{
+  "text": "A primeira fase das obras, totalmente financiada pelo Ministério da Cultura num total de R$ 1.980.000,00 , foi inaugurada dia 9 de setembro de 2004 , com a presença do Primeiro Ministro de Portugal | Primeiro Ministro de Portugal , Pedro Santana Lopes , da Ministra da Cultura de Portugal | Ministra da Cultura de Portugal , Maria João Bustorff Silva , e do Ministro de Estado da Cultura , Gilberto Passos Gil Moreira , já que nesta data foi aberta a exposição internacional « Artes Tradicionais de Portugal », promovida pela Fundação Gulbenkian.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 89,
+        "end": 104
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 122,
+        "end": 147
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 168,
+        "end": 197
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 200,
+        "end": 217
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 221,
+        "end": 229
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 232,
+        "end": 251
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 288
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 291,
+        "end": 310
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 314,
+        "end": 322
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 325,
+        "end": 350
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 358,
+        "end": 387
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 390,
+        "end": 417
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 427,
+        "end": 437
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 477,
+        "end": 507
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 526,
+        "end": 545
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T8"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "data_de",
+      "subj": "T15",
+      "obj": "T3"
+    },
+    {
+      "id": "R8",
+      "pred": "produtor_de",
+      "subj": "T16",
+      "obj": "T15"
+    }
+  ]
+}

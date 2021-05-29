@@ -1,0 +1,29 @@
+{
+  "text": " Primeiro bebé de 2008 nasceu em Lisboa às 00:00:30 segundos. O provável primeiro bebé português do ano é do sexo masculino e nasceu aos 30 segundos de hoje na Maternidade Alfredo da Costa , em Lisboa , disse à agência Lusa uma fonte daquele hospital. Com 3,520 quilos , o bebé nasceu de parto normal e encontra-se bem, tal como a sua mãe, Mariana , de 16 anos . O provável segundo bebé do ano nasceu no Hospital de São João , no Porto ao primeiro minuto do dia , de parto normal. Chama-se Francisco e é o terceiro filho de um casal residente no Porto , disse à Lusa fonte hospitalar. Ao quinto minuto do dia , novamente na Maternidade Alfredo da Costa , em Lisboa ,nasceu um rapaz, de parto assistido por ventosa, com 3,360 quilos . O bebé encontra-se bem, tal como a mãe, Cristina , de 30 anos , disse à Lusa a fonte do hospital.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 430,
+        "end": 435
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 404,
+        "end": 424
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "text": "Desde 2005 , na sequência de uma proposta da Comissão Europeia , o Mecanismo Comunitário de Protecção Civil foi alvo de uma profunda revisão, a qual decorre também do enquadramento motivado pelo novo Instrumento Financeiro para a Protecção Civil recentemente aprovado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 67,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 200,
+        "end": 245
+      }
+    }
+  ],
+  "relations": []
+}

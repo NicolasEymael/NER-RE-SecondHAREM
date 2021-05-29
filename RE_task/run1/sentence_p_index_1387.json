@@ -1,0 +1,37 @@
+{
+  "text": "Em que cidade se disputou a final da Taça da Europa de Basquete de 1996 | Taça da Europa de Basquete de 1996?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 37,
+        "end": 71
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 74,
+        "end": 100
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 108
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

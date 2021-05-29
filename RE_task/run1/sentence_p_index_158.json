@@ -1,0 +1,51 @@
+{
+  "text": "Os Fitacola contam para já, apenas com um EP , edição de autor, com 6 musicas, intitulado « Rebobina e Pensa ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 42,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 68,
+        "end": 69
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 92,
+        "end": 108
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "produzido_por",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

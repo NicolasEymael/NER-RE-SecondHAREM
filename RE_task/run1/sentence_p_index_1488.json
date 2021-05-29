@@ -1,0 +1,29 @@
+{
+  "text": "Quem é que falou em Setembro de 1939 no 17º Congresso Internacional do PEN-clube sobre o problema da liberdade?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 40,
+        "end": 80
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

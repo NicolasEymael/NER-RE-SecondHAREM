@@ -1,0 +1,29 @@
+{
+  "text": "Em que data é que o Corte Inglês comprou as Galerias Preciados?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 62
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

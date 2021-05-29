@@ -1,0 +1,22 @@
+{
+  "text": "Quem se pensa ter participado na tentativa de assassínio de Juan Carlos em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 71
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 72,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,67 @@
+{
+  "text": "Luís Correia em Suzuki RMZ 250 voltou a demonstrar o seu excelente momento de forma ao dominar por completo a classe 125cc na 2ª jornada do Campeonato Nacional de Motocross, que se realizou este domingo em Casais de S.Quintino.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 30
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 117,
+        "end": 122
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 140,
+        "end": 172
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 190,
+        "end": 202
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 206,
+        "end": 226
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

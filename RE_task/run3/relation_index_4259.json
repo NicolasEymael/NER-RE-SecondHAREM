@@ -1,0 +1,29 @@
+{
+  "text": " São admitidos à candidatura à matrícula no curso de formação n.o 25 680/2000, publicado no Diário da República, 2.a série, 2.a série, especializada candidatos com o grau de licenciatura em Enfermagem, de 15 de Dezembro de 2000, e na sequência do despacho de 22 de de acordo com de acordo com o Regulamento dos Cursos de Formação Especializada Novembro de 2004 da reitora da Universidade de Aveiro | reitora da Universidade de Aveiro | reitora da Universidade de Aveiro, que aprovou a criação do curso de formação especializada em Enfermagem, deter- mino o seguinte: 7.o 1.o Frequência Criação O curso de formação especializada apenas poderá ser frequentado O curso de formação especializada em Enfermagem, de curta dura- em regime de tempo integral. ção, é criado de acordo com o Regulamento sobre a Criação de Cursos de Formação Especializada na Universidade de Aveiro. A criação deste curso de formação especializada pretende responder 8.o a necessidades de formação de carácter específico para licenciados em Enfermagem. A sua estrutura modular, estando orientada para Recursos necessários profissionais ou futuros profissionais que procuram formações com- A Secção Autónoma de Ciências da Saúde disponibilizará o corpo plementares específicas ou actualização de competências, permite uma docente necessário à leccionação deste curso, em articulação com gestão flexível do tempo compatível com percursos individuais de colaborações externas pontuais. formação. Os objectivos deste curso de formação especializada enquadram-se ainda nos objectivos da Universidade de Aveiro | Universidade de Aveiro para a formação pós- 9.o -graduada, proporcionando uma oferta formativa diversificada que Propinas responda a necessidades de formação contínua profissional para além da tradicional formação orientada para percursos académicos. As propinas mínimas correspondentes à frequência do curso de formação especializada serão fixadas anualmente, de acordo com o estipulado no artigo 15.o do Regulamento sobre a Criação de Cursos 2.o de Formação Especializada na Universidade de Aveiro, tendo em Organização curricular consideração os factores multiplicativos por área científica fixados pela Secção de Planeamento e Gestão do Senado | Secção de Planeamento e Gestão do Senado. O curso de formação especializada em Enfermagem, de curta dura- ção, corresponde à obtenção de um mínimo de quatro unidades de 29 de Novembro de 2004. - A Vice-Reitora, Isabel P. Martins.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2308,
+        "end": 2318
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 190,
+        "end": 200
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Aquela madrugada pertenceu ao deserto. No céu cinza, uma semi-lua era a única em vigília. O clima era protetor porque não tinha olhos, mas a calma das ruas sem gente provocava uma sensação de vulnerabilidade. O medo veio porque havia também outras viaturas: policiais federais e militares estavam em atividade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

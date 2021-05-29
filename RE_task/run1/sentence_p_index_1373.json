@@ -1,0 +1,14 @@
+{
+  "text": "O que é que Manuel Campello Esclápez descobriu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

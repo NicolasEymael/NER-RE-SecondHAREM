@@ -1,0 +1,14 @@
+{
+  "text": "4.1. Onde é a sede do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

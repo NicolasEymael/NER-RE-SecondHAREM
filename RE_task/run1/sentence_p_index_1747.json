@@ -1,0 +1,29 @@
+{
+  "text": "Que cidade era capital do Brasil antes do governo ser transferido para Brasília?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 71,
+        "end": 79
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

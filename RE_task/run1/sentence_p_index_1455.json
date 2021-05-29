@@ -1,0 +1,14 @@
+{
+  "text": "De que grupo era vocalista Freddy Mercury? Em que ano morreu ele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o chefe de estado da Austrália?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

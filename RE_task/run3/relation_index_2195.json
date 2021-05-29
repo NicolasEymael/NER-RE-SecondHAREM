@@ -1,0 +1,29 @@
+{
+  "text": " Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário, Vasco Pulido Valente recomendou-lhe esta reflexão: « Vítor Dias que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que o PCP já não chamou 'fascista??» Bom argumento. De facto, a repetição exaustiva da mesma acusação desacredita o acusador. Proponho, por isso, outra reflexão. Vasco Pulido Valente que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que Vasco Pulido Valente já não tenha chamado \"ignorante\"?.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 431,
+        "end": 451
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 139,
+        "end": 159
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

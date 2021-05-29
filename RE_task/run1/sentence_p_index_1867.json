@@ -1,0 +1,14 @@
+{
+  "text": "Quem é George Vassiliou?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

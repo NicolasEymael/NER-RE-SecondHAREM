@@ -1,0 +1,69 @@
+{
+  "text": "«Aprovámos o decreto que estabelece o salário mínimo interprofissional nos 600 euros por mês, com efeito a partir de 1 de Janeiro », anunciou o chefe do Governo , José Luís Rodriguez Zapatero , numa conferência de imprensa do último Conselho de Ministros deste ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 75,
+        "end": 84
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 85,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 105,
+        "end": 129
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 144,
+        "end": 160
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 163,
+        "end": 191
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 233,
+        "end": 254
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 255,
+        "end": 264
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

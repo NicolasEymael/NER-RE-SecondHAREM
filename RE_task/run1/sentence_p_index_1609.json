@@ -1,0 +1,14 @@
+{
+  "text": "O que é Asandros? Quem é o irmão dele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 8,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

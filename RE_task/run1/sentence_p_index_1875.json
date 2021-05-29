@@ -1,0 +1,14 @@
+{
+  "text": "Que país não é membro da ONU?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

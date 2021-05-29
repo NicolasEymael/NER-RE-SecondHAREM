@@ -1,0 +1,43 @@
+{
+  "text": "Não faltou emoção em Interlagos no Circuito José Carlos Pace desde a primeira volta da corrida decisiva do Mundial, incluindo alguns acidentes entre actores secundários... e deslizes dos protagonistas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 107,
+        "end": 114
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Turma da Mônica será estrela de campanha internacional de vacinação (30/03/05)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 69,
+        "end": 77
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,78 @@
+{
+  "text": "Este cenário deverá irritar solenemente a classe política de cidades como Boston , St. Louis , Chicago , ou Los Angeles , que nunca viram com agrado a intromissão de políticos nova-iorquinos nos assuntos presidenciais. Aliás, os últimos sete presidentes eleitos vieram de regiões no Sul ou do Oeste , e ser oriundo do Nordeste americano passou a ser quase considerado uma garantia de derrota eleitoral (que o digam Dukakis ou Kerry ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 80
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 83,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 95,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 108,
+        "end": 119
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 283,
+        "end": 286
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 293,
+        "end": 298
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 318,
+        "end": 326
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 415,
+        "end": 422
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 426,
+        "end": 431
+      }
+    }
+  ],
+  "relations": []
+}

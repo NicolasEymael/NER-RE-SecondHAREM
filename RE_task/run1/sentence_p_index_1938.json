@@ -1,0 +1,22 @@
+{
+  "text": "Quem é o presidente do Egipto | presidente do Egipto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

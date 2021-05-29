@@ -1,0 +1,37 @@
+{
+  "text": "Foi a característica de sistematização na vida e na obra de Antônio Houaiss que me fez considerar atrás uma síntese feliz dessa atividade o título do depoimento de Vasco Mariz: \"Um processo administrativo-ideológico\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 175
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 178,
+        "end": 215
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

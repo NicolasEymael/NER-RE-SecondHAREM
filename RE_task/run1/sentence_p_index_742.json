@@ -1,0 +1,45 @@
+{
+  "text": "O Ferrari de Raikkonnen partiu que nem um cavallino rampante e juntou-se ao companheiro de equipa tapando Alonso, que por sua vez ganhara uma posição colega Lewis Hamilton.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 23
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 106,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 171
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "proprietario_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "text": "A recém construída Casa da Ópera, aberta apenas seis meses antes, foi totalmente consumida pelo fogo. O Palácio Real, que se situava na margem do Tejo, onde hoje existe o Terreiro do Paço, foi destruído pelos abalos sísmicos e pelo tsunami. Dentro, a biblioteca de 70 mil volumes e centenas de obras de arte, incluindo pinturas de Ticiano, Rubens, e Correggio, foram perdidas. O precioso Arquivo Real com documentos relativos à exploração oceânica e outros documentos antigos também foram perdidos. O terramoto destruiu ainda as maiores igrejas de Lisboa, especialmente a Catedral de Santa Maria, e as Basílicas de São Paulo, Santa Catarina, São Vicente de Fora, e a da Misericórdia. As ruínas do Convento do Carmo ainda hoje podem ser visitadas no centro da cidade. O túmulo de Nuno Álvares Pereira, nesse convento, perdeu-se também. O Hospital Real de Todos os Santos foi consumido pelos fogos e centenas de pacientes morreram queimados. Registos históricos das viagens de Vasco da Gama e Cristóvão Colombo foram perdidos, e incontáveis construções foram arrasadas (incluindo muitos exemplares da arquitectura do período Manuelino em Portugal).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 19,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 48,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 104,
+        "end": 116
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 146,
+        "end": 150
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 157,
+        "end": 161
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 171,
+        "end": 187
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 265,
+        "end": 271
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 331,
+        "end": 338
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 340,
+        "end": 346
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 350,
+        "end": 359
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 388,
+        "end": 400
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 548,
+        "end": 554
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 572,
+        "end": 595
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 602,
+        "end": 624
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 626,
+        "end": 640
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 642,
+        "end": 661
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 670,
+        "end": 682
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 697,
+        "end": 714
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 721,
+        "end": 725
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 779,
+        "end": 799
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 837,
+        "end": 869
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 975,
+        "end": 988
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 991,
+        "end": 1008
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1112,
+        "end": 1132
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1136,
+        "end": 1144
+      }
+    }
+  ],
+  "relations": []
+}

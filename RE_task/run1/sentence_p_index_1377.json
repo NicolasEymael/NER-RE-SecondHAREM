@@ -1,0 +1,22 @@
+{
+  "text": "Qual o tíulo da obra que ganhou o Prémio Nadal em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 34,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 47,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

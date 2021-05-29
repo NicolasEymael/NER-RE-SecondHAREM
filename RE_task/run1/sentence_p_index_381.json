@@ -1,0 +1,43 @@
+{
+  "text": "Para analistas como Kris Voorspools , da Fortis , em Bruxelas , o \"preço do petróleo pode continuar a subir\", por se estar perante o \"simples fundamento da oferta e da procura\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 53,
+        "end": 61
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

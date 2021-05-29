@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi eleito como primeiro presidente negro da África do Sul?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 50,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

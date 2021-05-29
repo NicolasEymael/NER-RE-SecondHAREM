@@ -1,0 +1,54 @@
+{
+  "text": "A maior parte das vezes Mills fala de si mesmo como o originador da mensagem, usando o usual e romântico vocabulário do artista, do criador. Mas ele é um criador com uma relação peculiar com seus instrumentos. \"Geralmente eu dou início numa sequência e então deixo ela tocar. Eu saio e deixo-a tocando por cerca de vinte e quatro horas . As máquinas flutuam. Com o passar do tempo a sequência muda ligeiramente. As máquinas moldam a si mesmas, dando seu próprio caráter a uma faixa. Nós fizemos muito disso com o UR . Algumas vezes nós deixamos o som rolar por vários dias . Ele evoluia para um estado muito fixo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 302,
+        "end": 335
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 513,
+        "end": 515
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 518,
+        "end": 531
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 557,
+        "end": 572
+      }
+    }
+  ],
+  "relations": []
+}

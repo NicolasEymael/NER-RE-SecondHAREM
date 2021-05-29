@@ -1,0 +1,139 @@
+{
+  "text": "Os Presidentes do Parlamento Europeu, do Conselho e da Comissão | Presidentes do Parlamento Europeu, do Conselho e da Comissão assinaram, a 12 de Dezembro de 2007 , em Estrasburgo , a Carta dos Direitos Fundamentais da União Europeia | Carta dos Direitos Fundamentais da União Europeia , um dia antes da assinatura do Tratado de Lisboa , na capital portuguesa. Os três salientaram o \"dia histórico\" para os cidadãos europeus e também o \"desafio quotidiano\" e o \"compromisso das instituições europeias\" de respeitar e promover os direitos e valores fundamentais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 49
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 52,
+        "end": 63
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 66,
+        "end": 77
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 81,
+        "end": 99
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 104,
+        "end": 112
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 118,
+        "end": 126
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 138,
+        "end": 162
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 168,
+        "end": 179
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 184,
+        "end": 233
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 236,
+        "end": 267
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 271,
+        "end": 285
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 288,
+        "end": 300
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 318,
+        "end": 335
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 381,
+        "end": 398
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T8"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda. O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador. Um thriller que combina a crueza esquemática de Notícias de uma guerra particular | Notícias de uma guerra particular e a cinematografia exuberante de Cidade de Deus. Esse é só o começo de uma grande História que vem por aí. Em breve, num cinema perto de você.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 194,
+        "end": 227
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 297,
+        "end": 311
+      }
+    }
+  ],
+  "relations": []
+}

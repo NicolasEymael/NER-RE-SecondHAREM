@@ -1,0 +1,45 @@
+{
+  "text": "Onde é que Stephanie do Mónaco | Stephanie do Mónaco e Daniel Ducruet se casaram?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 33,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 52
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 55,
+        "end": 69
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

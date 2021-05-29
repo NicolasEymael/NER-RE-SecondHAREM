@@ -1,0 +1,86 @@
+{
+  "text": "Sim, eu sei: não é --- julga-se --- todo o Islão . Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear. Em todo o mundo muçulmano houve apenas um jornal, na Jordânia , que ousou escrever que pior que as caricaturas «blasfemas» para o Islão eram os terroristas blasfemos. Mas no dia seguinte o jornal pediu desculpas pelo que escrevera e o director foi despedido. É verdade também que a rua é incendiada a mando da Síria , do Irão ou da Al-Qaeda , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar Embaixadas e bandeiras e ameaçar de morte todos os ocidentais a vista. É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do Corão e que não se reveja na intolerância nem no terror em nome de Deus que o clero radical ensina nas escolas corânicas e prega nas mesquitas. Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 247,
+        "end": 255
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 324,
+        "end": 329
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 365,
+        "end": 380
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 504,
+        "end": 509
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 515,
+        "end": 519
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 526,
+        "end": 534
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 705,
+        "end": 715
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 888,
+        "end": 893
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 955,
+        "end": 959
+      }
+    }
+  ],
+  "relations": []
+}

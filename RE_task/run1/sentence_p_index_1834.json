@@ -1,0 +1,30 @@
+{
+  "text": "Qual a área do Parque Nacional da Peneda-Gerês | Parque Nacional da Peneda-Gerês ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 15,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 68,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Diz um alimento que seja parte da alimentação básica no Sudeste Asiático. Diz um alimento que seja parte da alimentação básica na Europa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 56,
+        "end": 72
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 130,
+        "end": 136
+      }
+    }
+  ],
+  "relations": []
+}

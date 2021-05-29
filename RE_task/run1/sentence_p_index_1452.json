@@ -1,0 +1,51 @@
+{
+  "text": "Quem foi o realizador de «E tudo o vento levou»? Em que ano recebeu ele o Óscar por «E tudo o vento levou»? Como se chamava a autora de \"E tudo o vento levou\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 26,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 74,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 85,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 137,
+        "end": 157
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

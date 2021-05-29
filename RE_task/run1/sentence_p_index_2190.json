@@ -1,0 +1,54 @@
+{
+  "text": "Sim. O art. 3, inciso II, letra \"b\", do Estatuto Social do IBAP | Estatuto Social do IBAP, estabelece que os acadêmicos de Direito em estágio nos órgãos de Advocacia Pública, enquanto perdurar tal situação, podem integrar o IBAP, na qualidade de associados estagiários.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 40,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 66,
+        "end": 81
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 85,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 123,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 156,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 224,
+        "end": 228
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Com \" África \" regressamos ao tempo perdido e com Salgado revivemos o melhor que há na essência do fotojornalismo documental.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 6,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 57
+      }
+    }
+  ],
+  "relations": []
+}

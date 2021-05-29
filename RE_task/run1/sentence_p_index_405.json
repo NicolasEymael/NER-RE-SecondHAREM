@@ -1,0 +1,53 @@
+{
+  "text": "Do grupo ALDE , Graham WATSON lançou uma petição para que a Presidência do PE | Presidência do PE use os poderes que lhe confere o regimento \"para mandar embora um deputado que se comporte de maneira indigna\": \"Uma atitude como esta não se pode tolerar e traz-nos o pior de um estádio de futebol\", afirmou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 9,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 91
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 95,
+        "end": 97
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

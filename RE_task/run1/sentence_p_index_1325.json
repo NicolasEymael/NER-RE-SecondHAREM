@@ -1,0 +1,14 @@
+{
+  "text": "Que forma tem a entrada do Museu do Louvre ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

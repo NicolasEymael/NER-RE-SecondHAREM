@@ -1,0 +1,14 @@
+{
+  "text": "Como se chama a mulher de George H. W. Bush?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

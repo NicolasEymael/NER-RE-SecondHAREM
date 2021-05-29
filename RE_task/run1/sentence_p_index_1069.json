@@ -1,0 +1,46 @@
+{
+  "text": "O Superflex ainda distribuiu à imprensa, no dia da coletiva, o documento \"A obra de arte que os brasileiros não terão permissão de ver na Bienal | A obra de arte que os brasileiros não terão permissão de ver na Bienal\" . Nele, afirma-se que o \"presidente da Fundação Bienal | presidente da Fundação Bienal censurou um trabalho com reconhecimento internacional para o público brasileiro\", que, segundo o texto divulgado, teria sido recusado \"por não ser considerada uma 'atividade artística'\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 74,
+        "end": 144
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 244,
+        "end": 273
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 290,
+        "end": 305
+      }
+    }
+  ],
+  "relations": []
+}

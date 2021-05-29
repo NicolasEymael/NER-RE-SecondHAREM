@@ -1,0 +1,62 @@
+{
+  "text": "Os arabibóias que deram a volta na Pampulha foram: Claudia Donelate , Jorge Américo , Mateus Silva , Antônio Ricardo , Israel Firmino e Luiz Eduardo Bustamante .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 51,
+        "end": 67
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 70,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 86,
+        "end": 98
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 101,
+        "end": 116
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 119,
+        "end": 133
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 136,
+        "end": 159
+      }
+    }
+  ],
+  "relations": []
+}

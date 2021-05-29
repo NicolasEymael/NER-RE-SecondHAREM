@@ -1,0 +1,103 @@
+{
+  "text": "Henrique VIII O curso da Reforma foi diferente na Inglaterra . Tinha havido desde há muito uma forte corrente anti-clerical, tendo a Inglaterra já tido o movimento Lollard , que inspirou os Hussitas na Boémia . Mas em cerca de 1520 , no entanto, os Lollards não eram já uma força activa, ou pelo menos um movimento de massas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 50,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 133,
+        "end": 143
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 164,
+        "end": 171
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 190,
+        "end": 198
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 202,
+        "end": 208
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 215,
+        "end": 231
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 249,
+        "end": 257
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "pratica_se",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "praticante_de",
+      "subj": "T9",
+      "obj": "T5"
+    }
+  ]
+}

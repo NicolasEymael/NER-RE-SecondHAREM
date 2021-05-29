@@ -1,0 +1,14 @@
+{
+  "text": "O que está escrito na bandeira do Brasil?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Ainda não há data para a concessão de licenças para telemóveis 3G , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país: China Telecom , China Netcom , China Mobile e China Unicom .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 63,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 164,
+        "end": 177
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 180,
+        "end": 192
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 195,
+        "end": 207
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 210,
+        "end": 222
+      }
+    }
+  ],
+  "relations": []
+}

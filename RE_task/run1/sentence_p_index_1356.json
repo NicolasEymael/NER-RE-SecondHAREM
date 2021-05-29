@@ -1,0 +1,30 @@
+{
+  "text": "Em que ano foi publicada a Gramática de Nebrija | Gramática de Nebrija?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 27,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 50,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,89 @@
+{
+  "text": "Sobre Fernando Pessoa , o poeta mexicano ganhador do Nobel de Literatura Octavio Paz diz que \"os poetas não têm biografia. Sua obra é sua biografia\" e que, no caso do poeta português, \"nada em sua vida é surpreendente --- nada, exceto seus poemas\". O crítico literário estadunidense Harold Bloom considerou-o, no seu livro The Western Canon (\" O Cânone Ocidental \"), o mais representativo poeta do século XX , ao lado do chileno Pablo Neruda .[3]",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 6,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 53,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 73,
+        "end": 84
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 283,
+        "end": 295
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 323,
+        "end": 340
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 344,
+        "end": 362
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 395,
+        "end": 407
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 429,
+        "end": 441
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

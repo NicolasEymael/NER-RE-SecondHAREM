@@ -1,0 +1,121 @@
+{
+  "text": "Ku , palavra e não palavrão, parece vir do mais puro vernáculo do Kimbundo ( MataKu =nádegas, assento plural de ritaku), principal língua falada em Luanda , Angola (da qual falamos centenas de vocábulos, sem saber - inclusive Ku , certo?) O sentido figurado da palavra é, exatamente, o mesmo que usamos no Brasil : Bunda (palavra aliás, oriunda também do mesmo Kimbundo ), literalmente traduzida para o portugês também como nádegas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 0,
+        "end": 2
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 66,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 77,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 148,
+        "end": 154
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 157,
+        "end": 163
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 226,
+        "end": 228
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 306,
+        "end": 312
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 315,
+        "end": 320
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 361,
+        "end": 369
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "pratica_se",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T2"
+    }
+  ]
+}

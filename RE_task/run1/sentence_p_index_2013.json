@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a duração do filme \"Heimat\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 27,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": "O que é a KORG onde Niky Orellana é comentador de futebol? Onde é que tem a sua sede?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 33
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi o primeiro homem na Lua?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

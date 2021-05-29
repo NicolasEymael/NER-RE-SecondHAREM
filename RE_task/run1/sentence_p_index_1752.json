@@ -1,0 +1,14 @@
+{
+  "text": "Qual o diâmetro de Ceres?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

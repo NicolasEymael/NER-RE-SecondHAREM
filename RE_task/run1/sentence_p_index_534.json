@@ -1,0 +1,38 @@
+{
+  "text": "Afirmando esperar um ano de 2008 mais exigente do que 2007 , o Presidente da República promete, ao longo do próximo ano , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 18,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 54,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 86
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 96,
+        "end": 119
+      }
+    }
+  ],
+  "relations": []
+}

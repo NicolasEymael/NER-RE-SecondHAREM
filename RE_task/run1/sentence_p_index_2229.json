@@ -1,0 +1,30 @@
+{
+  "text": "Estamos inserindo em nossa home-page a programação dos próximos eventos. Aqui, você poderá obter algumas informações: Próximos Cursos, Semiinários e Congressos",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 118,
+        "end": 133
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 135,
+        "end": 146
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 149,
+        "end": 159
+      }
+    }
+  ],
+  "relations": []
+}

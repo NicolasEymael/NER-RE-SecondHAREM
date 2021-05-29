@@ -1,0 +1,14 @@
+{
+  "text": "O Programa Educação de Chico Mendes surgiu para dar continuidade à construção permanente da educação ambiental e à promoção de um círculo virtuoso na busca do conhecimento, pesquisa e geração de saber e ações transformadoras a partir das escolas e das comunidades locais. [...]",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

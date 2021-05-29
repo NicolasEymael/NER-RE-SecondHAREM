@@ -1,0 +1,14 @@
+{
+  "text": "Dá-me informação sobre o iate \"Geronimo\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 31,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

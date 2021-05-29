@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o diretor do filme \"Caro Diário\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 27,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

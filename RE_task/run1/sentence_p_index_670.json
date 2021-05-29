@@ -1,0 +1,79 @@
+{
+  "text": "8. O PP já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece. E no entanto, a retirada do PSD da oposição poderia ser uma oportunidade e o PP tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco. Mas não chega. Portas reduziu o partido a si próprio, e dar atenção ao PP é dar atenção a Portas e cada vez menos pessoas o fazem.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 5,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 160,
+        "end": 163
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 209,
+        "end": 211
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 372,
+        "end": 378
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 428,
+        "end": 430
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 447,
+        "end": 453
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

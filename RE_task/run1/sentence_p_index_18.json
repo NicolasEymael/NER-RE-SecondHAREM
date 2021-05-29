@@ -1,0 +1,91 @@
+{
+  "text": "Como inscrito no capítulo 140 do Livro dos Mortos egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder. No último dia do mês , oferecia-se este olho simbólico, porque se acreditava que, nesse dia, um ser supremo colocou tal imagem em sua cabeça. Os antigos túmulos reais sumérios de Ur , situados perto do rio Eufrates no baixo Iraque , continham mais de 6000 estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro. Estes artefatos vieram indubitavelmente do material minado em Badakhshan no norte do Afeganistão .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 33,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 157,
+        "end": 177
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 239,
+        "end": 248
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 336,
+        "end": 338
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 363,
+        "end": 371
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 381,
+        "end": 387
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 400,
+        "end": 412
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 605,
+        "end": 615
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 628,
+        "end": 639
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T8"
+    }
+  ]
+}

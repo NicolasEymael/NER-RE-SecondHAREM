@@ -1,0 +1,83 @@
+{
+  "text": "No ano passado , Joeano marcou o golo do triunfo na Figueira da Foz , mas Domingos desvaloriza tudo isso. «A história nem sempre se repete e não há jogos iguais. Aliás, a Naval fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na Figueira da Foz , «mais adeptos da Académica do que da Naval ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 23
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 52,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 82
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 171,
+        "end": 176
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 300,
+        "end": 315
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 335,
+        "end": 344
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 355,
+        "end": 360
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_profissional",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

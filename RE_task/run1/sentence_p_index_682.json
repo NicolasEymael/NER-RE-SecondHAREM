@@ -1,0 +1,193 @@
+{
+  "text": "Com cerca de 18 anos cativa um espanhol que visitava a Covilhã para comprar tecidos que o convida a servir o seu amo, D. Juan de Guzman , irmão do Duque de Medina-Sidónia , um dos mais conceituados fidalgos de Sevilha ; Pêro aceita a proposta e parte para Sevilha onde lhe é atribuído o papel de espadachim. Impressionado com a desenvoltura de Pêro de Covilhã , convida-o D. Juan de Gusman a participar nas embarcações do seu irmão, o Duque conhecido também como o Pirata Espanhol ; Pêro recusa a oferta e, em 1474 , acompanha D. Juan a Lisboa a uma entrevista com Afonso V de Portugal | Afonso V de Portugal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 4,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 118,
+        "end": 135
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 147,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 210,
+        "end": 217
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 220,
+        "end": 224
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 256,
+        "end": 263
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 344,
+        "end": 359
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 372,
+        "end": 389
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 435,
+        "end": 440
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 465,
+        "end": 480
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 483,
+        "end": 487
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 507,
+        "end": 514
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 527,
+        "end": 534
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 537,
+        "end": 543
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 565,
+        "end": 585
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 588,
+        "end": 596
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 600,
+        "end": 608
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T18",
+      "obj": "T15"
+    }
+  ]
+}

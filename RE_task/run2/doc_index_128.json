@@ -1,0 +1,601 @@
+{
+  "text": " Protocolo de Quioto. Decreto 7/2002, de 25 de Março que aprova o Protocolo de Quioto à Convenção Quadro das Nações Unidas sobre Alterações Climáticas. Documentos relacionados com o PNALE. Decisão da Comissão Europeia sobre o PNALE português. Comunicado de imprensa da COMISSÃO - \"Comércio de Emissões: a Comissão deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista\" (IP/04/1250). Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007 (versão notificada à Comissão Europeia). PNALE 2005-2007 - Relatório da Consulta Pública | PNALE 2005-2007 - Relatório da Consulta Pública. Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007 | Metodologia de Atribuição de Licenças de Emissão - PNALE 2005-2007. Documentos relacionados com o Comércio Europeu de Licenças de Emissão. Directiva 2003/87/CE do Parlamento Europeu e do Concelho | Directiva 2003/87/CE do Parlamento Europeu e do Concelho, de 13 de Outubro de 2003, relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade e que altera a Directiva 96/61/CE do Conselho | Directiva 96/61/CE do Conselho. Decreto-Lei n.º 233/2004, de 14 de Dezembro, alterado pelo Decreto-Lei n.º 243-A/2004, de 31 de Dezembro, que estabelece o regime de comércio de licenças de gases com efeito de estufa na União Europeia. Decisão da Comissão n.º 156/2004, de 29 de Janeiro de 2004, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa. Regulamento (CE) n.º 2216/2004 da Comissão de 21 de Dezembro de 2004, relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do Parlamento Europeu e do Conselho e a Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho. International Emissions Trading Association, \"Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme\" (em inglês). Directiva 2004/101/CE do Parlamento Europeu e do Conselho | Directiva 2004/101/CE do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004, que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade, no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 1,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 22,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 52
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 66,
+        "end": 85
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 88,
+        "end": 150
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 182,
+        "end": 187
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 200,
+        "end": 217
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 226,
+        "end": 231
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 269,
+        "end": 277
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 281,
+        "end": 301
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 305,
+        "end": 313
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 382,
+        "end": 402
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 435,
+        "end": 486
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 489,
+        "end": 504
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 526,
+        "end": 543
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "obra",
+      "span": {
+        "begin": 546,
+        "end": 593
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "obra",
+      "span": {
+        "begin": 645,
+        "end": 711
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "obra",
+      "span": {
+        "begin": 812,
+        "end": 851
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "obra",
+      "span": {
+        "begin": 853,
+        "end": 909
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 936,
+        "end": 954
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 960,
+        "end": 968
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 970,
+        "end": 994
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1096,
+        "end": 1106
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1144,
+        "end": 1152
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "obra",
+      "span": {
+        "begin": 1155,
+        "end": 1185
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "obra",
+      "span": {
+        "begin": 1187,
+        "end": 1211
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1213,
+        "end": 1230
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "obra",
+      "span": {
+        "begin": 1246,
+        "end": 1272
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 1274,
+        "end": 1291
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1374,
+        "end": 1388
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "obra",
+      "span": {
+        "begin": 1390,
+        "end": 1422
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 1424,
+        "end": 1448
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "obra",
+      "span": {
+        "begin": 1580,
+        "end": 1610
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1614,
+        "end": 1622
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1623,
+        "end": 1648
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "obra",
+      "span": {
+        "begin": 1730,
+        "end": 1750
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1754,
+        "end": 1772
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1778,
+        "end": 1786
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "obra",
+      "span": {
+        "begin": 1791,
+        "end": 1814
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1818,
+        "end": 1836
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1842,
+        "end": 1850
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1852,
+        "end": 1895
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "obra",
+      "span": {
+        "begin": 1990,
+        "end": 2017
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "obra",
+      "span": {
+        "begin": 2032,
+        "end": 2089
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "obra",
+      "span": {
+        "begin": 2092,
+        "end": 2113
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2117,
+        "end": 2135
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2141,
+        "end": 2149
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "tempo",
+      "span": {
+        "begin": 2151,
+        "end": 2175
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "obra",
+      "span": {
+        "begin": 2190,
+        "end": 2210
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "local",
+      "span": {
+        "begin": 2311,
+        "end": 2321
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "obra",
+      "span": {
+        "begin": 2383,
+        "end": 2402
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T7"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T7"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T7"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T6"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T6"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T7"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T6"
+    },
+    {
+      "id": "R13",
+      "pred": "data_de",
+      "subj": "T22",
+      "obj": "T19"
+    },
+    {
+      "id": "R14",
+      "pred": "data_de",
+      "subj": "T27",
+      "obj": "T26"
+    },
+    {
+      "id": "R15",
+      "pred": "data_de",
+      "subj": "T29",
+      "obj": "T28"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T23"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T15"
+    },
+    {
+      "id": "R18",
+      "pred": "autor_de",
+      "subj": "T37",
+      "obj": "T36"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T24"
+    },
+    {
+      "id": "R20",
+      "pred": "autor_de",
+      "subj": "T38",
+      "obj": "T36"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T37"
+    },
+    {
+      "id": "R22",
+      "pred": "autor_de",
+      "subj": "T40",
+      "obj": "T39"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T24"
+    },
+    {
+      "id": "R24",
+      "pred": "autor_de",
+      "subj": "T41",
+      "obj": "T39"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T20"
+    },
+    {
+      "id": "R26",
+      "pred": "autor_de",
+      "subj": "T46",
+      "obj": "T45"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T47",
+      "obj": "T24"
+    },
+    {
+      "id": "R28",
+      "pred": "autor_de",
+      "subj": "T47",
+      "obj": "T45"
+    },
+    {
+      "id": "R29",
+      "pred": "data_de",
+      "subj": "T48",
+      "obj": "T45"
+    },
+    {
+      "id": "R30",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T23"
+    },
+    {
+      "id": "R31",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T1"
+    }
+  ]
+}

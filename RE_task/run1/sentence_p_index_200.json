@@ -1,0 +1,54 @@
+{
+  "text": "O Museu Histórico Nacional oferece ao público Arquivo Histórico , com 50.000 documentos iconográficos e manuscritos sobre a história do Brasil , e Biblioteca com 57.000 obras versando sobre história, história da arte, museologia, heraldica, numismática, genealogia e moda.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 70,
+        "end": 76
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 142
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 147,
+        "end": 157
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 162,
+        "end": 168
+      }
+    }
+  ],
+  "relations": []
+}

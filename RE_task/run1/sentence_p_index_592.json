@@ -1,0 +1,30 @@
+{
+  "text": "Os autores dos cenários basearam o seu cálculo em três taxas de ataque (30, 35 e 40 por cento da população), admitindo que a pandemia evoluiria em duas ondas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 72,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 76,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 81,
+        "end": 93
+      }
+    }
+  ],
+  "relations": []
+}

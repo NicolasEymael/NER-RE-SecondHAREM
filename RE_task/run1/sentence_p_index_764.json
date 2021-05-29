@@ -1,0 +1,71 @@
+{
+  "text": "À excepção dos antigos países do bloco de leste, a Espanha é um dos países que tem o salário mínimo mais baixo da União Europeia , juntamente com Portugal , Grécia e Malta .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 128
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 146,
+        "end": 154
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 157,
+        "end": 163
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 166,
+        "end": 171
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T5"
+    }
+  ]
+}

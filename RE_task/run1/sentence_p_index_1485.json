@@ -1,0 +1,22 @@
+{
+  "text": "De que banda rock é vocalista Anthony Kiedis? O que é Stadium Arcadium? Diga três albuns da banda.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

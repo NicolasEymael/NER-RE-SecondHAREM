@@ -1,0 +1,14 @@
+{
+  "text": "2. Sistemas de Alerta Precoce",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 3,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

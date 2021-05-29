@@ -1,0 +1,78 @@
+{
+  "text": "O segundo elo entre Oiticica e Houaiss está no interesse da descrição do sistema fonético do português, especialmente do português do Brasil. José Oiticica, depois de trabalhar para uma tese de concurso ao Colégio Pedro II acerca da língua de Camões, apresenta à Congregação, em 1916, a 1.ª série de seu Estudos de Fonologia que, incontestavelmente, abre novo caminho nesse domínio da descrição lingüística entre nós.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 134,
+        "end": 140
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 142,
+        "end": 155
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 206,
+        "end": 222
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 243,
+        "end": 249
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 263,
+        "end": 274
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 276,
+        "end": 283
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 304,
+        "end": 324
+      }
+    }
+  ],
+  "relations": []
+}

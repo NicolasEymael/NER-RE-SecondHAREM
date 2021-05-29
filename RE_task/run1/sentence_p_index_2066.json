@@ -1,0 +1,14 @@
+{
+  "text": "Quando houve uma erupção do Vesúvio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

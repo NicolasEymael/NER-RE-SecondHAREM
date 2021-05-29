@@ -1,0 +1,93 @@
+{
+  "text": "Mas não são apenas os rastreadores tribais que usam o CyberTracker. Estudantes e observadores de aves também aproveitam as vantagens do sistema. Ele já foi usado até por equipes de cientistas em expedições no Ártico, no monitoramento de lobos no estado norte-americano de Idaho, da poluição dos rios na Tanzânia e do raríssimo rinoceronte de Sumatra, em Bornéu. O software pode ser personalizado, e é oferecido gratuitamente na Web. Cerca de 400 projetos em 30 países estão usando o sistema, afirma Liebenberg.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 54,
+        "end": 66
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 209,
+        "end": 215
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 272,
+        "end": 277
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 303,
+        "end": 311
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 342,
+        "end": 349
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 354,
+        "end": 360
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 428,
+        "end": 431
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 433,
+        "end": 445
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 458,
+        "end": 460
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 499,
+        "end": 509
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

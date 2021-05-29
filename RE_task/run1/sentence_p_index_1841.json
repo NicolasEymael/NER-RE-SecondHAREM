@@ -1,0 +1,14 @@
+{
+  "text": "Em que período existiu a República de Veneza?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que são os \"Estudos sobre a Histeria\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 14,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

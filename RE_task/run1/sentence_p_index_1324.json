@@ -1,0 +1,14 @@
+{
+  "text": "Qual foi o primeiro libro impresso por Gutenberg?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

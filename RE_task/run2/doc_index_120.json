@@ -1,0 +1,257 @@
+{
+  "text": " Fonte: Press Release (28/10/2003). A Expotec 2003, Feira de Ciências e Cultura da Escola Fortec | Feira de Ciências e Cultura da Escola Fortec, reuniu mais de 2000 pessoas na unidade 4, em São Vicente - Feira de Ciências e Cultura da Escola Fortec. Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina Noções básicas de Histórias em Quadrinhos, da Associação dos Artistas - Música e Arte. O evento contou com o lançamento do Zine Expotec 2003 - Meio Ambiente, ilustrações e mascotes criados pelos alunos. Além da exposição, cada aluno criou sua mascote que virou camiseta. A oficina foi coordenada por Fábio Tatsubô com a monitoria de André Prata. Links Relacionados: HQ Nacional. Editora Rocco lança Mulheres Alteradas 5 (09/06/05). Lançamento do mangá Fruits Basket no Anima Weekend (07/04/05). Turma da Mônica será estrela de campanha internacional de vacinação (30/03/05). HQs de Velta disponíveis em CD-Rom (22/03/05). Folclore brasileiro em estilo mangá (03/03/05).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 8,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 23,
+        "end": 33
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 38,
+        "end": 50
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 52,
+        "end": 96
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 99,
+        "end": 126
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 130,
+        "end": 143
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 152,
+        "end": 164
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 190,
+        "end": 201
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 363,
+        "end": 404
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 409,
+        "end": 448
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 486,
+        "end": 519
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 663,
+        "end": 676
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 696,
+        "end": 707
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 729,
+        "end": 740
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 742,
+        "end": 755
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "obra",
+      "span": {
+        "begin": 762,
+        "end": 782
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 784,
+        "end": 792
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "obra",
+      "span": {
+        "begin": 815,
+        "end": 828
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 832,
+        "end": 845
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 847,
+        "end": 855
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 858,
+        "end": 873
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 927,
+        "end": 935
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 938,
+        "end": 941
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 945,
+        "end": 950
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "tempo",
+      "span": {
+        "begin": 974,
+        "end": 982
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1022,
+        "end": 1030
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "participante_em",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "participante_em",
+      "subj": "T13",
+      "obj": "T9"
+    },
+    {
+      "id": "R7",
+      "pred": "produzido_por",
+      "subj": "T16",
+      "obj": "T15"
+    }
+  ]
+}

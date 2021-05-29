@@ -1,0 +1,389 @@
+{
+  "text": "Esse tema abriu o primeiro evento cultural realizado pelo IBAP, o Primeiro Seminário Estadual \"Advocacia Pública e Sociedade\", realizado em São Paulo/SP, no ano de 1995. No dia 25 de outubro de 1995, no Auditório Pedroso Horta, da Câmara Municipal de São Paulo | Câmara Municipal de São Paulo, aproximadamente 150 operadores do Direito assistiram as palestras de Cláudia Aparecida de Souza Trindade (Procuradoria da Fazenda Nacional), Márcio Cammarosano (Procuradoria do Município de Santo André | Procuradoria do Município de Santo André ), Paulo Francisco Von Bruck Lacerda (Procuradoria Geral do do Estado de São Paulo | Procuradoria Geral do do Estado de São Paulo) e Walkure Lopes Ribeiro da Silva (Professora da Faculdade de Direito da USP | Professora da Faculdade de Direito da USP | Professora da Faculdade de Direito da USP. O evento encontra-se disponível em fita cassete para os associados regulares do IBAP. A palestra da Professora Walkure Lopes Ribeiro da Silva encontra-se transcrita no volume 4 dos cadernos \"Advocacia Pública em Debate\", também disponíveis para associados regulares.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 62
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 66,
+        "end": 125
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 140,
+        "end": 149
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 150,
+        "end": 152
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 154,
+        "end": 168
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 170,
+        "end": 198
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 203,
+        "end": 226
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 231,
+        "end": 260
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 263,
+        "end": 279
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 283,
+        "end": 292
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 294,
+        "end": 313
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 328,
+        "end": 335
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 363,
+        "end": 398
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 400,
+        "end": 432
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 435,
+        "end": 453
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 455,
+        "end": 495
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 498,
+        "end": 510
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 514,
+        "end": 538
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 542,
+        "end": 575
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 577,
+        "end": 621
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 624,
+        "end": 642
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 649,
+        "end": 668
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 672,
+        "end": 702
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 704,
+        "end": 745
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 748,
+        "end": 758
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 762,
+        "end": 789
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 792,
+        "end": 802
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 806,
+        "end": 826
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 830,
+        "end": 833
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 915,
+        "end": 919
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 935,
+        "end": 976
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "obra",
+      "span": {
+        "begin": 1026,
+        "end": 1053
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "data_de",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R8",
+      "pred": "participante_em",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "vinculo_inst",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R10",
+      "pred": "participante_em",
+      "subj": "T15",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R12",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T15"
+    },
+    {
+      "id": "R13",
+      "pred": "participante_em",
+      "subj": "T19",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "participante_em",
+      "subj": "T23",
+      "obj": "T2"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T23"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T23"
+    },
+    {
+      "id": "R17",
+      "pred": "vinculo_inst",
+      "subj": "T26",
+      "obj": "T23"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T23"
+    },
+    {
+      "id": "R19",
+      "pred": "vinculo_inst",
+      "subj": "T28",
+      "obj": "T23"
+    },
+    {
+      "id": "R20",
+      "pred": "vinculo_inst",
+      "subj": "T29",
+      "obj": "T23"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T23"
+    }
+  ]
+}

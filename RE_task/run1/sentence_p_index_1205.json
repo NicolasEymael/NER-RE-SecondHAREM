@@ -1,0 +1,95 @@
+{
+  "text": "Nessa pesquisa de recolher as peças soltas para compor o quadro definitivo, há questões que se impõem pela sua curiosidade. Uma delas, por exemplo, está na opção de Houaiss de matricular-se, na Faculdade Nacional de Filosofia, no Curso de Letras Clássicas, para licenciar-se em disciplinas, como Grego e o Latim, disciplinas que durante toda a sua vida de produção científica não ocuparam o lugar que normalmente seria esperado. É certo que Houaiss lecionou Latim, ao lado da Língua Portuguesa; é certo também que o conhecimento dos idiomas clássicos esteve na raiz de seu trabalho lexicográfico, dicionarístico e enciclopédístico, mas não tivemos o nosso homenageado a editar textos de grego e latim ou a tratar especificamente de questões de língua ou de literatura clássicas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 165,
+        "end": 172
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 194,
+        "end": 225
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 230,
+        "end": 255
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 296,
+        "end": 301
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 306,
+        "end": 311
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 441,
+        "end": 448
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 458,
+        "end": 463
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 476,
+        "end": 493
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_em",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

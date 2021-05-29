@@ -1,0 +1,101 @@
+{
+  "text": "Mas estes não são os únicos dois países em turbulência geopolítica. É também o Quénia , \"ao lado da Nigéria , que se incendeia\", diz Moncef Kaabi , da Natixis , é também a Turquia , com as operações contra os separatistas curdos no Norte , justificando que mercados como o do petróleo \"traduzem a inquietação e a incerteza dos investidores\". Por outro lado, os EUA deverão anunciar ainda hoje a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, pela sétima semana consecutiva, desta vez em 1,8 milhões de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da Reuters .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 79,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 133,
+        "end": 145
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 151,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 172,
+        "end": 179
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 232,
+        "end": 237
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 361,
+        "end": 364
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 388,
+        "end": 392
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 495,
+        "end": 525
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 540,
+        "end": 551
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 639,
+        "end": 646
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

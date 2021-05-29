@@ -1,0 +1,38 @@
+{
+  "text": "A Lusa tentou contactar o porta-voz da ASAE | porta-voz da ASAE para obter esclarecimentos adicionais mas tal foi impossível até ao momento.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 59,
+        "end": 63
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 125,
+        "end": 139
+      }
+    }
+  ],
+  "relations": []
+}

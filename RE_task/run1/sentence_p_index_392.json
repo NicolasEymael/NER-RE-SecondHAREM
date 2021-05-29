@@ -1,0 +1,30 @@
+{
+  "text": "\" A partir de hoje , e talvez para incómodo de alguns, os direitos fundamentais passam formalmente, e de forma irreversível, a fazer parte do património comum da UE . Um património ético, de cidadania e do melhor que há na civilização europeia!\", afirmou o Primeiro-Ministro português.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 2,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 162,
+        "end": 164
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 274
+      }
+    }
+  ],
+  "relations": []
+}

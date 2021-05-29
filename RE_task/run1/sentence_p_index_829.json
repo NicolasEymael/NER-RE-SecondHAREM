@@ -1,0 +1,77 @@
+{
+  "text": "O Tratado de Lisboa confere à União Europeia , personalidade jurídica própria para assinar acordos internacionais a nível comunitário. O termo « Comunidade » será substituído por « União », nomeia o Alto Representante para a Política Exterior e de Segurança Comum da União Europeia | Alto Representante para a Política Exterior e de Segurança Comum da União Europeia e estabelece a aplicação formal da dupla maioria a partir de 2014 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 145,
+        "end": 155
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 181,
+        "end": 186
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 199,
+        "end": 281
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 284,
+        "end": 348
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 352,
+        "end": 366
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 416,
+        "end": 432
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    }
+  ]
+}

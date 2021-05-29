@@ -1,0 +1,225 @@
+{
+  "text": " Euro segue em alta face ao dólar. O euro segue a reforçar os ganhos em relação à divisa dos Estados Unidos esta segunda-feira , cotando sobre 1,474 dólares , seis cêntimos acima dos máximos da sessão anterior. A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da Reserva Federal dos EUA | Reserva Federal dos EUA com o objectivo de inverter o cenário de abrandamento da economia. Por outro lado, números do Fundo Monetário Internacional divulgados na passada sexta-feira indicam que a divisa europeia já pesa 26,4% do total das reservas externas em todo mundo no terceiro trimestre, mais do que no trimestre anterior e a comparar com 24,4% um ano antes . Na passada sexta-feira , o Banco Central Europeu ( BCE ) fixou a taxa de câmbio oficial a 1,4692 dólares , um valor que corresponde a mais 17% face ao câmbio média calculado para 2006 , quando a moeda única europeia se fixou em 1,2556 dólares , segundo dados do BCE para a média anual.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 93,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 108,
+        "end": 126
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 143,
+        "end": 156
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 300,
+        "end": 323
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 326,
+        "end": 341
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 346,
+        "end": 349
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 444,
+        "end": 473
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 485,
+        "end": 507
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 546,
+        "end": 551
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 597,
+        "end": 618
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 632,
+        "end": 653
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 671,
+        "end": 676
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 677,
+        "end": 689
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 692,
+        "end": 714
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 719,
+        "end": 740
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 743,
+        "end": 746
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 782,
+        "end": 796
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "valor",
+      "span": {
+        "begin": 826,
+        "end": 834
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 866,
+        "end": 875
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 920,
+        "end": 934
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 954,
+        "end": 957
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "localizado_em",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T16"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T16"
+    }
+  ]
+}

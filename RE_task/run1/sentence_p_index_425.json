@@ -1,0 +1,30 @@
+{
+  "text": "Contribuir para a ampliação do debate a respeito da Educação Ambiental ( EA ) em instituições de educação superior ( IES ) brasileiras, com vistas à reflexão sobre políticas públicas educacionais que considerem a dimensão ambiental na formação dos profissionais de nível superior das diferentes áreas do conhecimento. Ver síntese da pesquisa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 52,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 73,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 117,
+        "end": 120
+      }
+    }
+  ],
+  "relations": []
+}

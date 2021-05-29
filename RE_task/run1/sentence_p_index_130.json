@@ -1,0 +1,87 @@
+{
+  "text": "É perceptível, quando se escuta Mills , que apesar dele pensar sua música em termos concretos (cordas \"se liquefazem no corpo\" como \"ao ligar um aquecedor\"), o som frequentemente parece ser só sinal para ele, só um veículo para a mensagem. Então tem essa mensagem um conteúdo? O inovador selo de Detroit Underground Resistance ( UR ), que Mills fundou com Mike Banks , costumava emplastrar suas capas com linguagem tipo-manifesto, preparando seu público para alguma indefinida revolução sônica. Logo eu quis saber se \"a mensagem\" é política.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 164,
+        "end": 178
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 296,
+        "end": 303
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 304,
+        "end": 326
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 329,
+        "end": 331
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 339,
+        "end": 344
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 356,
+        "end": 366
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "proprietario_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "proprietario_de",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "relacao_profissional",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias. No interior, para o norte do Recife , apresenta-se durante a safra da cana-de-açúcar( agosto a janeiro ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 180,
+        "end": 186
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 237,
+        "end": 253
+      }
+    }
+  ],
+  "relations": []
+}

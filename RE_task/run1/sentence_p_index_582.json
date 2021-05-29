@@ -1,0 +1,75 @@
+{
+  "text": "A final demorou 2.26 horas e o líder mundial fez 11 ases contra apenas 5 do sérvio. Ao helvético apenas lhe falta o título no Open de França | Open de França, em Roland Garros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 16,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 49,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 71,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 126,
+        "end": 140
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 143,
+        "end": 147
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 151,
+        "end": 157
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 162,
+        "end": 175
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

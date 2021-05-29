@@ -1,0 +1,46 @@
+{
+  "text": "Mas George Steiner ( G.S. ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em Berlim , concerteza...ou tão aplaudido sábio terá esquecido de Aristides Sousa Mendes ou de Oskar Schindler ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 159,
+        "end": 165
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 222,
+        "end": 244
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 251,
+        "end": 266
+      }
+    }
+  ],
+  "relations": []
+}

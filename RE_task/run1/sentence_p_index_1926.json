@@ -1,0 +1,22 @@
+{
+  "text": "Quantos países visitou Nixon entre 1953 e 1959?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 29,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

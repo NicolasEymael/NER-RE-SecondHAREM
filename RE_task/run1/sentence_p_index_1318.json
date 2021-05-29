@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava a espada do Rei Artur?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

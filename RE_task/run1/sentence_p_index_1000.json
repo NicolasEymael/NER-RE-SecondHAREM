@@ -1,0 +1,14 @@
+{
+  "text": "\"Vai ter que voltar, porque só funciona das 08h00 às 09h00 \"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

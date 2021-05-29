@@ -1,0 +1,14 @@
+{
+  "text": "De bicicleta também pelo Ambiente",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

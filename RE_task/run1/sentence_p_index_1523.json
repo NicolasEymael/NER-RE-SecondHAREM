@@ -1,0 +1,14 @@
+{
+  "text": "De que país é Peter Jackson?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

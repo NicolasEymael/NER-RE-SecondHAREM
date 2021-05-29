@@ -1,0 +1,78 @@
+{
+  "text": "Para os anglicanos estes dois sacramentos foram instituídos pelo próprio Senhor Jesus Cristo . Os demais ritos sacramentais da Igreja também são aceitos, apesar de não terem sido instituídos por Cristo , mas são reconhecidos por serem, em parte, estados de vida aprovados nas Escrituras : a Confirmação , Penitência , Ordens , Matrimônio e a Unção dos enfermos .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 73,
+        "end": 92
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 127,
+        "end": 133
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 195,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 276,
+        "end": 286
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 291,
+        "end": 302
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 305,
+        "end": 315
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 318,
+        "end": 324
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 327,
+        "end": 337
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 342,
+        "end": 360
+      }
+    }
+  ],
+  "relations": []
+}

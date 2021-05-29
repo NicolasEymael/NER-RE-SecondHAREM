@@ -1,0 +1,14 @@
+{
+  "text": "Doença de Chagas",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi o realizador de Nosferatu? E quem era o actor principal?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "4.5. Onde se acha registrado o Estatuto Social do IBAP | Estatuto Social do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 31,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 57,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 76,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

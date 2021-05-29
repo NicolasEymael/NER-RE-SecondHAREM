@@ -1,0 +1,14 @@
+{
+  "text": "REPORTAGEM LOCAL",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

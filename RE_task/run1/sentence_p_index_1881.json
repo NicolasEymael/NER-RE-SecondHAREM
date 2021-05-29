@@ -1,0 +1,14 @@
+{
+  "text": "Quem comandou a Insurreição de Varsóvia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 16,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "A que altitude está Miguel Pereira?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

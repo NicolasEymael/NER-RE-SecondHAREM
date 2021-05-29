@@ -1,0 +1,78 @@
+{
+  "text": "No domingo está previsto que o público em geral possa participar no lançamento de foguetões de água e em Oficinas de Astronomia , com a construção de Relógios de Sol | Relógios de Sol , Espectroscópios | Espectroscópios , Astrolábios | Astrolábios , Planisférios | Planisférios e outros materiais de observação. A iniciativa termina com uma palestra por João Fernandes , o coordenador nacional do ano internacional da astronomia, que se assinala em 2009 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 105,
+        "end": 127
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 150,
+        "end": 165
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 186,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 222,
+        "end": 233
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 250,
+        "end": 262
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 354,
+        "end": 368
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 394,
+        "end": 414
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 446,
+        "end": 453
+      }
+    }
+  ],
+  "relations": []
+}

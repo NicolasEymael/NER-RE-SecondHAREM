@@ -1,0 +1,22 @@
+{
+  "text": "No Kuduro angolano - e vejam vocês mesmos que coisa curiosa! - os passos do mix, da fusão com o break, são o mais puro e carioca dos Sambas . Incrível!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 133,
+        "end": 139
+      }
+    }
+  ],
+  "relations": []
+}

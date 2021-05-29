@@ -1,0 +1,29 @@
+{
+  "text": "Lisboa-Dakar'2008 começa a 5 de Janeiro",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 39
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

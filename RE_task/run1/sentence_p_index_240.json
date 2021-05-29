@@ -1,0 +1,73 @@
+{
+  "text": "Por outro lado, a escolha do presidente da Caixa Geral de Depósitos | presidente da Caixa Geral de Depósitos para presidir ao BCP só pode igualmente ser obra do Pai Natal . Carlos Santos Ferreira é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do Estado .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 84,
+        "end": 108
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 129
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 161,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 173,
+        "end": 195
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 330,
+        "end": 336
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T3"
+    }
+  ]
+}

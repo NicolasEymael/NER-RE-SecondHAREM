@@ -1,0 +1,14 @@
+{
+  "text": "Quem disse \"Ao vencedor, as batatas!\" ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 12,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

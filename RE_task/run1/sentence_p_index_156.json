@@ -1,0 +1,29 @@
+{
+  "text": "Sesimbra Xtream Beach Fest 2007 ( Sesimbra )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 42
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

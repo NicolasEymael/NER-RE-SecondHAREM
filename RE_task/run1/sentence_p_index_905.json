@@ -1,0 +1,38 @@
+{
+  "text": "Aquela história da presença nossa nos palcos, nós na cena, nós brilhando, nós dirigindo, nós na fita foi assunto a partir da trajetória de Abdias e do TEN, temas abordados na única palestra do Encontro, feita pela atriz Vera Lopes.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 139,
+        "end": 145
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 151,
+        "end": 154
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 193,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 220,
+        "end": 230
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que se passou a 4 de Julho de 1776?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 16,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

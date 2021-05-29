@@ -1,0 +1,29 @@
+{
+  "text": " Bem, na província, às vezes brincava com outros meninos filhos do ... ou doutras pessoas do tribunal, ou da rua, até. Brincava... Ali, em Alenquer . Porque depois viemos, voltámos para Lisboa , o meu pai esteve então, se não me engano, como ... chefe de gabinete do Ministro da Justiça , por isso, voltámos, que era o dr. Catanho de Meneses . Voltámos para Lisboa e foi quando saímos de Santa Quitéria para a Rua Sampaio Pina . E na Rua Sampaio Pina , que era ao lado do Rádio Clube Português , a casa que ainda existe hoje e faz esquina para a rua Castilho , no primeiro andar, então alugámos essa casa, e aí então é que eu comecei foi a aprender o alemão com uma preceptora alemã, que era... que vinha três vezes por semana, dar-me lição de alemão. Não estava lá em casa, havia preceptoras internas, que estavam dentro, que eram internas, estavam lá, nas casas dos respectivos alunos, mas aquela senhora, a Kaethe Goethe , não. Vinha três vezes por semana dar-me a lição de alemão. Gostava! Tinha uns livros assim muito engraçados, que ainda hoje conheces, que conservo. Era professora, quero dizer ela veio para Portugal dar aulas. Não sei se veio interna para uma casa e depois deixou, estava... Não, ela era uma senhora que tinha vindo da Alemanha só para ser professora, e tinha... tinha-se instalado numa casa que era o lar das... das professoras de alemão, que havia nessa altura , na Avenida , perto da Praça da Alegria . Lembro-me de ela lá me ter levado e tenho aí até fotografias de um cão, desse dito lar, a querer abraçar-me, coisa que eu não gostei nada, como continuo a não gostar de abraços de cão. D: Mas já tinhas o Sirius ... Não, o Sirius veio muitíssimo mais tarde . Não, na Sampaio Pina não tinha o Sirius , não tinha cão nenhum. Pois, o resto, tinha grandes amigas sempre. Constante, até era, mais até que as minhas primas... tinha as minhas primas, e tinha a Joaninha Sampaio e Melo , que era filha da maior amiga da minha mãe, da Lourinhã .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1654,
+        "end": 1660
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 1636,
+        "end": 1642
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

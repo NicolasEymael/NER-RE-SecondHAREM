@@ -1,0 +1,14 @@
+{
+  "text": "Onde é a nova sede da Nederlandse Gasunie?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

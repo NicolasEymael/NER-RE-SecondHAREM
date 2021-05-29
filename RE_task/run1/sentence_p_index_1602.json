@@ -1,0 +1,14 @@
+{
+  "text": "Que ferry-boat famoso naufragou no Mar Báltico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

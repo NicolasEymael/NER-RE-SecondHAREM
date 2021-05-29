@@ -1,0 +1,37 @@
+{
+  "text": "Como diz Geert Lovink em seu último livro, My First Recession , a cultura da internet \"é um meio global no qual redes sociais são moldadas por uma mistura de regras implícitas, redes informais, conhecimento, convenções e rituais coletivos\" (3). Procurar entender o atual fenômeno dos coletivos ignorando essa dinâmica de código e cultura, ou seja, modus operandi, instrumentos, ativismos e lutas democráticas face a uma crescente repressão na guerra global do capital, equivaleria a esquecer por completo a senha na hora de logar. Esqueceu sua senha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 43,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 513,
+        "end": 520
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

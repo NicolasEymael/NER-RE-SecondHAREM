@@ -1,0 +1,30 @@
+{
+  "text": "Será que ousaria um novo Estado de Emergência | Estado de Emergência ? Será que sobreviveria a tal decreto? Será que o Exército se manterá fiel a ele? Será que o Serviço de Inteligência, tão ligado ao norte islâmico, ainda o respeita minimamente?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 119,
+        "end": 127
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 162,
+        "end": 185
+      }
+    }
+  ],
+  "relations": []
+}

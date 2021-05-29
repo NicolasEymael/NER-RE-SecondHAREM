@@ -1,0 +1,111 @@
+{
+  "text": "Houaiss sempre cultivou a preocupação da descrição fonética, tanto ligado ao Oiticica quanto a Nascentes - outro notável cultor dos estudos fonéticos -, e o ponto mais alto dessa atividade está consubstanciado na exaustiva elaboração da Tentativa de Descrição do Sistema Vocálico do Português Culto na Área Dita Carioca, em 1959 e das Normas da pronúncia normal do Brasil | Normas da pronúncia normal do Brasil aprovadas pelo Primeiro Congresso Brasileiro de Língua Falada no Teatro, realizado em 1956, em Salvador (Bahia).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 85
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 95,
+        "end": 104
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 237,
+        "end": 319
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 321,
+        "end": 328
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 335,
+        "end": 371
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 426,
+        "end": 482
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 494,
+        "end": 501
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 506,
+        "end": 514
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 516,
+        "end": 521
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

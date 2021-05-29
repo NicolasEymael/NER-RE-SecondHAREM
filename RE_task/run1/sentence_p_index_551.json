@@ -1,0 +1,14 @@
+{
+  "text": "PROVA TERÁ PERTO DE 6.000 QUILÓMETROS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 11,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

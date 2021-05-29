@@ -1,0 +1,14 @@
+{
+  "text": "O que fazem as escolas que dizem que fazem EA",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 43,
+        "end": 45
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": "- Também tem aquele ali, com o Lázaro Ramos, \"Ó pái ó\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 46,
+        "end": 53
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

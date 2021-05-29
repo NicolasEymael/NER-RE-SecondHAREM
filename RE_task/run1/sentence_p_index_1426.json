@@ -1,0 +1,22 @@
+{
+  "text": "Quem recebeu o Óscar de Melhor Actor por «Forrest Gump»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 15,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 42,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

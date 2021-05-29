@@ -1,0 +1,30 @@
+{
+  "text": "5.2. O que é a Lista de Debates do IBAP | Lista de Debates do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 42,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 62,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,91 @@
+{
+  "text": "Os Censurados nasceram em Lisboa \"no ano de 1988, pelo antigo vocalista da banda Ku de Judas, João Ribas, juntando-se-lhe Orlando Cohen, o ex-membro dos Peste & Sida, Samuel Palitos e ainda Fred Valsassina.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 48
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 81,
+        "end": 92
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 94,
+        "end": 104
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 122,
+        "end": 135
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 153,
+        "end": 165
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 167,
+        "end": 181
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 190,
+        "end": 205
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

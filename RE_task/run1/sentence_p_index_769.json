@@ -1,0 +1,69 @@
+{
+  "text": "Ao mestre Domingos Domingues devem-se as primeiras campanhas que decorreram de 1316 até 1325, sendo depois sucedido por Estevão Domingues. Estevão cobriu a nave central de uma abóbada de berço quebrado sustentada em arcos torais de grande porte, desistindo, ao que parece, de a cobrir com cruzaria de ogivas. Mas nas colaterais optou claramente por este sistema, apesar de grandes imperfeições técnicas a que não serão estranhas dificuldades de implantação do templo, que muito cedo se afundaria nos campos alagados do rio Mondego. Não podemos esquecer que o objectivo do mestre foi conseguido: o de construir um templo vertical, (ainda que hoje o afundamento e o piso intermédio construído nos impeça de perceber as proporções esguias do conjunto), bem iluminado por frestas laterais de grande altura.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 76,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 100,
+        "end": 106
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 120,
+        "end": 137
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 139,
+        "end": 146
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 523,
+        "end": 530
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 641,
+        "end": 645
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

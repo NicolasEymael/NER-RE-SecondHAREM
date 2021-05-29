@@ -1,0 +1,29 @@
+{
+  "text": " Biografia de Dead Fish. Dead Fish é uma banda de Hardcore de Vitória , cidade do estado do Espírito Santo , Brasil . Tudo começou em 1991 com um grupo de amigos que andavam de Skate em Vitória . Mesmo sem saber tocar instrumento algum, resolveram montar uma banda e tocar músicas para andar de skate, principalmente Hardcore . Em 1995 lançam a demo-tape \" Re-Progresso \" e três anos depois , seu primeiro CD Full-Lenght | CD Full-Lenght , chamado \" Sirva-se \" pelo selo capixaba Lona Records . Após o \" Sirva-se \", lançaram \" Sonho Médio \" em 1999 e \" Afasia \" em 2001 . Giuliano , até então guitarrista, resolveu deixar a banda, em 2002 lançam o Projeto Peixe Morto e no mesmo ano também lançam o EP 2002 , mas que foi gravado em 2000 . Alguns guitarristas de bandas amigas do Dead Fish foram chamados para quebrar um galho, entre eles: Alexandre \"Capilé\" ( Sugar Kane ), Philippe Fargnoli ( Reffer ) e Tiago \"Hóspede\" ( Aditive ). Em 2003 gravaram um CD Ao Vivo | CD Ao Vivo no Hangar 110 em São Paulo . Murilo , o outro guitarrista do Dead Fish , deixa a banda que ameaça acabar. No fim do mesmo ano , eles recebem uma proposta de uma gravadora, a Deckdisc . A banda aceita a proposta, chama Philippe e Hóspede para assumir as guitarras e entram em estúdio para gravar o quarto disco de inéditas, o \" Zero e Um \". Em 2004 , o Dead Fish ganha projeção nacional ao receber o prêmio Video Music Brasil de artista revelação, lançando seu primeiro DVD , o \" MTV Apresenta: Dead Fish \". Em 2006 , lançam mais um disco pela mesma gravadora, chamado \" Um Homem Só \" e tem relançadas sua primeiras demo-tapes pelo selo Laja Records , sob o título de \" Dead Fish - Demo Tapes \". \" Demo Tapes \" ainda conta com diversos vídeos da banda, além de flyers e cartazes de shows do início da carreira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 1305,
+        "end": 1314
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 934,
+        "end": 941
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Documentou a Revolta da Armada ( 1893/94 )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 40
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "text": "Expressando ainda a \"honra\" por Portugal ficar associado a \"uma importante etapa da cidadania europeia\" -- foi durante a Presidência em 2000 que se iniciou a Convenção que deu origem à Carta e é durante a actual Presidência que a Carta é proclamada -- SÓCRATES alertou, no entanto, para o facto de a tarefa ainda não estar acabada.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 121,
+        "end": 132
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 133,
+        "end": 140
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 158,
+        "end": 167
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 185,
+        "end": 190
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 212,
+        "end": 223
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 230,
+        "end": 235
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 252,
+        "end": 260
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

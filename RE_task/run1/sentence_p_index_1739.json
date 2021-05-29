@@ -1,0 +1,22 @@
+{
+  "text": "Que princesa portuguesa foi rainha da Dinamarca | rainha da Dinamarca?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

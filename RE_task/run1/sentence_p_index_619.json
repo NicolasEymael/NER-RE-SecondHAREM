@@ -1,0 +1,54 @@
+{
+  "text": "O último jogo de Rui Cordeiro no Mundial vai ser também o derradeiro da carreira internacional. «É complicado conciliar a Selecção Nacional com a carreira profissional», justifica o pilar da Académica, que este ano regressa à Divisão de Honra.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 33,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 122,
+        "end": 139
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 191,
+        "end": 200
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 206,
+        "end": 214
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 226,
+        "end": 242
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "O intervalo entre Tintim na África e Tintim no Tibete mostra ao leitor de Hergé a mudança do autor. Certamente ele não seria lembrado se tivesse deixado apenas aqueles primeiros álbuns.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 18,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 37,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

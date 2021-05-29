@@ -1,0 +1,22 @@
+{
+  "text": "A oficina foi coordenada por Fábio Tatsubô com a monitoria de André Prata.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 73
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,81 @@
+{
+  "text": "- Aboim, na Rua Souza Lima, em Copacabana: o Pé-Sujo mais especializado em uísque da cidade serve mais de dez marcas diferentes de scotch. As mais baratas (White Horse e Grants 8 anos) saem a R$ 7,00, sempre na tala larga.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 12,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 41
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 52
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 156,
+        "end": 167
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 170,
+        "end": 183
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 192,
+        "end": 199
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

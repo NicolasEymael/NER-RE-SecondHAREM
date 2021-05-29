@@ -1,0 +1,53 @@
+{
+  "text": "Em Agosto de 1907 , morre a sua avó Dionísia , deixando-lhe uma pequena herança. Com esse dinheiro, monta uma pequena tipografia, que rapidamente faliu, na Rua da Conceição da Glória , 38-4.º, sob o nome de « Empresa Íbis --- Tipografia Editora --- Oficinas a Vapor ». A partir de 1908 , dedica-se à tradução de correspondência comercial, um trabalho que poderíamos chamar de \"correspondente estrangeiro\". Nessa profissão trabalha a vida toda, tendo uma modesta vida pública.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 156,
+        "end": 182
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 209,
+        "end": 265
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 269,
+        "end": 285
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_morte",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

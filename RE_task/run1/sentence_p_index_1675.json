@@ -1,0 +1,38 @@
+{
+  "text": "Que oceano é que Steve Fosset tentou atravessar em balão em Fevereiro de 1995? Que idade é que ele tinha na altura? O que é que ele fazia? Que distância é que Richard Branson viajou em balão em 1991?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 159,
+        "end": 174
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 191,
+        "end": 198
+      }
+    }
+  ],
+  "relations": []
+}

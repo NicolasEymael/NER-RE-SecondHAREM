@@ -1,0 +1,14 @@
+{
+  "text": "Quando foi registado pela primeira vez o cometa Halley? Em que famosa obra aparece o cometa? Que batalha aparece nessa obra?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 48,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

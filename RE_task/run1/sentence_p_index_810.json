@@ -1,0 +1,91 @@
+{
+  "text": "O sismo fez-se sentir na manhã de 1 de Novembro de 1755, dia que coincide com o feriado do Dia de Todos-os-Santos | do Dia de Todos-os-Santos. O epicentro não é conhecido com exactidão, havendo diversos sismólogos que propõem locais distanciados de centenas de quilómetros. No entanto, todos convergem para um epicentro no mar, entre 150 a 500 quilómetros a sudoeste de Lisboa. Devido a um forte sismo, ocorrido em 1969 no Banco de Gorringe, este local tem sido apontado como tendo forte probabilidade de aí se ter situado o epicentro em 1755.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 22,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 88,
+        "end": 113
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 119,
+        "end": 141
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 328,
+        "end": 355
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 370,
+        "end": 376
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 412,
+        "end": 419
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 423,
+        "end": 440
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 535,
+        "end": 542
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T1"
+    }
+  ]
+}

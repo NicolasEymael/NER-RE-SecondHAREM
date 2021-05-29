@@ -1,0 +1,215 @@
+{
+  "text": " Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano Pacífico , deixando aliviados os mais de 30 países _inclusive o Brasil _ que estavam sob risco de serem atingidos pelos destroços. Segundo informou a ASI (agência espacial italiana) no fim da noite de ontem por telefone, o impacto dos destroços teria ocorrido às 18h06 (horário de Brasília ), numa área remota do oceano. Os italianos não devem conduzir operação para resgatar os detritos. Estimativas da agência davam conta de que mais de 40 pedaços, com até 120 kg , poderiam resistir ao atrito com o ar e chegar ao solo. A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a Agência Espacial Brasileira , estavam prontas para qualquer contingência. O satélite, com massa total de aproximadamente 1,4 tonelada , foi construído pelos italianos, em colaboração com a Holanda , para o estudo dos raios X vindos do espaço cósmico. O equipamento foi lançado ao espaço em 1996 , numa órbita baixa ( cerca de 600 km de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a linha do Equador . A missão científica da nave foi concluída em 30 de abril de 2002 . Depois disso, o satélite deixou de ter sua órbita corrigida. O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada, ontem . Como a volta à Terra não foi realizada de forma controlada (como aconteceu com as 135 toneladas da estação espacial Mir , em 2001 ), era impossível prever exatamente onde os destroços iriam cair.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 36,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 118,
+        "end": 128
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 149,
+        "end": 155
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 235,
+        "end": 238
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 267,
+        "end": 291
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 345,
+        "end": 353
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 366,
+        "end": 374
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 516,
+        "end": 526
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 540,
+        "end": 550
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 720,
+        "end": 747
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 825,
+        "end": 853
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 909,
+        "end": 916
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 1007,
+        "end": 1014
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 1037,
+        "end": 1052
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 1128,
+        "end": 1144
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 1189,
+        "end": 1211
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 1391,
+        "end": 1396
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1414,
+        "end": 1419
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 1481,
+        "end": 1494
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "outro",
+      "span": {
+        "begin": 1515,
+        "end": 1518
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 1521,
+        "end": 1528
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T12",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T20",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T20",
+      "obj": "T5"
+    }
+  ]
+}

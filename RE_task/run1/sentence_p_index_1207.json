@@ -1,0 +1,22 @@
+{
+  "text": "Pensando no tema e conversando com pessoas bem informadas, podemos propor umas tantas razões da matrícula nesse Curso de Letras Clássicas. Mas são meras conjecturas, uma vez que Houaiss, segundo me parece, nunca o explicitou, nem clara nem implicitamente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 112,
+        "end": 137
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 178,
+        "end": 185
+      }
+    }
+  ],
+  "relations": []
+}

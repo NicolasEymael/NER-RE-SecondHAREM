@@ -1,0 +1,59 @@
+{
+  "text": "Em 1998 a editora \"El Tatu\" de Tim reedita os albuns \"Censurados\" e \"Sopa\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 34
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 54,
+        "end": 64
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 69,
+        "end": 73
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

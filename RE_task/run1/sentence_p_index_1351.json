@@ -1,0 +1,30 @@
+{
+  "text": "Quantas curvas tem o Circuito do Mónaco | Circuito do Mónaco?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

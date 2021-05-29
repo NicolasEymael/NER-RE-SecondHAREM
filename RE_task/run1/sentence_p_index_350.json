@@ -1,0 +1,38 @@
+{
+  "text": "Interessante é o método de Salgado para concretizar as suas reportagens. Trabalha com uma equipa reduzida. A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias. Depois conta com mais duas ou três pessoas num pequeno apartamento em Paris . Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim. Salgado não fotografa à solta, não dispara sem objectivo. Por isso as suas fotografias demoram anos a fazer, editar, imprimir, mostrar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 266,
+        "end": 271
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 348,
+        "end": 355
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 443,
+        "end": 447
+      }
+    }
+  ],
+  "relations": []
+}

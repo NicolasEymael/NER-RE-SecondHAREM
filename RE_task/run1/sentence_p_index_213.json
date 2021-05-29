@@ -1,0 +1,69 @@
+{
+  "text": "Documentação pessoal, álbuns de fotografias e documentos cartográficos compõem a \" Coleção Miguel Calmon Du Pin e Almeida \", engenheiro e político brasileiro, que ocupou o cargo de Ministro de Viação e Obras Públicas no Governo Afonso Pena , entre 1906 e 1909 e de Ministro da Agricultura no mandato de Artur Bernardes , de 1922 a 1926 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 83,
+        "end": 121
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 181,
+        "end": 216
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 220,
+        "end": 239
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 242,
+        "end": 259
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 265,
+        "end": 288
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 303,
+        "end": 318
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 321,
+        "end": 335
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

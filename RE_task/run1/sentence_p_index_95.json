@@ -1,0 +1,67 @@
+{
+  "text": "Tive recentemente a oportunidade de participar de uma conferência sobre o tema na universidade de Buffalo , NY . Chamada \" Redes, arte e colaboração \" (\" Networks, art and collaboration \"), e organizada pelo artista e professor de novas mídias Trebor Scholz e por Geert Lovink , net crítico e teórico de mídia tática, a conferência teve o mérito de reunir diversos ativistas, teóricos e artistas que trabalham colaborativamente, e pautou por abordar diversas facetas da questão, como o conflito com os interesses financeiros das grandes instituições do capitalismo, os conflitos internos dentro da dinâmica coletiva, ou as diversas iniciativas em áreas que vão das artes à educação, da criação em rede à distribuição livre de conhecimento.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 98,
+        "end": 105
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 108,
+        "end": 110
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 123,
+        "end": 148
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 154,
+        "end": 185
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 244,
+        "end": 257
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 264,
+        "end": 276
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamam os filhos de Jimmy Carter?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

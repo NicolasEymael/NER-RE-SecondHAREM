@@ -1,0 +1,233 @@
+{
+  "text": "O sucesso da EC Comics nas bancas, levou Gaines a ampliar sua linha de \"produtos\". Na esteira do sucesso de Tales From The Crypt , foram lançados The Vault Of Horror , Crime SuspenStories , The Haunt of Fear e Shock SuspenStories . Aproveitando a maré boa, Gaines adaptou as histórias do conhecido autor Ray Bradbury e jogou no mercado Weird Science e Weird Fantasy , publicações que misturavam suspense e terror a uma ficção científica um pouco mais pessimista, semelhante a de escritores como Phillip K.Dick e William Gibson . Não contente em se tornar o novo rei dos quadrinhos - desbancado as HQs de super-hérois, que, depois de Tales From The Crypt , entraram em decadência - Gaines aventurou-se pelo campo do humor. Em 1952 chegava às bancas a MAD Magazine , o mais novo empreendimento da EC Comics , editada pelo escritor e desenhista Harvey Kurtzman .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 13,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 108,
+        "end": 128
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 146,
+        "end": 165
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 168,
+        "end": 187
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 190,
+        "end": 207
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 210,
+        "end": 229
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 263
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 304,
+        "end": 316
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 336,
+        "end": 349
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 352,
+        "end": 365
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 495,
+        "end": 509
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 512,
+        "end": 526
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 597,
+        "end": 600
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "obra",
+      "span": {
+        "begin": 633,
+        "end": 653
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 681,
+        "end": 687
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 722,
+        "end": 729
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 750,
+        "end": 762
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 795,
+        "end": 804
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 842,
+        "end": 857
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "produzido_por",
+      "subj": "T4",
+      "obj": "T19"
+    },
+    {
+      "id": "R2",
+      "pred": "produzido_por",
+      "subj": "T5",
+      "obj": "T19"
+    },
+    {
+      "id": "R3",
+      "pred": "produzido_por",
+      "subj": "T6",
+      "obj": "T19"
+    },
+    {
+      "id": "R4",
+      "pred": "produzido_por",
+      "subj": "T7",
+      "obj": "T19"
+    },
+    {
+      "id": "R5",
+      "pred": "produzido_por",
+      "subj": "T10",
+      "obj": "T19"
+    },
+    {
+      "id": "R6",
+      "pred": "produzido_por",
+      "subj": "T11",
+      "obj": "T19"
+    },
+    {
+      "id": "R7",
+      "pred": "data_de",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R8",
+      "pred": "proprietario_de",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "proprietario_de",
+      "subj": "T19",
+      "obj": "T18"
+    },
+    {
+      "id": "R10",
+      "pred": "produtor_de",
+      "subj": "T20",
+      "obj": "T18"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T20",
+      "obj": "T19"
+    }
+  ]
+}

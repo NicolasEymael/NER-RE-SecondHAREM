@@ -1,0 +1,14 @@
+{
+  "text": "Quem é José Eduardo Pinto da Costa? Onde é que ele nasceu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

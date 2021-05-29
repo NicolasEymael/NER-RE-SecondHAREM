@@ -1,0 +1,14 @@
+{
+  "text": "Qual o verdadeiro nome de Romy Schneider?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quais eram os primeiros nomes dos dois irmãos Piccard? Qual deles descobriu o urânio 235? Que duas profissões teve este último?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

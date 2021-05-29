@@ -1,0 +1,14 @@
+{
+  "text": "Os primeiros resultados que se conhecem são todos maus com excepção do controlo do défice e mesmo aí parece (ao Tribunal de Contas) que as coisas também não são tão boas como se pensava. O empobrecimento dos portugueses continua e é um empobrecimento sem esperança. Como se todos fossem, a seu modo, um desempregado com quarenta anos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 112,
+        "end": 130
+      }
+    }
+  ],
+  "relations": []
+}

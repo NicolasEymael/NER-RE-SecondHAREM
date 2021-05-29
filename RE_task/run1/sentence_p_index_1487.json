@@ -1,0 +1,51 @@
+{
+  "text": "Quando é que Audrey Hepburn e Mel Ferrer se casaram? Onde é que mora hoje o filho de Audrey Hepburn? De que organização é que ela foi nomeada embaixadora extraordinária?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 69,
+        "end": 73
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 85,
+        "end": 99
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

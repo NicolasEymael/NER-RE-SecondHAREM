@@ -1,0 +1,38 @@
+{
+  "text": "-A categoria Lost in Translation\" vai para worms como os MSNFunny.B, Mimbot.A ou MsnSend.A, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 13,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 57,
+        "end": 67
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 69,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 81,
+        "end": 90
+      }
+    }
+  ],
+  "relations": []
+}

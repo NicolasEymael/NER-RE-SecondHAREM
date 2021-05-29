@@ -1,0 +1,30 @@
+{
+  "text": "A maior subida em termos relativos foi, no entanto, protagonizada pelo económico gratuito Oje que aumentou a sua circulação em quase 56 por cento, passando para os 22 mil exemplares.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 90,
+        "end": 93
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 127,
+        "end": 145
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 164,
+        "end": 170
+      }
+    }
+  ],
+  "relations": []
+}

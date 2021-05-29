@@ -1,0 +1,30 @@
+{
+  "text": "Qual a altura da Pirámede do Sol de Teotihuacan | Pirámede do Sol de Teotihuacan ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 17,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 50,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 69,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

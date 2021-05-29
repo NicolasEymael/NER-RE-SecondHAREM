@@ -1,0 +1,91 @@
+{
+  "text": "O Sistema de Posicionamento Global , vulgarmente conhecido por GPS (do acrónimo do inglês Global Positioning System ), é um sistema de posicionamento por satélite americano, por vezes incorrectamente designado de sistema de navegação, utilizado para determinação da posição de um receptor na superfície da Terra ou em órbita. Existem atualmente dois sistemas efetivos de posicionamento por satélite; o GPS americano e o Glonass russo; também existem mais dois sistemas em implantação; o Galileo europeu e o Compass chinês.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 63,
+        "end": 66
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 90,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 183
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 306,
+        "end": 311
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 402,
+        "end": 405
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 420,
+        "end": 427
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 487,
+        "end": 494
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 507,
+        "end": 514
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

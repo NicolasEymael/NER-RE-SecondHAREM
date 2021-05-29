@@ -1,0 +1,85 @@
+{
+  "text": "O passaporte biológico é o resultado de uma reunião verificada há alguns meses, em Paris, organizada pelo ministro francês da Saúde, o ministro francês da Saúde, a UCI e a Agência Mundial Antidopagem (AMA). O objectivo é chegar ao Tour com o passaporte biológico de todos os possíveis participantes em total funcionamento, de modo a evitarem-se os casos de doping que ocorreram este ano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 63,
+        "end": 78
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 83,
+        "end": 88
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 126,
+        "end": 131
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 155,
+        "end": 160
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 164,
+        "end": 167
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 199
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 201,
+        "end": 204
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 231,
+        "end": 235
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 378,
+        "end": 386
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "text": "Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal . Não lhe passa pela cabeça que Santos Ferreira , com o que sabe da Caixa , fique em excelente posição para ganhar quota de mercado ao banco público, que vai este ano dar mais de 800 milhões de lucros, dos quais 400 milhões vão direitinhos para os cofres do Estado a título de IRC . Se Santos Ferreira tiver sucesso no BCP , quem vai sofrer é a Caixa - e, por tabela, todos nós, contribuintes. Porque quanto menos o Estado receber de dividendos das empresas públicas, mais o Estado será tentado a vir buscar-nos dinheiro aos bolsos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 104,
+        "end": 113
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 146,
+        "end": 161
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 182,
+        "end": 187
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 272,
+        "end": 280
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 285,
+        "end": 304
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 326,
+        "end": 337
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 372,
+        "end": 378
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 391,
+        "end": 394
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 400,
+        "end": 415
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 433,
+        "end": 436
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 459,
+        "end": 464
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 530,
+        "end": 536
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 589,
+        "end": 595
+      }
+    }
+  ],
+  "relations": []
+}

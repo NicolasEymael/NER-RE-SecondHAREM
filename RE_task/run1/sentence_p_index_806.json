@@ -1,0 +1,38 @@
+{
+  "text": "A tecnologia TD-SCDMA é desenvolvida integralmente pela China , em oposição aos padrões norte-americanos ( CDMA 2000 ) e europeus ( WCDMA ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 13,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 56,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 107,
+        "end": 116
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 132,
+        "end": 137
+      }
+    }
+  ],
+  "relations": []
+}

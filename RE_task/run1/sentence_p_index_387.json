@@ -1,0 +1,22 @@
+{
+  "text": "Relembrando o \"caminho significativo\" que foi necessário percorrer até chegar a este momento, afirmou que \"os ensinamentos da história da Europa foram tomados em consideração\", num documento que garante \"valores como a liberdade e a segurança\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 78,
+        "end": 92
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 138,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

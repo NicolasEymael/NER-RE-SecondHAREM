@@ -1,0 +1,14 @@
+{
+  "text": "Que país foi abalado por um terramoto em Agosto de 94?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

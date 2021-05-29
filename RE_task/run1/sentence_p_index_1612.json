@@ -1,0 +1,14 @@
+{
+  "text": "Que quatro planetas do sistema solar são compostos principalmente de gás? Diga um corpo celeste. De que é que é composta a atmosfera da Lua?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 139
+      }
+    }
+  ],
+  "relations": []
+}

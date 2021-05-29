@@ -1,0 +1,30 @@
+{
+  "text": "Neste contexto foi obtido acordo sobre um Relatório de Progresso adoptado no Conselho JAI de 5/6 Dezembro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 42,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 77,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 90,
+        "end": 105
+      }
+    }
+  ],
+  "relations": []
+}

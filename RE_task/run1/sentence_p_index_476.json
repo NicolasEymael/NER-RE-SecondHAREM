@@ -1,0 +1,38 @@
+{
+  "text": "Em 25 de Outubro de 1918, aos 31 anos de idade, morre prematuramente em Espinho, vítima da \"pneumónica\" que grassava em Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 120,
+        "end": 128
+      }
+    }
+  ],
+  "relations": []
+}

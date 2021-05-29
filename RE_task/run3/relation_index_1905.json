@@ -1,0 +1,29 @@
+{
+  "text": " Lisboa-Dakar'2008 começa a 5 de Janeiro. PROVA TERÁ PERTO DE 6.000 QUILÓMETROS. A 30.ª | 30.ª edição do Dakar vai partir de Lisboa no dia 5 de Janeiro com a chegada ao Senegal marcada para 20, numa competição que terá no próximo ano perto de 6.000 quilómetros de provas especiais. \"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que nos anos anteriores. Em 2006 e 2007 ficámos nos 4.000 , 5.000 quilómetros . Em 2008, queremos mais especiais e menos ligações\", afirmou o director do Lisboa-Dakar | director do Lisboa-Dakar, Etienne Lavigne, durante a apresentação da prova. A partida da edição de 2008 está marcada para a Praça do Império, em Lisboa. O Centro Cultural de Belém | Centro Cultural de Belém será o quartel-general para os carros, motos e camiões. De fora do percurso ficou o Mali, depois dos problemas de segurança ocorridos na prova deste ano, o que levou ao cancelamento de uma etapa. \"Existe muita instabilidade neste momento em alguns países africanos. São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova\", justificou Etienne Lavigne, revelando que o Plano de Segurança Rodoviária que tinha sido criado para a última edição foi reformulado. Lisboa e Portimão deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais. \"Estamos muito perto dos desenhos finais dos percursos. Não podemos tornar público, mas temos trabalhado intensamente nesse sentido. Não há muito para mud ar. Os padrões estão de tal maneira elevados que é difícil fazer melhor\", afirmou João Lagos, empresário responsável pela parte portuguesa do Lisboa-Dakar. De acordo com os números revelados hoje pela organização, na edição 2007 do rali mais de um milhão de pessoas assistiram à passagem por Portugal. \"Nestes últimos dois anos, Portugal, Lisboa e Portimão deixaram uma marca muito forte no Dakar. Foram anos fantásticos, com uma adesão fantástica e um ambiente extraordinário\", sublinhou João Lagos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 533,
+        "end": 545
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 18
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

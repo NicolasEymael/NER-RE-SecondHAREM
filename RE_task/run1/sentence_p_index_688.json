@@ -1,0 +1,14 @@
+{
+  "text": "2008: preços de bens e serviços sobem acima da inflação",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    }
+  ],
+  "relations": []
+}

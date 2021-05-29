@@ -1,0 +1,29 @@
+{
+  "text": " Juliaura · Porto Alegre (RS). Com a citação dessa frase de Jessé Oliveira, Fabio Gomes iniciou matéria de cobertura do 2º Encontro de Arte de Matriz Africana, realizado de 12 a 16 de dezembro de 2007 no Teatro de Arena em Porto Alegre. Bem baixinho, só aqui pra nós do Overmundo, a cobertura é um espetáculo a mais, embora não fizesse parte da programação. Um estouro, como diz vovó Marinalva. Fabio (ele não acentua o nome e que eu vou fazer com a proparoxítona relativa, a quebra de ditongo, o escambáu), pois o homem diz que Jessé Oliveira escreveu a frase \"a propósito de justificar a escolha do texto Transegun, de Cuti, como primeira peça montada pelo grupo CaixaPreta, criado em 2002 a partir da reunião de artistas negros atuantes em Porto Alegre. Aí eu me derreti toda, por que tenho paixnão pelo Cuti desde que sentei no colo dele. Calma pessoal, calminha aí. Eu tinha dois aninhos de idade, quando ele participou em um encontro em Porto, na Câmara de Vereadores, e \"Papá estava lá comigo e eu só queria saber do colo do moço lindão, conforme a resenha da época. Não vamos desviar do assunto que quer tratar é da presença nossa, humana, nos palcos da vida. É disso mesmo, de diálogo e reflexão que se falou um tantão da abertura ao encerramento do encontro. Fabio diz que foi assim no monólogo Madrugada, me Proteja | Madrugada, me Proteja, também de Cuti, interpretado no sábado, 15, pelo ator Sílvio Ramão; na única atração musical do Encontro, o show Epahei!, da cantora e compositora Karine Cunha, na quinta, 13, de quem nem vou falar muito porque vira prosa de fã e não tô aqui pra torrar vocês com meu gostinho particular e sim pra reportar as coisas como foram vistas pelo Fabio, né?. Em Madrugada..., Sílvio vive um negro de alta classe média que, julgando-se inalcançável pela insegurança que (infelizmente) tem sido a marca das noites nas grandes cidades, é humilhado durante um assalto. Já o show de Karine se apoiou nas canções em homenagem a diversos orixás que estruturam seu segundo CD, Epahei!, lançado em agosto. (Palhinha dela no linque, di grátis). O Fabio contou que um destaque do Encontro foi a apresentação na sexta, 14, da peça Taba-Taba, texto do francês Bernard Koltès, que marca a estréia da atriz Renata de Lélis na direção. Teve também \"Sortilégio Negro, de Abdias do Nascimento, fundador do Teatro Experimental do Negro (TEN), referência histórica assumida pelo CaixaPreta já na época do lançamento de Transegun. E recital de poemas de Oliveira Silveira que já nos foi muito bem apresentado aqui nas nossas overmundanas paragens pelo meu poeta querido dos mais mais. Aquela história da presença nossa nos palcos, nós na cena, nós brilhando, nós dirigindo, nós na fita foi assunto a partir da trajetória de Abdias e do TEN, temas abordados na única palestra do Encontro, feita pela atriz Vera Lopes. Uma das fundadoras do CaixaPreta, Vera falou, segundo Fabio, que não consegue entender porque alguns consideram a arte européia como superior, dando como exemplo que o teatro grego surgiu a partir de ritos - em que animais sacrificados eram oferecidos Dionísio - muito semelhantes às oferendas dos cultos afro-brasileiros para os orixás. Vera Lopes deixou o povo presente acabrunhado quando protestou firme porque não consta imagem alguma do teatro africano num dos raros livros brasileiros que falam do assunto - História do Teatro (1978), de Nélson Araújo. O final do 2º Encontro de Arte de Matriz Africana teve a apresentação de Hamlet Sincrético. Golaço da produção, conforme Fábio Gomes. Para ele a peça dirigida por Jessé Oliveira é \"primorosa; a montagem relê o clássico a partir de uma estética negra, com elementos da cultura afro-brasileira ajudando a contar a história imortalizada por William Shakespeare. É notável o equilíbrio que Jessé conseguiu ao mesclar todos estes elementos\". - Cada personagem encarna um tipo ou um mito da cultura negra, em especial das religiões afro-brasileiras: Hamlet é Xangô; o rei Cláudio, Zé Pelintra; e Polônio, um ex-babalorixá que se tornou pastor evangélico. A música ao vivo (o próprio elenco manda ver em cânticos de umbanda, sambas, hip-hop, ladainhas de capoeira e até cantos evangélicos), além de ajudar a contar a história, torna o nível de comunicação do espetáculo com a platéia algo digno de nota.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 807,
+        "end": 811
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 621,
+        "end": 625
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

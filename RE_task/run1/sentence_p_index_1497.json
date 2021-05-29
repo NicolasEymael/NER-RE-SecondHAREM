@@ -1,0 +1,29 @@
+{
+  "text": "Quem é Henning Mankell? Como se chama o inspector da polícia no seu livro «Assassino sem rosto»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 75,
+        "end": 94
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

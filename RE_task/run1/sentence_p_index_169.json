@@ -1,0 +1,46 @@
+{
+  "text": "Depois de ser cotado para vestir a camisa do Flamengo , o Fenômeno parece, se não satisfeito, pelo menos conformado em retornar ao grupo do Milan . Após longo período se recuperando de uma lesão, Ronaldo calçou as chuteiras e voltou a treinar com bola, o que não fazia desde novembro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 53
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 66
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 145
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 196,
+        "end": 203
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 269,
+        "end": 283
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Por Lurdes Ferreira",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

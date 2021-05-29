@@ -1,0 +1,61 @@
+{
+  "text": "Só um sistematizador empreende, como empreendeu Houaiss, o caminho para o dicionário, para a enciclopédia, para a crítica textual. Sem alusões pejorativas, tivemos, no campo da erudição dicionarística, quatro gigantes na seara: o Padre Augusto Magne, Antenor Nascentes, Aurélio Buarque de Holanda e Antônio Houaiss. O sonhador entre eles, o Padre Magne, deixou-nos inacabados excelentes dicionários no âmbito do português e do latim; os sistematizadores, e disciplinados, os demais, chegaram com sucesso ao fim de seus projetos lexicográficos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 48,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 249
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 251,
+        "end": 268
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 270,
+        "end": 296
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 299,
+        "end": 314
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 341,
+        "end": 352
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

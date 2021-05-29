@@ -1,0 +1,97 @@
+{
+  "text": "\"Trata-se de um dia feliz para as cidadãs e os cidadãos da União Europeia \", em que se festejam \"os nossos valores comuns\", afirmou o Presidente do Parlamento Europeu | Presidente do Parlamento Europeu , Hans-Gert PÖTTERING , no discurso que antecedeu a assinatura da Carta dos Direitos Fundamentais da União Europeia | Carta dos Direitos Fundamentais da União Europeia .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 10,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 134,
+        "end": 166
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 169,
+        "end": 179
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 183,
+        "end": 201
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 204,
+        "end": 223
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 268,
+        "end": 317
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 320,
+        "end": 351
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 355,
+        "end": 369
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "text": "A partir do Forte de Santiago , na Ponta do Calabouço , a evolução do conjunto arquitetônico do Museu acompanhou a trajetória urbana da cidade do Rio de Janeiro . À fortificação inicial veio se juntar a Casa do Trem , destinada à guarda do \"trem de artilharia\", conjunto de apetrechos bélicos usados na defesa da cidade, e, mais tarde , o Arsenal de Guerra .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 12,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 96,
+        "end": 101
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 146,
+        "end": 160
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 203,
+        "end": 215
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 324,
+        "end": 334
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 339,
+        "end": 356
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R9",
+      "pred": "localizado_em",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T3"
+    }
+  ]
+}

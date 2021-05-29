@@ -1,0 +1,22 @@
+{
+  "text": "Atualmente, não (abril/2000). Todavia, nada impede a alteração deste quadro, na hipótese do crescimento da atuação do IBAP em juízo justificar a contratação de um corpo de estagiários.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 118,
+        "end": 122
+      }
+    }
+  ],
+  "relations": []
+}

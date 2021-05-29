@@ -1,0 +1,54 @@
+{
+  "text": "Relatos da época afirmam que os abalos foram sentidos, consoante o local, durante entre 6 minutos a 2 horas e meia | durante entre 6 minutos a 2 horas e meia, causando fissuras enormes de que ainda hoje há vestígios em Lisboa. Com os vários desmoronamentos os sobreviventes procuraram refúgio na zona portuária e assistiram ao recuo das águas, revelando o fundo do mar cheio de destroços de navios e cargas perdidas. Poucas dezenas de minutos depois, um tsunami, que actualmente se supõe ter atingido 20 metros de altura, fez submergir o porto e o centro da cidade. Nas áreas que não foram afectadas pelo tsunami, o fogo logo se alastrou, e os incêndios duraram pelo menos cinco dias. Todos tinham fugido e não havia quem o apagasse.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 114
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 125,
+        "end": 157
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 198,
+        "end": 202
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 219,
+        "end": 225
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 417,
+        "end": 449
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 501,
+        "end": 510
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": " José Sócrates apresentou balanço dos últimos seis meses. UE : Durão Barroso elogia prestação da presidência portuguesa. O presidente da Comissão Europeia | presidente da Comissão Europeia elogiou hoje a prestação da presidência portuguesa da UE e a «competente liderança» do primeiro-ministro, José Sócrates , na condução dos destinos europeus no segundo semestre deste ano . Durão Barroso discursava na sessão plenária extraordinária do Parlamento Europeu , durante a qual José Sócrates apresentou os resultados da presidência portuguesa da UE . O ano de \"2007 mostrou que a Europa está à altura dos seus compromissos\", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu. Durão Barroso lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os Estados-membros , o que foi já hoje feito pela Hungria , o primeiro dos 27 países a cumprir esta etapa. No seu discurso, o dirigente europeu disse concordar com a apreciação feita minutos antes por José Sócrates sobre os seis meses da presidência portuguesa, principalmente a assinatura do Tratado de Lisboa , novo relacionamento com o Brasil e a cimeira com África . Durão Barroso acrescentou à longa lista de sucessos enunciados por Sócrates outros que considerou \"também importantes\", como a decisão de criar o Instituto Europeu de Tecnologia e o lançamento de uma Política Marítima Europeia . Entre os desafios que esperam a UE nos próximos meses , o presidente da Comissão Europeia | presidente da Comissão Europeia destacou a necessidade de os 27 ajudarem a encontrar uma solução para resolver a questão do Kosovo . \"Isto é um teste para a Europa onde não podemos falhar\", sublinhou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 475,
+        "end": 488
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 14
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

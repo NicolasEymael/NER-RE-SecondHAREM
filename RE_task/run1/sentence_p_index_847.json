@@ -1,0 +1,113 @@
+{
+  "text": "Isso aconteceu porque Bill Gaines criou uma identificação imediata com o público ao se apropriar da linguagem radiofônica - todas as histórias eram apresentadas por um narrador, geralmente o Zelador da Cripta , a Bruxa Velha ou o Guardião da Câmara - e também porque arrebanhou um time de artistas de primeira para atingir, nas páginas da revista, o clima de demência que as histórias pediam. Assim como Will Eisner , os desenhistas Jack Davis , Frank Frazetta , Johnny Craig e Graham \"Ghastly\" Ingels tinham um traço sombrio e carregado de dramaticidade. Houve também tendência em distorcer certas expressões faciais na tentativa de transpor para o papel a loucura interna de cada personagem. Tales From The Crypt impressionava também por sua logomarca ao mostrar a palavra \" Crypt \" grafada de tal forma que dava a impressão de estar apodrecendo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 208
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 213,
+        "end": 224
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 248
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 404,
+        "end": 415
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 433,
+        "end": 443
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 446,
+        "end": 460
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 463,
+        "end": 475
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 478,
+        "end": 501
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 694,
+        "end": 714
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 777,
+        "end": 782
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "personagem_de",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "personagem_de",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "personagem_de",
+      "subj": "T10",
+      "obj": "T4"
+    }
+  ]
+}

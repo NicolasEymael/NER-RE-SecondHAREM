@@ -1,0 +1,61 @@
+{
+  "text": "Por mim G.S. que fique pela América e ataque outros holocaustos que não criticou: Guantanamo , o muro internacional no México , que ataque a administração Bush que ainda não assinou o Protocolo de Quioto , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 8,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 82,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 155,
+        "end": 159
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 184,
+        "end": 203
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

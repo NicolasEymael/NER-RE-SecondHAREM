@@ -1,0 +1,97 @@
+{
+  "text": "Ainda no sábado , a investigadora do Centro de Astronomia da Universidade do Porto | Centro de Astronomia da Universidade do Porto | Centro de Astronomia da Universidade do Porto Catarina Lobo , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra \" A nossa Galáxia e as outras: Ilhas no Universo \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 6,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 82
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 85,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 109,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 133,
+        "end": 153
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 157,
+        "end": 169
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 173,
+        "end": 178
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 179,
+        "end": 192
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 335,
+        "end": 381
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ter_participacao_de",
+      "subj": "T9",
+      "obj": "T8"
+    }
+  ]
+}

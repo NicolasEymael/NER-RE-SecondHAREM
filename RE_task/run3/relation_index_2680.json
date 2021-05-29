@@ -1,0 +1,29 @@
+{
+  "text": " Tour : Procura-se candidato. PAULINHO EM PROVA DESFALCADA DE VEDETAS. Pelo segundo ano consecutivo e após a era de Lance Armstrong , o Tour está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão Jan Ullrich e do italiano Ivan Basso , e até de outro transalpino, Alessandro Petacchi , a « Grand Boucle » inicia-se amanhã em Londres sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 | 1. Ainda está por definir quem será declarado vencedor de 2006 , depois do caso de doping de Floyd Landis . Daí a organização ter decidido suspender os dorsais entre o 1 | 1 e o 1 | 1 , começando o Tour no 11 . Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de Armstrong , que se retirou após a sétima vitória em 2005 --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória. São eles o cazaque Alexandre Vinokourov ( Astana ), os espanhóis Alberto Contador ( Discovery ) e Alejandro Valverde ( Caisse ), e o norte-americano Levy Leipheimer ( Discovery ). Nós, portugueses, teremos em atenção a estreia de Sérgio Paulinho . Cerca de 5 mil polícias foram destacados para estarem de serviço em Londres por ocasião da passagem do Tour por Inglaterra . A segurança foi reforçada depois dos atentados terroristas verificados a semana passada na capital inglesa e em Glasgow . E, para além do Tour , há ainda o Torneio de Ténis de Wimbledon | Torneio de Ténis de Wimbledon , e o GP de F1 de Silverstone | GP de F1 de Silverstone .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1105,
+        "end": 1120
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

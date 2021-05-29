@@ -1,0 +1,65 @@
+{
+  "text": "Entre 1530 e 1577 funcionou uma imprensa no claustro. É possível que o poeta Luís de Camões tenha estudado em Santa Cruz , uma vez que um parente seu ( D. Bento de Camões ) era prior do mosteiro na época , e há evidências em sua poesia de uma estadia em Coimbra .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 110,
+        "end": 120
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 152,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 254,
+        "end": 261
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T3"
+    }
+  ]
+}

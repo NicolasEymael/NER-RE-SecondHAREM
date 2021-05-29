@@ -1,0 +1,22 @@
+{
+  "text": "O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia Tropa de Elite escrito com uma fonte meio \"Linha Direta\" e umas fotos não identificáveis que deviam reproduzir cenas do filme. Dentro vinha o DVD da \"mídia roxinha\", abri pra constatar. Me entregou logo dizendo:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 96,
+        "end": 110
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 139,
+        "end": 151
+      }
+    }
+  ],
+  "relations": []
+}

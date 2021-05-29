@@ -1,0 +1,14 @@
+{
+  "text": "Quem escreveu \"A Capital\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

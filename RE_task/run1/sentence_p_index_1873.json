@@ -1,0 +1,14 @@
+{
+  "text": "Quantos países são oficialmente candidatos à adesão à Otan?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

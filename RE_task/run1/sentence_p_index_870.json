@@ -1,0 +1,213 @@
+{
+  "text": "Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana. Em livros como V, O Leilão do Lote 49 e Arco Íris da Gravidade, todos publicados no período que vai de 61 a 73, o escritor Thomas Pynchon freqüentemente adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem Homem Foguete é claramente inspirado no Capitão América), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos (Benny Profane, Oedipa e Mucho Maas, Pierce Inverarity, Fausto Magistral, Tyrone Slothrop, General Pudding, Pig Bodine...). Quem também se utiliza do humor quase infantil das HQs é Kurt Vonnegut em seu manifesto anti-militarista Matadouro 5 e no experimental Timequake. Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana. Dos anos 60 até os dias de hoje.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 107,
+        "end": 108
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 110,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 132,
+        "end": 154
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 173,
+        "end": 183
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 192,
+        "end": 202
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 215,
+        "end": 229
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 230,
+        "end": 244
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 435,
+        "end": 448
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 475,
+        "end": 490
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 657,
+        "end": 670
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 672,
+        "end": 678
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 681,
+        "end": 691
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 693,
+        "end": 710
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 712,
+        "end": 728
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 730,
+        "end": 745
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 747,
+        "end": 762
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 764,
+        "end": 774
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 831,
+        "end": 834
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 837,
+        "end": 850
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "obra",
+      "span": {
+        "begin": 885,
+        "end": 896
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "obra",
+      "span": {
+        "begin": 915,
+        "end": 924
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1204,
+        "end": 1235
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "obra_de",
+      "subj": "T20",
+      "obj": "T19"
+    },
+    {
+      "id": "R5",
+      "pred": "obra_de",
+      "subj": "T21",
+      "obj": "T19"
+    }
+  ]
+}

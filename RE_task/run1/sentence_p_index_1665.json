@@ -1,0 +1,22 @@
+{
+  "text": "Diga marcas de azeite. Diga países onde se produz azeite. Que quantidade de azeite foi importada pelos Estados Unidos em 1994? Quantas variedades de azeitona são utilizadas para fazer azeite?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 117
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 118,
+        "end": 125
+      }
+    }
+  ],
+  "relations": []
+}

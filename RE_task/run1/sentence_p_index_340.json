@@ -1,0 +1,14 @@
+{
+  "text": "Capa era de uma coragem à prova de bala a trabalhar no cenário de guerra.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    }
+  ],
+  "relations": []
+}

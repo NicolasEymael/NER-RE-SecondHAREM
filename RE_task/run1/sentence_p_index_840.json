@@ -1,0 +1,14 @@
+{
+  "text": "-O Trojan LiveDeath.A tem associado a si a curiosidade. Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como \"Qual a sua cor favorita?\". O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 3,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

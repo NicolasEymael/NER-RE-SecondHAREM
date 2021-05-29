@@ -1,0 +1,14 @@
+{
+  "text": "\"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado\", conta Fenger.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 263,
+        "end": 269
+      }
+    }
+  ],
+  "relations": []
+}

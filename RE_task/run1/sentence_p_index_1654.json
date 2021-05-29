@@ -1,0 +1,29 @@
+{
+  "text": "Que personagem é que César Romero representava na famosa série televisiva \"Batman\"? Onde é que ele morreu? Que idade tinha ele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 75,
+        "end": 81
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

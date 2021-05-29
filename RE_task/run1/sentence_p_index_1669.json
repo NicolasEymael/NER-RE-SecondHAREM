@@ -1,0 +1,37 @@
+{
+  "text": "Qual a profissão de Kiri Te Kanawa? Para que companhia discográfica é que ela gravou La Boheme em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 85,
+        "end": 94
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 95,
+        "end": 102
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

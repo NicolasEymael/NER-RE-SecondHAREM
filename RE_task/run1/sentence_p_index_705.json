@@ -1,0 +1,61 @@
+{
+  "text": "O \"Indexante de Apoios Sociais (IAS), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos 407,4 euros, o que traduz um crescimento de 2,4%, a partir de Janeiro do próximo ano, segundo as contas feitas pela agência Lusa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 3,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 32,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 134
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 167,
+        "end": 171
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 173,
+        "end": 207
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 247,
+        "end": 251
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

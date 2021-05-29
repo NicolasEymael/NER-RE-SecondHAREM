@@ -1,0 +1,621 @@
+{
+  "text": "A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta fase, quando os palestinianos têm não um mas dois governos e dois territórios, um ocupado pelos israelitas, a Cisjordânia , outro abandonado pelos israelitas e bombardeado pelos israelitas, Gaza . Anos e anos de destruição compulsiva de interlocutores, alguns moderados, e de opressão, fizeram do povo palestiniano uma nação de pedintes. Gaza subvive das esmolas iranianas, sauditas e dos Emiratos , e a Cisjordânia subvive de doações da Europa , da América , de Estados árabes e das Nações Unidas . Nenhuma nação palestiniana pode aspirar a ser um Estado palestiniano , e um país viável, sem unidade do território e do povo, e sem soberania sobre esse povo e esse território. No terreno, temos a pior situação de sempre. O Hamas a mandar em Gaza , e a OLP a fingir que manda na Cisjordânia . Sarkozy , e Blair , e os europeus, sendo a Europa o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem Mahmoud Abbas é um chefe com apoio popular na Cisjordânia nem a OLP , dominada pela Fatah , tem apoio popular em Gaza . Se realizassem eleições na Cisjordânia , Abbas e um grupo de agentes corruptos disfarçados de \"moderados\" não as ganhariam, e não as ganhariam nas cidades onde o Hamas ganhou. Abbas pode fingir mandar em Ramallah e na clientela privilegiada de uma organização que não soube constituir-se como fonte legítima do poder palestiniano, não pode fingir que é considerado em Jenin e Hebron , em Nablus e Tulkarem , em Jericó e Jerusalém Oriental . Abbas , arrastando-se aos pés dos chefes europeus a mendigar uns milhares de milhões de dólares enquanto insulta o Hamas e aceita que os palestinianos de Gaza sejam colectivamente punidos pelo embargo israelita e pela recusa americana e europeia de incluir o Hamas no processo de paz é visto como uma marioneta do Ocidente e um traidor. Os israelitas sabem isto melhor do que ninguém porque são os que melhor conhecem a quimera do road map. Israel , sabendo que não pode devolver a Cisjordânia , desmantelar os colonatos, prescindir da Ocupação sem comprometer a sua segurança, dividir Jerusalém ou ceder a pretensões sobre o regresso de milhões de refugiados (que nunca poderão regressar), está interessado em manter as ficções americanas e europeias e administrar a Ocupação e a relação de forças, como a sua supremacia militar assegura. O Hamas está interessado, simetricamente, em administrar a resistência. Israel só seria obrigado a ceder se os Estados Unidos deixassem de apoiar e de vender milhares de milhões de dólares de armas aos israelitas, e Israel sabe que isso nunca acontecerá, por razões da política interna americana e da força do lobby judeu. Nenhum candidato democrata, nem mesmo o utópico Obama , ousariam modificar este estado de coisas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 191,
+        "end": 202
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 271,
+        "end": 275
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 278,
+        "end": 289
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 419,
+        "end": 423
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 470,
+        "end": 478
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 485,
+        "end": 496
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 519,
+        "end": 525
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 531,
+        "end": 538
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 544,
+        "end": 558
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 565,
+        "end": 578
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 630,
+        "end": 636
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 805,
+        "end": 810
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 823,
+        "end": 827
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 834,
+        "end": 837
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 860,
+        "end": 871
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 874,
+        "end": 881
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 886,
+        "end": 891
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 917,
+        "end": 923
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 1025,
+        "end": 1038
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1071,
+        "end": 1082
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1089,
+        "end": 1092
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1109,
+        "end": 1114
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1138,
+        "end": 1142
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1172,
+        "end": 1183
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1186,
+        "end": 1191
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1307,
+        "end": 1312
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1321,
+        "end": 1326
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1349,
+        "end": 1357
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1513,
+        "end": 1518
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1521,
+        "end": 1527
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1533,
+        "end": 1539
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 1542,
+        "end": 1550
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1556,
+        "end": 1562
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1565,
+        "end": 1583
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "individuo",
+      "span": {
+        "begin": 1586,
+        "end": 1591
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1701,
+        "end": 1706
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1740,
+        "end": 1744
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1845,
+        "end": 1850
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1900,
+        "end": 1908
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2027,
+        "end": 2033
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 2068,
+        "end": 2079
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2122,
+        "end": 2130
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "local",
+      "span": {
+        "begin": 2172,
+        "end": 2181
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2354,
+        "end": 2362
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2428,
+        "end": 2433
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2498,
+        "end": 2504
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2537,
+        "end": 2551
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2642,
+        "end": 2648
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "individuo",
+      "span": {
+        "begin": 2797,
+        "end": 2802
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T12"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T14"
+    },
+    {
+      "id": "R7",
+      "pred": "localizado_em",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "natural_de",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "localizado_em",
+      "subj": "T15",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "natural_de",
+      "subj": "T15",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T15"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T4"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T14"
+    },
+    {
+      "id": "R16",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T21"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T2"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T1"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T19"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T12"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T19"
+    },
+    {
+      "id": "R22",
+      "pred": "vinculo_inst",
+      "subj": "T28",
+      "obj": "T19"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T30",
+      "obj": "T1"
+    },
+    {
+      "id": "R24",
+      "pred": "incluido",
+      "subj": "T31",
+      "obj": "T1"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T32",
+      "obj": "T1"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T19"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T12"
+    },
+    {
+      "id": "R28",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T2"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T12"
+    },
+    {
+      "id": "R30",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T8"
+    },
+    {
+      "id": "R31",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T1"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T42"
+    },
+    {
+      "id": "R33",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T12"
+    },
+    {
+      "id": "R34",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T40"
+    },
+    {
+      "id": "R35",
+      "pred": "ident",
+      "subj": "T47",
+      "obj": "T8"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T40"
+    },
+    {
+      "id": "R37",
+      "pred": "natural_de",
+      "subj": "T48",
+      "obj": "T40"
+    }
+  ]
+}

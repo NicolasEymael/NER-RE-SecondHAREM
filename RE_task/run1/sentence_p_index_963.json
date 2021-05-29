@@ -1,0 +1,43 @@
+{
+  "text": "O sentido da expressão Kuduro poderá ser melhor explicado por um Angolano, mas, ao que tudo indica, significa o que parece: Kuduro = Bunda imóvel, sem rebolar, o que, considerando-se que um dos movimentos fundamentais da dança angolana é o sofisticado rebolado (dos homens inclusive), é muito significativo. Algo como uma dança diferente , supostamente 'moderna', no âmbito das danças tradicionais que, como já disse são, extremamente, rebolativas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 23,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 124,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 133,
+        "end": 138
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "text": "Quantos fogos florestais ocorreram perto de Sydney em Janeiro de 1994? Quantas casas foram destruídas nos subúrbios de Sydney? Que área de prados e florestas ardeu na Nova Gales do Sul? Qual a velocidade do vento durante os incêndios?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 125
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 167,
+        "end": 184
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

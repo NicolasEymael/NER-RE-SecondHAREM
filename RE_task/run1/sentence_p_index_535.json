@@ -1,0 +1,46 @@
+{
+  "text": "Segundo o JN , Cavaco silva | Cavaco silva vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu no ano passado ao Governo , para as áreas da economia, educação e justiça",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 10,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 36
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 146,
+        "end": 160
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 164,
+        "end": 171
+      }
+    }
+  ],
+  "relations": []
+}

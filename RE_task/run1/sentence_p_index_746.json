@@ -1,0 +1,125 @@
+{
+  "text": "Mas a 5 voltas do fim o finlandês fez a melhor volta do dia, enquanto Hamilton era apenas 7.º... a 15 segundos | a 15 segundos de Heidfeld, e muito longe do 5.º lugar que lhe daria o título. Festa à brasileira para Raikkonen com dobradinha de Massa bem saborosa para a Ferrari: GP do Brasil | GP do Brasil e Mundiais de pilotos e construtores...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 6,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 70,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 90,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 110
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 115,
+        "end": 126
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 130,
+        "end": 138
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 157,
+        "end": 160
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 215,
+        "end": 224
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 243,
+        "end": 248
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 269,
+        "end": 276
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 278,
+        "end": 290
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 293,
+        "end": 295
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 299,
+        "end": 305
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 308,
+        "end": 316
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T11"
+    }
+  ]
+}

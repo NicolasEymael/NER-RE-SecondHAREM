@@ -1,0 +1,505 @@
+{
+  "text": " Quadrinhos e pop art - É neste processo de renovação da sociedade norte-americana que a pop art ganha um impulso e, de certa forma, contribui para que os quadrinhos voltem de novo a ser tratados como coisa séria. Os artistas procuravam demolir a rigidez e a seriedade das artes plásticas através de ícones da sociedade ocidental. Garrafas de Coca Cola, latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão. Era uma arte que se valia da repetição de signos conhecidos no intuito de buscar uma identificação com o público a que ela se destinava. A idéia era eliminar as barreiras entre as culturas erudita e popular. Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos. Afinal, a linguagem das HQs, um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem. Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop. Isso pode ser visto na obra de Roy Lichtenstein e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de Andy Warhol. Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de Marilyn Monroe, Mao Tsé Tung e James Dean - do que propriamente por se comportar como um quadrinhista tradicional. Ao levar para as galerias a estética das HQs, a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido na década de 50. Claro que isso não seria possível sem a renovação promovida pelos Comix. Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade. Jules Feiffer tem suas tiras publicadas nas páginas da elitista New Yorker. Na Europa, François Truffaut, Alain Resnais, Federico Fellini e Umberto Eco, teorizam sobre as HQs e declaram seu amor aos quadrinistas norte-americanos. Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande. A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura. Hunter S. Thompson e Tom Wolfe criam o \"new journalism\" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência. Se, por um lado, Thompson experimentou todos os tipos de substâncias legais e ilegais para escrever Fear & Loathing in Las Vegas, um relato de suas maluquices na capital mundial do jogo, Wolfe desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das HQs. Inclusive com a utilização de onomatopéias:. \"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da Grande Estrada a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar muitas vezes em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee. VOCÊ É DEUS ... Tom Wolfe - O Teste do Ácido do Refresco Elétrico. Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana. Em livros como V, O Leilão do Lote 49 e Arco Íris da Gravidade, todos publicados no período que vai de 61 a 73, o escritor Thomas Pynchon freqüentemente adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem Homem Foguete é claramente inspirado no Capitão América), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos (Benny Profane, Oedipa e Mucho Maas, Pierce Inverarity, Fausto Magistral, Tyrone Slothrop, General Pudding, Pig Bodine...). Quem também se utiliza do humor quase infantil das HQs é Kurt Vonnegut em seu manifesto anti-militarista Matadouro 5 e no experimental Timequake. Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana. Dos anos 60 até os dias de hoje. Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 343,
+        "end": 352
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 929,
+        "end": 932
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 1167,
+        "end": 1183
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 1274,
+        "end": 1285
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 1437,
+        "end": 1451
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 1453,
+        "end": 1465
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 1468,
+        "end": 1478
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 1593,
+        "end": 1596
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 1684,
+        "end": 1699
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1767,
+        "end": 1772
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 1876,
+        "end": 1889
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 1940,
+        "end": 1950
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 1955,
+        "end": 1961
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1963,
+        "end": 1980
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 1982,
+        "end": 1995
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 1997,
+        "end": 2013
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 2016,
+        "end": 2027
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 2047,
+        "end": 2050
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 2346,
+        "end": 2364
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 2367,
+        "end": 2376
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 2538,
+        "end": 2546
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "obra",
+      "span": {
+        "begin": 2621,
+        "end": 2649
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 2708,
+        "end": 2713
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "outro",
+      "span": {
+        "begin": 2792,
+        "end": 2795
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 2943,
+        "end": 2957
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 3043,
+        "end": 3055
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 3155,
+        "end": 3159
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 3164,
+        "end": 3173
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "obra",
+      "span": {
+        "begin": 3322,
+        "end": 3323
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "obra",
+      "span": {
+        "begin": 3325,
+        "end": 3344
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "obra",
+      "span": {
+        "begin": 3347,
+        "end": 3369
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 3388,
+        "end": 3398
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "tempo",
+      "span": {
+        "begin": 3407,
+        "end": 3417
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 3430,
+        "end": 3444
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 3445,
+        "end": 3459
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 3650,
+        "end": 3663
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "individuo",
+      "span": {
+        "begin": 3690,
+        "end": 3705
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3872,
+        "end": 3885
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3887,
+        "end": 3893
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3896,
+        "end": 3906
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3908,
+        "end": 3925
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3927,
+        "end": 3943
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3945,
+        "end": 3960
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3962,
+        "end": 3977
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3979,
+        "end": 3989
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "outro",
+      "span": {
+        "begin": 4046,
+        "end": 4049
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "individuo",
+      "span": {
+        "begin": 4052,
+        "end": 4065
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "obra",
+      "span": {
+        "begin": 4100,
+        "end": 4111
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "obra",
+      "span": {
+        "begin": 4130,
+        "end": 4139
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 4419,
+        "end": 4450
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "local",
+      "span": {
+        "begin": 4459,
+        "end": 4473
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T19"
+    },
+    {
+      "id": "R6",
+      "pred": "obra_de",
+      "subj": "T22",
+      "obj": "T19"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T20"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T20"
+    },
+    {
+      "id": "R10",
+      "pred": "autor_de",
+      "subj": "T34",
+      "obj": "T29"
+    },
+    {
+      "id": "R11",
+      "pred": "autor_de",
+      "subj": "T34",
+      "obj": "T30"
+    },
+    {
+      "id": "R12",
+      "pred": "autor_de",
+      "subj": "T34",
+      "obj": "T31"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "obra_de",
+      "subj": "T48",
+      "obj": "T47"
+    },
+    {
+      "id": "R15",
+      "pred": "obra_de",
+      "subj": "T49",
+      "obj": "T47"
+    }
+  ]
+}

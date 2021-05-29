@@ -1,0 +1,29 @@
+{
+  "text": " US Open: Federer campeão. Roger Federer conquistou este domingo pela quarta vez consecutiva o US Open, ao bater na final o sérvio Novak Djokovic por 7-6(4), 7-6(2) e 6-4. Com este triunfo, o suíço contabiliza 12 vitórias em torneios do Grand Slam, aproximando-se do recorde de 14, que pertence a Pete Sampras. A final demorou 2.26 horas e o líder mundial fez 11 ases contra apenas 5 do sérvio. Ao helvético apenas lhe falta o título no Open de França | Open de França, em Roland Garros. Entretanto, a francesa Nathalie Dechy conquistou o seu segundo título consecutivo em pares femininos. Dechy e a russa Dinara Safina bateram Chan Yung-jan e Chuang Chia-jung (Taiwan), por 6-4 e 6-2.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 237,
+        "end": 247
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

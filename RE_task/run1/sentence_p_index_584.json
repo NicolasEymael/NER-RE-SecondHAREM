@@ -1,0 +1,14 @@
+{
+  "text": "Sistema de Posicionamento Global",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

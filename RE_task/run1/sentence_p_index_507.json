@@ -1,0 +1,38 @@
+{
+  "text": "No ano que agora termina houve duas entradas na bolsa portuguesa, concretamente da REN (através da privatização de 24% do capital) e da Martifer.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 83,
+        "end": 86
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 115,
+        "end": 118
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 136,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

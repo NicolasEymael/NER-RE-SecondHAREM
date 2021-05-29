@@ -1,0 +1,57 @@
+{
+  "text": "Em 2006 é lançado a biografia da banda, \"Censurados Até Morrer\", escrita por Augusto Figueira e Renato Conteiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 41,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 111
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

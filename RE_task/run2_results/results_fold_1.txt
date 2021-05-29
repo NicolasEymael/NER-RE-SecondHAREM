@@ -1,0 +1,30 @@
+autor_de            	TP:2 FP:3 FN:13	P:0.400000 R:0.133333 F1:0.200000
+data_de             	TP:2 FP:4 FN:23	P:0.333333 R:0.080000 F1:0.129032
+data_morte          	TP:0 FP:0 FN:3	P:0.000000 R:0.000000 F1:0.000000
+data_nascimento     	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+datado_de           	TP:0 FP:0 FN:4	P:0.000000 R:0.000000 F1:0.000000
+ident               	TP:5 FP:41 FN:371	P:0.108696 R:0.013298 F1:0.023697
+inclui              	TP:3 FP:12 FN:32	P:0.200000 R:0.085714 F1:0.120000
+incluido            	TP:1 FP:7 FN:32	P:0.125000 R:0.030303 F1:0.048780
+localizado_em       	TP:0 FP:0 FN:13	P:0.000000 R:0.000000 F1:0.000000
+natural_de          	TP:0 FP:0 FN:44	P:0.000000 R:0.000000 F1:0.000000
+obra_de             	TP:2 FP:1 FN:33	P:0.666667 R:0.057143 F1:0.105263
+outrarel            	TP:0 FP:5 FN:18	P:0.000000 R:0.000000 F1:0.000000
+participante_em     	TP:0 FP:1 FN:15	P:0.000000 R:0.000000 F1:0.000000
+personagem_de       	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+pratica_se          	TP:0 FP:0 FN:4	P:0.000000 R:0.000000 F1:0.000000
+praticado_em        	TP:0 FP:0 FN:30	P:0.000000 R:0.000000 F1:0.000000
+praticado_por       	TP:0 FP:1 FN:7	P:0.000000 R:0.000000 F1:0.000000
+produtor_de         	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+produzido_por       	TP:0 FP:0 FN:4	P:0.000000 R:0.000000 F1:0.000000
+propriedade_de      	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+proprietario_de     	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+relacao_familiar    	TP:0 FP:0 FN:14	P:0.000000 R:0.000000 F1:0.000000
+relacao_profissional	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+residencia_de       	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+sede_de             	TP:1 FP:4 FN:13	P:0.200000 R:0.071429 F1:0.105263
+ter_participacao_de 	TP:2 FP:0 FN:15	P:1.000000 R:0.117647 F1:0.210526
+vinculo_inst        	TP:1 FP:58 FN:25	P:0.016949 R:0.038462 F1:0.023529
+--------------------------------------------------
+All                 	TP:19 FP:137 FN:720	P:0.121795 R:0.025710 F1:0.042458
+--- 88.92457795143127 seconds ---

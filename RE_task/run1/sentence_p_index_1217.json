@@ -1,0 +1,38 @@
+{
+  "text": "Para vaidade nossa, mestre Oiticica preparava nova edição desse seu livro e queria ouvir a voz crítica da nossa geração sobre o que fizera e o que seria passível de correção e aperfeiçoamento. Imagine-se o nosso desvanecimento por sermos assim contemplados por um dos mais autorizados catedráticos do tradicional baluarte da cultura humanística em nosso país, o Colégio Pedro II. Oiticica foi generoso conosco. Deixou estas palavras inscritas na \"Advertência desta edição\", que reproduzo da 5.ª ed. refundida:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 362,
+        "end": 378
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 380,
+        "end": 388
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 447,
+        "end": 471
+      }
+    }
+  ],
+  "relations": []
+}

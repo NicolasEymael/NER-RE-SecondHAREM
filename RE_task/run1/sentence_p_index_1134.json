@@ -1,0 +1,22 @@
+{
+  "text": "\"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do Creative Commons\", diz Christiansen.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 89,
+        "end": 105
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 112,
+        "end": 124
+      }
+    }
+  ],
+  "relations": []
+}

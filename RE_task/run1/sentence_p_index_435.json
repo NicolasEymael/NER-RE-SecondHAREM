@@ -1,0 +1,14 @@
+{
+  "text": "Reúne um resumo de todos os programas, projetos e ações do Órgão Gestor da Política Nacional de Educação Ambiental .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 59,
+        "end": 114
+      }
+    }
+  ],
+  "relations": []
+}

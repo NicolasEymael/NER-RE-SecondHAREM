@@ -1,0 +1,14 @@
+{
+  "text": "Qual a freguesia mais populosa de Évora?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

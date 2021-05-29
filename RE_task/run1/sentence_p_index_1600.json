@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Charles-Ange Ginésy? De que município é que ele também é presidente? Em que grupo político é que ele tem assento?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

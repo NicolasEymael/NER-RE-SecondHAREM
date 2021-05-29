@@ -1,0 +1,126 @@
+{
+  "text": " -Sistema de Navegação automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da Magellan), e ecrã táctil com 32.000 côres. Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o RoadMate recalcula a sua rota. -Base de dados com mapas de Portugal, Espanha e sul de França incorporados. -Inclui cartão SD de 512 Mb para importação de mapas,waypoints ou rotas criadas em casa. Pontos de interesse, organizados em mais de 40 categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc. Grava até 600 endereços pessoais.(ou 200 endereços por cada utilizador, permitindo um máximo de 3 utilizadores.). Menus e indicações de voz, a partir de Setembro 2005 (unidades vendidas agora terão actualização grátis nessa altura.).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 180
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 201,
+        "end": 207
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 351,
+        "end": 359
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 410,
+        "end": 418
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 420,
+        "end": 427
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 437,
+        "end": 443
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 473,
+        "end": 475
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 479,
+        "end": 485
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 583,
+        "end": 593
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 687,
+        "end": 694
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 718,
+        "end": 721
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 777,
+        "end": 778
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 822,
+        "end": 847
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 899,
+        "end": 911
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Ministério da Defesa Nacional",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

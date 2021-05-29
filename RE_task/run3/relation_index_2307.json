@@ -1,0 +1,29 @@
+{
+  "text": " 2008: preços de bens e serviços sobem acima da inflação. Os preços de diversos bens e serviços vão aumentar, no próximo ano, acima da inflação de 2,1% prevista pelo Governo para 2008, com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos. A electricidade vai aumentar, de acordo com a proposta da Entidade Reguladora dos Serviços Energéticos (ERSE), aprovada pelo Conselho Tarifário, 2,9%, em média, em Portugal Continental, 2,6% nos Açores e 4,9% na Madeira. A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de 1,08 euros no próximo ano, mas os clientes industriais sofrerão um aumento médio de 3,0%, com maior peso para os de muita alta tensão (MAT) e alta tensão (AT) que terão uma subida de 3,9%. Os clientes de média tensão (MT) terão um aumento de 2,7%, enquanto os de baixa tensão especial (BTE), normalmente pequenas empresas, terão um aumento de 2,5%. Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo Governo é o do pão, que deverá aumentar 10 a 15% em Janeiro ou Fevereiro, segundo contas feitas pela direcção da Associação dos Industriais de Panificação, Pastelaria e Similares do Norte | Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN). Em declarações à agência Lusa, António Fontes, da AIPAN, disse que o preço do pão terá de aumentar para fazer face à subida de 92% registada ao longo de 2007 no preço da matéria-prima de base (farinha). Desde o último aumento do preço do pão, em Janeiro de 2004, o preço da farinha mais do que duplicou, o das leveduras subiu 40%, o da energia 25%, o do gás 32%, o do gasóleo 70% e os custos com pessoal 14%, explicou. O preço do arroz, cujo consumo per capita em Portugal é o mais alto da Europa, deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores. A Associação Nacional dos Industriais de Arroz (ANIA) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em Portugal um acréscimo do valor por tonelada de 200 a 230 euros em 2006 para 280 a 290 euros este ano. Nos transportes públicos, a subida é, em média, de 3,9%, e nas portagens das auto-estradas será de 2,6%, também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar \"até 15 de Novembro as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida. Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de 5 cêntimos. O tabaco também vai pesar mais na carteira: o Governo decidiu em 2005 que o Imposto sobre o Tabaco teria um aumento médio anual de 15% até 2009 e, a partir de Janeiro de 2008, um maço das marcas mais comercializadas poderá mesmo aumentar, em média, 30 cêntimos. Sem contas fechadas, os CTT adiantam que «os preços dos serviços de correios não vão aumentar já em Janeiro» e, na água, o Instituto Regulador das Águas e Resíduos (IRAR) diz que o procedimento para 2008 está actualmente em curso, prevendo-se a sua conclusão em Janeiro. Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas no momento do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município. Mas nem tudo são más notícias, tendo em conta que o Salário Mínimo Nacional vai aumentar, a partir do dia 1 de Janeiro, 5,7%, para 426 euros. O valor fixado insere-se no acordo tripartido assinado no ano passado e que prevê uma evolução significativa do salário mínimo, de modo a atingir os 450 euros em 2009 e os 500 euros em 2011. O \"Indexante de Apoios Sociais (IAS), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos 407,4 euros, o que traduz um crescimento de 2,4%, a partir de Janeiro do próximo ano, segundo as contas feitas pela agência Lusa. Em relação à actualização das pensões atribuídas pelo sistema de Segurança Social, as pensões de valor igual ou inferior a 1,5 IAS (611,10 euros) são actualizadas em 2,7%, as pensões entre 1,5 IAS e 6 IAS tem uma actualização de 2,17% e as pensões de valor superior a 6 IAS tem um aumento de 1,88%. Estes valores foram calculados com base na lei 53-B/2006, de 29 de Dezembro, que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de Segurança Social.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 603,
+        "end": 617
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas no momento do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 85,
+        "end": 95
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,53 @@
+{
+  "text": "No início do século XVI , o rei D. Manuel I ordena uma grande reforma, reconstruindo e redecorando a igreja e o mosteiro. Nessa época são transladados os restos de Afonso Henriques e Sancho I dos seus sarcófagos originais para novos túmulos decorados em estilo manuelino.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 122,
+        "end": 133
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 180
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 183,
+        "end": 191
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

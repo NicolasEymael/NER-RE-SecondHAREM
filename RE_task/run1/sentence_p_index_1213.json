@@ -1,0 +1,22 @@
+{
+  "text": "Por aí se vê o que de interessante comportam as indagações dessas pequenas facetas, dessa análise microscópica necessária e importante para se fixarem, com maior detalhe, os traços do retrato de corpo inteiro de um talento como Antônio Houaiss, e mesmo de boa parte da história cultural dos intelectuais e artistas do Brasil.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 228,
+        "end": 243
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 318,
+        "end": 324
+      }
+    }
+  ],
+  "relations": []
+}

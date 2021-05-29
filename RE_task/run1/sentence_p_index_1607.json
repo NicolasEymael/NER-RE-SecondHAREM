@@ -1,0 +1,14 @@
+{
+  "text": "O que é \"Ace of Base\"? De que cidade é este grupo? Quem são os quatro membros que compõem o grupo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 9,
+        "end": 20
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,283 @@
+{
+  "text": "A Igreja de Santa Cruz de Coimbra | Igreja de Santa Cruz de Coimbra foi fundada em 1131 por D. Telo ( São Teotónio ) e 11 outros religiosos, que adotaram a regra dos Cónegos Regrantes de Santo Agostinho . A nova Igreja recebeu muitos privilégios papais e doações dos primeiros reis de Portugal | reis de Portugal , tornando-se a mais importante casa monástica do reino. Sua escola foi uma das melhores instituições de ensino do Portugal medieval , tendo uma grande biblioteca (agora na Biblioteca Pública Municipal do Porto | Biblioteca Pública Municipal do Porto ) e um activo scriptorium. Nos tempos de D. Afonso Henriques , primeiro monarca português, o scriptorium de Santa Cruz foi usado como máquina de consolidação do poder real. A importância da Igreja é evidenciada pelo fato de que D. Afonso Henriques e seu sucessor, D. Sancho I , foram sepultados lá.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 80,
+        "end": 87
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 92,
+        "end": 99
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 102,
+        "end": 114
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 119,
+        "end": 121
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 202
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 212,
+        "end": 218
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 277,
+        "end": 293
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 304,
+        "end": 312
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 428,
+        "end": 436
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 486,
+        "end": 523
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 526,
+        "end": 554
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 558,
+        "end": 563
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 591,
+        "end": 601
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 605,
+        "end": 624
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 672,
+        "end": 682
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 754,
+        "end": 760
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 792,
+        "end": 811
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 828,
+        "end": 839
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "praticado_por",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "outrarel",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R8",
+      "pred": "outrarel",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T17",
+      "obj": "T10"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T11"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R14",
+      "pred": "localizado_em",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T17"
+    },
+    {
+      "id": "R16",
+      "pred": "relacao_familiar",
+      "subj": "T21",
+      "obj": "T20"
+    },
+    {
+      "id": "R17",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T10"
+    },
+    {
+      "id": "R18",
+      "pred": "vinculo_inst",
+      "subj": "T21",
+      "obj": "T11"
+    }
+  ]
+}

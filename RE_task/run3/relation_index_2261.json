@@ -1,0 +1,29 @@
+{
+  "text": " PASSAPORTE BIOLÓGICO EM 2008. O ano de 2008 promete ser aquele em que tudo se fará para combater o flagelo do doping. Pelo menos é esta a intenção de vários agentes da modalidade que criaram, para tal, o passaporte biológico, a designação de um documento electrónico e individual na qual constarão todos os resultados dos controlos antidoping à urina e ao sangue efectuados aos ciclistas, assim como o respectivo perfil hematológico. O cruzamento destas informações permitirá avaliar as variações das análises e, consequentemente, detectar se houve manipulação de sangue. O passaporte biológico é o resultado de uma reunião verificada há alguns meses, em Paris, organizada pelo ministro francês da Saúde, o ministro francês da Saúde, a UCI e a Agência Mundial Antidopagem (AMA). O objectivo é chegar ao Tour com o passaporte biológico de todos os possíveis participantes em total funcionamento, de modo a evitarem-se os casos de doping que ocorreram este ano. O passaporte biológico abrange todos os ciclistas do ProTour, onde só há um português, podendo as equipas Continentais Profissionais, na qual faz parte o Benfica, serem também abrangidas. Ao todo, o grupo de trabalho prevê fazer 4.200 análises ao sangue -- seis por cada ciclista do ProTour --, mais 3.700 do que em 2007. Em suma, a UCI quer controlar em 2008 cada ciclista por 12 vezes -- às análises de sangue juntam-se às da urina --, na sua maioria inopinadas, devendo gastar, com todo o programa do passaporte biológico, qualquer coisa como 6 milhões de euros, contra 1 milhão gasto este ano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1294,
+        "end": 1297
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 737,
+        "end": 740
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

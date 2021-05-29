@@ -1,0 +1,22 @@
+{
+  "text": "Quantos prémios Goya ganhou \"Torrente: El brazo tonto de la ley\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 29,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

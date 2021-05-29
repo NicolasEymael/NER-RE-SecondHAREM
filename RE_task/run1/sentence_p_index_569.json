@@ -1,0 +1,54 @@
+{
+  "text": "Tornou-se então numa lenda do grande patriota português - o \"rei dormente\" (ou um Messias) que iria regressar para ajudar Portugal nas suas horas mais sombrias, uma imagem semelhante à que o Rei Artur tem em Inglaterra ou Frederico Barbarossa na Alemanha.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 82,
+        "end": 89
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 200
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 208,
+        "end": 218
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 222,
+        "end": 242
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 246,
+        "end": 254
+      }
+    }
+  ],
+  "relations": []
+}

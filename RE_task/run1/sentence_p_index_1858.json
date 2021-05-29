@@ -1,0 +1,14 @@
+{
+  "text": "Qual o estilo arquitectónico da Torre dos Clérigos? Quantos degraus tem a torre? Qual á a altura dela? Quando foi erigida?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 32,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

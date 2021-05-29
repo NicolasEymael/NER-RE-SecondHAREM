@@ -1,0 +1,30 @@
+{
+  "text": "Onde ficam as universidades de Yale e Harvard? Qual é o maior estado da Nova Inglaterra?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 31,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 38,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 87
+      }
+    }
+  ],
+  "relations": []
+}

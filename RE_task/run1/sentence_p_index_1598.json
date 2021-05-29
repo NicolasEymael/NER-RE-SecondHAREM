@@ -1,0 +1,14 @@
+{
+  "text": "De que país é Kim Il Sung presidente?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,81 @@
+{
+  "text": "Qual é a principal companhia de aviação em França? Que cinco companhias de aviação que se fundiram em 1933 para criar a Air France? Em quantos países os aviões da Air France fazem os seus 1800 voos diários? Que companhia detém 100% do capital da Air France?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 99,
+        "end": 106
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 120,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 163,
+        "end": 173
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 188,
+        "end": 192
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 227,
+        "end": 231
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 246,
+        "end": 256
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T3"
+    }
+  ]
+}

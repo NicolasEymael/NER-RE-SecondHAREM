@@ -1,0 +1,14 @@
+{
+  "text": "Um míssil ASMP é quantas vezes mais rápido do que a velocidade do som?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    }
+  ],
+  "relations": []
+}

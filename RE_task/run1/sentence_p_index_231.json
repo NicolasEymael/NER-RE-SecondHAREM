@@ -1,0 +1,30 @@
+{
+  "text": "Ouvido o Conselho Cinegético Municipal de Montemor-o-Novo | Conselho Cinegético Municipal de Montemor-o-Novo :",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 9,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 93,
+        "end": 108
+      }
+    }
+  ],
+  "relations": []
+}

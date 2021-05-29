@@ -1,0 +1,78 @@
+{
+  "text": "Durante muitos anos o fotógrafo trabalhou nas agências Sygma e Gamma e mais tarde foi membro da Magnum . Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no \" África \", trabalhava nove meses em Paris a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor, durante os restantes três meses do ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 63,
+        "end": 68
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 71,
+        "end": 81
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 96,
+        "end": 102
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 197,
+        "end": 203
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 218,
+        "end": 228
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 232,
+        "end": 237
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 380,
+        "end": 418
+      }
+    }
+  ],
+  "relations": []
+}

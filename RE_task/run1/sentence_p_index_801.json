@@ -1,0 +1,22 @@
+{
+  "text": "China vai desenvolver nova geração de telemóveis em 2008",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 49,
+        "end": 56
+      }
+    }
+  ],
+  "relations": []
+}

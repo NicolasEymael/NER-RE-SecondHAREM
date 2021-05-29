@@ -1,0 +1,14 @@
+{
+  "text": "Qual o actual nome do Ceilão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

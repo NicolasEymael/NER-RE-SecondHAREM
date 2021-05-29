@@ -1,0 +1,14 @@
+{
+  "text": "Quem viajava no avião que se despenhou em Camarate?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

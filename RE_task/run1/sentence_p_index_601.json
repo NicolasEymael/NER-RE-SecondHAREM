@@ -1,0 +1,38 @@
+{
+  "text": "Nos EUA , o telemóvel da Apple funcionará na rede Cingular Wireless . O seu desenvolvimento levou ao registo de mais de 200 patentes, o que o torna numa das maiores inovações da empresa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 4,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 30
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 50,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 112,
+        "end": 123
+      }
+    }
+  ],
+  "relations": []
+}

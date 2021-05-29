@@ -1,0 +1,30 @@
+{
+  "text": "Quem era presidente da Chechénia | presidente da Chechénia em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 59,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

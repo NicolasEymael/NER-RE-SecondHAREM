@@ -1,0 +1,513 @@
+{
+  "text": " Tabaco: Associação lamenta exemplo de presidente da ASAE | presidente da ASAE. O presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo (CPPT) considerou hoje «um exemplo lamentável» o facto de o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo ter sido fotografado a fumar num casino depois da entrada em vigor da lei do Tabaco. António Nunes, presidente da Autoridade de Segurança Alimentar e Económica | presidente da Autoridade de Segurança Alimentar e Económica (ASAE), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo Diário de Notícias (DN) a fumar uma cigarrilha no Casino do Estoril | Casino do Estoril às 02.30 da manhã do dia 01 de Janeiro. Em explicações ao DN, António Nunes considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco. No entanto, um parecer da Direcção Geral de Saúde a que a Lusa teve acesso sexta-feira indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho». «Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à Lusa o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo, Luís Rebelo. Luís Rebelo desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de António Nunes a «um automatismo» inconsciente. Sobre as dúvidas manifestadas pelo máximo responsável da ASAE relativamente ao âmbito de aplicação da nova lei, Luís Rebelo considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos. Sobre os primeiros dias da vigência da proibição de fumar em espaços de uso colectivo fechados, Luís Rebelo considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição». A lei do Tabaco, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor às 00:00 do dia 01 de Janeiro. A Lusa tentou contactar o porta-voz da ASAE | porta-voz da ASAE para obter esclarecimentos adicionais mas tal foi impossível até ao momento.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 9,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 74,
+        "end": 78
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 82,
+        "end": 149
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 219
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 225
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 238,
+        "end": 242
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 280,
+        "end": 347
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 364,
+        "end": 417
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 495,
+        "end": 501
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 503,
+        "end": 516
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 518,
+        "end": 577
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 594,
+        "end": 639
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 641,
+        "end": 645
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 786,
+        "end": 804
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 806,
+        "end": 808
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 836,
+        "end": 853
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 856,
+        "end": 862
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 866,
+        "end": 873
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 874,
+        "end": 891
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 892,
+        "end": 912
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 932,
+        "end": 934
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 936,
+        "end": 949
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1213,
+        "end": 1236
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1245,
+        "end": 1249
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1262,
+        "end": 1273
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1605,
+        "end": 1609
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1612,
+        "end": 1679
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1696,
+        "end": 1749
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1751,
+        "end": 1762
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 1764,
+        "end": 1775
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1871,
+        "end": 1884
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1975,
+        "end": 1979
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 2030,
+        "end": 2041
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 2144,
+        "end": 2161
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 2234,
+        "end": 2245
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "obra",
+      "span": {
+        "begin": 2372,
+        "end": 2378
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 2508,
+        "end": 2516
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 2517,
+        "end": 2537
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2541,
+        "end": 2545
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "individuo",
+      "span": {
+        "begin": 2565,
+        "end": 2582
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2598,
+        "end": 2602
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "tempo",
+      "span": {
+        "begin": 2664,
+        "end": 2678
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T13",
+      "obj": "T11"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T15"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T11"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T25"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T4"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T5"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T4"
+    },
+    {
+      "id": "R17",
+      "pred": "vinculo_inst",
+      "subj": "T30",
+      "obj": "T5"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T30"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T11"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T3"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T30"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T30"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T10"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T27"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T27"
+    },
+    {
+      "id": "R26",
+      "pred": "vinculo_inst",
+      "subj": "T41",
+      "obj": "T3"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T3"
+    }
+  ]
+}

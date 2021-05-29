@@ -1,0 +1,29 @@
+{
+  "text": "Quem foi Monteiro Lobato? Em que instituição estudou? O que é que ele estudou? Quando é que ele criou a Emília?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 104,
+        "end": 110
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

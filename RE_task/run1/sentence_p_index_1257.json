@@ -1,0 +1,38 @@
+{
+  "text": "Quem foi Hermann Emil Fischer? Quem prémio é que ele recebeu em 1902? Quem recebeu o Prémio Nobel da Literatura nesse ano?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 61,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 85,
+        "end": 111
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 112,
+        "end": 121
+      }
+    }
+  ],
+  "relations": []
+}

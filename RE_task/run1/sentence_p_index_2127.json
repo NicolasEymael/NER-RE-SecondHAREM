@@ -1,0 +1,14 @@
+{
+  "text": "O objectivo desta iniciativa é fazer aumentar a utilização da Internet | Internet no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 62,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

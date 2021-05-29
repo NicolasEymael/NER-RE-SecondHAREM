@@ -1,0 +1,30 @@
+{
+  "text": "«O objectivo é restaurar o diálogo político alargado com a África e fazer não apenas uma estratégia da Europa para a África mas uma estratégia conjunta, pela primeira vez na história», lembrou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 59,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 117,
+        "end": 123
+      }
+    }
+  ],
+  "relations": []
+}

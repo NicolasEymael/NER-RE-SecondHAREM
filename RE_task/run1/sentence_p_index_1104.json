@@ -1,0 +1,45 @@
+{
+  "text": "Joana Marinho, uma estudante universitária de 25 anos, de Vila do Conde: «Tudo começou quando os meus pais acoplaram às bicicletas cestinhos de verga para nos levarem, a mim e aos meus irmãos, nas deslocações ao supermercado e à praia. A partir dos seis anos, eu e o meu irmão mais velho íamos para a escola de bicicleta. Este hábito perdura até hoje, ao qual se acrescentaram muitas outras medidas.»",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 46,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 71
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 342,
+        "end": 350
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

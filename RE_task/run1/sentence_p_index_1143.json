@@ -1,0 +1,38 @@
+{
+  "text": "Se duvidam, experimentem traçar uma linha de tempo e enxerguem (em preto & branco, é claro), lá longe, nos idos dos anos 50, um grupo de negros marcando o tempo com o estalar dos dedos, criando vocais em contraponto, nas esquinas de conjuntos habitacionais infectos ou cantos de quadras de basqueteball suburbanas. Soul e Funk básicos (e ainda o velho Rock and Roll), rolando já ali naquelas manifestações atávicas, quase ancestrais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 103,
+        "end": 123
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 315,
+        "end": 319
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 322,
+        "end": 326
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 352,
+        "end": 365
+      }
+    }
+  ],
+  "relations": []
+}

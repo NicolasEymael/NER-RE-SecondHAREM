@@ -1,0 +1,14 @@
+{
+  "text": "Quantos golos é que o Pelé marcou na sua carreira?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

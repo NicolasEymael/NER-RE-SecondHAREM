@@ -1,0 +1,22 @@
+{
+  "text": "Enraizamento da Educação Ambiental no Brasil",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 16,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

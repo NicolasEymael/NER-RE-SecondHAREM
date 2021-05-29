@@ -1,0 +1,739 @@
+{
+  "text": " Biografia de Fitacola. Os Fitacola são um grupo de amigos, que um dia , em 2003 em Coimbra , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam. O projecto foi continuando nesta toada de brincadeira e divertimento até 2005 , altura em que a banda fixou a formação actual. Os Fitacola caracterizam-se por um som jovem. Uma atitude rebelde e inconformista perante a vida, e uma postura enérgica em palco. As letras, sempre em português, contêm sempre uma mensagem de acção, positiva, procurando combater o que consideram estar mal na sociedade, representando a juventude e uma geração que usa a voz dos Fitacola para provar que não é a tal «geração rasca», tendo objectivos, valor e vontade de agir e mudar o que está mal. Em dois anos a banda já superou a marca dos 75 concertos, entre os quais se destacam:. Cercal Rock 9ª edição. Festival Acção Directa 2005 ( Açores Ilha Terceira ). Recepção ao Caloiro 2005 (Covilhã) com Squeeze theeze pleeze e Fonzie. Queima das Fitas de Coimbra 2006 com Hands on Approach e Boss AC. Semana Académica da Universidade de Aveiro | Semana Académica da Universidade de Aveiro| Semana Académica da Universidade de Aveiro ( 2006 ) com Pluto e Expensive Soul. Semana Académica 2006 ( Castelo Branco ) com Tara Perdida. Hardclub ( V.N. Gaia .) - com Twenty Toon. Recepção ao Caloiro 2006 ( IPC ) Coimbra com Peste & Sida e Asher Lane ( Alemanha ). RockOff 2006 VI edição ( Cantanhede ). Março Jovem 2006 (C.M. Seixal) com Triplet. Vans/Eastpak Club Tour 2007 ( Almada ) com SK6 , Humble , Devil in Me , Tara Perdida e Strike Anywhere. Sesimbra Xtream Beach Fest 2007 ( Sesimbra ). Os Fitacola contam para já, apenas com um EP , edição de autor, com 6 musicas, intitulado « Rebobina e Pensa ». Neste nomento os Fitacola estiveram três semanas em estúdio a gravar aquele que será o seu primeiro álbum. Será composto por 12 temas e o seu lançamento está previsto para os primeiros meses de 2008 . Diogo Guitarra. Libelinha Baixo/coros. Besugo Guitarra. Xico Bateria/coros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 70
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 80
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 84,
+        "end": 91
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 264,
+        "end": 272
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 325,
+        "end": 333
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 651,
+        "end": 659
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 771,
+        "end": 783
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 815,
+        "end": 817
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 858,
+        "end": 879
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 881,
+        "end": 908
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 911,
+        "end": 917
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 918,
+        "end": 931
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 935,
+        "end": 959
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 961,
+        "end": 968
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 974,
+        "end": 995
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 998,
+        "end": 1004
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1006,
+        "end": 1038
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1043,
+        "end": 1060
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1063,
+        "end": 1070
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1072,
+        "end": 1114
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1117,
+        "end": 1133
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1137,
+        "end": 1159
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1161,
+        "end": 1177
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1181,
+        "end": 1193
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 1197,
+        "end": 1203
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 1206,
+        "end": 1210
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1217,
+        "end": 1222
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1225,
+        "end": 1239
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1241,
+        "end": 1262
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 1265,
+        "end": 1279
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1286,
+        "end": 1298
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1300,
+        "end": 1308
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1311,
+        "end": 1320
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1330,
+        "end": 1341
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1343,
+        "end": 1367
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "local",
+      "span": {
+        "begin": 1370,
+        "end": 1373
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1376,
+        "end": 1383
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1388,
+        "end": 1400
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1403,
+        "end": 1413
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1416,
+        "end": 1424
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1428,
+        "end": 1450
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "local",
+      "span": {
+        "begin": 1453,
+        "end": 1463
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1467,
+        "end": 1483
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 1485,
+        "end": 1496
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1502,
+        "end": 1509
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1511,
+        "end": 1538
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 1541,
+        "end": 1547
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1554,
+        "end": 1557
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1560,
+        "end": 1566
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1569,
+        "end": 1580
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1583,
+        "end": 1595
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1598,
+        "end": 1613
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1615,
+        "end": 1646
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "local",
+      "span": {
+        "begin": 1649,
+        "end": 1657
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1664,
+        "end": 1672
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "outro",
+      "span": {
+        "begin": 1703,
+        "end": 1705
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "valor",
+      "span": {
+        "begin": 1729,
+        "end": 1730
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1753,
+        "end": 1769
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "tempo",
+      "span": {
+        "begin": 1773,
+        "end": 1786
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1790,
+        "end": 1798
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "tempo",
+      "span": {
+        "begin": 1809,
+        "end": 1821
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "valor",
+      "span": {
+        "begin": 1898,
+        "end": 1900
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "tempo",
+      "span": {
+        "begin": 1940,
+        "end": 1971
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "individuo",
+      "span": {
+        "begin": 1974,
+        "end": 1979
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "individuo",
+      "span": {
+        "begin": 1990,
+        "end": 1999
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "individuo",
+      "span": {
+        "begin": 2013,
+        "end": 2019
+      }
+    },
+    {
+      "id": "T69",
+      "obj": "individuo",
+      "span": {
+        "begin": 2030,
+        "end": 2034
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T14",
+      "obj": "T12"
+    },
+    {
+      "id": "R7",
+      "pred": "sede_de",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R8",
+      "pred": "localizado_em",
+      "subj": "T19",
+      "obj": "T5"
+    },
+    {
+      "id": "R9",
+      "pred": "sede_de",
+      "subj": "T24",
+      "obj": "T23"
+    },
+    {
+      "id": "R10",
+      "pred": "sede_de",
+      "subj": "T26",
+      "obj": "T25"
+    },
+    {
+      "id": "R11",
+      "pred": "sede_de",
+      "subj": "T27",
+      "obj": "T26"
+    },
+    {
+      "id": "R12",
+      "pred": "data_de",
+      "subj": "T28",
+      "obj": "T22"
+    },
+    {
+      "id": "R13",
+      "pred": "sede_de",
+      "subj": "T32",
+      "obj": "T31"
+    },
+    {
+      "id": "R14",
+      "pred": "inclui",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R15",
+      "pred": "sede_de",
+      "subj": "T38",
+      "obj": "T37"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T5"
+    },
+    {
+      "id": "R17",
+      "pred": "inclui",
+      "subj": "T39",
+      "obj": "T38"
+    },
+    {
+      "id": "R18",
+      "pred": "natural_de",
+      "subj": "T42",
+      "obj": "T41"
+    },
+    {
+      "id": "R19",
+      "pred": "sede_de",
+      "subj": "T44",
+      "obj": "T43"
+    },
+    {
+      "id": "R20",
+      "pred": "sede_de",
+      "subj": "T46",
+      "obj": "T45"
+    },
+    {
+      "id": "R21",
+      "pred": "sede_de",
+      "subj": "T49",
+      "obj": "T48"
+    },
+    {
+      "id": "R22",
+      "pred": "sede_de",
+      "subj": "T56",
+      "obj": "T55"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T57",
+      "obj": "T1"
+    },
+    {
+      "id": "R24",
+      "pred": "produzido_por",
+      "subj": "T58",
+      "obj": "T57"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T58"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T62",
+      "obj": "T1"
+    },
+    {
+      "id": "R27",
+      "pred": "incluido",
+      "subj": "T66",
+      "obj": "T1"
+    },
+    {
+      "id": "R28",
+      "pred": "incluido",
+      "subj": "T67",
+      "obj": "T1"
+    },
+    {
+      "id": "R29",
+      "pred": "incluido",
+      "subj": "T68",
+      "obj": "T1"
+    },
+    {
+      "id": "R30",
+      "pred": "incluido",
+      "subj": "T69",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Stephen Hawking?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

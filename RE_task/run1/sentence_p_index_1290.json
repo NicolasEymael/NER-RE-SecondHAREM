@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamam os pais de Luke Skywalker?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,203 @@
+{
+  "text": "Quem era o presidente do júri do 47º Festival Cinematográfico de Cannes | 47º Festival Cinematográfico de Cannes? Que filme recebeu a Palma de Ouro no 47º Festival de Cannes | 47º Festival de Cannes? Quantos filmes competiam pela Palma de Ouro do 47º Festival de Cannes | 47º Festival de Cannes? Quem recebeu o prémio de melhor actriz no 47º Festival de Cannes | 47º Festival de Cannes?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 33,
+        "end": 71
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 74,
+        "end": 102
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 134,
+        "end": 147
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 151,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 176,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 192,
+        "end": 198
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 230,
+        "end": 243
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 247,
+        "end": 269
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 272,
+        "end": 284
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 288,
+        "end": 294
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 338,
+        "end": 360
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 363,
+        "end": 375
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 379,
+        "end": 385
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "localizado_em",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "localizado_em",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "localizado_em",
+      "subj": "T12",
+      "obj": "T3"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    }
+  ]
+}

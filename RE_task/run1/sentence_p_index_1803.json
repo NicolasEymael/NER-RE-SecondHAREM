@@ -1,0 +1,22 @@
+{
+  "text": "Em que ilha dos Açores fica a Lagoa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

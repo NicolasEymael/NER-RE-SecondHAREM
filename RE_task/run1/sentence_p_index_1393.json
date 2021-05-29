@@ -1,0 +1,22 @@
+{
+  "text": "Que programa de televisão apresentou Takeshi Kitano de 1986 a 1989?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 37,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

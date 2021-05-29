@@ -1,0 +1,38 @@
+{
+  "text": "Não, o Sirius veio muitíssimo mais tarde . Não, na Sampaio Pina não tinha o Sirius , não tinha cão nenhum.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 7,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 63
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 76,
+        "end": 82
+      }
+    }
+  ],
+  "relations": []
+}

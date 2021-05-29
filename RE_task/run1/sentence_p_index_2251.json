@@ -1,0 +1,22 @@
+{
+  "text": "Numa pista em bom estado, apesar da ameaça de chuva que pairou na região durante o domingo de Páscoa, foram muitos os espectadores que resolveram ver o espectáculo do Motocross.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 100
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 167,
+        "end": 176
+      }
+    }
+  ],
+  "relations": []
+}

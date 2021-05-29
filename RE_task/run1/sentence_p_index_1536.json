@@ -1,0 +1,30 @@
+{
+  "text": "A que companhia pertencia o Airbus atacado pelo GIA em Dezembro de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 28,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 71
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Em quanto é que foi multado John Fashanu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

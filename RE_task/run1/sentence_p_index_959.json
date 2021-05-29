@@ -1,0 +1,78 @@
+{
+  "text": "No início, enquanto o protagonista está no seu quarto se preparando para realizar sua incumbência, o autor expõe um tempo preciso e no presente: \"refleti que tudo aquilo que acontece com alguém, acontece agora, precisamente agora. Séculos de séculos e apenas no presente ocorrem fatos; inumeráveis homens no ar, na terra e no mar e tudo o que realmente sucede, sucede a mim...\" ( BORGES,1995 | BORGES,1995: 94 ). Em seguida, Calvino , ainda no seu Seis Propostas ..., relata que Borges mostra \"uma idéia de tempo determinado pela vontade, no qual o futuro se apresenta tão irrevogável quanto o passado\"( CALVINO, 1990 | CALVINO, 1990: N). Por último, a idéia de um tempo múltiplo, que é a idéia central do conto e, afinal, o que nos interessa aqui. Veremos abaixo como essa idéia de um tempo múltiplo se apresenta no conto.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 380,
+        "end": 391
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 394,
+        "end": 400
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 401,
+        "end": 405
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 425,
+        "end": 432
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 448,
+        "end": 462
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 479,
+        "end": 485
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 604,
+        "end": 617
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 620,
+        "end": 627
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 629,
+        "end": 633
+      }
+    }
+  ],
+  "relations": []
+}

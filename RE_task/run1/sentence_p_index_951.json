@@ -1,0 +1,45 @@
+{
+  "text": "Com o desenvolvimento da imprensa no começo do século XX , o romance - forma literária intrinsecamente ligada ao objeto livro - emerge em sintonia com toda a evolução das forças produtivas da sociedade, tornando-se um gênero de grande difusão no mundo. Tal difusão levou o filósofo alemão Walter Benjamim a se preocupar com a morte do narrador - aquele do discurso vivo - como podemos observar no texto O Narrador , escrito em 1936 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 289,
+        "end": 304
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 403,
+        "end": 413
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 424,
+        "end": 431
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

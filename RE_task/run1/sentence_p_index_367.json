@@ -1,0 +1,153 @@
+{
+  "text": "4. E, pé ante pé, o Sporting está a cinco pontos do FC Porto e poderá ficar a dois se, domingo na Luz , a equipa de Adriaanse falhar mais uma vez num jogo decisivo. Dou-me conta, já há um tempo , que muito pouco ou quase nada tenho escrito sobre o Sporting esta época. A razão é simples e vai parecer escandalosa aos olhos dos indefectíveis sportinguistas, mas acarreto as consequências de porventura vir a ter de engolir o que vou escrever: não vejo que o Sporting tenha futebol para ser campeão nacional, esta época. Estão em segundo lugar, já só a cinco pontos e ainda vão receber o FC Porto em Alvalade ? Pois, é facto. Mas, mesmo assim, não me convencem. Ainda esta semana o que vi, contra o Paços de Ferreira e em Alvalade , foi uma equipa que chegou ao golo num penalty duvidoso e caído dos céus, que dele viveu toda a segunda parte, sem criar uma só oportunidade de golo e que, já próximo do final, marcou o segundo golo numa jogada precedida de falta e ainda um terceiro depois da hora. Um 3-0 absolutamente enganador, num jogo que não mereceu sequer ganhar. Como disse, é possível que ainda tenha de engolir esta opinião. Mas, se isso acontecer, é porque o FC Porto entregou o ouro ao bandido.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 52,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 94
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 98,
+        "end": 101
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 116,
+        "end": 125
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 182,
+        "end": 193
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 248,
+        "end": 256
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 457,
+        "end": 465
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 586,
+        "end": 594
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 598,
+        "end": 606
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 666,
+        "end": 677
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 697,
+        "end": 714
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 720,
+        "end": 728
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 980,
+        "end": 994
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 999,
+        "end": 1002
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1167,
+        "end": 1175
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T10"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "O jardim de caminhos que se encontram (algumas palavras sobre o conto de Borges e o filme de Tom Tykwer )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 93,
+        "end": 103
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,127 @@
+{
+  "text": "Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta de 1640 , na qual um grupo de conspiradores da nobreza aclamou o duque de Bragança como Rei de Portugal | Rei de Portugal , com o título de D. João IV ( 1640-1656 ), dando início à quarta Dinastia -- Dinastia de Bragança .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 92,
+        "end": 99
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 174
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 180,
+        "end": 195
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 198,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 205,
+        "end": 213
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 232,
+        "end": 242
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 245,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 280,
+        "end": 288
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 292,
+        "end": 312
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R8",
+      "pred": "datado_de",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

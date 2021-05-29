@@ -1,0 +1,29 @@
+{
+  "text": " Tabaco: Associação lamenta exemplo de presidente da ASAE | presidente da ASAE. O presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo (CPPT) considerou hoje «um exemplo lamentável» o facto de o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo ter sido fotografado a fumar num casino depois da entrada em vigor da lei do Tabaco. António Nunes, presidente da Autoridade de Segurança Alimentar e Económica | presidente da Autoridade de Segurança Alimentar e Económica (ASAE), uma das entidades que irá fiscalizar a aplicação da lei que proibe o fumo em espaços fechados de utilização pública, foi fotografado pelo Diário de Notícias (DN) a fumar uma cigarrilha no Casino do Estoril | Casino do Estoril às 02.30 da manhã do dia 01 de Janeiro. Em explicações ao DN, António Nunes considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco. No entanto, um parecer da Direcção Geral de Saúde a que a Lusa teve acesso sexta-feira indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho». «Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à Lusa o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo, Luís Rebelo. Luís Rebelo desvalorizou contudo o impacto desta situação na aplicação da nova lei e atribuiu a atitude de António Nunes a «um automatismo» inconsciente. Sobre as dúvidas manifestadas pelo máximo responsável da ASAE relativamente ao âmbito de aplicação da nova lei, Luís Rebelo considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos. Sobre os primeiros dias da vigência da proibição de fumar em espaços de uso colectivo fechados, Luís Rebelo considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição». A lei do Tabaco, que proíbe o fumo nos serviços da administração pública, restaurantes, bares, discotecas ou centros comerciais, entrou em vigor às 00:00 do dia 01 de Janeiro. A Lusa tentou contactar o porta-voz da ASAE | porta-voz da ASAE para obter esclarecimentos adicionais mas tal foi impossível até ao momento.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 641,
+        "end": 645
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 594,
+        "end": 639
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

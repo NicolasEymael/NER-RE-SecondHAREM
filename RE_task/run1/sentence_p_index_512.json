@@ -1,0 +1,30 @@
+{
+  "text": "« Call girl » estreia hoje em 40 salas de cinema",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 30,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

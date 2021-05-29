@@ -1,0 +1,143 @@
+{
+  "text": "É baptizado em 21 de Julho na Igreja dos Mártires , no Chiado . Os padrinhos são a sua Tia Anica ( D. Ana Luísa Pinheiro Nogueira , sua tia materna) e o General Chaby . A razão por detrás do nome Fernando António encontra-se relacionada com Santo António : a sua família reclamava uma ligação genealógica com Fernando de Bulhões , nome de baptismo de Santo António , cujo dia tradicionalmente consagrado em Lisboa é 13 de Junho , dia em que Fernando Pessoa nasceu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 49
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 61
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 87,
+        "end": 96
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 99,
+        "end": 129
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 153,
+        "end": 166
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 196,
+        "end": 212
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 241,
+        "end": 254
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 309,
+        "end": 328
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 351,
+        "end": 364
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 407,
+        "end": 413
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 416,
+        "end": 427
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 430,
+        "end": 433
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 441,
+        "end": 456
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T8"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

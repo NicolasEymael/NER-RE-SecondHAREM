@@ -1,0 +1,30 @@
+{
+  "text": "Ricardo Pereira esteve mais uma vez muito regular e rápido terminando no 6º lugar com a Suzuki RMZ 250.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 73,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 88,
+        "end": 102
+      }
+    }
+  ],
+  "relations": []
+}

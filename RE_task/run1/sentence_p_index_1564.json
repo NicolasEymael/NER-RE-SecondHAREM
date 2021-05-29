@@ -1,0 +1,14 @@
+{
+  "text": "A que partido político pertence Thérèse Aillaud? Ela é deputada por que região?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que é a Organização Internacional da Normalização?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,219 @@
+{
+  "text": "Granada não enfrentou os Reis Católicos por razões de fé ou de religião. Pelo contrário, na corte de Boabdil conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia. Mas Granada foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do Alhambra . Quando Granada caiu e a reconquista cristã se impôs então a toda a Península , os dois reinos católicos, Portugal e Espanha , partiram à conquista do mundo e tornaram-se Impérios | Impérios marítimos; do Novo Mundo e África ao extremo da Ásia . Inversamente, quando os vencidos de Granada se retiraram para lá do Estreito , de onde tinham vindo séculos antes , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança. Por isso é que o ano de 1492 (também o da descoberta da América , por Colombo ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 39
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 101,
+        "end": 108
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 331,
+        "end": 338
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 444,
+        "end": 452
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 462,
+        "end": 469
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 522,
+        "end": 531
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 560,
+        "end": 568
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 571,
+        "end": 578
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 625,
+        "end": 633
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 659,
+        "end": 669
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 672,
+        "end": 678
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 693,
+        "end": 697
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 736,
+        "end": 743
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 768,
+        "end": 776
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 800,
+        "end": 813
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 935,
+        "end": 948
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 976,
+        "end": 983
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 990,
+        "end": 997
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T8"
+    },
+    {
+      "id": "R7",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R8",
+      "pred": "localizado_em",
+      "subj": "T14",
+      "obj": "T4"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T4"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T11"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Que filme ganhou o Óscar em 1992 na categoria de Melhor Filme?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 49,
+        "end": 61
+      }
+    }
+  ],
+  "relations": []
+}

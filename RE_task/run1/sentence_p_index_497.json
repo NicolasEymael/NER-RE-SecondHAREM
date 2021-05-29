@@ -1,0 +1,61 @@
+{
+  "text": "O provável primeiro bebé português do ano é do sexo masculino e nasceu aos 30 segundos de hoje na Maternidade Alfredo da Costa , em Lisboa , disse à agência Lusa uma fonte daquele hospital.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 71,
+        "end": 86
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 94
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 98,
+        "end": 126
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 132,
+        "end": 138
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 157,
+        "end": 161
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

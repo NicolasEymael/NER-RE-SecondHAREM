@@ -1,0 +1,99 @@
+{
+  "text": "Para o publico presente a luta travada entre Hugo Basaula e Ricardo Pereira foi empolgante, pois os pilotos trocavam de posições em todo o percurso da pista. No final seria Ricardo Pereira a levar a melhor sobre o colega de equipa, alcançando o 11º lugar e Hugo Basaula o 17º lugar. Esta prova também contava para o Troféu Suzuki Cepsa Cetelem Motojornal, e o lugar mais alto do Podium | Podium voltou a ser ocupado por Ricardo Pereira, que assim permanece invicto deste o início desta iniciativa em 2004.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 45,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 173,
+        "end": 188
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 245,
+        "end": 248
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 269
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 272,
+        "end": 275
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 316,
+        "end": 354
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 379,
+        "end": 385
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 420,
+        "end": 435
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 497,
+        "end": 504
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T5",
+      "obj": "T7"
+    },
+    {
+      "id": "R2",
+      "pred": "participante_em",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

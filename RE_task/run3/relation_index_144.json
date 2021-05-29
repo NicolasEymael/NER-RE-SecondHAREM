@@ -1,0 +1,29 @@
+{
+  "text": " Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano Pacífico , deixando aliviados os mais de 30 países _inclusive o Brasil _ que estavam sob risco de serem atingidos pelos destroços. Segundo informou a ASI (agência espacial italiana) no fim da noite de ontem por telefone, o impacto dos destroços teria ocorrido às 18h06 (horário de Brasília ), numa área remota do oceano. Os italianos não devem conduzir operação para resgatar os detritos. Estimativas da agência davam conta de que mais de 40 pedaços, com até 120 kg , poderiam resistir ao atrito com o ar e chegar ao solo. A chance de que um dos pedaços atingisse uma pessoa era mínima, mas autoridades de diversos países, inclusive a Agência Espacial Brasileira , estavam prontas para qualquer contingência. O satélite, com massa total de aproximadamente 1,4 tonelada , foi construído pelos italianos, em colaboração com a Holanda , para o estudo dos raios X vindos do espaço cósmico. O equipamento foi lançado ao espaço em 1996 , numa órbita baixa ( cerca de 600 km de altitude) com uma pequena inclinação, ou seja, quase exatamente sobre a linha do Equador . A missão científica da nave foi concluída em 30 de abril de 2002 . Depois disso, o satélite deixou de ter sua órbita corrigida. O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada, ontem . Como a volta à Terra não foi realizada de forma controlada (como aconteceu com as 135 toneladas da estação espacial Mir , em 2001 ), era impossível prever exatamente onde os destroços iriam cair.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 720,
+        "end": 747
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 149,
+        "end": 155
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

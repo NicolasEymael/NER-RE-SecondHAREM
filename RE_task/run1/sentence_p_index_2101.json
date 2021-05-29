@@ -1,0 +1,38 @@
+{
+  "text": "Indústria e Comércio: Informática | Indústria e Comércio: Informática:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 0,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 36,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 48,
+        "end": 56
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 58,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

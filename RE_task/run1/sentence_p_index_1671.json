@@ -1,0 +1,81 @@
+{
+  "text": "Qual a profissão de John Barbirolli? Quem foi o solista de violoncelo no \"Concerto para Violoncelo\" de Elgar que ele gravou em 1965? Diga uma orquestra de Manchester que Barbirolli tenha dirigido. Diga uma orquestra americana dirigida por Barbirolli.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 74,
+        "end": 98
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 103,
+        "end": 108
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 124,
+        "end": 131
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 155,
+        "end": 165
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 170,
+        "end": 180
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 239,
+        "end": 249
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    }
+  ]
+}

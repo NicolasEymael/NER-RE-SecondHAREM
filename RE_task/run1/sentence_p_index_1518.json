@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica o Carlton Center?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 12,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

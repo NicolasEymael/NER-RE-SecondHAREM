@@ -1,0 +1,62 @@
+{
+  "text": "De uma população de 275 mil habitantes em Lisboa, crê-se que 90 mil morreram[2]. Outros 10 mil foram vitimados em Marrocos. Cerca de 85% das construções de Lisboa foram destruídas, incluindo palácios famosos e bibliotecas, conventos e igrejas, hospitais e todas as estruturas. Várias construções que sofreram poucos danos pelo terramoto foram destruídas pelo fogo que se seguiu ao abalo sísmico.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 61,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 88,
+        "end": 94
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 122
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 124,
+        "end": 136
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 156,
+        "end": 162
+      }
+    }
+  ],
+  "relations": []
+}

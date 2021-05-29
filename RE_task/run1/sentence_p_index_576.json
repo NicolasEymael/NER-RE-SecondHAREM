@@ -1,0 +1,62 @@
+{
+  "text": "Por outro lado, números do Fundo Monetário Internacional divulgados na passada sexta-feira indicam que a divisa europeia já pesa 26,4% do total das reservas externas em todo mundo no terceiro trimestre, mais do que no trimestre anterior e a comparar com 24,4% um ano antes .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 90
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 129,
+        "end": 134
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 180,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 215,
+        "end": 236
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 254,
+        "end": 259
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 260,
+        "end": 272
+      }
+    }
+  ],
+  "relations": []
+}

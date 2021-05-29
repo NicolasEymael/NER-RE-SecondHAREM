@@ -1,0 +1,62 @@
+{
+  "text": "E o piloto a dar mais espectáculo foi Luís Correia que deu um recital de condução aos seus mais directos adversários, averbando uma vitória que não deixa margens para dúvidas. Para o piloto do Team Suzuki Cepsa, o dia até começou muito bem com a conquista do 1º lugar na grelha de partida. Na partida não conseguiu chegar à primeira curva na liderança mas após algumas voltas, cedo instalou-se no comando do numeroso pelotão, distanciando-se a partir desse momento dos seus perseguidores. Com esta vitória cimentou a liderança na classificação actual do Campeonato Nacional de Motocross, classe 125.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 193,
+        "end": 210
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 212,
+        "end": 217
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 259,
+        "end": 261
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 442,
+        "end": 464
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 554,
+        "end": 586
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 595,
+        "end": 598
+      }
+    }
+  ],
+  "relations": []
+}

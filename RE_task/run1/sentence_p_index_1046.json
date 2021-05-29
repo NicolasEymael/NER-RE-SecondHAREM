@@ -1,0 +1,69 @@
+{
+  "text": "A inspiração veio das ruas: há três semanas , um outdoor do McDonald's na Avenida Jorge Amado havia recebido uma interferência gráfica. Estava lá em cima da mensagem publicitária da promoção McNight (sanduíches mais baratos durante a madrugada) um texto em tinta neon: \"Lixo dos EUA. Não financie a guerra. Boicote os produtos americanos. É o que está todo mundo fazendo, não é? Então eles decidiram ir além: um ataque cromático em emblemas do \" Império . Bombas de tinta seriam o arsenal bélico usado no atentado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 70
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 191,
+        "end": 198
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 224,
+        "end": 243
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 279,
+        "end": 282
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 446,
+        "end": 453
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

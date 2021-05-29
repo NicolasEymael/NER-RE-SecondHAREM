@@ -1,0 +1,22 @@
+{
+  "text": "\"Estamos muito perto dos desenhos finais dos percursos. Não podemos tornar público, mas temos trabalhado intensamente nesse sentido. Não há muito para mud ar. Os padrões estão de tal maneira elevados que é difícil fazer melhor\", afirmou João Lagos, empresário responsável pela parte portuguesa do Lisboa-Dakar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 237,
+        "end": 247
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 297,
+        "end": 309
+      }
+    }
+  ],
+  "relations": []
+}

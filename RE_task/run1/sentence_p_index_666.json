@@ -1,0 +1,22 @@
+{
+  "text": "Terá ainda que se esperar para ver outros resultados do Plano Tecnológico , mas este perdeu dinâmica no último ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 56,
+        "end": 73
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 114
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,62 @@
+{
+  "text": "R: Não. O IBAP não tem vinculação partidária alguma. Não há, porém, que se confundir apartidarismo político com neutralidade política. Para a implementação dos princípios fundamentais e objetivos estatutários, o IBAP sempre haverá de manifestar-se publicamente em prol de um modelo de sociedade no qual prevaleça a valorização do ser humano e o repúdio a todas as formas de opressão ou aviltamento da dignidade humana; na defesa da manutenção da ordem constitucional dentro de um Estado Democrático de Direito cuja ordem social tenha como base o primado do trabalho e como objetivo o bem estar e a justiça sociais; na defesa intransigente dos princípios da moralidade, da impessoalidade, da publicidade, da indisponibilidade do interesse público e da legalidade no âmbito da Administração Pública. O IBAP atua concretamente, através de propostas ou denúncias, na defesa da consolidação democrática do Brasil e na defesa das prerrogativas do Advogado Público.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 212,
+        "end": 216
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 480,
+        "end": 509
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 775,
+        "end": 796
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 800,
+        "end": 804
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 901,
+        "end": 907
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 941,
+        "end": 957
+      }
+    }
+  ],
+  "relations": []
+}

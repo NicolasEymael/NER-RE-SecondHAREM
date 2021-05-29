@@ -1,0 +1,73 @@
+{
+  "text": "« Call Girl » é uma co-produção luso-brasileira da MGN Filmes e da Lagoa Cultural , e conta ainda com a participação financeira dos institutos do cinema de Portugal e do Brasil e da estação de televisão TVI .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 51,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 67,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 156,
+        "end": 164
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 170,
+        "end": 176
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 203,
+        "end": 206
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

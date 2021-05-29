@@ -1,0 +1,91 @@
+{
+  "text": "Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do Brasil , como também de Angola e de São Tomé e Príncipe ( 1641-1654 ), restabelecendo o poder atlântico português. No entanto, as perdas no Oriente tornaram-se irreversíveis e Ceuta ficaria na posse dos Habsburgo . Devido a estarem indisponíveis as mercadorias indianas, Portugal passou a só obter lucro com a cana-de-açúcar do Brasil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 81
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 99,
+        "end": 105
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 111,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 133,
+        "end": 142
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 215,
+        "end": 222
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 251,
+        "end": 256
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 287
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 346,
+        "end": 354
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 403,
+        "end": 409
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    }
+  ]
+}

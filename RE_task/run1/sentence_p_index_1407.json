@@ -1,0 +1,37 @@
+{
+  "text": "Como se chama a mulher de Bill Gates? Em que universidade é que ele estudava quando criou a Microsoft? Qual o orçamento dessa universidade para 2005? Em que ano foi fundada?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 92,
+        "end": 101
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 139,
+        "end": 148
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

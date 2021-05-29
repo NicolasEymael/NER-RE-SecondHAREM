@@ -1,0 +1,37 @@
+{
+  "text": "Como se chamava a barcaça que afundou em Porto Rico a 7 de Janeiro de 1994? Em que é que a barcaça bateu? Que quantidade de óleo para aquecimento foi derramada na água? Quantas milhas de praia tem Porto Rico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 197,
+        "end": 207
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

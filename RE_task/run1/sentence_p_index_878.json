@@ -1,0 +1,61 @@
+{
+  "text": "Em Março , como é habitual com estudos não-classificados da NAS , eles foram depositados no Public Access Records Office da academia, e os seus títulos foram divulgados (ver abaixo). \"Estes documentos são supostos serem públicos\", afirma Ed Hammond do Sunshine Project , um grupo que faz campanha contra armas biológicas. Quando ele pediu ao serviço de registros para ver 77 dos documentos, este concordou em cedê-los.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 92,
+        "end": 120
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 238,
+        "end": 248
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 252,
+        "end": 268
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 372,
+        "end": 374
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

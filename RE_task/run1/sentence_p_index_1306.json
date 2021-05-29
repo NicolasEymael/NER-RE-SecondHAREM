@@ -1,0 +1,14 @@
+{
+  "text": "Quem produz o Windows 95?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 14,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

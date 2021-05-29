@@ -1,0 +1,29 @@
+{
+  "text": "Qual a estrutura cujo afundamento causou controvérsia na cimeira dos G7 em Halifax?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 69,
+        "end": 71
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 82
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

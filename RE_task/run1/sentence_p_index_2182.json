@@ -1,0 +1,14 @@
+{
+  "text": "1.1. Já estou aposentado/a. Posso associar-me ao IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

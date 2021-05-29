@@ -1,0 +1,73 @@
+{
+  "text": "9. O PCP teve um bom ano, o problema do PCP é que ninguém dá por ela disso. O PCP é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na UGT do que na CGTP . Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas. O problema do PCP é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 5,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 78,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 201,
+        "end": 204
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 215,
+        "end": 219
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 379,
+        "end": 382
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    }
+  ]
+}

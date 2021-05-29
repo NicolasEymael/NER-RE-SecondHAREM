@@ -1,0 +1,14 @@
+{
+  "text": "O evento contou com o lançamento do Zine Expotec 2003 - Meio Ambiente, ilustrações e mascotes criados pelos alunos. Além da exposição, cada aluno criou sua mascote que virou camiseta.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 36,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

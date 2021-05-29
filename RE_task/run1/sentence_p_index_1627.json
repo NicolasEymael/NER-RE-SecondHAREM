@@ -1,0 +1,73 @@
+{
+  "text": "Quantos habitantes tem a Alemanha? Quantos quilómetros de ferrovia tinha a Alemanha em 1998? Em Novembro de 2005, qual a taxa de desemprego na Alemanha? Qual era a moeda da Alemanha antes do euro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 83
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 84,
+        "end": 91
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 93,
+        "end": 112
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 143,
+        "end": 151
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 173,
+        "end": 181
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    }
+  ]
+}

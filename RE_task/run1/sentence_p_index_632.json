@@ -1,0 +1,105 @@
+{
+  "text": "Inicialmente foi usada para tratar depressão severa. Egas Moniz sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio. No entanto apesar de cerca de 6% dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o Japão e os Estados Unidos. Neste último país foi popularizada pelo cirurgião Walter Freeman, que divulgou a técnica por todo o seu país, percorrendo o no seu Lobotomobile, e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas. Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos. A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento. Cerca de 50.000 doentes foram tratados só nos Estados Unidos. Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos. Durante muito tempo foi considerada algo injustamente como um episódio barbárico na história da Psiquiatria, sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 53,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 182,
+        "end": 193
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 383,
+        "end": 388
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 394,
+        "end": 408
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 460,
+        "end": 474
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 541,
+        "end": 553
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 1038,
+        "end": 1053
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 1084,
+        "end": 1098
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 1209,
+        "end": 1228
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1305,
+        "end": 1316
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "propriedade_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T4"
+    }
+  ]
+}

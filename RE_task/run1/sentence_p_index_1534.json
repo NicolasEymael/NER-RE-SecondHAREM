@@ -1,0 +1,37 @@
+{
+  "text": "O que é a EFTA? Quando é que foi criada? Que cinco países da EFTA se juntaram ao EEE\"EEE quando este entrou em vigor?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 61,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 81,
+        "end": 88
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

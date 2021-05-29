@@ -1,0 +1,30 @@
+{
+  "text": "Quem é que derrotou Michael Moorer no 10º round em Las Vegas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 38,
+        "end": 41
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

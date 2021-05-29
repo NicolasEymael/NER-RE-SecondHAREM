@@ -1,0 +1,145 @@
+{
+  "text": "A segunda objeção é que à turma de Houaiss na FNF pertenciam Celso Cunha e Olavo Nascentes, que não tinham podido sofrer a influência de Ernesto Faria na Escola Amaro Cavalcanti. Como Houaiss, Celso Cunha também não se dedicou especificamente à pesquisa e à produção na área clássica, a competir com sua importante elaboração de obras no domínio da Língua Portuguesa. Olavo Nascentes, filho de nosso mestre e saudoso amigo Antenor Nascentes, excetuando a tradução da Gramática Latina do notável lingüista e filólogo chileno Rodolfo Oroz, também nada produziu relativo ao grego e ao latim. À semelhança de Houaiss e Celso, sua participação nessa área limitou-se ao magistério do latim.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 35,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 49
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 61,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 75,
+        "end": 90
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 137,
+        "end": 150
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 154,
+        "end": 177
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 184,
+        "end": 191
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 193,
+        "end": 204
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 349,
+        "end": 366
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 368,
+        "end": 383
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 423,
+        "end": 440
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 467,
+        "end": 483
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 524,
+        "end": 536
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 605,
+        "end": 612
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 615,
+        "end": 620
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_familiar",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "autor_de",
+      "subj": "T13",
+      "obj": "T12"
+    }
+  ]
+}

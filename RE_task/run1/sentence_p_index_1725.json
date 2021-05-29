@@ -1,0 +1,14 @@
+{
+  "text": "De quem trata o filme \"2 filhos de Francisco\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 23,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

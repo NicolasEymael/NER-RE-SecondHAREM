@@ -1,0 +1,29 @@
+{
+  "text": " Novidades na Macworld 2007. Apple lançou o iPhone , o telemóvel mais esperado dos últimos tempos. Sempre é o iPhone , dirão os que acompanharam as especulações e palpites dos últimos meses . A Apple , empresa de tecnologias que tem nos leitores multimédia iPod e nos computadores Macintosh a sua bandeira, acaba de entrar na área das telecomunicações. O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil. Funciona com o sistema operativo MacOS X , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos. O anúncio foi feito ontem , em São Francisco , nos EUA , onde decorre a Macworld , feira que a Apple organiza todos os anos para apresentar as suas novidades. Como de costume, a conferência de Steve Jobs , o director-geral da empresa, foi o ponto alto para os fãs da Apple . \" De vez em quando chega um produto revolucionário que muda tudo. É sorte se pudermos trabalhar num ao longo da carreira... e a Apple é sortuda por já ter lançado vários\", disse Steve Jobs . O novo telefone vai estar disponível em Junho , nos EUA , em duas versões: uma com 8 gigabytes (GB) de capacidade de armazenamento, que custará 600 dólares , e outra com 4 GB , a cerca de 500 dólares . À Europa chegará no final do ano , e na Ásia só em 2008 . Tem uma câmara fotográfica com 2 megapixels de resolução e um ecrã táctil com 8,8 centímetros de diagonal. Nos EUA , o telemóvel da Apple funcionará na rede Cingular Wireless . O seu desenvolvimento levou ao registo de mais de 200 patentes, o que o torna numa das maiores inovações da empresa. O facto de ter o sistema operativo OS X - usado nos computadores da Apple - significa que o iPhone terá muitas das funções habituais naquelas máquinas. Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do Google .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 110,
+        "end": 116
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 44,
+        "end": 50
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

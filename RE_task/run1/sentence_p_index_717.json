@@ -1,0 +1,14 @@
+{
+  "text": "A fama do Prius",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 10,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Que estúdio produziu o filme \"Toy Story\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 30,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

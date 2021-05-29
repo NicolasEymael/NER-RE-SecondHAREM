@@ -1,0 +1,91 @@
+{
+  "text": "Quando é que terá lugar a estreia de «O Fantasma da Ópera» de Andrew Lloyd Webber em Basileia? Que musical dele foi interpretado pelo coro ecuménico juvenil de Friedrichsdorf de 1994? Quanto dinheiro pagou ele por uma pintura de Picasso num leilão? Que musical de Andrew Llyod Webber foi interpretado em Essen em 1996?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 38,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 81
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 160,
+        "end": 174
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 175,
+        "end": 182
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 229,
+        "end": 236
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 264,
+        "end": 283
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 304,
+        "end": 309
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 310,
+        "end": 317
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    }
+  ]
+}

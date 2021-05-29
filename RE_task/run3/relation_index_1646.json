@@ -1,0 +1,29 @@
+{
+  "text": " Nuno Álvares Pereira. Nuno Álvares Pereira nasceu na vila de Cernache do Bonjardim , concelho da Sertã . Era filho de Álvaro Gonçalves Pereira e de Iria Gonçalves do Carvalhal . Casou com Leonor de Alvim , em 1377 em Vila Nova da Rainha , freguesia do concelho de Azambuja . Quando o rei Fernando de Portugal | rei Fernando de Portugal morreu em 1383 , sem herdeiros a não ser a princesa Beatriz casada com o rei João I de Castela | rei João I de Castela , Nuno foi um dos primeiros nobres a apoiar as pretensões de João , o Mestre de Avis à coroa. Apesar de ser filho ilegítimo de Pedro I de Portugal | Pedro I de Portugal , João afigurava-se como uma hipótese preferível à perda de independência para os castelhanos. Depois da primeira vitória de Álvares Pereira frente aos castelhanos na batalha dos Atoleiros em Abril de 1384 , João de Avis nomeia-o Condestável de Portugal | Condestável de Portugal e Conde de Ourém . O génio militar de Nuno Álvares Pereira foi decisivo na Batalha de Aljubarrota . O génio militar de Nuno Álvares Pereira foi decisivo na Batalha de Aljubarrota . A 6 de Abril de 1385 , João é reconhecido pelas cortes reunidas em Coimbra como Rei de Portugal | Rei de Portugal . Esta posição de força portuguesa desencadeia uma resposta à altura em Castela . João de Castela | João de Castela invade Portugal com vista a proteger os interesses de sua mulher Beatriz . Álvares Pereira toma o controlo da situação no terreno e inicia uma série de cercos a cidades leais a Castela , localizadas principalmente no Norte do país. A 14 de Agosto , Álvares Pereira mostra o seu génio militar ao vencer a batalha de Aljubarrota à frente de um pequeno exército de 6,000 portugueses e aliados ingleses, contra as 30,000 tropas castelhanas. A batalha viria a ser decisiva no fim da instabilidade política de 1383-1385 e na consolidação da independência portuguesa. Finda a ameaça castelhana, Nuno Álvares Pereira permaneceu como condestável do reino e tornou-se Conde de Arraiolos e Barcelos . Entre 1385 e 1390 , ano da morte de João de Castela | João de Castela , dedicou-se a realizar raides contra a fronteira de Castela , com o objectivo de manter a pressão e dissuadir o país vizinho de novos ataques. Do seu casamento com Leonor de Alvim , o Condestável teve apenas uma filha, Beatriz Pereira de Alvim , que se tornou mulher de Afonso , o primeiro Duque de Bragança , sendo assim um dos antepassados da actual casa real portuguesa. Lembrado como um dos melhores generais portugueses, abraça, nos últimos anos , a vida religiosa carmelita.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2042,
+        "end": 2057
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 410,
+        "end": 431
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

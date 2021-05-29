@@ -1,0 +1,38 @@
+{
+  "text": "Comunicado de imprensa da COMISSÃO - \"Comércio de Emissões: a Comissão deu o seu aval a mais oito planos, abrindo caminho para o início do Comércio de Emissões na data prevista\" (IP/04/1250)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 26,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 38,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 62,
+        "end": 70
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 139,
+        "end": 159
+      }
+    }
+  ],
+  "relations": []
+}

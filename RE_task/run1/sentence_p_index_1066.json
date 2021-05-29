@@ -1,0 +1,85 @@
+{
+  "text": "Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o Guaraná Power, sem rótulo, em vernissages na Galeria Vermelho e Instituto Tomie Ohtake, além de pontos espalhados pela capital paulista. O coletivo Superflex já recebeu elogios do Ministro da Cultura Gilberto Gil em junho deste ano, ao apresentar no Brasil o projeto Free Beer (\"cerveja livre\"), cerveja cuja fórmula é licenciada em Creative Commons e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 138,
+        "end": 151
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 183,
+        "end": 199
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 202,
+        "end": 224
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 286,
+        "end": 295
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 318,
+        "end": 350
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 351,
+        "end": 369
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 388,
+        "end": 394
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 405,
+        "end": 414
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 471,
+        "end": 487
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

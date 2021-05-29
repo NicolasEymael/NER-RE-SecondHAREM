@@ -1,0 +1,29 @@
+{
+  "text": "Para quantos Óscares foi nomeado \"A Lista de Schindler\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 13,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 34,
+        "end": 54
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

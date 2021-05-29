@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica Lillehammer?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

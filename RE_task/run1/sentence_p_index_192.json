@@ -1,0 +1,83 @@
+{
+  "text": "Essa obra foi fundamental para resgatar a arquitetura original de 1922 , devolvendo ao público um belíssimo pátio interno interligado aos Pátios da Minerva e dos Canhões e um espaço nobre para exposições, além de permitir que parte da Reserva Técnica seja vista, sem prejudicar a segurança do acervo. Com uma área de 2.000 metros , o novo pátio recebeu o nome de Gustavo Barroso , numa homenagem ao fundador e primeiro diretor do Museu Histórico Nacional | diretor do Museu Histórico Nacional .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 63,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 138,
+        "end": 155
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 162,
+        "end": 169
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 235,
+        "end": 250
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 317,
+        "end": 329
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 363,
+        "end": 378
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 430,
+        "end": 454
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 457,
+        "end": 492
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T6"
+    }
+  ]
+}

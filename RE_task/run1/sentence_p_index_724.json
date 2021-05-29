@@ -1,0 +1,22 @@
+{
+  "text": "A Toyota afirma que, apesar destas prestações conseguiram reduzir em 89% as emissões libertadas, comparando a um veículo novo a gasolina.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 69,
+        "end": 72
+      }
+    }
+  ],
+  "relations": []
+}

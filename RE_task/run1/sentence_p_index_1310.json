@@ -1,0 +1,14 @@
+{
+  "text": "Que rádio emite o programa de Howard Stern?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

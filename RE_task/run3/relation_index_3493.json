@@ -1,0 +1,29 @@
+{
+  "text": " Superflex lança cerveja \"pública\". 29 de Novembro de 2007. Matéria publicada originalmente na Folha online. FABIO CYPRIANO. REPORTAGEM LOCAL. Uma nova marca de cerveja é lançada, hoje, na galeria Vermelho: a Free Beer. Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da Free Beer está estampada sua receita. A Free Beer é a nova ação do coletivo dinamarquês Superflex, composto por Bjornstjerne Reuter Christiansen, Jakob Fenger e Rasmus Nielsen. No ano passado, o grupo trouxe polêmica à 27ª Bienal de São Paulo | 27ª Bienal de São Paulo com o Guaraná Power, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte. Apesar do veto, o Guaraná Power, feito em colaboração com a Cooperativa de Agricultores da Região de Maués | Cooperativa de Agricultores da Região de Maués, na Amazônia, chegou a ser distribuído em museus e na própria Vermelho, durante a Bienal. \"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado\", conta Fenger. A Free Beer surgiu em 2004, numa parceria com estudantes da Universidade de Copenhague | Universidade de Copenhague. \"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo\", conta Nielsen. \"Por isso, a Free Beer tem sido comparada ao Linux [sistema operacional gratuito] e à Wikipedia\", diz o artista. Quem quiser produzir e comercializar a Free Beer pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita. \"Já há Free Beer sendo produzida na Inglaterra, nos Estados Unidos, na Dinamarca e até na República Tcheca\", afirma Fenger. No Brasil, a Free Beer está sendo produzida pela Cervejaria Germânia, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa. \"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do Creative Commons\", diz Christiansen. Na Vermelho, o Superflex apresenta o \"Free Beer Kit\", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop \"O Mundo da Cerveja\", com os especialistas Cilene Saorin e Arnaldo Ribeiro, no próximo dia 15 de dezembro, às 14 h. O grupo exibe também nove máquinas \"Counter-Game Strategies\" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria. \"Mark Getty afirma que \"a propriedade intelectual é o petróleo do século 21'\", conta Christiansen, \"portanto, estamos tratando de um tema muito sério. Afinal, quantas guerras não foram realizadas por conta do petróleo?\". No próximo sábado, às 16h, Ronaldo Lemos, diretor do Creative Commons | diretor do Creative Commons no Brasil, irá participar de um debate com os membros do Superflex, na Vermelho, e logo após será realizada uma gincana intitulada \"Free Beer Pub Quiz\", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 352,
+        "end": 361
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 209,
+        "end": 218
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

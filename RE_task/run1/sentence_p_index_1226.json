@@ -1,0 +1,30 @@
+{
+  "text": "Também Oiticica empreendeu a elaboração de um Novo Dicionário Popular da Língua Portuguesa Prosódico e Ortográfico que, apesar dos seus 16 fascículos, ficou incompleto, por falta de recursos para prossegui-lo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 46,
+        "end": 114
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 136,
+        "end": 138
+      }
+    }
+  ],
+  "relations": []
+}

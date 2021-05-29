@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que Danny Barker morreu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

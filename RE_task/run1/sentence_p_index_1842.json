@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que desagua o Ural? Qual é o seu comprimento?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

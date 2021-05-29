@@ -1,0 +1,51 @@
+{
+  "text": "Quantos pontos marcou a Jugoslávia na final do Mundial de Basquetebol de 1990 | Mundial de Basquetebol de 1990?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 47,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 80,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 103,
+        "end": 110
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

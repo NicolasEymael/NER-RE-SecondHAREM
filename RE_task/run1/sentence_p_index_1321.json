@@ -1,0 +1,14 @@
+{
+  "text": "De que material é feito um Moai?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 27,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

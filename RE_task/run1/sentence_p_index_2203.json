@@ -1,0 +1,22 @@
+{
+  "text": "4.2. Os diretores do IBAP | diretores do IBAP têm afastamento da carreira para o exercício de seu mandato?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 41,
+        "end": 45
+      }
+    }
+  ],
+  "relations": []
+}

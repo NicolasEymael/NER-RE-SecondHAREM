@@ -1,0 +1,161 @@
+{
+  "text": "Decidimos fazer uma rábula sobre esta espécie dissimulada de censura. Ontem , uma jornalista do DN perguntou-me se tínhamos sido pressionados pela RTP e pelo Provedor do Espectador . Respondi que não, e não menti. Da RTP e do Provedor do Espectador , não veio qualquer espécie de pressão. Quem sobra? No entender do PPM , sobra ele e um post que escreveu no 31 da Armada . Fizemos uma rábula para um milhão e meio de espectadores por causa de um post do PPM no 31 da Armada . Mandei uma mensagem ao Herman a dar-lhe razão por causa de um post do PPM no 31 da Armada . E dei-lhe razão porque, como é óbvio, foi para isso que ele me advertiu. «Põe-te com brincadeiras e vais ver que, um dia destes , o PPM faz um post sobre ti no 31 da Armada », foram as palavras exactas dele. «Tinha razão, Herman », disse-lhe eu agora.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 70,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 96,
+        "end": 98
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 147,
+        "end": 150
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 158,
+        "end": 180
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 217,
+        "end": 220
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 226,
+        "end": 248
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 316,
+        "end": 319
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 358,
+        "end": 370
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 454,
+        "end": 457
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 461,
+        "end": 473
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 499,
+        "end": 505
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 546,
+        "end": 549
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 553,
+        "end": 565
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 682,
+        "end": 695
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 700,
+        "end": 703
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 728,
+        "end": 740
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 790,
+        "end": 796
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

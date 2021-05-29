@@ -1,0 +1,30 @@
+{
+  "text": "\"Existe muita instabilidade neste momento em alguns países africanos. São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova\", justificou Etienne Lavigne, revelando que o Plano de Segurança Rodoviária que tinha sido criado para a última edição foi reformulado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 28,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 228,
+        "end": 243
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 261,
+        "end": 290
+      }
+    }
+  ],
+  "relations": []
+}

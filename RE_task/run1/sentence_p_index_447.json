@@ -1,0 +1,30 @@
+{
+  "text": "A entidade liderada por Abel Mateus tinha já comunicado, a 10 de Dezembro , à Sonae Distribuição , a «decisão provável de não oposição», que se tornou agora efectiva.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 78,
+        "end": 96
+      }
+    }
+  ],
+  "relations": []
+}

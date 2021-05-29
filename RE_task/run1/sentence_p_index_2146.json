@@ -1,0 +1,30 @@
+{
+  "text": "Ass. de Acólitos da Paróquia de Santo Eugénio | Ass. de Acólitos da Paróquia de Santo Eugénio",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 68,
+        "end": 93
+      }
+    }
+  ],
+  "relations": []
+}

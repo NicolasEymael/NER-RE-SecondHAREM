@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica Balcarce?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

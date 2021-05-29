@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a altura do Monte Claro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

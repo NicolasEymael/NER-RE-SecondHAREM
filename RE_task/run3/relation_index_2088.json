@@ -1,0 +1,29 @@
+{
+  "text": " Distribuição de jornais gratuitos quase duplicou este ano. O número de jornais gratuitos nacionais distribuídos nos nove primeiros meses deste ano quase duplicou em relação ao mesmo período de 2006, ultrapassando os 600 mil exemplares, de acordo com dados hoje divulgados pela APCT. A subida deveu-se sobretudo ao lançamento de dois novos títulos - o Global Notícias e o Meia-Hora que, em conjunto, representam mais de 235 mil exemplares - mas também a um crescimento das tiragens dos principais jornais gratuitos que já existiam. Entre os mais antigos, o maior crescimento foi registado pelo Metro que passou a distribuir mais 22.600 exemplares do que fazia no ano passado, atingindo este ano os 180 mil. Com este aumento, o Metro passou a ser o maior jornal gratuito, à frente do Destak que registou, este ano, uma circulação de 173 mil exemplares (melhorando 5,3 por cento). A maior subida em termos relativos foi, no entanto, protagonizada pelo económico gratuito Oje que aumentou a sua circulação em quase 56 por cento, passando para os 22 mil exemplares. Refira-se que os dados hoje divulgados pela APCT não contabilizam ainda o jornal lançado pelo Público e A Bola, o Sexta-feira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 727,
+        "end": 732
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 594,
+        "end": 599
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

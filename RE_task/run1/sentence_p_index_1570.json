@@ -1,0 +1,14 @@
+{
+  "text": "Quantas pessoas estavam presentes na cerimónia em memória do escritor Elias Canetti?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 70,
+        "end": 83
+      }
+    }
+  ],
+  "relations": []
+}

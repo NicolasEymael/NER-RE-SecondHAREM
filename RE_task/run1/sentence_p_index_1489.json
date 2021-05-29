@@ -1,0 +1,59 @@
+{
+  "text": "Diga três filmes de Martin Scorsese. Em que universidade é que ele estudou Cinematografia em 1960? Para quantos Óscares é que ele já foi nomeado? Quem é o autor da obra «A Última Tentação de Cristo»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 75,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 90,
+        "end": 97
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 112,
+        "end": 119
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 170,
+        "end": 197
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_por",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

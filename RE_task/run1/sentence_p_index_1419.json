@@ -1,0 +1,63 @@
+{
+  "text": "Em que cidade italiana fica o Coliseu? Em que cidade fica a Praça Navona? Onde é que foi construída em Itália a Villa Medici?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 124
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

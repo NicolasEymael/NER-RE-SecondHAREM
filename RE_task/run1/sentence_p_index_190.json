@@ -1,0 +1,54 @@
+{
+  "text": "A partir da assinatura de contrato entre o Museu Histórico Nacional , a Associação dos Amigos do Museu Histórico Nacional e a Caixa Econômica Federal realizada no dia 26 de novembro de 2004 , foram liberados recursos no valor de R$ 1.900.000,00 para o início da segunda fase das obras ainda em dezembro de 2005 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 72,
+        "end": 121
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 149
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 189
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 229,
+        "end": 244
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 310
+      }
+    }
+  ],
+  "relations": []
+}

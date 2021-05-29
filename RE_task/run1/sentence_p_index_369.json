@@ -1,0 +1,14 @@
+{
+  "text": "Preço do barril de crude chegou ao nível histórico de 100 dólares",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 54,
+        "end": 65
+      }
+    }
+  ],
+  "relations": []
+}

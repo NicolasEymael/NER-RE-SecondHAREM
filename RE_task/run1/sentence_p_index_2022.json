@@ -1,0 +1,14 @@
+{
+  "text": "Que população tem Amiens?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 18,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

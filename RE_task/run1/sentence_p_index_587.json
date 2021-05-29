@@ -1,0 +1,30 @@
+{
+  "text": "H5N1: Mais de 32 mil mortos se pandemia atingisse Portugal",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 6,
+        "end": 20
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

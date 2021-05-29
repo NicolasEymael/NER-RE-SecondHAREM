@@ -1,0 +1,423 @@
+{
+  "text": " José Sócrates apresentou balanço dos últimos seis meses. UE : Durão Barroso elogia prestação da presidência portuguesa. O presidente da Comissão Europeia | presidente da Comissão Europeia elogiou hoje a prestação da presidência portuguesa da UE e a «competente liderança» do primeiro-ministro, José Sócrates , na condução dos destinos europeus no segundo semestre deste ano . Durão Barroso discursava na sessão plenária extraordinária do Parlamento Europeu , durante a qual José Sócrates apresentou os resultados da presidência portuguesa da UE . O ano de \"2007 mostrou que a Europa está à altura dos seus compromissos\", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu. Durão Barroso lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os Estados-membros , o que foi já hoje feito pela Hungria , o primeiro dos 27 países a cumprir esta etapa. No seu discurso, o dirigente europeu disse concordar com a apreciação feita minutos antes por José Sócrates sobre os seis meses da presidência portuguesa, principalmente a assinatura do Tratado de Lisboa , novo relacionamento com o Brasil e a cimeira com África . Durão Barroso acrescentou à longa lista de sucessos enunciados por Sócrates outros que considerou \"também importantes\", como a decisão de criar o Instituto Europeu de Tecnologia e o lançamento de uma Política Marítima Europeia . Entre os desafios que esperam a UE nos próximos meses , o presidente da Comissão Europeia | presidente da Comissão Europeia destacou a necessidade de os 27 ajudarem a encontrar uma solução para resolver a questão do Kosovo . \"Isto é um teste para a Europa onde não podemos falhar\", sublinhou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 76
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 154
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 171,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 197,
+        "end": 201
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 243,
+        "end": 245
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 295,
+        "end": 308
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 345,
+        "end": 374
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 377,
+        "end": 390
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 439,
+        "end": 457
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 475,
+        "end": 488
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 543,
+        "end": 545
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 548,
+        "end": 562
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 577,
+        "end": 583
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 784,
+        "end": 797
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 903,
+        "end": 918
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 934,
+        "end": 938
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 950,
+        "end": 957
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 975,
+        "end": 977
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1083,
+        "end": 1096
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1101,
+        "end": 1114
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "obra",
+      "span": {
+        "begin": 1193,
+        "end": 1210
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1239,
+        "end": 1245
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1262,
+        "end": 1268
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1271,
+        "end": 1284
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1338,
+        "end": 1346
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1417,
+        "end": 1448
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "obra",
+      "span": {
+        "begin": 1471,
+        "end": 1497
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1532,
+        "end": 1534
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 1535,
+        "end": 1553
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1558,
+        "end": 1589
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1606,
+        "end": 1623
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1653,
+        "end": 1655
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 1716,
+        "end": 1722
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1749,
+        "end": 1755
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T3"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T4"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T18"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T4"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T3"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T4"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T6"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T3"
+    }
+  ]
+}

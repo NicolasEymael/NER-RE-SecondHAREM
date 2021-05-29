@@ -1,0 +1,30 @@
+{
+  "text": "5.3. Como faço para participar da Lista de Debates do IBAP | Lista de Debates do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 61,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 81,
+        "end": 85
+      }
+    }
+  ],
+  "relations": []
+}

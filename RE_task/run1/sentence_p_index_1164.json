@@ -1,0 +1,45 @@
+{
+  "text": "Ontem, na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas. Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas. Continuei rumo à sessão das 19h no Espaço de Cinema em Botafogo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 226,
+        "end": 233
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 237,
+        "end": 253
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 257,
+        "end": 265
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

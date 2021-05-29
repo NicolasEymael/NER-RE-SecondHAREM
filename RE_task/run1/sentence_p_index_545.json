@@ -1,0 +1,38 @@
+{
+  "text": "Habituei-me, ao longo dos anos , a assistir às transmissões televisivas dos congressos social-democratas, madrugada adentro , enquanto comia pipocas. Menos quando Santana Lopes fazia aqueles discursos improvisados, que me provocavam um nó na garganta. Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o Conselho Nacional lhe fez... Cafagestes!»",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 13,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 106,
+        "end": 123
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 163,
+        "end": 176
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 474,
+        "end": 491
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": " CCB 15 ANOS | UM PRESENTE AOS ESPECTADORES. Com um grande concerto realizado ao ar livre, na Praça do Museu , no dia 21 de Março de 1993 , o CCB iniciava, há quinze anos , a sua actividade como centro de produção e apresentação de espectáculos e exposições o maior de Portugal . O Grande Auditório viria a ser inaugurado seis meses depois , a 22 de Setembro , com um recital da soprano catalã Montserrat Caballé , enquanto o Pequeno Auditório abrira as suas portas em Junho com um espectáculo do violoncelista Anner Bylsma . Neste arco temporal de 15 anos | de 15 anos , o CCB apresentou ao público de Lisboa artistas tão diversos como Sviatoslav Richter e Cecilia Bartoli , Pina Bausch et Pippo Delbono , Peter Brook e Jordi Savall , Philip Glass et Keith Jarrett , a Royal Shakespeare Company e o Piccolo Teatro di Milano , Robert Lepage e a companhia Cheek by Jowl , a companhia de ópera do Teatro Mariinski de S. Petersburgo e The Wooster Group . Aqui se estrearam os The Gift , aqui actuaram Maria João Pires e Bernardo Sassetti , aqui se apresentaram os Madredeus e GNR , Sérgio Godinho e Luís Represas , Jorge Palma e Mariza . Os visitantes do CCB puderam ver nestes anos exposições de Roy Lichtenstein e Frida Kahlo , de Robert Rauschenberg e de Paula Rêgo , de Antoni Tàpies e de Helena Almeida , de Júlio Pomar e de Sabine Hornig , de Candida Höfer e de Sebastião Salgado , de Aleksander Rodchenko e de Louise Bourgeois . Durante estes anos de viragem do século, o CCB acolheu alguns dos maiores espectáculos apresentados em Lisboa , tornando-se um dos equipamentos culturais de referência do país e um parceiro crescentemente procurado por insituições culturais internacionais. O balanço desta década e meia de actividade praticamente ininterrupta (o Centro só fecha no Dia de Natal ) mede-se pela frequência diária de centenas de pessoas, que habitam os espaços de estudo e lazer do CCB , além dos muitos milhares que ferquentam as suas actividades. Em 2006 , 150.000 pessoas assistiram a espectáculos, 200.000 visitaram as exposições, 90.000 frequentaram reuniões e congressos, 20.000 crianças participaram em actividades de pedagogia e animação. É por isso que as comemorações dos 15 anos de actividade do CCB , que decorrerão ao longo do ano de 2008 , vão ser especialmente orientadas para o público que fez do CCB um equipamento indipensável na vida cultural da cidade. Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos. Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos de 2008 mais acessível aos frequentadores do CCB . Assim, um conjunto de espectáculos programados para o Grande Auditório foi escolhido para integrar a série CCB 15 Anos, em que o leque de preços se situa em média 30% abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais. Mais: nos casos em que isso seja tecnicamente possível, os lugares de Galeria (em pé, por vezes com visibilidade reduzida) serão postos à venda ao preço único de 5 EUR (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público. As comemorações terão assim início já em Dezembro , com a apresentação da Oratória de Natal de J. S. Bach | Oratória de Natal de J. S. Bach pela Akademie für Alte Musik e o RIAS Kammerchor de Berlim , para a qual o preço dos bilhetes varia entre os 5 ( Galerias ) e os 25 EUR ( 1ª Plateia ); em Janeiro , a ópera visual Operação Orfeu, apresentada pela companhia dinamarquesa Hotel ProForma , será também um espectáculo CCB 15 Anos (bilhetes entre 15 e 20 EUR ): CCB 15 Anos será também o ciclo de piano Beethoven 2008 (cinco recitais com o preço único de 15 EUR por concerto). E em Fevereiro haverá três espectáculos integrados nas comemorações : o concerto do quinteto de Enrico Rava , um dos maiores trompetistas de jazz da actualidade, oferecerá preços entre os 5 e os 20 EUR ; as duas récitas da coreografia de William Forsythe Impressing the Czar, pelo Ballet Real da Flandres , terão bilhetes entre 5 e 30 EUR ; e a Carta Branca a Jorge Palma, no último dia do mês , propõe entradas entre 5 e 20 EUR . Mas a festa vai continuar ao longo do ano de 2008 . Cada edição do Programa de Actividades assinalará com o selo CCB 15 Anos os espectáculos integrados nesta oferta especial. E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, todos os dias, de há 15 anos para cá | de há 15 anos para cá , o Centro Cultural de Belém | Centro Cultural de Belém .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2751,
+        "end": 2754
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 1152,
+        "end": 1155
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

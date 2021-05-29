@@ -1,0 +1,171 @@
+{
+  "text": "Os Censurados começaram por tocar ao vivo. Muito. As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude da era Cavaquista. O primeiro registo em vinil, na compilação \"Feedback\" incluiu os temas \"Senhores Politicos\", Não Vales Nada\" e \"Está a andar de Mota\" (um instrumental). \"Tu ò Bófia\", \"Não Vales Nada\", \"Angústia\", \"Senhores Politicos\" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum \"Censurados\"1990. Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao Punk e Hardore \"na altura, a Maximum Rockn'Roll(EUA) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 155,
+        "end": 172
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 218,
+        "end": 226
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 246,
+        "end": 264
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 267,
+        "end": 281
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 286,
+        "end": 306
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 328,
+        "end": 338
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 342,
+        "end": 356
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 360,
+        "end": 368
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 372,
+        "end": 390
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 530,
+        "end": 540
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 541,
+        "end": 545
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 637,
+        "end": 641
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 644,
+        "end": 651
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 666,
+        "end": 684
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 685,
+        "end": 688
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "data_de",
+      "subj": "T12",
+      "obj": "T11"
+    }
+  ]
+}

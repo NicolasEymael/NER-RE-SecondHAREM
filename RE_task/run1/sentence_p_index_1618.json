@@ -1,0 +1,37 @@
+{
+  "text": "O que é a MNEF? Quando é que chegou ao fim o último julgamento sobre o escândalo da MNEF? Segundo Jean Michel Grosz, que organização foi criada no seu escritório?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 84,
+        "end": 88
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 115
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

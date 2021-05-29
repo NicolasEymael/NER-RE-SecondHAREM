@@ -1,0 +1,14 @@
+{
+  "text": "O que é que Jean Valjean roubou?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

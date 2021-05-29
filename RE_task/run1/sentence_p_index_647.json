@@ -1,0 +1,70 @@
+{
+  "text": "«O que queremos é que esta cimeira entre a União Europeia e África, uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o Presidente Robert Mugabe», declarou Sócrates em Singapura, à margem da cimeira entre a UE e os países do Sudeste asiático, segundo a Lusa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 66
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 172,
+        "end": 196
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 208,
+        "end": 216
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 220,
+        "end": 229
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 259,
+        "end": 261
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 277,
+        "end": 284
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 305,
+        "end": 309
+      }
+    }
+  ],
+  "relations": []
+}

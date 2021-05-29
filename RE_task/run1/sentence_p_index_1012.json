@@ -1,0 +1,14 @@
+{
+  "text": "2º - Arranjar uma petição de cidadãos a exigir a extinção do BCE .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 61,
+        "end": 64
+      }
+    }
+  ],
+  "relations": []
+}

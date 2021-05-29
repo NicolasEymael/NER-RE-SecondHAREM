@@ -1,0 +1,81 @@
+{
+  "text": "Como recordava um artigo num recente número da revista New Yorker , Nova Iorque já não via uma coisa assim desde 1951 , quando, no campeonato de basebol, as equipas de Brooklin Dodgers e dos New York Giants disputaram o \"play off\" para decidir quem iria à final com os New York Yankees (que acabaram vencedores da \" World Séries \").",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 68,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 107,
+        "end": 117
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 168,
+        "end": 184
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 191,
+        "end": 206
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 269,
+        "end": 285
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 316,
+        "end": 328
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ter_participacao_de",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

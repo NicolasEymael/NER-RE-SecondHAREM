@@ -1,0 +1,37 @@
+{
+  "text": "Durante o subsequente domínio espanhol (1580-1640) da coroa portuguesa, três pretendentes afirmaram ser o rei D. Sebastião, tendo o último deles - um italiano - sido enforcado em 1619.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 106,
+        "end": 122
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 176,
+        "end": 183
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

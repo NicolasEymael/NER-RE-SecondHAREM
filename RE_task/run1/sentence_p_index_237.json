@@ -1,0 +1,30 @@
+{
+  "text": "O Pai Natal , Artur Jorge e o BCP",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

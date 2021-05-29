@@ -1,0 +1,14 @@
+{
+  "text": "Quem realizou o filme «Morte em Veneza»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 23,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

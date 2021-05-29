@@ -1,0 +1,29 @@
+{
+  "text": " A fama do Prius. Durante o ano passado o nome Toyota Prius esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel. Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome Prius tornou-se um sinónimo de híbrido Nos Estados Unidos da America foram vendidos em 2004 mais de 50 mil unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo. Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de Hollywood. Cameron Diaz, Leonardo DiCaprio ou Will Ferrell são três dos muitos nomes famosos que possuem um Toyota Prius. Em cidade o Prius consome apenas 4,3 litros a cada 100km, tornando-o num dos automóveis mais económicos do mercado. Estamos claro a falar dum motor 1.5 VVT-i com apenas 78cv, que aliado ao sistema HSD (Hybrid Synergy Drive) aumenta a sua potência para 110cv. Dos 0 aos 100km/h o Prius demora cerca de 11 segundos. A Toyota afirma que, apesar destas prestações conseguiram reduzir em 89% as emissões libertadas, comparando a um veículo novo a gasolina.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1032,
+        "end": 1052
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 1027,
+        "end": 1030
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Em que país fica o Lago dos Cisnes?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

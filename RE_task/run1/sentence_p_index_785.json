@@ -1,0 +1,38 @@
+{
+  "text": "Ora a Índia e a China já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto hoje há uma Europa que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 6,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 21
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 128,
+        "end": 132
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 146
+      }
+    }
+  ],
+  "relations": []
+}

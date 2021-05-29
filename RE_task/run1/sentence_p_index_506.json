@@ -1,0 +1,69 @@
+{
+  "text": "Opinião idêntica tem o gestor do Banif Gestão de Activos, Pedro Castro, para quem a expectativa é que se estreiem na bolsa portuguesa, além da ANA e da TAP, também a Aquapor, a Sonae Capital e a Neo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 33,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 70
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 143,
+        "end": 146
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 152,
+        "end": 155
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 177,
+        "end": 190
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 195,
+        "end": 198
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

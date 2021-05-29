@@ -1,0 +1,54 @@
+{
+  "text": "Assim, um conjunto de espectáculos programados para o Grande Auditório foi escolhido para integrar a série CCB 15 Anos, em que o leque de preços se situa em média 30% abaixo dos preços normalmente praticados para espectáculos semelhantes, mantendo-se além disso os descontos habituais. Mais: nos casos em que isso seja tecnicamente possível, os lugares de Galeria (em pé, por vezes com visibilidade reduzida) serão postos à venda ao preço único de 5 EUR (estes naturalmente sem desconto), permitindo que toda a gente tenha acesso aos espectáculos de maior atractividade para o público.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 107,
+        "end": 118
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 163,
+        "end": 166
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 356,
+        "end": 363
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 372,
+        "end": 381
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 448,
+        "end": 453
+      }
+    }
+  ],
+  "relations": []
+}

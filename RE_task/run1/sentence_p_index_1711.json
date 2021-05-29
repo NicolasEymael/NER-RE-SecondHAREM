@@ -1,0 +1,30 @@
+{
+  "text": "Que presidente americano organizou o Acordo de Camp David ? Em que ano tiveram lugar as negociações? Quantos acordos foram assinados? Em que data foi assinado posteriormente o tratado de paz entre Israel e o Egipto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 37,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 197,
+        "end": 203
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 208,
+        "end": 214
+      }
+    }
+  ],
+  "relations": []
+}

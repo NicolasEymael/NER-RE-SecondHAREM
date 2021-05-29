@@ -1,0 +1,29 @@
+{
+  "text": "O tecno de Detroit é arquitetura. É por isso que não há progressão narrativa, mudanças de acordes, desdobramentos temáticos, nem contraponto. Espaços sonoros, não som viajando através do tempo. \"Tão poucas pessoas entendem isso\", diz Mills , falando em minimalismo, \"Como só deixar a coisa tocar...\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 11,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 234,
+        "end": 239
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

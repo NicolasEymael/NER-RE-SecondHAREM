@@ -1,0 +1,14 @@
+{
+  "text": "De que equipa é treinador Johann Cruyff?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

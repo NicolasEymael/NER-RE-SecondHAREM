@@ -1,0 +1,93 @@
+{
+  "text": "A Reforma Anglicana buscou ser a \"via média\" entre os extremos romanos e puritanos. Assim aceitam os dois sacramentos do Evangelho : o Santo Batismo , através do qual a pessoa é feita membro da Igreja de Cristo , sendo que tal graça é complementada na Confirmação , e na Santa Comunhão , que une o cristão ao sacrifício de Cristo Jesus que os alimenta com seu corpo e sangue.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 121,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 135,
+        "end": 148
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 194,
+        "end": 210
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 252,
+        "end": 263
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 271,
+        "end": 285
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 323,
+        "end": 335
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T4"
+    }
+  ]
+}

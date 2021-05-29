@@ -1,0 +1,30 @@
+{
+  "text": "Quem abriu o Baile da Opera de Viena | Baile da Opera de Viena?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 39,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

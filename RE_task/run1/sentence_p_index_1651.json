@@ -1,0 +1,22 @@
+{
+  "text": "O que é uma alergia? Que outro nome se dá a uma alergia? Em 1980, que percentagem da população tinha sido atingida por elas? Que alergia afecta cerca de 8% das crianças?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 144,
+        "end": 155
+      }
+    }
+  ],
+  "relations": []
+}

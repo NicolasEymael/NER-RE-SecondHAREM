@@ -1,0 +1,54 @@
+{
+  "text": "A fotografia é de José António Loureiro , a produção de Tino Navarro e do elenco fazem ainda parte Virgílio Castelo , Custódia Gallego , Sofia Grilo ou José Eduardo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 56,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 99,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 118,
+        "end": 134
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 137,
+        "end": 148
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 152,
+        "end": 164
+      }
+    }
+  ],
+  "relations": []
+}

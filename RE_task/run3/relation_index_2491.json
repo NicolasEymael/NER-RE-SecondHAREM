@@ -1,0 +1,29 @@
+{
+  "text": " História do RFID. A tecnologia de RFID tem suas raízes nos sistemas de radares utilizados na Segunda Guerra Mundial. Os alemães, japoneses, americanos e ingleses utilizavam radares -- que foram descobertos em 1937 por Sir Robert Alexander Watson-Watt, um físico escocês -- para avisá-los com antecedência de aviões enquanto eles ainda estavam bem distantes. O problema era identificar dentre esses aviões qual era inimigo e qual era aliado. Os alemães então descobriram que se os seus pilotos girassem seus aviões quando estivessem retornando à base iriam modificar o sinal de rádio que seria refletido de volta ao radar. Esse método simples alertava os técnicos responsáveis pelo radar que se tratava de aviões alemães (esse foi, essencialmente, considerado o primeiro sistema passivo de RFID). Sob o comando de Watson-Watt, que liderou um projeto secreto, os ingleses desenvolveram o primeiro identificador activo de amigo ou inimigo (IFF -- Identify Friend or Foe) . Foi colocado um transmissor em cada avião britânico. Quando esses transmissores recebiam sinais das estações de radar no solo, começavam a transmitir um sinal de resposta, que identificava o aeroplano como Friendly (amigo). Os RFID funcionam no mesmo princípio básico. Um sinal é enviado a um transponder, o qual é ativado e reflete de volta o sinal (sistema passivo) ou transmite seu próprio sinal (sistemas ativos). Avanços na área de radares e de comunicação RF (Radio Frequency) continuaram através das décadas de 50 e 60. Cientistas e acadêmicos dos Estados Unidos, Europa e Japão realizaram pesquisas e apresentaram estudos explicando como a energia RF poderia ser utilizada para identificar objetos remotamente... Companhias começaram a comercializar sistemas antifurto que utilizavam ondas de rádio para determinar se um item havia sido roubado ou pago normalmente. Era o advento das tags (etiquetas) denominadas de \"etiquetas de vigilância eletrônica\" as quais ainda são utilizadas até hoje. Cada etiqueta utiliza um bit. Se a pessoa paga pela mercadoria, o bit é posto em off ou 0. E os sensores não dispararão o alarme. Caso o contrário, o bit continua em on ou 1, e caso a mercadoria saia através dos sensores, um alarme será disparado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1437,
+        "end": 1452
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 1433,
+        "end": 1435
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "text": "Na sequência de uma Comunicação | Comunicação da Comissão , o Conselho discutiu, no seu grupo de Trabalho de Cooperação e Desenvolvimento ( CODEV ) uma proposta de Consenso Europeu sobre Ajuda Humanitária . Tal documento contém referências à actuação da protecção civil nos contextos de crises humanitárias, pelo que foi também discutido no Grupo de Trabalho PROCIV , tendo sido produzido um aconselhamento em Julho .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 20,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 62,
+        "end": 70
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 109,
+        "end": 137
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 145
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 164,
+        "end": 204
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 341,
+        "end": 365
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 407,
+        "end": 415
+      }
+    }
+  ],
+  "relations": []
+}

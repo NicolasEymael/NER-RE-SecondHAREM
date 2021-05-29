@@ -1,0 +1,30 @@
+{
+  "text": "Sem dúvida, houve uma evolução no comparativo com o ano anterior . Quem confirma isso é o Vj | Vj pixel, que viu o festival crescer: \" Esse ano a gente tem uma estrutura bem maior, que não atinge só o público que tá circulando pelo fisl, mas atinge as pessoas que acessam o site do fisl na internet também, porque a gente tem uma TV e uma rádio que tão sendo exibidas aqui internamente. A gente tem um telão e uma caixa de som com a programação da rádio, mas tem também streaming desse material que a gente tá produzindo, que é onde tá a maior parte do público. Mas a evolução não ficou só na estrutura do estande e dos conteúdos. O famoso show de abertura do festival também cresceu e se diversificou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 46,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 90,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 135,
+        "end": 143
+      }
+    }
+  ],
+  "relations": []
+}

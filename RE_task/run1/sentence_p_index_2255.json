@@ -1,0 +1,69 @@
+{
+  "text": "Na classe maior, Ricardo Pazos, partiu determinado a melhorar a sua prestação relativamente à Águeda, e com uma condução mais adaptada à Suzuki RMZ 450, alcançou o 3º lugar, muito perto de Paulo Gonçalves que secundou Hugo Santos no Podium | Podium.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 94,
+        "end": 100
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 137,
+        "end": 151
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 164,
+        "end": 166
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 204
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 218,
+        "end": 229
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 233,
+        "end": 239
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "propriedade_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

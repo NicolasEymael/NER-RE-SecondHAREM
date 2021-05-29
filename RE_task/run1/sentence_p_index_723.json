@@ -1,0 +1,101 @@
+{
+  "text": "Em cidade o Prius consome apenas 4,3 litros a cada 100km, tornando-o num dos automóveis mais económicos do mercado. Estamos claro a falar dum motor 1.5 VVT-i com apenas 78cv, que aliado ao sistema HSD (Hybrid Synergy Drive) aumenta a sua potência para 110cv. Dos 0 aos 100km/h o Prius demora cerca de 11 segundos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 12,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 33,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 51,
+        "end": 56
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 148,
+        "end": 157
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 169,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 197,
+        "end": 200
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 202,
+        "end": 222
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 252,
+        "end": 257
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 259,
+        "end": 276
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 279,
+        "end": 284
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 292,
+        "end": 312
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

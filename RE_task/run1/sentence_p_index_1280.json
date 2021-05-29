@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a responsabilidade da ONUDI?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

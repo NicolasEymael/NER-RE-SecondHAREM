@@ -1,0 +1,179 @@
+{
+  "text": "Deixando a família em Durban , regressou definitivamente à capital portuguesa, sozinho, em 1905 . Passa a viver com a avó Dionísia e as duas tias na Rua da Bela Vista , 17. A mãe e o padrasto também retornam a Lisboa , durante um período de férias de um ano em que Pessoa volta a morar com eles. Continua a produção de poemas em inglês e em 1906 matricula-se no Curso Superior de Letras (actual Faculdade de Letras da Universidade de Lisboa | Faculdade de Letras da Universidade de Lisboa | Faculdade de Letras da Universidade de Lisboa ), que abandona sem sequer completar o primeiro ano. É nesta época que entra em contacto com importantes escritores de literatura da língua portuguesa. Interessa-se pela obra de Cesário Verde e pelos sermões do Padre Antônio Vieira .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 149,
+        "end": 166
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 210,
+        "end": 216
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 219,
+        "end": 237
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 248,
+        "end": 257
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 265,
+        "end": 271
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 338,
+        "end": 345
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 362,
+        "end": 386
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 395,
+        "end": 440
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 443,
+        "end": 462
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 466,
+        "end": 488
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 491,
+        "end": 510
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 514,
+        "end": 526
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 530,
+        "end": 536
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 574,
+        "end": 588
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 592,
+        "end": 603
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 715,
+        "end": 728
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 748,
+        "end": 768
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "residencia_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    }
+  ]
+}

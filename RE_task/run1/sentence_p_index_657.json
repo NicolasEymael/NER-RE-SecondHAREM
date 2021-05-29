@@ -1,0 +1,22 @@
+{
+  "text": "Neste momento a Rede Multibanco é uma das mais sofisticadas redes interbancárias do mundo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

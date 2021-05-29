@@ -1,0 +1,14 @@
+{
+  "text": "D: Mas já tinhas o Sirius ...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

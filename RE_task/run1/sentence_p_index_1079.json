@@ -1,0 +1,145 @@
+{
+  "text": "Se fosse possível encontrar um meio de colocar o conhecimento dos bosquímanos a serviço da preservação ambiental, tanto a natureza quanto as comunidades desse povo poderiam se beneficiar. Em 1996, Liebenberg e o cientista da computação Lindsey Steventon lançaram o primeiro modelo do CyberTracker, com o objetivo de transformar o rastreamento tradicional numa profissão moderna. No mesmo ano, os rastreadores Karel Benadie e James Minye usaram o CyberTracker para estudar o rinoceronte negro, uma espécie ameaçada de extinção, no Parque Nacional de Karoo na África do Sul. Eles recolheram dados sobre os padrões de alimentação dos animais e sua vulnerabilidade à caça clandestina. Em 1999, Liebenberg, Steventon e os dois rastreadores, que não possuem educação formal, publicaram um artigo na revista acadêmica Pachyderm. \"Ao incluir os rastreadores em nossas atividades de monitoramento ambiental, estamos expandindo eficientemente a própria ciência\", disse Liebenberg.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 188,
+        "end": 195
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 197,
+        "end": 207
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 236,
+        "end": 253
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 284,
+        "end": 296
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 379,
+        "end": 391
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 409,
+        "end": 422
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 425,
+        "end": 436
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 446,
+        "end": 458
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 530,
+        "end": 554
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 558,
+        "end": 571
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 681,
+        "end": 688
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 690,
+        "end": 700
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 702,
+        "end": 711
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 811,
+        "end": 820
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 959,
+        "end": 969
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T3"
+    }
+  ]
+}

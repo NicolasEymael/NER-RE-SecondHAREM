@@ -1,0 +1,22 @@
+{
+  "text": "\"Sem estes valores, a União Europeia não teria futuro\". Dentro e fora da Europa , \"temos o dever de sempre defender a dignidade e os direitos humanos\", concluiu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

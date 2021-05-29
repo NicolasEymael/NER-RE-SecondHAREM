@@ -1,0 +1,29 @@
+{
+  "text": "Da mesma forma, para Brian CROWLEY , da UEN , o ocorrido \"superou o permissível\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 43
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

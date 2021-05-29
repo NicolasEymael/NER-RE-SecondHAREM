@@ -1,0 +1,30 @@
+{
+  "text": "A moda também faz parte do Arquivo Histórico . Quem pesquisa a indumentária civil e militar não pode deixar de consultar as coleções \" Sophia Jobim Magno de Carvalho \" e \" Uniformes Militares \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 135,
+        "end": 165
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 172,
+        "end": 191
+      }
+    }
+  ],
+  "relations": []
+}

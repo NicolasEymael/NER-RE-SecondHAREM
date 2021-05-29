@@ -1,0 +1,14 @@
+{
+  "text": "Bibliografia de Censurados",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

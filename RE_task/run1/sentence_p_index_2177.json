@@ -1,0 +1,22 @@
+{
+  "text": "5 - ATIVIDADES DO IBAP VIA INTERNET | INTERNET",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 27,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

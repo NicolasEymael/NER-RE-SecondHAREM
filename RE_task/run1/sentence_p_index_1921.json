@@ -1,0 +1,14 @@
+{
+  "text": "Quantos habitantes tem Longyearbyen?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

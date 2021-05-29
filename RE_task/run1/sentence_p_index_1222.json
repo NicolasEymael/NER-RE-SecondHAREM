@@ -1,0 +1,22 @@
+{
+  "text": "Vale recordar que, na referência aos jovens professores que colaboraram na revisão do Manual de Análise, Oiticica alude a \"modificações de quadros\" e ao \"acuramento na disposição geral\", duas facetas de uma qualidade central que se chama \"sistematização\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 86,
+        "end": 103
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 105,
+        "end": 113
+      }
+    }
+  ],
+  "relations": []
+}

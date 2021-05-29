@@ -1,0 +1,30 @@
+{
+  "text": "Quantas bombas foram lançadas sobre Dresda a 14 de Fevereiro de 1945? Quanto pesavam as bombas largadas sobre esta cidade a 7 de Outubro de 1944?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 122,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

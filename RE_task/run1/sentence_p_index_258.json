@@ -1,0 +1,38 @@
+{
+  "text": "É preciso ser muito forte, e preciso perceber, como em 1939 , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir. Mas é essencial resistir, porque a alternativa é o regresso à Idade Media e a barbárie. É por isso que o gesto dos Comuns , rejeitando a legislação de segurança interna proposta por Tony Blair , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 256,
+        "end": 267
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 309,
+        "end": 315
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 376,
+        "end": 386
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,809 @@
+{
+  "text": " Preço do barril de crude chegou ao nível histórico de 100 dólares. 03.01.2008 - 08h46. Por Lurdes Ferreira. Às 17h30 de ontem em Lisboa , a vaga especulativa do mercado do petróleo convergiu com as previsões dos últimos meses que davam como certa a chegada do preço do crude aos 100 dólares . As projecções tornaram-se realidade, ao fim de um ano em que o preço desta matéria subiu 58 por cento e que foi também o maior aumento anual da última década . O recorde histórico verificou-se na bolsa mercantil de Nova Iorque , com a transacção do crude de tipo leve, de referência para o mercado dos EUA , com entrega para Fevereiro , a pular mais de três dólares numa só sessão e a bater na marca histórica dos 100 dólares . Baixou pouco depois para os 99,17 dólares . Em Londres , o Brent do Mar do Norte | Brent do Mar do Norte , também com entrega para Fevereiro , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos 97 dólares . O novo máximo histórico ficou em 97,74 dólares . A onda de violência na Nigéria e a instabilidade no Paquistão são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude nos últimos anos . Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( China , que já é o segundo maior consumidor do mundo, e a Índia ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a OPEP , em aumentar significativamente a sua produção. Outras são conjunturais: temperaturas frias do pico do Inverno ; e a descida das reservas dos EUA , o maior mercado consumidor do mundo. Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas. \"Vamos aqui ficar [no patamar dos 100 dólares ], enquanto houver um desequilíbrio entre a oferta e a procura\", afirmou à France Presse o analista do mercado de capitais da BMO , Bart Melek . Para este desequilíbrio contribui agora a nova vaga de violência da Nigéria , país que nos últimos anos já perdeu 25 por cento da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos EUA . Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de 12 pessoas na passagem de ano, é agora superior ao que foi nos últimos meses . E contribui também a situação geopolítica no Paquistão , uma semana depois do assassinado de Benazir Bhuto - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo. A situação destes dois países \"provocou o regresso de muito capital especulativo ao mercado\", segundo o presidente da Ritterbusch & Associates | presidente da Ritterbusch & Associates , Jim Ritterbusch , citado pela Reuters . Mas estes não são os únicos dois países em turbulência geopolítica. É também o Quénia , \"ao lado da Nigéria , que se incendeia\", diz Moncef Kaabi , da Natixis , é também a Turquia , com as operações contra os separatistas curdos no Norte , justificando que mercados como o do petróleo \"traduzem a inquietação e a incerteza dos investidores\". Por outro lado, os EUA deverão anunciar ainda hoje a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, pela sétima semana consecutiva, desta vez em 1,8 milhões de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da Reuters . O preço actual do petróleo ficou agora mais próximo do pico de 100 dólares de 1980 provocado pela guerra entre o Irão e o Iraque , dois países-membros da OPEP . O preço de então ajustado à inflação representa hoje 101,7 dólares . A convicção dominante no mercado, a avaliar pelos analistas contactados pela Reuters , é a de que o preço desta matéria-prima continuará provavelmente a subir nos próximos cinco anos , a não ser que o crescimento económico abrande e abrande também a procura de combustível. A pressão para a subida de preços que se verifica desde 2002 continua a ter condições para manter o ritmo: algumas regiões fora da OPEP , nomeadamente o mar do Norte , têm a sua produção em declínio, a China mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade. Para analistas como Kris Voorspools , da Fortis , em Bruxelas , o \"preço do petróleo pode continuar a subir\", por se estar perante o \"simples fundamento da oferta e da procura\". Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por Nauman Barakat , vice-presidente da Macquarie Futures | vice-presidente da Macquarie Futures dos EUA .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 55,
+        "end": 66
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 86
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 92,
+        "end": 107
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 109,
+        "end": 117
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 118,
+        "end": 126
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 130,
+        "end": 136
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 209,
+        "end": 226
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 280,
+        "end": 291
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 331,
+        "end": 347
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 383,
+        "end": 395
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 435,
+        "end": 451
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 509,
+        "end": 520
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 596,
+        "end": 599
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 614,
+        "end": 628
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 708,
+        "end": 719
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 750,
+        "end": 763
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 769,
+        "end": 776
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 781,
+        "end": 802
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 814,
+        "end": 826
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 848,
+        "end": 862
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 944,
+        "end": 954
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 990,
+        "end": 1003
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1029,
+        "end": 1036
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1058,
+        "end": 1067
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1176,
+        "end": 1192
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1325,
+        "end": 1330
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1383,
+        "end": 1388
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1483,
+        "end": 1487
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 1589,
+        "end": 1599
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1631,
+        "end": 1634
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "valor",
+      "span": {
+        "begin": 2005,
+        "end": 2016
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2092,
+        "end": 2105
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2143,
+        "end": 2146
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "individuo",
+      "span": {
+        "begin": 2149,
+        "end": 2159
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 2230,
+        "end": 2237
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 2249,
+        "end": 2265
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "valor",
+      "span": {
+        "begin": 2276,
+        "end": 2288
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 2381,
+        "end": 2384
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "valor",
+      "span": {
+        "begin": 2468,
+        "end": 2470
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 2479,
+        "end": 2497
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "tempo",
+      "span": {
+        "begin": 2527,
+        "end": 2544
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "local",
+      "span": {
+        "begin": 2592,
+        "end": 2601
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "tempo",
+      "span": {
+        "begin": 2604,
+        "end": 2621
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "individuo",
+      "span": {
+        "begin": 2640,
+        "end": 2653
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "individuo",
+      "span": {
+        "begin": 2856,
+        "end": 2894
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2911,
+        "end": 2935
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "individuo",
+      "span": {
+        "begin": 2938,
+        "end": 2953
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 2968,
+        "end": 2975
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "local",
+      "span": {
+        "begin": 3057,
+        "end": 3063
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "local",
+      "span": {
+        "begin": 3078,
+        "end": 3085
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "individuo",
+      "span": {
+        "begin": 3111,
+        "end": 3123
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3129,
+        "end": 3136
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "local",
+      "span": {
+        "begin": 3150,
+        "end": 3157
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "local",
+      "span": {
+        "begin": 3210,
+        "end": 3215
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3339,
+        "end": 3342
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "tempo",
+      "span": {
+        "begin": 3366,
+        "end": 3370
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "tempo",
+      "span": {
+        "begin": 3473,
+        "end": 3503
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "valor",
+      "span": {
+        "begin": 3518,
+        "end": 3529
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3617,
+        "end": 3624
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "valor",
+      "span": {
+        "begin": 3690,
+        "end": 3701
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "tempo",
+      "span": {
+        "begin": 3702,
+        "end": 3709
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3740,
+        "end": 3744
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3749,
+        "end": 3755
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3781,
+        "end": 3785
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "tempo",
+      "span": {
+        "begin": 3836,
+        "end": 3840
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "valor",
+      "span": {
+        "begin": 3841,
+        "end": 3854
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3934,
+        "end": 3941
+      }
+    },
+    {
+      "id": "T69",
+      "obj": "tempo",
+      "span": {
+        "begin": 4016,
+        "end": 4039
+      }
+    },
+    {
+      "id": "T70",
+      "obj": "tempo",
+      "span": {
+        "begin": 4181,
+        "end": 4191
+      }
+    },
+    {
+      "id": "T71",
+      "obj": "local",
+      "span": {
+        "begin": 4262,
+        "end": 4266
+      }
+    },
+    {
+      "id": "T72",
+      "obj": "local",
+      "span": {
+        "begin": 4291,
+        "end": 4296
+      }
+    },
+    {
+      "id": "T73",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4333,
+        "end": 4338
+      }
+    },
+    {
+      "id": "T74",
+      "obj": "individuo",
+      "span": {
+        "begin": 4520,
+        "end": 4535
+      }
+    },
+    {
+      "id": "T75",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4541,
+        "end": 4547
+      }
+    },
+    {
+      "id": "T76",
+      "obj": "local",
+      "span": {
+        "begin": 4553,
+        "end": 4561
+      }
+    },
+    {
+      "id": "T77",
+      "obj": "individuo",
+      "span": {
+        "begin": 4801,
+        "end": 4815
+      }
+    },
+    {
+      "id": "T78",
+      "obj": "individuo",
+      "span": {
+        "begin": 4818,
+        "end": 4854
+      }
+    },
+    {
+      "id": "T79",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4876,
+        "end": 4893
+      }
+    },
+    {
+      "id": "T80",
+      "obj": "local",
+      "span": {
+        "begin": 4898,
+        "end": 4901
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T14"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T14"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T24"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T14"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T25"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T46"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T48",
+      "obj": "T47"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T24"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T53",
+      "obj": "T52"
+    },
+    {
+      "id": "R14",
+      "pred": "sede_de",
+      "subj": "T56",
+      "obj": "T14"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T61",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T65",
+      "obj": "T29"
+    },
+    {
+      "id": "R17",
+      "pred": "inclui",
+      "subj": "T65",
+      "obj": "T63"
+    },
+    {
+      "id": "R18",
+      "pred": "inclui",
+      "subj": "T65",
+      "obj": "T64"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T71",
+      "obj": "T29"
+    },
+    {
+      "id": "R20",
+      "pred": "sede_de",
+      "subj": "T71",
+      "obj": "T29"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T72",
+      "obj": "T20"
+    },
+    {
+      "id": "R22",
+      "pred": "vinculo_inst",
+      "subj": "T75",
+      "obj": "T74"
+    },
+    {
+      "id": "R23",
+      "pred": "sede_de",
+      "subj": "T76",
+      "obj": "T75"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T78",
+      "obj": "T77"
+    },
+    {
+      "id": "R25",
+      "pred": "vinculo_inst",
+      "subj": "T79",
+      "obj": "T77"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T80",
+      "obj": "T14"
+    },
+    {
+      "id": "R27",
+      "pred": "sede_de",
+      "subj": "T80",
+      "obj": "T79"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "4.3. Quem é o presidente do IBAP | presidente do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

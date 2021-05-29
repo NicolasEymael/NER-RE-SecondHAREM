@@ -1,0 +1,209 @@
+{
+  "text": "O PRESIDENTE Sarkozy abriu a Conferência de Dadores realizada em Paris com uma frase grandiloquente sobre a necessidade urgente de criar um Estado palestiniano no fim de 2008 . O Presidente ou é mentiroso ou finge-se ignorante, ou as duas coisas. Depois do falhanço esperado da cimeira de Annapolis , um modo de Condoleezza Rice salvar a face e de a Administração | Administração americana e a Europa continuarem a fingir que estão interessadas em resolver o conflito israelo-palestiniano e de lavarem as mãos de tudo o resto, Sarkozy não pode ignorar que o momento para pronunciamentos débeis é o menos adequado. Tony Blair , depois de ter minado todo o processo de paz do Médio Oriente ao ordenar a invasão do Iraque de braço dado com Bush , continua a emitir piedades deste género, e diz que está na altura de resolver o problema e que ele pode ser resolvido. Blair não sabe o que diz.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 29,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 70
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 146
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 174
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 179,
+        "end": 189
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 289,
+        "end": 298
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 312,
+        "end": 328
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 350,
+        "end": 363
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 394,
+        "end": 400
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 527,
+        "end": 534
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 614,
+        "end": 624
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 674,
+        "end": 687
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 712,
+        "end": 718
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 737,
+        "end": 741
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 800,
+        "end": 809
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 863,
+        "end": 868
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T15"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R10",
+      "pred": "relacao_profissional",
+      "subj": "T15",
+      "obj": "T8"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T12"
+    }
+  ]
+}

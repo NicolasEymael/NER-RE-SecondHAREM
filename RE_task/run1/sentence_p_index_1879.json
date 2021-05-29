@@ -1,0 +1,14 @@
+{
+  "text": "Quando ocorreu a coroação oficial de Isabel II?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 37,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

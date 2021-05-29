@@ -1,0 +1,22 @@
+{
+  "text": "\" Algumas vezes quando eu penso em um ritmo\", diz Mills , \"eu penso numa máquina que está - caminhando em algum lugar, algum tipo de movimento, e eu tento vividamente criar esse tipo de progressão melódica.\" Tanques robôs, linhas de montagem, colonizando a imaginação, articuladas como vias permanentes de batidas pesadas bombando os corpos do público dançante. Quem origina esse ritmo? Nós ou eles? Reconstitua o processo de volta. Quem veio primeiro? Artista ou máquina? A idéia da máquina na mente do artista? O que pôs a idéia ali? Eterno retorno...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 2,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 55
+      }
+    }
+  ],
+  "relations": []
+}

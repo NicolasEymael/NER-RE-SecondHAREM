@@ -1,0 +1,54 @@
+{
+  "text": "O facto de Capa viajar então com a namorada Gerda Taro (morta pouco depois) e de enviar para Paris os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história. Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas antes e depois . Apesar de se conhecer uma sequência de fotos feitas no mesmo local.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 44,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 62,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 93,
+        "end": 98
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 295,
+        "end": 300
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 303,
+        "end": 309
+      }
+    }
+  ],
+  "relations": []
+}

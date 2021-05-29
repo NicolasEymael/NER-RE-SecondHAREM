@@ -1,0 +1,342 @@
+{
+  "text": "Neste arco temporal de 15 anos | de 15 anos , o CCB apresentou ao público de Lisboa artistas tão diversos como Sviatoslav Richter e Cecilia Bartoli , Pina Bausch et Pippo Delbono , Peter Brook e Jordi Savall , Philip Glass et Keith Jarrett , a Royal Shakespeare Company e o Piccolo Teatro di Milano , Robert Lepage e a companhia Cheek by Jowl , a companhia de ópera do Teatro Mariinski de S. Petersburgo e The Wooster Group . Aqui se estrearam os The Gift , aqui actuaram Maria João Pires e Bernardo Sassetti , aqui se apresentaram os Madredeus e GNR , Sérgio Godinho e Luís Represas , Jorge Palma e Mariza . Os visitantes do CCB puderam ver nestes anos exposições de Roy Lichtenstein e Frida Kahlo , de Robert Rauschenberg e de Paula Rêgo , de Antoni Tàpies e de Helena Almeida , de Júlio Pomar e de Sabine Hornig , de Candida Höfer e de Sebastião Salgado , de Aleksander Rodchenko e de Louise Bourgeois .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 20,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 36,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 51
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 77,
+        "end": 83
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 111,
+        "end": 129
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 132,
+        "end": 147
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 150,
+        "end": 161
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 165,
+        "end": 178
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 181,
+        "end": 192
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 195,
+        "end": 207
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 210,
+        "end": 222
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 226,
+        "end": 239
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 244,
+        "end": 269
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 274,
+        "end": 298
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 301,
+        "end": 314
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 329,
+        "end": 342
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 369,
+        "end": 385
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 389,
+        "end": 403
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 406,
+        "end": 423
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 447,
+        "end": 455
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 472,
+        "end": 488
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 491,
+        "end": 508
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 535,
+        "end": 544
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 547,
+        "end": 550
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 553,
+        "end": 567
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 570,
+        "end": 583
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 586,
+        "end": 597
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 600,
+        "end": 606
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 626,
+        "end": 629
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 642,
+        "end": 653
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 668,
+        "end": 684
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 687,
+        "end": 698
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 704,
+        "end": 723
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 729,
+        "end": 739
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "individuo",
+      "span": {
+        "begin": 745,
+        "end": 758
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 764,
+        "end": 778
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "individuo",
+      "span": {
+        "begin": 784,
+        "end": 795
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 801,
+        "end": 814
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "individuo",
+      "span": {
+        "begin": 820,
+        "end": 833
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 839,
+        "end": 856
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "individuo",
+      "span": {
+        "begin": 862,
+        "end": 882
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "individuo",
+      "span": {
+        "begin": 888,
+        "end": 904
+      }
+    }
+  ],
+  "relations": []
+}

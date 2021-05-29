@@ -1,0 +1,46 @@
+{
+  "text": "A tecnologia de RFID tem suas raízes nos sistemas de radares utilizados na Segunda Guerra Mundial. Os alemães, japoneses, americanos e ingleses utilizavam radares -- que foram descobertos em 1937 por Sir Robert Alexander Watson-Watt, um físico escocês -- para avisá-los com antecedência de aviões enquanto eles ainda estavam bem distantes. O problema era identificar dentre esses aviões qual era inimigo e qual era aliado. Os alemães então descobriram que se os seus pilotos girassem seus aviões quando estivessem retornando à base iriam modificar o sinal de rádio que seria refletido de volta ao radar. Esse método simples alertava os técnicos responsáveis pelo radar que se tratava de aviões alemães (esse foi, essencialmente, considerado o primeiro sistema passivo de RFID).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 75,
+        "end": 97
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 188,
+        "end": 195
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 200,
+        "end": 232
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 771,
+        "end": 775
+      }
+    }
+  ],
+  "relations": []
+}

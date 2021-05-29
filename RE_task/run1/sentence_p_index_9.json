@@ -1,0 +1,46 @@
+{
+  "text": "O sucesso da Contra-Reforma no continente e o crescimento de um partido puritano dedicado a estender a Reforma Protestante polarizou a era Elizabetana , apesar da Inglaterra não ter tido até 1640 lutas religiosas comparáveis às dos seus vizinhos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 103,
+        "end": 122
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 135,
+        "end": 150
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 163,
+        "end": 173
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 187,
+        "end": 195
+      }
+    }
+  ],
+  "relations": []
+}

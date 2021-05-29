@@ -1,0 +1,22 @@
+{
+  "text": "Que conto célebre de Hans Christian Andersen é a adaptação do conto \"Aladino e a Lâmpada Mágica\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 69,
+        "end": 95
+      }
+    }
+  ],
+  "relations": []
+}

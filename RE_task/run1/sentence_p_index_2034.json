@@ -1,0 +1,14 @@
+{
+  "text": "Ravelli é o goleiro de que seleção?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    }
+  ],
+  "relations": []
+}

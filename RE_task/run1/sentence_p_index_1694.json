@@ -1,0 +1,14 @@
+{
+  "text": "Que companhia produz Ribena?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 21,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

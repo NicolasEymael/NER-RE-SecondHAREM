@@ -1,0 +1,46 @@
+{
+  "text": "Outra estreita afinidade entre essas duas inteligências - Houaiss e Oiticica ou Oiticica e Houaiss - é o respeito à língua padrão, à norma culta, apanágio da Cultura, que, longe de ser entendida como antiliberal e aprofundadora das diferenças sociais, é tida como um ponto ideal a ser atingido pela ação da escola e das diversas agências de cultura de que dispõe a sociedade. Ambos eram devotos da disciplina gramatical.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 68,
+        "end": 76
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 80,
+        "end": 88
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 91,
+        "end": 98
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 158,
+        "end": 165
+      }
+    }
+  ],
+  "relations": []
+}

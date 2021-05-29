@@ -1,0 +1,14 @@
+{
+  "text": "- Ah, esse não é o filme que teve os armamentos roubados no \"Chapéu Mangueira\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 77
+      }
+    }
+  ],
+  "relations": []
+}

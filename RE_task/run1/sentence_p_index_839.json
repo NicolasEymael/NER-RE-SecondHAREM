@@ -1,0 +1,38 @@
+{
+  "text": "-O Voter.A é um worm com \"consciência cívica\", conta a Panda. Convida os cidadãos do Quénia a participarem em eleições e a votarem num dos candidatos. Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato de nove a nove segundos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 3,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 85,
+        "end": 91
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 226,
+        "end": 249
+      }
+    }
+  ],
+  "relations": []
+}

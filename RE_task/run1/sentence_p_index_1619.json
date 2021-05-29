@@ -1,0 +1,14 @@
+{
+  "text": "Qual era a altura de Marylin Monroe?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que diferencia a atual voga de movimentações coletivas no Brasil são o caráter político de boa parte delas, assim como o uso que muitas fazem da internet, seja via listas de discussão, websites, fotologs e blogs ou simplesmente comunicação e ações planejadas por e-mail.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

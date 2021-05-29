@@ -1,0 +1,22 @@
+{
+  "text": "Discurso de José Sócrates na cerimónia de Proclamação da Carta dos Direitos Fundamentais",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 42,
+        "end": 88
+      }
+    }
+  ],
+  "relations": []
+}

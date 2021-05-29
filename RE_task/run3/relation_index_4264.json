@@ -1,0 +1,29 @@
+{
+  "text": " Fonte: Press Release (28/10/2003). A Expotec 2003, Feira de Ciências e Cultura da Escola Fortec | Feira de Ciências e Cultura da Escola Fortec, reuniu mais de 2000 pessoas na unidade 4, em São Vicente - Feira de Ciências e Cultura da Escola Fortec. Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina Noções básicas de Histórias em Quadrinhos, da Associação dos Artistas - Música e Arte. O evento contou com o lançamento do Zine Expotec 2003 - Meio Ambiente, ilustrações e mascotes criados pelos alunos. Além da exposição, cada aluno criou sua mascote que virou camiseta. A oficina foi coordenada por Fábio Tatsubô com a monitoria de André Prata. Links Relacionados: HQ Nacional. Editora Rocco lança Mulheres Alteradas 5 (09/06/05). Lançamento do mangá Fruits Basket no Anima Weekend (07/04/05). Turma da Mônica será estrela de campanha internacional de vacinação (30/03/05). HQs de Velta disponíveis em CD-Rom (22/03/05). Folclore brasileiro em estilo mangá (03/03/05).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 190,
+        "end": 201
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 130,
+        "end": 143
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

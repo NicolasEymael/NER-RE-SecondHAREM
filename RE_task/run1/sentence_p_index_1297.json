@@ -1,0 +1,22 @@
+{
+  "text": "Quem é o secretário-geral da UGT | secretário-geral da UGT?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 35,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

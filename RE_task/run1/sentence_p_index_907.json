@@ -1,0 +1,51 @@
+{
+  "text": "Vera Lopes deixou o povo presente acabrunhado quando protestou firme porque não consta imagem alguma do teatro africano num dos raros livros brasileiros que falam do assunto - História do Teatro (1978), de Nélson Araújo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 176,
+        "end": 194
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 196,
+        "end": 200
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 206,
+        "end": 219
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Em se tratando da internet, o crescente uso das redes de compartilhamento peer-to-peer, weblogs, software livre, listas de discussão, publicações abertas tipo slashdot, wiki ou Indymedia , as bibliotecas online de livre acesso, foruns e todas as outras formas operacionais das comunidades na rede estariam abrindo o caminho para essa transformação pelo trabalho colaborativo que os ativistas e coletivos de hoje usam como tática de resistência e cuja disseminação compartilhada podem ter consequências ainda imprevisíveis.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 177,
+        "end": 186
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 404,
+        "end": 411
+      }
+    }
+  ],
+  "relations": []
+}

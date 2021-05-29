@@ -1,0 +1,30 @@
+{
+  "text": "O que é a AIEA? Que prémio é recebeu em 2005? Em que cidade podemos encontrar essa agência? Qual foi o seu orçamento para o ano de 2004?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 37,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 117,
+        "end": 135
+      }
+    }
+  ],
+  "relations": []
+}

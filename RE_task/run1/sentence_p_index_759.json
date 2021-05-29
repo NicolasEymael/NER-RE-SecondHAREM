@@ -1,0 +1,54 @@
+{
+  "text": "O Governo socialista espanhol aprovou hoje o aumento do salário mínimo em Espanha , fazendo-o passar dos actuais 570,6 euros para 600 euros no próximo ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 74,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 113,
+        "end": 124
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 130,
+        "end": 139
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 140,
+        "end": 154
+      }
+    }
+  ],
+  "relations": []
+}

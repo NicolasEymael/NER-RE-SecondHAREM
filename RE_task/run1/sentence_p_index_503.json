@@ -1,0 +1,30 @@
+{
+  "text": "O Santander Gestão de Activos considera que \"o início de 2008 não deverá ter muitas novidades em termos de novas entradas em bolsa, face ao aumento de aversão ao risco verificado nas últimas semanas e a redução de liquidez verificada nos mercados financeiros».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 45,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 179,
+        "end": 198
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,38 @@
+{
+  "text": "Saiam da Broadway, rápido, e vejam mais longe ainda o som vibrante do bate-enxadas e do baticum ritmado das botas dos trabalhadores das estradas de ferro que cruzaram os States de leste á oeste, unificando as distancias, antes, sofridamente, percorridas à cavalo ou pelas empoeiradas diligências que conhecemos nos filmes de Far West (e bota Far nisto). Escutem o que eles cantam.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 9,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 170,
+        "end": 176
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 221,
+        "end": 226
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 325,
+        "end": 333
+      }
+    }
+  ],
+  "relations": []
+}

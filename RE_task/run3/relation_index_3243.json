@@ -1,0 +1,29 @@
+{
+  "text": " Nas voltas que a Pampulha dá... Entre os quase 10 mil que correram os quase 18k da Volta Internacional da Pampulha | Volta Internacional da Pampulha no início do mês estava, havia um monte de... Índios !!!. O Antonio Ricardo e mais uma turma da Araribóia Runners , trocou Nikiti por BH para suar ao redor do Lago da Pampulha | Lago da Pampulha . Bela paisagem, calor demais, esforço descomunal para alguns, exemplos de solidariedade que são para a gente seguir... Enfim, mais uma prova para colocar num lugar destacado na prateleira das boas memórias. Diz aí, Antonio ... \"Mais uma vez a prova foi fantástica! Testando resistência, o psicológico e outros bichos mais. Se você acha que a meia maratona é pesada, corra 18km na Pampulha onde a largada somente aconteceu às 10h , debaixo do maior sol e com muito calor. Isso é Pampulha ! O coração da Terra do Pão de Queijo ... Muita gente caída nas calçadas recorrendo ao balão de oxigênio. Muita mesmo!. \"O Alex aqui da Sulamerica , faltando 1 km , sentiu câimbras e foi para o hospital, ficando no soro... Mateus meu filho, faltando 3km , também sentiu câimbras nas duas pernas. Por sorte, o Edu parou e veio com ele devagar até a chegada. (Valeu Edu , obrigado por ajudar meu filho! Araribóia !!!) Continuei meu ritmo e dei uma força para o ' Chico Buarque ' ( Israel ), grande guerreiro araribóia, mandou muito bem! ( 1:40:00 ). Eu estava bem, minha passada dez, mais um índio amigo precisava de apoio pra chegar e, como somos uma família, fiz de tudo para ele cruzar a linha de chegada voando... \"Os índios Araribóias que saíram de Niterói na maior expectativa, cruzaram a linha de chegada com louvor. Parabéns Família Araribóia pelo desempenho na Terra do Pão de Queijo !\". Os arabibóias que deram a volta na Pampulha foram: Claudia Donelate , Jorge Américo , Mateus Silva , Antônio Ricardo , Israel Firmino e Luiz Eduardo Bustamante . Receba este blog PermalinkEnvieComente Ler comentários ( 2 ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 309,
+        "end": 325
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 18,
+        "end": 26
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

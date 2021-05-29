@@ -1,0 +1,907 @@
+{
+  "text": " Superflex lança cerveja \"pública\". 29 de Novembro de 2007. Matéria publicada originalmente na Folha online. FABIO CYPRIANO. REPORTAGEM LOCAL. Uma nova marca de cerveja é lançada, hoje, na galeria Vermelho: a Free Beer. Entretanto, ao contrário das marcas tradicionais, que tratam como segredo de Estado a receita de suas bebidas, no próprio rótulo da Free Beer está estampada sua receita. A Free Beer é a nova ação do coletivo dinamarquês Superflex, composto por Bjornstjerne Reuter Christiansen, Jakob Fenger e Rasmus Nielsen. No ano passado, o grupo trouxe polêmica à 27ª Bienal de São Paulo | 27ª Bienal de São Paulo com o Guaraná Power, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte. Apesar do veto, o Guaraná Power, feito em colaboração com a Cooperativa de Agricultores da Região de Maués | Cooperativa de Agricultores da Região de Maués, na Amazônia, chegou a ser distribuído em museus e na própria Vermelho, durante a Bienal. \"Agora estamos propondo uma marca aberta e, nesse sentido, sugerimos um novo modelo econômico, que permite a qualquer um produzir e distribuir cerveja, a partir de uma receita que é pública, além de criar consumidores não obedientes, como gosta o mercado\", conta Fenger. A Free Beer surgiu em 2004, numa parceria com estudantes da Universidade de Copenhague | Universidade de Copenhague. \"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo\", conta Nielsen. \"Por isso, a Free Beer tem sido comparada ao Linux [sistema operacional gratuito] e à Wikipedia\", diz o artista. Quem quiser produzir e comercializar a Free Beer pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita. \"Já há Free Beer sendo produzida na Inglaterra, nos Estados Unidos, na Dinamarca e até na República Tcheca\", afirma Fenger. No Brasil, a Free Beer está sendo produzida pela Cervejaria Germânia, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa. \"A única coisa que pedimos é que cada nova versão seja também tornada pública no site do Creative Commons\", diz Christiansen. Na Vermelho, o Superflex apresenta o \"Free Beer Kit\", uma mesa com todos os ingredientes e instrumentos necessários para a produção da cerveja, o que será utilizado, aliás, no workshop \"O Mundo da Cerveja\", com os especialistas Cilene Saorin e Arnaldo Ribeiro, no próximo dia 15 de dezembro, às 14 h. O grupo exibe também nove máquinas \"Counter-Game Strategies\" (estratégias de contra-jogos), típicos brinquedos de quermesse, como jogo de argolas ou rodas giratórias, que, contudo, abordam de forma irônica o universo dos direitos autorais e da pirataria. \"Mark Getty afirma que \"a propriedade intelectual é o petróleo do século 21'\", conta Christiansen, \"portanto, estamos tratando de um tema muito sério. Afinal, quantas guerras não foram realizadas por conta do petróleo?\". No próximo sábado, às 16h, Ronaldo Lemos, diretor do Creative Commons | diretor do Creative Commons no Brasil, irá participar de um debate com os membros do Superflex, na Vermelho, e logo após será realizada uma gincana intitulada \"Free Beer Pub Quiz\", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 95,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 109,
+        "end": 123
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 125,
+        "end": 141
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 180,
+        "end": 184
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 197,
+        "end": 205
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 209,
+        "end": 218
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 352,
+        "end": 361
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 392,
+        "end": 401
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 440,
+        "end": 449
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 464,
+        "end": 496
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 498,
+        "end": 510
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 513,
+        "end": 527
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 529,
+        "end": 543
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 571,
+        "end": 594
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 597,
+        "end": 607
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 611,
+        "end": 620
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 627,
+        "end": 640
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 755,
+        "end": 768
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 797,
+        "end": 843
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 846,
+        "end": 873
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 877,
+        "end": 892
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 897,
+        "end": 905
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 955,
+        "end": 963
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 975,
+        "end": 981
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1246,
+        "end": 1252
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "obra",
+      "span": {
+        "begin": 1256,
+        "end": 1265
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 1273,
+        "end": 1280
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1314,
+        "end": 1340
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1343,
+        "end": 1355
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 1359,
+        "end": 1369
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1487,
+        "end": 1494
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1509,
+        "end": 1518
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1541,
+        "end": 1546
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1582,
+        "end": 1591
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "outro",
+      "span": {
+        "begin": 1648,
+        "end": 1657
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "outro",
+      "span": {
+        "begin": 1745,
+        "end": 1754
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1774,
+        "end": 1784
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "local",
+      "span": {
+        "begin": 1790,
+        "end": 1804
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 1809,
+        "end": 1818
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1828,
+        "end": 1844
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 1854,
+        "end": 1860
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "local",
+      "span": {
+        "begin": 1865,
+        "end": 1871
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "outro",
+      "span": {
+        "begin": 1875,
+        "end": 1884
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1911,
+        "end": 1930
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2123,
+        "end": 2139
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "individuo",
+      "span": {
+        "begin": 2146,
+        "end": 2158
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 2163,
+        "end": 2171
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2175,
+        "end": 2184
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "outro",
+      "span": {
+        "begin": 2198,
+        "end": 2211
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2346,
+        "end": 2364
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "individuo",
+      "span": {
+        "begin": 2388,
+        "end": 2401
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "individuo",
+      "span": {
+        "begin": 2404,
+        "end": 2419
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "tempo",
+      "span": {
+        "begin": 2421,
+        "end": 2450
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "tempo",
+      "span": {
+        "begin": 2452,
+        "end": 2459
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "outro",
+      "span": {
+        "begin": 2497,
+        "end": 2520
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "individuo",
+      "span": {
+        "begin": 2717,
+        "end": 2727
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "tempo",
+      "span": {
+        "begin": 2779,
+        "end": 2791
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "individuo",
+      "span": {
+        "begin": 2801,
+        "end": 2813
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "tempo",
+      "span": {
+        "begin": 2937,
+        "end": 2954
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "tempo",
+      "span": {
+        "begin": 2956,
+        "end": 2962
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "individuo",
+      "span": {
+        "begin": 2964,
+        "end": 2977
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "individuo",
+      "span": {
+        "begin": 2979,
+        "end": 3006
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3020,
+        "end": 3036
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "local",
+      "span": {
+        "begin": 3040,
+        "end": 3046
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3094,
+        "end": 3103
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "local",
+      "span": {
+        "begin": 3108,
+        "end": 3116
+      }
+    },
+    {
+      "id": "T69",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 3169,
+        "end": 3187
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R3",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T8"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "produtor_de",
+      "subj": "T11",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "ter_participacao_de",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "ter_participacao_de",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "produzido_por",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T19"
+    },
+    {
+      "id": "R13",
+      "pred": "produtor_de",
+      "subj": "T21",
+      "obj": "T19"
+    },
+    {
+      "id": "R14",
+      "pred": "produtor_de",
+      "subj": "T22",
+      "obj": "T19"
+    },
+    {
+      "id": "R15",
+      "pred": "inclui",
+      "subj": "T24",
+      "obj": "T23"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T7"
+    },
+    {
+      "id": "R17",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T18"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T16"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T13"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T8"
+    },
+    {
+      "id": "R21",
+      "pred": "obra_de",
+      "subj": "T28",
+      "obj": "T1"
+    },
+    {
+      "id": "R22",
+      "pred": "data_de",
+      "subj": "T29",
+      "obj": "T28"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T14"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T10"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T9"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T9"
+    },
+    {
+      "id": "R27",
+      "pred": "sede_de",
+      "subj": "T39",
+      "obj": "T38"
+    },
+    {
+      "id": "R28",
+      "pred": "sede_de",
+      "subj": "T40",
+      "obj": "T38"
+    },
+    {
+      "id": "R29",
+      "pred": "sede_de",
+      "subj": "T41",
+      "obj": "T38"
+    },
+    {
+      "id": "R30",
+      "pred": "sede_de",
+      "subj": "T41",
+      "obj": "T30"
+    },
+    {
+      "id": "R31",
+      "pred": "inclui",
+      "subj": "T41",
+      "obj": "T32"
+    },
+    {
+      "id": "R32",
+      "pred": "natural_de",
+      "subj": "T41",
+      "obj": "T1"
+    },
+    {
+      "id": "R33",
+      "pred": "sede_de",
+      "subj": "T42",
+      "obj": "T38"
+    },
+    {
+      "id": "R34",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T13"
+    },
+    {
+      "id": "R35",
+      "pred": "inclui",
+      "subj": "T44",
+      "obj": "T18"
+    },
+    {
+      "id": "R36",
+      "pred": "inclui",
+      "subj": "T44",
+      "obj": "T24"
+    },
+    {
+      "id": "R37",
+      "pred": "sede_de",
+      "subj": "T44",
+      "obj": "T16"
+    },
+    {
+      "id": "R38",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T8"
+    },
+    {
+      "id": "R39",
+      "pred": "produtor_de",
+      "subj": "T46",
+      "obj": "T8"
+    },
+    {
+      "id": "R40",
+      "pred": "localizado_em",
+      "subj": "T46",
+      "obj": "T44"
+    },
+    {
+      "id": "R41",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T12"
+    },
+    {
+      "id": "R42",
+      "pred": "ident",
+      "subj": "T49",
+      "obj": "T7"
+    },
+    {
+      "id": "R43",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T1"
+    },
+    {
+      "id": "R44",
+      "pred": "outrarel",
+      "subj": "T51",
+      "obj": "T8"
+    },
+    {
+      "id": "R45",
+      "pred": "produzido_por",
+      "subj": "T51",
+      "obj": "T1"
+    },
+    {
+      "id": "R46",
+      "pred": "participante_em",
+      "subj": "T53",
+      "obj": "T52"
+    },
+    {
+      "id": "R47",
+      "pred": "participante_em",
+      "subj": "T54",
+      "obj": "T52"
+    },
+    {
+      "id": "R48",
+      "pred": "data_de",
+      "subj": "T55",
+      "obj": "T52"
+    },
+    {
+      "id": "R49",
+      "pred": "data_de",
+      "subj": "T56",
+      "obj": "T52"
+    },
+    {
+      "id": "R50",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T12"
+    },
+    {
+      "id": "R51",
+      "pred": "ident",
+      "subj": "T64",
+      "obj": "T64"
+    },
+    {
+      "id": "R52",
+      "pred": "ident",
+      "subj": "T65",
+      "obj": "T47"
+    },
+    {
+      "id": "R53",
+      "pred": "vinculo_inst",
+      "subj": "T65",
+      "obj": "T63"
+    },
+    {
+      "id": "R54",
+      "pred": "ident",
+      "subj": "T66",
+      "obj": "T44"
+    },
+    {
+      "id": "R55",
+      "pred": "natural_de",
+      "subj": "T66",
+      "obj": "T63"
+    },
+    {
+      "id": "R56",
+      "pred": "ident",
+      "subj": "T67",
+      "obj": "T1"
+    },
+    {
+      "id": "R57",
+      "pred": "ident",
+      "subj": "T68",
+      "obj": "T7"
+    },
+    {
+      "id": "R58",
+      "pred": "outrarel",
+      "subj": "T69",
+      "obj": "T8"
+    }
+  ]
+}

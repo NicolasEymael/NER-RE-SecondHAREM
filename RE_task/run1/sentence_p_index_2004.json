@@ -1,0 +1,29 @@
+{
+  "text": "Onde ganharam os Abba o Festival da Eurovisão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 45
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

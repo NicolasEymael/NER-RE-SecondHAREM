@@ -1,0 +1,77 @@
+{
+  "text": "Em relação à actualização das pensões atribuídas pelo sistema de Segurança Social, as pensões de valor igual ou inferior a 1,5 IAS (611,10 euros) são actualizadas em 2,7%, as pensões entre 1,5 IAS e 6 IAS tem uma actualização de 2,17% e as pensões de valor superior a 6 IAS tem um aumento de 1,88%.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 65,
+        "end": 81
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 132,
+        "end": 144
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 166,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 183,
+        "end": 204
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 229,
+        "end": 234
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 268,
+        "end": 273
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 292,
+        "end": 297
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem atribui a Medalha Fields?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 15,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

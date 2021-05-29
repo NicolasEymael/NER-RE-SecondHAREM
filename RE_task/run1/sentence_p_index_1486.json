@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que teve lugar a primeira Love Parade?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 35,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,51 @@
+{
+  "text": "Hergé é autor de algumas das coisas mais geniais e profundas da história dos quadrinhos. Inclua-se na lista sua obra prima, Tintim no Tibete , na qual o jovem repórter embrenha-se pelas montanhas geladas na tentativa de encontrar Chang , seu amigo chinês, único sobrevivente de um acidente de avião. O livro, de 1960 , é místico, orientalizado, respeitoso - tolerante e fascinado com o encontro de culturas distintas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 124,
+        "end": 140
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 235
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 309,
+        "end": 316
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "personagem_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

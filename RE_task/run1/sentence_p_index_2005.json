@@ -1,0 +1,14 @@
+{
+  "text": "Onde naufragou o Marika-7?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "A desforra de Granada",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Por favor, não entenda, por uísque barato, uísque vagabundo. É uísque bom, sem batismo, só que de preço baixo mesmo. Venho notando isso nos últimos meses. Deve ser por conta da queda do dólar: os donos de bares, finalmente, estão entendendo que uísque escocês não tem, necessariamente, que sair caro no balcão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 136,
+        "end": 153
+      }
+    }
+  ],
+  "relations": []
+}

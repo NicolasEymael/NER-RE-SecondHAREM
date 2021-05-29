@@ -1,0 +1,259 @@
+{
+  "text": "Detroit tem por longo tempo sido um lugar de referência na imaginação sônica. Com o fim da escravatura, ela se tornou, como Chicago , um das estações ferroviárias do êxodo negro na direção do norte. As ferrovias atuavam como artérias culturais, trasmitindo pessoas e formas culturais do profundo sul de New Orleans e o rural Delta do Mississipi , pelo centro-oeste e para o iluminado mundo novo urbano dos Grandes Lagos . No processo o som acústico do Blues do Delta | Blues do Delta foi exposto ao ruído das linhas de produção industrial, e se transmutou no boogie de trem a vapor, de chão de fábrica do Rythm'n'Blues elétrico. O Blues de Basin Street | Blues de Basin Street vira a Pegada da Cidade Motor ( Motor City Stomp ). Quando do boom dos anos sessenta , Detroit era sinônimo das esperançosas ficções-soul de três minutos da Motown , um selo cuja ética produtivista e apelo de mercado massificado foi sempre um irônico espelho da cultura da Ford e da General Motors que dominava as vidas de seu jovem público negro. O povo da Motown deu seus primeiros passos dançando nas ruas, mas, à medida que os 70 iam passando, eles foram gradualmente reduzidos a viver só para a cidade. Durante os desolados anos Reagan | Durante os desolados anos Reagan , Detroit parecia uma zona morta, um símbolo do fim da velha ordem industrial. Mas pelo começo dos noventa a decadente cidade, tendo absorvido o trauma da crise do petróleo e a recessão mundial, reinventou-se como o imaginário e sombrio coração de uma nova cultura urbana global.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 124,
+        "end": 131
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 303,
+        "end": 314
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 325,
+        "end": 344
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 406,
+        "end": 419
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 452,
+        "end": 466
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 469,
+        "end": 474
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 478,
+        "end": 483
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 605,
+        "end": 618
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 631,
+        "end": 652
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 655,
+        "end": 660
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 664,
+        "end": 676
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 684,
+        "end": 706
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 709,
+        "end": 725
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 744,
+        "end": 761
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 764,
+        "end": 771
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 815,
+        "end": 830
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 834,
+        "end": 840
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 950,
+        "end": 954
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 960,
+        "end": 974
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1035,
+        "end": 1041
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 1105,
+        "end": 1110
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1185,
+        "end": 1217
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1246,
+        "end": 1252
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1255,
+        "end": 1262
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1336,
+        "end": 1359
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_em",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "praticado_em",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "praticado_em",
+      "subj": "T12",
+      "obj": "T13"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T14"
+    }
+  ]
+}

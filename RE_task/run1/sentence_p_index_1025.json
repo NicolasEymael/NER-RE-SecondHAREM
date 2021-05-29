@@ -1,0 +1,30 @@
+{
+  "text": "O governo britânico não está censurando: pede que as livrarias cooperem interrompendo a venda. Tintim na África faz parte de uma coleção de 23 álbuns. Se é mais imaturo - e é - também é um retrato de como a burguesia européia via o resto do mundo nos anos 1930 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 95,
+        "end": 111
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 140,
+        "end": 142
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 247,
+        "end": 260
+      }
+    }
+  ],
+  "relations": []
+}

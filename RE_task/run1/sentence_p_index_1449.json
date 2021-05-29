@@ -1,0 +1,37 @@
+{
+  "text": "Quando é que Goethe fundou a Sociedade das Sextas? Em que ano assistiu ele à coroação do Imperador José II? Em que ano nasceu ele? Em que cidade é que ele morreu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 49
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 89,
+        "end": 106
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

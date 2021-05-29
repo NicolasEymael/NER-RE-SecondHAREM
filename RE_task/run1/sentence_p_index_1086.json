@@ -1,0 +1,14 @@
+{
+  "text": "Link : Cybertracker (www.cybertracker.co.za).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 7,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

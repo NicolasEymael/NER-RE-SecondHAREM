@@ -1,0 +1,38 @@
+{
+  "text": "© Miguel Sousa Tavares - Jornal \"A Bola\" | Jornal \" A Bola \" - 21.02.2006",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 52,
+        "end": 58
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 63,
+        "end": 73
+      }
+    }
+  ],
+  "relations": []
+}

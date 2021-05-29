@@ -1,0 +1,38 @@
+{
+  "text": "O Presidente da República , Aníbal Cavaco Silva , vai deixar uma série de recados ao Governo nas palavras que vai dirigir ao país no primeiro dia do ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 85,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 130,
+        "end": 152
+      }
+    }
+  ],
+  "relations": []
+}

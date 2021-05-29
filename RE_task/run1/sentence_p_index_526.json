@@ -1,0 +1,46 @@
+{
+  "text": "O espanhol está 100 por cento vitorioso face a Jesualdo, mas nunca enceu o FC Porto para o campeonato, tendo como melhor registo o empate na Luz, em 2003/2004 (1-1).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 47,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 75,
+        "end": 83
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 141,
+        "end": 144
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 146,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 160,
+        "end": 163
+      }
+    }
+  ],
+  "relations": []
+}

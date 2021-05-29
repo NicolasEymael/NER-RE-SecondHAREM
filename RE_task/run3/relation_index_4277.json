@@ -1,0 +1,29 @@
+{
+  "text": " Telemóveis vão ter domínio na Net. 2005-07-13. A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos. E o ICANN assincou já o acordo nesse sentido com a mTLD Top Level Domain, que congrega a GSM Association, a Microsoft, fabricantes como a Nokia, a Samsung e a Ericsson e operadores como a Vodafone, a Telefónica Móviles, a Hutchison 3 e a T-Mobile. O objectivo desta iniciativa é fazer aumentar a utilização da Internet | Internet no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 461,
+        "end": 469
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 324,
+        "end": 345
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

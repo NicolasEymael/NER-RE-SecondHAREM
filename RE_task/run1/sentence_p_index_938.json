@@ -1,0 +1,22 @@
+{
+  "text": "O filme, que chegou ao público no dia 7 de dezembro , já pode ser visto pelo site www.3efes.com.br. Confira a entrevista exclusiva com o diretor Carlos Gerbase :",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 137,
+        "end": 159
+      }
+    }
+  ],
+  "relations": []
+}

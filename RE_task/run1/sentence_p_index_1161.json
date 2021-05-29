@@ -1,0 +1,155 @@
+{
+  "text": "R. prolixus é a espécie vetora mais importante da Colômbia e Venezuela, onde tem hábito doméstico, sendo responsável pela transmissão natural da Doença de Chagas. Também é importante em algumas partes da América Central, particularmente em El Salvador, Guatemala e Honduras. No ambiente domiciliar, R. prolixus alimenta-se principalmente de sangue humano e de aves, embora utilize também, como fonte alimentar, cães e gatos. No ambiente silvestre, faz uso de marsupiais e roedores como fonte de alimento. R. pallescens é importante vetora no Panamá, invade casas com freqüência formando colônias e é encontrada também no peridomicílio e em ambientes silvestres em palmeiras. As populações domésticas na área central do Panamá têm como fonte alimentar o homem (59%), seguido por marsupiais e aves domésticas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 70
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 145,
+        "end": 161
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 219
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 240,
+        "end": 251
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 253,
+        "end": 262
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 265,
+        "end": 273
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 299,
+        "end": 310
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 505,
+        "end": 518
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 542,
+        "end": 548
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 563,
+        "end": 577
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 719,
+        "end": 725
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 760,
+        "end": 763
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T11"
+    }
+  ]
+}

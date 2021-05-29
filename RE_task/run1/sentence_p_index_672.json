@@ -1,0 +1,75 @@
+{
+  "text": "10. O BE está em crise. Deixou-se enredar com o PS em Lisboa , o pior sítio para alguém se enredar com o PS . Deixou-se reduzir a Louçã e Louçã fixou-se num discurso cujo esgotamento irrita mais do que cansa. Para a contestação social o PCP é mais eficaz, e as causas \"fracturantes\" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 6,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 105,
+        "end": 107
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 130,
+        "end": 135
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 138,
+        "end": 143
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 237,
+        "end": 240
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

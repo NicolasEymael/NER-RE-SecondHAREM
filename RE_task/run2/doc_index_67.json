@@ -1,0 +1,241 @@
+{
+  "text": " PASSAPORTE BIOLÓGICO EM 2008. O ano de 2008 promete ser aquele em que tudo se fará para combater o flagelo do doping. Pelo menos é esta a intenção de vários agentes da modalidade que criaram, para tal, o passaporte biológico, a designação de um documento electrónico e individual na qual constarão todos os resultados dos controlos antidoping à urina e ao sangue efectuados aos ciclistas, assim como o respectivo perfil hematológico. O cruzamento destas informações permitirá avaliar as variações das análises e, consequentemente, detectar se houve manipulação de sangue. O passaporte biológico é o resultado de uma reunião verificada há alguns meses, em Paris, organizada pelo ministro francês da Saúde, o ministro francês da Saúde, a UCI e a Agência Mundial Antidopagem (AMA). O objectivo é chegar ao Tour com o passaporte biológico de todos os possíveis participantes em total funcionamento, de modo a evitarem-se os casos de doping que ocorreram este ano. O passaporte biológico abrange todos os ciclistas do ProTour, onde só há um português, podendo as equipas Continentais Profissionais, na qual faz parte o Benfica, serem também abrangidas. Ao todo, o grupo de trabalho prevê fazer 4.200 análises ao sangue -- seis por cada ciclista do ProTour --, mais 3.700 do que em 2007. Em suma, a UCI quer controlar em 2008 cada ciclista por 12 vezes -- às análises de sangue juntam-se às da urina --, na sua maioria inopinadas, devendo gastar, com todo o programa do passaporte biológico, qualquer coisa como 6 milhões de euros, contra 1 milhão gasto este ano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 22,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 636,
+        "end": 651
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 656,
+        "end": 661
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 699,
+        "end": 704
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 728,
+        "end": 733
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 737,
+        "end": 740
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 745,
+        "end": 772
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 774,
+        "end": 777
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 804,
+        "end": 808
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 951,
+        "end": 959
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1014,
+        "end": 1021
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1067,
+        "end": 1093
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1115,
+        "end": 1122
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 1190,
+        "end": 1195
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1244,
+        "end": 1251
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 1261,
+        "end": 1266
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 1274,
+        "end": 1281
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1294,
+        "end": 1297
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 1313,
+        "end": 1320
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1335,
+        "end": 1347
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 1507,
+        "end": 1525
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 1534,
+        "end": 1542
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1549,
+        "end": 1557
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T12"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T11"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T7"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T11"
+    }
+  ]
+}

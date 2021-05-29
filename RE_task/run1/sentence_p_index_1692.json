@@ -1,0 +1,14 @@
+{
+  "text": "Quem são os \"All Blacks\"? Quem é o seu capitão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

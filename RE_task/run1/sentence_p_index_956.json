@@ -1,0 +1,78 @@
+{
+  "text": "Segundo Calvino ( 1990 : 121), \" Gadda durante toda a sua vida buscou representar o mundo como um rolo, uma embrulhada, um aranzel, sem jamais atenuar-lhe a complexidade inextricável - ou, melhor dizendo, a presença simultânea dos elementos mais heterogêneos que concorrem para a determinação de cada evento\". E mais adiante, apoiado no ensaio La disarmonia prestabilita | La disarmonia prestabilita do crítico Gian Carlo Roscioni , Calvino ainda coloca que \"esse conhecimento das coisas enquanto 'relações infinitas, passadas e futuras, reais e possíveis, que para elas convergem?, exige que tudo seja exatamente denominado, descrito e localizado no espaço e no tempo\"( CALVINO, 1990 | CALVINO, 1990:123).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 8,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 18,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 33,
+        "end": 38
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 344,
+        "end": 370
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 411,
+        "end": 430
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 433,
+        "end": 440
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 671,
+        "end": 684
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 687,
+        "end": 694
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 696,
+        "end": 700
+      }
+    }
+  ],
+  "relations": []
+}

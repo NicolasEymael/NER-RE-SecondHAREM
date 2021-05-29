@@ -1,0 +1,14 @@
+{
+  "text": "Quantos habitantes tem a Lituânia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

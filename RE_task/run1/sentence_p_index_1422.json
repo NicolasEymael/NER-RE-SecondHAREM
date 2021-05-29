@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava o vocalista dos Nirvana?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

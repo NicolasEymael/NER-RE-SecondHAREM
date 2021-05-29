@@ -1,0 +1,67 @@
+{
+  "text": "O resultado mais triste da paranóia do Senador MacCarthy e do chefe do FBI | chefe do FBI , J Edgar Hoover , foi a criação do Comics Code , aquele selinho encontrado em todas as revistas comercializadas nos EUA . Sem ele, as publicações de quadrinhos não poderiam ser vendidas, o que levou as editoras a implantar a censura interna, acabando assim com a liberdade de criação de seus artistas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 92,
+        "end": 106
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 126,
+        "end": 137
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 207,
+        "end": 210
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

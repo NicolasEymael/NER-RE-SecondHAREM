@@ -1,0 +1,29 @@
+{
+  "text": "Gostaria muito, que os Acólitos, se registassem no forum, de modo a ser algo organizado, principalmente os da AAPSE e é muito simples, querem ver.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 110,
+        "end": 115
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

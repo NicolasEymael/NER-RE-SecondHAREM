@@ -1,0 +1,29 @@
+{
+  "text": "Em que cidade é que Nietzsche escreveu \"Ecce Homo\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 40,
+        "end": 49
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

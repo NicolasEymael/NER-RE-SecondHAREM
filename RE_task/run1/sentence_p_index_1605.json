@@ -1,0 +1,22 @@
+{
+  "text": "Quando é que a Tanzânia fechou as fronteiras aos refugiados do Ruanda?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 15,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 63,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

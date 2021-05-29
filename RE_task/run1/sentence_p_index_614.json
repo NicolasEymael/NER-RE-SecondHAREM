@@ -1,0 +1,86 @@
+{
+  "text": "Os homens também choram, e isso ficou provado quando os jogadores da Selecção cantaram o hino antes do Escócia-Portugal | Escócia-Portugal. As imagens emocionaram o País mas não só. No bloco informativo dedicado à prova, a TF1 -- uma das principais cadeias de televisão francesas -- anunciou «o momento mais incrível do Mundial até agora» e, de seguida, exibiu «A Portuguesa» na íntegra, com os Lobos a chorarem.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 69,
+        "end": 77
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 103,
+        "end": 119
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 129
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 130,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 165,
+        "end": 169
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 223,
+        "end": 226
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 293,
+        "end": 302
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 320,
+        "end": 327
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 362,
+        "end": 374
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 395,
+        "end": 400
+      }
+    }
+  ],
+  "relations": []
+}

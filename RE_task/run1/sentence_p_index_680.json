@@ -1,0 +1,14 @@
+{
+  "text": "Pêro da Covilhã",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

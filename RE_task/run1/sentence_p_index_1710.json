@@ -1,0 +1,14 @@
+{
+  "text": "O que é Sky Europe? Quando é que foi fundada? Quantas pessoas é que emprega? Quantas linhas opera?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

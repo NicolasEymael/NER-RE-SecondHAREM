@@ -1,0 +1,70 @@
+{
+  "text": "Entre os compromissos assumidos pela Sonae Distribuição , conta-se ainda o de não apresentar pedidos de novas licenças para retalho de base alimentar nos mercados relevantes Montijo , Seixal , Barreiro , Paços de Ferreira , Penafiel , Viana do Castelo , coimbra e Portimão .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 174,
+        "end": 181
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 184,
+        "end": 190
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 193,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 221
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 224,
+        "end": 232
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 235,
+        "end": 251
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 264,
+        "end": 272
+      }
+    }
+  ],
+  "relations": []
+}

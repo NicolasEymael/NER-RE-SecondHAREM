@@ -1,0 +1,125 @@
+{
+  "text": "É só uma questão de tempo até os jornais começarem a perguntar onde está o PSD , onde está Menezes , onde está a oposição vinda do partido que é suposto \"liderá-la\", que não se vê em parte nenhuma. O PP , o PCP e o BE , nalguns casos mesmo alguns raros dissidentes do PS socrático, têm criticado o Governo , enquanto o PSD passa entre as sombras, ou ficando pura e simplesmente silencioso, ou murmurando umas críticas de circunstância que ninguém ouve, ou, em muitos casos, concordando com o Governo e o PS . O único \"não\" sonoro que se ouviu foi a recusa do empréstimo à Câmara de Lisboa | Câmara de Lisboa , acompanhado por uma condução política que primou pela completa inépcia. Esse é daqueles que mais valia não se ter ouvido, sem com isso dizer que Costa tinha razão, que não a tinha.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 75,
+        "end": 78
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 91,
+        "end": 98
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 200,
+        "end": 202
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 207,
+        "end": 210
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 215,
+        "end": 217
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 268,
+        "end": 270
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 298,
+        "end": 305
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 319,
+        "end": 322
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 492,
+        "end": 499
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 504,
+        "end": 506
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 572,
+        "end": 588
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 591,
+        "end": 597
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 601,
+        "end": 607
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 755,
+        "end": 760
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

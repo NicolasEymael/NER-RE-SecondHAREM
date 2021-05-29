@@ -1,0 +1,59 @@
+{
+  "text": "\"O que eles sempre nos disseram é que isso [a referência à marca do guaraná Antarctica] poderia ser um problema, mas o presidente nunca nos deu respostas claras. Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas. Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal\", afirmou Jakob Fenger, um dos membros do coletivo, em entrevista para a Folha de São Paulo, em matéria que informa ainda: \"Por meio de sua assessoria, a AmBev [fabricante do guaraná Antarctica] declarou não ver problema na obra. Diz não ter tido nenhum contato com o grupo\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 76,
+        "end": 86
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 348,
+        "end": 360
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 411,
+        "end": 429
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 492,
+        "end": 497
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 521,
+        "end": 531
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "produtor_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

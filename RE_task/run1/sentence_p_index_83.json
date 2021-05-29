@@ -1,0 +1,78 @@
+{
+  "text": "Mas a festa vai continuar ao longo do ano de 2008 . Cada edição do Programa de Actividades assinalará com o selo CCB 15 Anos os espectáculos integrados nesta oferta especial. E contamos com todos, nesta comemoração de uma data que deve ser pretexto para uma renovação da nossa ligação com o público que connosco habita, todos os dias, de há 15 anos para cá | de há 15 anos para cá , o Centro Cultural de Belém | Centro Cultural de Belém .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 67,
+        "end": 90
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 113,
+        "end": 124
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 320,
+        "end": 333
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 335,
+        "end": 356
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 365,
+        "end": 372
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 385,
+        "end": 409
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 412,
+        "end": 427
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 431,
+        "end": 436
+      }
+    }
+  ],
+  "relations": []
+}

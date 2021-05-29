@@ -1,0 +1,14 @@
+{
+  "text": "Qual era a divisa austríaca antes de 2002?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 28,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

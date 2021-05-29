@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Keith Musto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

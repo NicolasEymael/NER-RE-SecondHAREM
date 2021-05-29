@@ -1,0 +1,14 @@
+{
+  "text": "Quem salvou judeus durante a Segunda Guerra Mundial?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 29,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

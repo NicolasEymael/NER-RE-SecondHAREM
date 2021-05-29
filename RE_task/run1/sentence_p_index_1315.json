@@ -1,0 +1,14 @@
+{
+  "text": "O Bibendum é a mascote de que empresa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 10
+      }
+    }
+  ],
+  "relations": []
+}

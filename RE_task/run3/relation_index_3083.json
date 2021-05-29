@@ -1,0 +1,29 @@
+{
+  "text": " Na internet, no cinema, na TV, na Locadora. Carlos Gerbase faz parte de uma geração de cineastas que apareceu em Porto Alegre nos anos 90 , com a intenção de colocar o Rio Grande do Sul no mapa nacional da Sétima Arte . Através da Casa de Cinema de Porto Alegre | Casa de Cinema de Porto Alegre , esse grupo produziu obras-primas como o curta-metragem Ilha das Flores e apresentou para o país cineastas como Jorge Furtado , considerado um dos mais interessantes realizadores do cinema brasileiro atual. Gerbase faz parte desse grupo e, mantendo a tradição, coloca mais uma questão para a produção nacional ao lançar seu novo filme 3 Efes simultaneamente no cinema, na TV, na internet e em DVD. \"Só faltou a versão rádio\", brincou ele, bem-humorado, com a reportagem do jornal fluminense O Globo . Segundo a sinopse oferecida pela produção do filme, \" 3 Efes é uma comédia dramática que aborda as dificuldades - afetivas, financeiras e culturais - enfrentadas por um grupo de personagens que circula em torno de Sissi , uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno. Nessa situação de dificuldade, Sissi recorre aos conselhos de sua tia, Martina , uma dona-de-casa entediada que, em meio a uma crise no seu casamento com o publicitário Rogério , fica irresistivelmente atraída por William , um simples catador de papel. Rogério também está em apuros: sua última campanha publicitária deu errado, e agora ele precisa dar um jeito de salvar seu emprego - de qualquer jeito. Assim, sob todas essas pressões do cotidiano, os personagens acabam tomando importantes decisões que vão mudar muita coisa entre eles - e também provocar algumas situações inusitadas\". O filme, que chegou ao público no dia 7 de dezembro , já pode ser visto pelo site www.3efes.com.br. Confira a entrevista exclusiva com o diretor Carlos Gerbase :.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1318,
+        "end": 1325
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 852,
+        "end": 858
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "personagem_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

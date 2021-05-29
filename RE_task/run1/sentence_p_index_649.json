@@ -1,0 +1,46 @@
+{
+  "text": "«Esta é uma cimeira que não se realiza há sete anos, uma cimeira sobre os direitos do Homem, sobre as alterações climáticas, sobre as migrações, sobre os problemas da União Europeia e da União Africana», salientou Sócrates.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 39,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 167,
+        "end": 181
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 187,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 214,
+        "end": 222
+      }
+    }
+  ],
+  "relations": []
+}

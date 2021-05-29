@@ -1,0 +1,22 @@
+{
+  "text": "É justamente isso que hoje nos distingue do Islão : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

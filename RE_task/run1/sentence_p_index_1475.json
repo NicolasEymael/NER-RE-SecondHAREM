@@ -1,0 +1,119 @@
+{
+  "text": "Quando é que acabou a Guerra do Vietname? Quantos soldados é que os EUA tinham estacionados no Vietname durante a Guerra nos anos 60? Quantas pessoas morreram na Guerra do Vietname? Quem era presidente dos EUA | presidente dos EUA quando a guerra chegou ao fim?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 22,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 68,
+        "end": 71
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 95,
+        "end": 103
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 114,
+        "end": 120
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 121,
+        "end": 132
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 162,
+        "end": 180
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 209
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 227,
+        "end": 230
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T2"
+    }
+  ]
+}

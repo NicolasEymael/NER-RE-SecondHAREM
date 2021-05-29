@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o líder da organização Pro Familia? Quantos membros têm a organização?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

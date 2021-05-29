@@ -1,0 +1,127 @@
+{
+  "text": "Na verdade a Reforma na Inglaterra procurou preservar o máximo da Tradição Católica (episcopado, liturgia e sacramentos). A Igreja da Inglaterra | Igreja da Inglaterra sempre se viu como a \"eclesia anglicanae\", ou seja, \"A Igreja cristã na Inglaterra \" e não derivação da Igreja de Roma | Igreja de Roma ou do movimento reformista do século XVI .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 66,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 124,
+        "end": 144
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 147,
+        "end": 153
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 157,
+        "end": 167
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 223,
+        "end": 229
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 240,
+        "end": 250
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 272,
+        "end": 286
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 289,
+        "end": 295
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 299,
+        "end": 303
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 331,
+        "end": 344
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

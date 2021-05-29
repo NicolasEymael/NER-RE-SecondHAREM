@@ -1,0 +1,14 @@
+{
+  "text": "Que famoso condutor argentino se retirou em 1958?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 41,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Diga uma catedral de Sófia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

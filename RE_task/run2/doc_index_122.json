@@ -1,0 +1,173 @@
+{
+  "text": " Telemóveis vão ter domínio na Net. 2005-07-13. A decisão vem na sequência de vários pedidos de um grupo de operadores móveis e fabricantes de telemóveis, que criaram uma joint-venture» para estimular o aparecimento de sites destinados exclusivamente a estes equipamentos. E o ICANN assincou já o acordo nesse sentido com a mTLD Top Level Domain, que congrega a GSM Association, a Microsoft, fabricantes como a Nokia, a Samsung e a Ericsson e operadores como a Vodafone, a Telefónica Móviles, a Hutchison 3 e a T-Mobile. O objectivo desta iniciativa é fazer aumentar a utilização da Internet | Internet no telemóvel, funcionalidade ainda pouco utilizada, devido à escassez de sites e conteúdos adaptados aos equipamentos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 277,
+        "end": 282
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 324,
+        "end": 345
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 362,
+        "end": 377
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 381,
+        "end": 390
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 411,
+        "end": 416
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 420,
+        "end": 427
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 432,
+        "end": 440
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 461,
+        "end": 469
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 473,
+        "end": 491
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 495,
+        "end": 506
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 511,
+        "end": 519
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 583,
+        "end": 591
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T4"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T4"
+    }
+  ]
+}

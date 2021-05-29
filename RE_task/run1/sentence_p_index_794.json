@@ -1,0 +1,38 @@
+{
+  "text": "«Trata-se de uma daquelas situações inoportunas e um exemplo lamentável que nos mostra que estamos em face de uma dependência grave», disse à Lusa o presidente da Confederação Portuguesa para a Prevenção do Tabagismo | presidente da Confederação Portuguesa para a Prevenção do Tabagismo, Luís Rebelo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 142,
+        "end": 146
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 149,
+        "end": 216
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 233,
+        "end": 286
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 288,
+        "end": 299
+      }
+    }
+  ],
+  "relations": []
+}

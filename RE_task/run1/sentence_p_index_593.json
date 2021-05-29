@@ -1,0 +1,54 @@
+{
+  "text": "Os peritos consideram provável que, com uma taxa de ataque de 30 por cento, existiriam 3.106.835 casos de gripe, 3.624.641 numa taxa de ataque de 35 por cento e 4.142.447 perante a mais severa taxa de ataque (40 por cento).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 62,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 87,
+        "end": 96
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 113,
+        "end": 122
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 146,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 161,
+        "end": 170
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 209,
+        "end": 221
+      }
+    }
+  ],
+  "relations": []
+}

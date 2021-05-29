@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Helmut Newton?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 20
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "29 de Novembro de 2007",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

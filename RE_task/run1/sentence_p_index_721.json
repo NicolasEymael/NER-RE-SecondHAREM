@@ -1,0 +1,46 @@
+{
+  "text": "Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de Hollywood. Cameron Diaz, Leonardo DiCaprio ou Will Ferrell são três dos muitos nomes famosos que possuem um Toyota Prius.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 130,
+        "end": 139
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 141,
+        "end": 153
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 155,
+        "end": 172
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 176,
+        "end": 188
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 238,
+        "end": 250
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Apesar de ter quase uma volta de atraso para os seus adversários, não baixou os braços e realizou uma grande recuperação, alcançando o 12º lugar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 135,
+        "end": 138
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,159 @@
+{
+  "text": "Na Idade Média , o mais famoso estudante da Igreja de Santa Cruz foi Fernando Martins de Bulhões , o futuro Santo António de Lisboa | Santo António de Lisboa (ou Santo António de Pádua | Santo António de Pádua ). Em 1220 , o religioso assiste à chegada à Igreja dos restos mortais de cinco frades franciscanos martirizados no Marrocos (os Mártires do Marrocos | Mártires do Marrocos ), e decide fazer-se missionário e partir de Portugal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 3,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 69,
+        "end": 96
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 108,
+        "end": 131
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 134,
+        "end": 147
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 151,
+        "end": 157
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 162,
+        "end": 184
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 187,
+        "end": 200
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 209
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 213,
+        "end": 220
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 255,
+        "end": 261
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 326,
+        "end": 334
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 339,
+        "end": 359
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 362,
+        "end": 370
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 374,
+        "end": 382
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 428,
+        "end": 436
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T12"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T16",
+      "obj": "T11"
+    }
+  ]
+}

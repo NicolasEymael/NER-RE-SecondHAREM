@@ -1,0 +1,22 @@
+{
+  "text": "\"Este é um exemplo incrível de como a coleta regular de dados pode nos ajudar\", disse Liebenberg. Para ele, fundador sul-africano da CyberTracker Conservation, as constatações não apenas ilustram a capacidade do dispositivo de melhorar o monitoramento e a interpretação de ecossistemas, mas também comprovam que rastreadores analfabetos podem recolher informações com tanta eficiência quanto cientistas com Ph.D.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 86,
+        "end": 96
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 133,
+        "end": 158
+      }
+    }
+  ],
+  "relations": []
+}

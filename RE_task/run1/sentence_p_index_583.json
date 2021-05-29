@@ -1,0 +1,89 @@
+{
+  "text": "Entretanto, a francesa Nathalie Dechy conquistou o seu segundo título consecutivo em pares femininos. Dechy e a russa Dinara Safina bateram Chan Yung-jan e Chuang Chia-jung (Taiwan), por 6-4 e 6-2.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 102,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 118,
+        "end": 131
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 140,
+        "end": 153
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 156,
+        "end": 172
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 174,
+        "end": 180
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 187,
+        "end": 190
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 193,
+        "end": 196
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "O que era o \"Brilliant Invader '95\"? Além do Reino Unido, que outros países participaram? De que horas a que horas é que ocorreu o evento? Diga um tipo de avião que tenha participado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 45,
+        "end": 56
+      }
+    }
+  ],
+  "relations": []
+}

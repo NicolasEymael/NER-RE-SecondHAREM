@@ -1,0 +1,22 @@
+{
+  "text": "Viram só? Kuduro e Samba : Tudo a ver.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 10,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 19,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

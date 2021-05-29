@@ -1,0 +1,38 @@
+{
+  "text": "As suas fotos tinham sido publicadas na Photo e no Paris-Match , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético. Sempre me intrigou, e hoje de novo ao ver o \" África \" onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte. Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 40,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 265,
+        "end": 269
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 289,
+        "end": 295
+      }
+    }
+  ],
+  "relations": []
+}

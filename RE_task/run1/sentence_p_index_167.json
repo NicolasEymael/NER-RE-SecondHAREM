@@ -1,0 +1,22 @@
+{
+  "text": "Fenômeno não participava de um coletivo desde novembro . Jogador se recupera de lesão",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

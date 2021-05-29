@@ -1,0 +1,22 @@
+{
+  "text": "12/Julho/2007 · 182 Comentários",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 16,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,75 @@
+{
+  "text": "O texto de Benjamim nos remete a uma recente discussão que seria a factível morte da literatura diante do crescimento da produção cinematográfica que se espalha pelo planeta. Proponho-me neste texto analisar justamente esta contenda, assumindo posições que ficarão nítidas no decorrer do seu corpo. Para tal empreitada, tomo como referências o conto O Jardim dos Caminhos que se Bifurcam | O Jardim dos Caminhos que se Bifurcam , escrito em 1941 pelo argentino Jorge Luis Borges , e o fresquíssimo Corra Lola, Corra ( Lola Rennt ), filme alemão realizado pelo diretor e roteirista Tom Tykwer .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 350,
+        "end": 387
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 438,
+        "end": 445
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 461,
+        "end": 478
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 498,
+        "end": 515
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 518,
+        "end": 528
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 581,
+        "end": 591
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T6"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "De que organização era Sergio Balanzino secretário-geral?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

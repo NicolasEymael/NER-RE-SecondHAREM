@@ -1,0 +1,97 @@
+{
+  "text": "E se ele avançar, as mais recentes sondagens indicam que o boletim de voto das eleições de 2008 podem ter três rostos ligados à \" Big Apple \": Hillary Clinton , senadora pelo estado de Nova Iorque , Rudy Giuliani , o republicano que já foi presidente da Câmara | presidente da Câmara da cidade, e Michael Bloomberg , o homem que sucedeu a Giuliani no cargo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 130,
+        "end": 139
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 143,
+        "end": 158
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 185,
+        "end": 196
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 199,
+        "end": 212
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 240,
+        "end": 260
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 277,
+        "end": 283
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 297,
+        "end": 314
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 339,
+        "end": 347
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    }
+  ]
+}

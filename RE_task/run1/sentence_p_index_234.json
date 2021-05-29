@@ -1,0 +1,14 @@
+{
+  "text": "2.º A concessão de alguns terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, sempre que sejam introduzidas novas condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade da actividade cinegética com a conservação da natureza, até um máximo de 10 % da área total da zona de caça.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 350,
+        "end": 354
+      }
+    }
+  ],
+  "relations": []
+}

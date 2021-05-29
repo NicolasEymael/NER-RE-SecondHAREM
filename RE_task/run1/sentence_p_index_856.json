@@ -1,0 +1,159 @@
+{
+  "text": "É um período marcado pela negação à linguagem formal das HQs . Nos comix, por muitas vezes não havia uma seqüência lógica na narrativa. Uma historia poderia ser interrompida para dar vazão a algum experimentalismo gráfico ou não ter exatamente um roteiro. Poderiam ainda ser ácidas e demolidoras - como as notórias edições de Air Pirates , de Dan O'Neil e Ted Richards , nas quais Mickey e Minie Mouse apareciam fazendo toda espécie de loucuras sexuais - ou simplesmente desagradáveis, principalmente em alguns momentos mais escatológicos da Zap Comix , a primeira publicação underground do planeta. Entre os nomes do quadrinho underground, destacam-se Robert Crumb , Gilbert Shelton , Robert Williams , Skip Williamson e Ricky Griffin , litografista que fez a cabeça de toda uma geração com sua arte psicodélica e posters de Carlos Santana , The Doors e Gratefull Dead .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 57,
+        "end": 60
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 90
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 326,
+        "end": 337
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 343,
+        "end": 353
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 356,
+        "end": 368
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 381,
+        "end": 387
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 390,
+        "end": 401
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 542,
+        "end": 551
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 653,
+        "end": 665
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 668,
+        "end": 683
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 686,
+        "end": 701
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 704,
+        "end": 719
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 722,
+        "end": 735
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 826,
+        "end": 840
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 843,
+        "end": 852
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 855,
+        "end": 869
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "personagem_de",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "personagem_de",
+      "subj": "T7",
+      "obj": "T3"
+    }
+  ]
+}

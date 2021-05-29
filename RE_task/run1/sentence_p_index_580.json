@@ -1,0 +1,62 @@
+{
+  "text": "Roger Federer conquistou este domingo pela quarta vez consecutiva o US Open, ao bater na final o sérvio Novak Djokovic por 7-6(4), 7-6(2) e 6-4.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 37
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 104,
+        "end": 118
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 129
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 131,
+        "end": 137
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 140,
+        "end": 143
+      }
+    }
+  ],
+  "relations": []
+}

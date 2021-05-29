@@ -1,0 +1,45 @@
+{
+  "text": "Hans-Gert PÖTTERING destacou ainda a importância, para o PE , de ver reconhecido o valor juridicamente vinculativo da Carta , um passo \"essencial no quadro de reforma dos Tratados e essencial para a identidade europeia\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 57,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 118,
+        "end": 123
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 171,
+        "end": 179
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

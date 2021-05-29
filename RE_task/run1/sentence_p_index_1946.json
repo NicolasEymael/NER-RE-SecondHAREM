@@ -1,0 +1,14 @@
+{
+  "text": "Diga o nome de um filme realizado por Claude Lanzmann?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

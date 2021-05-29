@@ -1,0 +1,22 @@
+{
+  "text": "Da Bauhaus para ... a House :",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 22,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

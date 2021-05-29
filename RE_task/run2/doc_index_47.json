@@ -1,0 +1,557 @@
+{
+  "text": " Lisboa-Dakar'2008 começa a 5 de Janeiro. PROVA TERÁ PERTO DE 6.000 QUILÓMETROS. A 30.ª | 30.ª edição do Dakar vai partir de Lisboa no dia 5 de Janeiro com a chegada ao Senegal marcada para 20, numa competição que terá no próximo ano perto de 6.000 quilómetros de provas especiais. \"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que nos anos anteriores. Em 2006 e 2007 ficámos nos 4.000 , 5.000 quilómetros . Em 2008, queremos mais especiais e menos ligações\", afirmou o director do Lisboa-Dakar | director do Lisboa-Dakar, Etienne Lavigne, durante a apresentação da prova. A partida da edição de 2008 está marcada para a Praça do Império, em Lisboa. O Centro Cultural de Belém | Centro Cultural de Belém será o quartel-general para os carros, motos e camiões. De fora do percurso ficou o Mali, depois dos problemas de segurança ocorridos na prova deste ano, o que levou ao cancelamento de uma etapa. \"Existe muita instabilidade neste momento em alguns países africanos. São zonas de risco onde não poderíamos a 100 por cento garantir a segurança, não só dos pilotos, mas de todo o staff que está envolvido na prova\", justificou Etienne Lavigne, revelando que o Plano de Segurança Rodoviária que tinha sido criado para a última edição foi reformulado. Lisboa e Portimão deverão receber as primeiras especiais, estando ainda em estudo os percursos exactos para as duas etapas iniciais. \"Estamos muito perto dos desenhos finais dos percursos. Não podemos tornar público, mas temos trabalhado intensamente nesse sentido. Não há muito para mud ar. Os padrões estão de tal maneira elevados que é difícil fazer melhor\", afirmou João Lagos, empresário responsável pela parte portuguesa do Lisboa-Dakar. De acordo com os números revelados hoje pela organização, na edição 2007 do rali mais de um milhão de pessoas assistiram à passagem por Portugal. \"Nestes últimos dois anos, Portugal, Lisboa e Portimão deixaram uma marca muito forte no Dakar. Foram anos fantásticos, com uma adesão fantástica e um ambiente extraordinário\", sublinhou João Lagos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 53,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 83,
+        "end": 87
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 105,
+        "end": 110
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 131
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 151
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 169,
+        "end": 176
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 185,
+        "end": 192
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 219,
+        "end": 233
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 234,
+        "end": 260
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 383,
+        "end": 402
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 404,
+        "end": 411
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 414,
+        "end": 418
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 431,
+        "end": 456
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 459,
+        "end": 466
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 533,
+        "end": 545
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 548,
+        "end": 572
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 574,
+        "end": 589
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 644,
+        "end": 651
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 672,
+        "end": 688
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 693,
+        "end": 699
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 703,
+        "end": 727
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 730,
+        "end": 745
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 749,
+        "end": 754
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 839,
+        "end": 843
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 898,
+        "end": 907
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 979,
+        "end": 992
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1179,
+        "end": 1194
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "obra",
+      "span": {
+        "begin": 1212,
+        "end": 1241
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1302,
+        "end": 1308
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "local",
+      "span": {
+        "begin": 1311,
+        "end": 1319
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1672,
+        "end": 1682
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1732,
+        "end": 1744
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1781,
+        "end": 1785
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "tempo",
+      "span": {
+        "begin": 1814,
+        "end": 1818
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1882,
+        "end": 1890
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1893,
+        "end": 1917
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1919,
+        "end": 1927
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "local",
+      "span": {
+        "begin": 1929,
+        "end": 1935
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 1938,
+        "end": 1946
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1981,
+        "end": 1986
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "tempo",
+      "span": {
+        "begin": 1994,
+        "end": 1998
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "individuo",
+      "span": {
+        "begin": 2079,
+        "end": 2089
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T12"
+    },
+    {
+      "id": "R9",
+      "pred": "data_de",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "inclui",
+      "subj": "T16",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T10"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "participante_em",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T18"
+    },
+    {
+      "id": "R15",
+      "pred": "participante_em",
+      "subj": "T19",
+      "obj": "T17"
+    },
+    {
+      "id": "R16",
+      "pred": "participante_em",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T16"
+    },
+    {
+      "id": "R18",
+      "pred": "sede_de",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R19",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T6"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T6"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T6"
+    },
+    {
+      "id": "R22",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T6"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T19"
+    },
+    {
+      "id": "R24",
+      "pred": "sede_de",
+      "subj": "T31",
+      "obj": "T1"
+    },
+    {
+      "id": "R25",
+      "pred": "sede_de",
+      "subj": "T32",
+      "obj": "T1"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T14"
+    },
+    {
+      "id": "R27",
+      "pred": "inclui",
+      "subj": "T37",
+      "obj": "T6"
+    },
+    {
+      "id": "R28",
+      "pred": "inclui",
+      "subj": "T37",
+      "obj": "T32"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T37"
+    },
+    {
+      "id": "R30",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T6"
+    },
+    {
+      "id": "R31",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T32"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T5"
+    },
+    {
+      "id": "R33",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T33"
+    }
+  ]
+}

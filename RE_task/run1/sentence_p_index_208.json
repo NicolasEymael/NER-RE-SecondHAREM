@@ -1,0 +1,14 @@
+{
+  "text": "Folha de rosto da Partitura",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 18,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

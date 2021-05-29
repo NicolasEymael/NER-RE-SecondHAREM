@@ -1,0 +1,251 @@
+{
+  "text": " Cavaco começa ano com recados de maior exigência ao Governo. O Presidente da República , Aníbal Cavaco Silva , vai deixar uma série de recados ao Governo nas palavras que vai dirigir ao país no primeiro dia do ano . A notícia faz manchete na edição desta terça-feira do Jornal de Notícias , com o diário portuense a assegurar que Cavaco prepara, para a sua primeira comunicação em 2008 ao País , um discurso com menos optimismo do que o transmitido por Sócrates mensagem de Natal . Afirmando esperar um ano de 2008 mais exigente do que 2007 , o Presidente da República promete, ao longo do próximo ano , dar toda a atenção a temas sociais, sobretudo o desemprego, e andar pelo país a mostrar bons exemplos da criação de postos de trabalho. Segundo o JN , Cavaco silva | Cavaco silva vai ainda aproveitar a ocasião para sublinhar a expectativa criada em relação aos resultados que pediu no ano passado ao Governo , para as áreas da economia, educação e justiça.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 18
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 53,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 64,
+        "end": 87
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 90,
+        "end": 109
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 147,
+        "end": 154
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 192,
+        "end": 214
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 250,
+        "end": 267
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 271,
+        "end": 289
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 331,
+        "end": 337
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 379,
+        "end": 386
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 390,
+        "end": 394
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 454,
+        "end": 462
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 472,
+        "end": 480
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 501,
+        "end": 515
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 537,
+        "end": 541
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 546,
+        "end": 569
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 579,
+        "end": 602
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "obra",
+      "span": {
+        "begin": 751,
+        "end": 753
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 756,
+        "end": 768
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 771,
+        "end": 777
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 887,
+        "end": 901
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 905,
+        "end": 912
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T13",
+      "obj": "T3"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T16"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T3"
+    }
+  ]
+}

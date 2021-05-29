@@ -1,0 +1,102 @@
+{
+  "text": "Há, no meio disto tudo, um pormenor que pode intrigar o leitor. Se eu já interpretei tantas personagens apalermadas e de discurso incoerente, porque é que o PPM só se sentiu retratado agora? Boa pergunta, leitor. Vagamente insultuosa, mas boa. Eu respondo: por duas razões. Primeiro, porque quando eu disse que a RTP e o Provedor não nos tinham pressionado, a jornalista tirou conclusões que não são as minhas. Segundo, porque a crítica do PPM segue, digamos, a mesma matriz ideológica que o pequeno poder (e, às vezes , não tão pequeno como isso) perfilha. Aliás, a crítica do PPM não é nova, nem é só dele. Já tinha sido usada para pedir a nossa imparcialidade em relação a Salazar e Cunhal . Ou em relação a Pinto da Costa e Luís Filipe Vieira . Ou em relação à Floribella e à Doce Fugitiva . Mas dizem-me que é intelectualmente desonesto falar nisto.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 160
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 313,
+        "end": 316
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 321,
+        "end": 329
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 440,
+        "end": 443
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 510,
+        "end": 518
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 578,
+        "end": 581
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 676,
+        "end": 683
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 686,
+        "end": 692
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 711,
+        "end": 725
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 728,
+        "end": 746
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 765,
+        "end": 775
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 780,
+        "end": 793
+      }
+    }
+  ],
+  "relations": []
+}

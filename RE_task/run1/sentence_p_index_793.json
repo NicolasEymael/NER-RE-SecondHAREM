@@ -1,0 +1,30 @@
+{
+  "text": "No entanto, um parecer da Direcção Geral de Saúde a que a Lusa teve acesso sexta-feira indica que os casinos e salas de jogo «sendo locais fechados não podem deixar de se incluir no âmbito da aplicação a lei», além de estarem abrangidos na lei por «serem locais de trabalho».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 26,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 75,
+        "end": 86
+      }
+    }
+  ],
+  "relations": []
+}

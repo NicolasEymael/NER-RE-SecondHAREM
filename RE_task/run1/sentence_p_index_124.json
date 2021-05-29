@@ -1,0 +1,22 @@
+{
+  "text": "Ao contrário de alguns outros produtores, o futuro criado por Mills não é um sonho em ficção científica de puro cromo. É um \"verfremdungseffekt\", a desorientação do potencial puro. O ataque das batidas de Detroit é apenas um assalto pra tirar as defesas, forçando os ouvintes a se abrirem para a mensagem.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 205,
+        "end": 212
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Adeus à Selecção",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

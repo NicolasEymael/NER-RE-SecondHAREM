@@ -1,0 +1,22 @@
+{
+  "text": "As fotografias documentam as principais obras que significaram a incorporação dos ideais de progresso e modernização pelo Brasil no começo do século XX , assim como as diversas áreas indígenas encontradas ao longo deste trabalho.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 128
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 129,
+        "end": 151
+      }
+    }
+  ],
+  "relations": []
+}

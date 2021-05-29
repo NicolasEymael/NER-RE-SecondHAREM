@@ -1,0 +1,14 @@
+{
+  "text": "O que é o KMT?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

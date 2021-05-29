@@ -1,0 +1,185 @@
+{
+  "text": " Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada desde antes de 7000 a.C. em Mehrgarh na Índia , situado nos dias de hoje no Paquistão . A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos. É ainda extremamente popular hoje. Trata-se de uma rocha e não de um mineral porque é composto de vários minerais. A primeira parte do nome, lápis, em latim significa pedra. A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito Raja Warta significando anel, vida do rei. Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra. A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos. No antigo Egito o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo). As escavações egípcias que datam de 3000 a.C. continham milhares de artigos como jóia, muitos feitos de lápis. Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho. Como inscrito no capítulo 140 do Livro dos Mortos egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder. No último dia do mês , oferecia-se este olho simbólico, porque se acreditava que, nesse dia, um ser supremo colocou tal imagem em sua cabeça. Os antigos túmulos reais sumérios de Ur , situados perto do rio Eufrates no baixo Iraque , continham mais de 6000 estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro. Estes artefatos vieram indubitavelmente do material minado em Badakhshan no norte do Afeganistão . É a pedra oficial do anel de formatura dos psicologos, assim considerada a partir de 31 de março de 2006 , pela resolução Nº 002/2006, do Conselho Federal de Psicologia brasileiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 136,
+        "end": 160
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 164,
+        "end": 172
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 176,
+        "end": 181
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 192,
+        "end": 208
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 212,
+        "end": 221
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 454,
+        "end": 458
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 745,
+        "end": 755
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 997,
+        "end": 1002
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 1238,
+        "end": 1250
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 1445,
+        "end": 1461
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 1569,
+        "end": 1589
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 1651,
+        "end": 1660
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 1748,
+        "end": 1750
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 1775,
+        "end": 1783
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 1793,
+        "end": 1799
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 1812,
+        "end": 1824
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 2017,
+        "end": 2027
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 2040,
+        "end": 2051
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 2127,
+        "end": 2158
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2192,
+        "end": 2222
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T18",
+      "obj": "T17"
+    }
+  ]
+}

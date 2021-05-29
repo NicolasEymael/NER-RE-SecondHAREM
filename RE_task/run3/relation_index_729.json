@@ -1,0 +1,29 @@
+{
+  "text": " O Pai Natal , Artur Jorge e o BCP. O Governo russo proibiu uma campanha de uma cadeia de distribuição, que tinha por lema \" O Pai Natal não existe \". O argumento é que tal ideia era nefasta para as criancinhas russas. Conclusão: o Governo russo acredita no Pai Natal e quer que as criancinhas também acreditem. Artur Jorge foi, entretanto, escolhido para seleccionador do Irão, equipa que se encontrava há seis meses sem treinador. Tendo em atenção o que se tem passado nos últimos anos na carreira do ex-treinador do FC Porto, que nunca termina os contratos e acaba sempre despedido com uma choruda indemnização, bem se pode dizer que a Federação Iraniana de Futebol acredita no Pai Natal . E Artur Jorge também, claro. Por outro lado, a escolha do presidente da Caixa Geral de Depósitos | presidente da Caixa Geral de Depósitos para presidir ao BCP só pode igualmente ser obra do Pai Natal . Carlos Santos Ferreira é visto como o homem que vai trazer a concórdia para um banco que não vive em paz há muito - mesmo que o vá fazer à custa do banco do Estado . Por isso, o ministro das Finanças , que autorizou esta mudança sem pestanejar, também deve acreditar no Pai Natal . Não lhe passa pela cabeça que Santos Ferreira , com o que sabe da Caixa , fique em excelente posição para ganhar quota de mercado ao banco público, que vai este ano dar mais de 800 milhões de lucros, dos quais 400 milhões vão direitinhos para os cofres do Estado a título de IRC . Se Santos Ferreira tiver sucesso no BCP , quem vai sofrer é a Caixa - e, por tabela, todos nós, contribuintes. Porque quanto menos o Estado receber de dividendos das empresas públicas, mais o Estado será tentado a vir buscar-nos dinheiro aos bolsos. Por outras palavras, os únicos que não têm razões para acreditar no Pai Natal são os contribuintes portugueses. Nicolau Santos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 127,
+        "end": 136
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 3,
+        "end": 12
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

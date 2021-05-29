@@ -1,0 +1,30 @@
+{
+  "text": "Associação Académica de Coimbra | Associação Académica de Coimbra",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 65
+      }
+    }
+  ],
+  "relations": []
+}

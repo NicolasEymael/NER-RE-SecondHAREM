@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que F.H. Cardoso tomou posse como presidente?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Onde está a Estátua da Liberdade?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 12,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

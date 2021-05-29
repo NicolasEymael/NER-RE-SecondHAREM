@@ -1,0 +1,38 @@
+{
+  "text": "Uma das fundadoras do CaixaPreta, Vera falou, segundo Fabio, que não consegue entender porque alguns consideram a arte européia como superior, dando como exemplo que o teatro grego surgiu a partir de ritos - em que animais sacrificados eram oferecidos Dionísio - muito semelhantes às oferendas dos cultos afro-brasileiros para os orixás.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 34,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 54,
+        "end": 59
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 252,
+        "end": 260
+      }
+    }
+  ],
+  "relations": []
+}

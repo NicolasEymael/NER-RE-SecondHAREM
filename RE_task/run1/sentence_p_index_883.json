@@ -1,0 +1,14 @@
+{
+  "text": "O plano era isolar genes para enzimas que atacam materiais como Kevlar , asfalto, cimentos, pinturas ou lubrificantes, e colocá-los dentro de micróbios que os expulsariam em grandes quantidades. As bactérias deveriam ser projetadas para se auto-destruírem depois de despejarem a sua carga de destruição.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 64,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

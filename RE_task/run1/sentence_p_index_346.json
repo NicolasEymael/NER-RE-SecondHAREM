@@ -1,0 +1,78 @@
+{
+  "text": "Conheci o Sebastião Salgado em Fátima no ano de 1979 . Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa. O António Pedro Ferreira , outro fotógrafo peregrino, reconheceu-o logo como sendo o Sebastião Salgado . Na época ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo em 1975 , em Angola , fotografando a aventura portuguesa na hora da descolonização. Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao Mundo a saga do sofrimento humano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 37
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 52
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 256,
+        "end": 278
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 339,
+        "end": 356
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 442,
+        "end": 449
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 455,
+        "end": 461
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 499,
+        "end": 506
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 648,
+        "end": 653
+      }
+    }
+  ],
+  "relations": []
+}

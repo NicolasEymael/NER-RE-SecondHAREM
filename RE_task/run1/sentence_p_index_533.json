@@ -1,0 +1,62 @@
+{
+  "text": "A notícia faz manchete na edição desta terça-feira do Jornal de Notícias , com o diário portuense a assegurar que Cavaco prepara, para a sua primeira comunicação em 2008 ao País , um discurso com menos optimismo do que o transmitido por Sócrates mensagem de Natal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 114,
+        "end": 120
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 162,
+        "end": 169
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 173,
+        "end": 177
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 237,
+        "end": 245
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 255,
+        "end": 263
+      }
+    }
+  ],
+  "relations": []
+}

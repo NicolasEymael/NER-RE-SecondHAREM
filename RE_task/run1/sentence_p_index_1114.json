@@ -1,0 +1,91 @@
+{
+  "text": "Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o Talibã, o radicalismo islâmico e sua cria, a al-Qaeda, alojados ao norte. Benazir Bhutto contava com a simpatia dos EUA por conta. Não há dúvidas de que, como premiê, Bhutto forçaria o presidente Musharraf a ampliar sua ofensiva. A conversa da experiente política com o presidente afegão Hamid Karzai, o outro chefe de Estado preocupado com esta briga, faz poucos dias, é indício de qual sua prioridade no governo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 83,
+        "end": 89
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 128,
+        "end": 136
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 171
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 199,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 250,
+        "end": 256
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 268,
+        "end": 288
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 371,
+        "end": 383
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 393,
+        "end": 408
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 436,
+        "end": 451
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

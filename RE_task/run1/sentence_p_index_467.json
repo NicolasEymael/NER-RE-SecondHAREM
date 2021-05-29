@@ -1,0 +1,126 @@
+{
+  "text": "A 6 de Abril de 1385 , João é reconhecido pelas cortes reunidas em Coimbra como Rei de Portugal | Rei de Portugal . Esta posição de força portuguesa desencadeia uma resposta à altura em Castela . João de Castela | João de Castela invade Portugal com vista a proteger os interesses de sua mulher Beatriz . Álvares Pereira toma o controlo da situação no terreno e inicia uma série de cercos a cidades leais a Castela , localizadas principalmente no Norte do país.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 67,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 80,
+        "end": 95
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 101
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 105,
+        "end": 113
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 186,
+        "end": 193
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 196,
+        "end": 211
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 214,
+        "end": 218
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 222,
+        "end": 229
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 237,
+        "end": 245
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 295,
+        "end": 302
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 305,
+        "end": 320
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 407,
+        "end": 414
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 447,
+        "end": 452
+      }
+    }
+  ],
+  "relations": []
+}

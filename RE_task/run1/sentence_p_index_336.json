@@ -1,0 +1,46 @@
+{
+  "text": "O biógrafo de Capa , Richard Whelan - falecido há pouco - recusou depor para o documentário e Cornell Capa , o irmão de Robert , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de Robert Capa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 94,
+        "end": 106
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 120,
+        "end": 126
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 231,
+        "end": 242
+      }
+    }
+  ],
+  "relations": []
+}

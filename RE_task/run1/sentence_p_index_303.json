@@ -1,0 +1,75 @@
+{
+  "text": "Certa vez, lendo uma publicação inglesa do famoso ocultista Aleister Crowley , Fernando encontrou erros no horóscopo e escreveu ao inglês para corrigi-lo, já que era um conhecedor e praticante da astrologia, conhecimentos estes que impressionaram Crowley e, como gostava de viagens, o fizeram ir até Portugal para conhecer o poeta. Junto com ele veio a maga alemã Miss Jaeger , que passou a escrever cartas a Fernando assinando com um pseudônimo ocultista. O encontro não foi muito amigável, dados os graves desequilíbrios psíquico e espiritual que Crowley sofria e --- apesar disso --- ensinava.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 76
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 79,
+        "end": 87
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 247,
+        "end": 254
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 300,
+        "end": 308
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 364,
+        "end": 375
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 409,
+        "end": 417
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 549,
+        "end": 556
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "text": "S. Bernardino não ia longe, mas... na Praia das Maçãs ia. Até tão longe que a minha mãe da praia não me via! Só que havia um barco, uma chata... um bocado... entre o sítio onde eu estava e a praia que era para nos mostrar, a mim e ao Caldeira Pires , que era... que éramos os únicos que tínhamos essa autorização para ir assim longe numa determinada direcção ... em S. Bernardino , a única avaria foi na Berlenga , também. Parece que estava fadada para as tais aventuras da Berlenga ! Porque aí, na Berlenga , formos numa excursão organizada pelo ... Xara Brasil e por um senhor que era governador de Peniche | governador de Peniche ou qualquer coisa assim... ou presidente da Câmara | presidente da Câmara , para homenagear uma figura nobre que era um arquiduque austríaco... e fizeram",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 234,
+        "end": 248
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 366,
+        "end": 379
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 404,
+        "end": 412
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 474,
+        "end": 482
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 499,
+        "end": 507
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 551,
+        "end": 562
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 587,
+        "end": 608
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 625,
+        "end": 632
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 663,
+        "end": 683
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 700,
+        "end": 706
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "text": "Este \"bloco central\" político esteve sempre dentro do PSD , como esteve e está no PS e é uma sobrevivência de laços de interesses profundos representados nos dois partidos e que, depois, encontra expressão no rastro salazarista antidemocrático dos consensos. Nos primeiros anos da democracia, este \"bloco central\" concentrava-se em exercer o poder através da economia nacionalizada pós-1975 , daí poder ser representado simbolicamente na cena real de responsáveis dos dois partidos reunidos a distribuir os lugares de gestores públicos nas empresas: estes dois são para mim, este fica para ti, este vai para a TAP e dou-te dois na CP , mas este da EDP não pode ser comparado como este na Imprensa Nacional , etc., etc. Este tipo de partilhas que durou até há muito pouco tempo e em muitas áreas, a começar nas autarquias e nas empresas municipalizadas, ainda está longe de ter acabado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 82,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 259,
+        "end": 277
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 382,
+        "end": 390
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 610,
+        "end": 613
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 631,
+        "end": 633
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 648,
+        "end": 651
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 688,
+        "end": 705
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 752,
+        "end": 776
+      }
+    }
+  ],
+  "relations": []
+}

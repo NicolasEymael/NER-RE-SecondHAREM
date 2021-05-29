@@ -1,0 +1,38 @@
+{
+  "text": "Os preços de diversos bens e serviços vão aumentar, no próximo ano, acima da inflação de 2,1% prevista pelo Governo para 2008, com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 66
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 89,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 108,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 116,
+        "end": 125
+      }
+    }
+  ],
+  "relations": []
+}

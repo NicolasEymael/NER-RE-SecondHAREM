@@ -1,0 +1,717 @@
+{
+  "text": " Por que não lançar foguetões de água e aprender a fazer relógios de Sol | relógios de Sol ?. :: 2007-12-13. Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, entre sexta-feira e domingo , em Cascais , à disposição dos visitantes da FASCINIO - Feira de Astronomia e Ciência . Organizada pelo Núcleo Interactivo de Astronomia ( NUCLIO ) no Centro de Interpretação Ambiental da Ponta do Sal | Centro de Interpretação Ambiental da Ponta do Sal , em São Pedro do Estoril , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma \"procura de asteróides\", actividade que a instituição promove regularmente nas escolas do concelho. \"A feira destina-se ao público em geral, embora o programa de sexta-feira esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e sábado tenha actividades para os professores, com uma pequena mostra das actividades do NUCLIO \", disse à Agência Lusa a astrónoma Rosa Doran . \" Sexta-feira estão previstas actividades para as escolas, a que chamámos 'sexta-feira divertida', dedicadas ao conhecimento das estrelas e constelações e ainda observação do Sol com Telescópios | Telescópios e construir enfeites de Natal | de Natal com motivos de astronomia\", acrescentou. No sábado o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito. Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do Observatório Astronómico da Universidade de Coimbra | Observatório Astronómico da Universidade de Coimbra | Observatório Astronómico da Universidade de Coimbra \" Sol para Todos \". \"O Observatório de Coimbra | Observatório de Coimbra tem um grande acervo de imagens do Sol , que registam diariamente desde os anos vinte do século passado , e estão a digitalizar essas imagens para que possam estar à disposição das escolas\", explica Rosa Doran , realçando que desta forma \"os meninos podem fazer ciência na própria sala de aula, podem ver a evolução das manchas do sol nas últimas décadas e comparar essa evolução, por exemplo, com as mudanças do clima\". Segundo a responsável, um dos principais objectivos da FASCINIO é dar também a conhecer a oferta existente na área e valorizar o trabalho dos profissionais portugueses, \"muito ligados\" à investigação de vanguarda e pouco reconhecidos pelo grande público. O NUCLIO vai por isso assinar sábado um protocolo com a Câmara Municipal de Cascais | Câmara Municipal de Cascais para que o Centro de Interpretação Ambiental seja disponibilizado para as suas actividades junto da comunidade escolar. De acordo com o documento, a autarquia irá ainda apoiar a formação agendada para o presente ano lectivo com vinte mil euros . Durante a feira será também apresentado o livro de divulgação científica \" Passeio Aleatório pela ciência do dia-a-dia \", com a presença do autor Nuno Crespo . Ainda no sábado , a investigadora do Centro de Astronomia da Universidade do Porto | Centro de Astronomia da Universidade do Porto | Centro de Astronomia da Universidade do Porto Catarina Lobo , que estuda enxames de galáxias, vai explicar ao público em geral que tipo de galáxia é a nossa, como se formam e como evoluem na palestra \" A nossa Galáxia e as outras: Ilhas no Universo \". No domingo está previsto que o público em geral possa participar no lançamento de foguetões de água e em Oficinas de Astronomia , com a construção de Relógios de Sol | Relógios de Sol , Espectroscópios | Espectroscópios , Astrolábios | Astrolábios , Planisférios | Planisférios e outros materiais de observação. A iniciativa termina com uma palestra por João Fernandes , o coordenador nacional do ano internacional da astronomia, que se assinala em 2009 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 57,
+        "end": 72
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 241,
+        "end": 268
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 274,
+        "end": 281
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 315,
+        "end": 355
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 374,
+        "end": 406
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 409,
+        "end": 415
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 421,
+        "end": 470
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 473,
+        "end": 506
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 510,
+        "end": 522
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 528,
+        "end": 548
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 772,
+        "end": 784
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 869,
+        "end": 883
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 966,
+        "end": 972
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1054,
+        "end": 1060
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1072,
+        "end": 1084
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 1097,
+        "end": 1107
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 1112,
+        "end": 1123
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1285,
+        "end": 1288
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 1293,
+        "end": 1304
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1340,
+        "end": 1348
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1401,
+        "end": 1410
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1458,
+        "end": 1461
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "obra",
+      "span": {
+        "begin": 1505,
+        "end": 1522
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1922,
+        "end": 1973
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1976,
+        "end": 2000
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2004,
+        "end": 2027
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2030,
+        "end": 2054
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2058,
+        "end": 2070
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 2074,
+        "end": 2081
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "obra",
+      "span": {
+        "begin": 2084,
+        "end": 2098
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2105,
+        "end": 2128
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2131,
+        "end": 2143
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 2147,
+        "end": 2154
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 2190,
+        "end": 2193
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "tempo",
+      "span": {
+        "begin": 2209,
+        "end": 2220
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 2221,
+        "end": 2258
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 2354,
+        "end": 2364
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 2490,
+        "end": 2509
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2631,
+        "end": 2639
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2833,
+        "end": 2839
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "tempo",
+      "span": {
+        "begin": 2861,
+        "end": 2867
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2887,
+        "end": 2914
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2917,
+        "end": 2933
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "local",
+      "span": {
+        "begin": 2937,
+        "end": 2944
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 2956,
+        "end": 2989
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "tempo",
+      "span": {
+        "begin": 3141,
+        "end": 3168
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "obra",
+      "span": {
+        "begin": 3266,
+        "end": 3309
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "individuo",
+      "span": {
+        "begin": 3337,
+        "end": 3348
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 3357,
+        "end": 3366
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3388,
+        "end": 3433
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3436,
+        "end": 3456
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3460,
+        "end": 3481
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3484,
+        "end": 3504
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3508,
+        "end": 3520
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "local",
+      "span": {
+        "begin": 3524,
+        "end": 3529
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "individuo",
+      "span": {
+        "begin": 3530,
+        "end": 3543
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 3686,
+        "end": 3732
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "tempo",
+      "span": {
+        "begin": 3736,
+        "end": 3746
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 3841,
+        "end": 3863
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "outro",
+      "span": {
+        "begin": 3886,
+        "end": 3901
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "outro",
+      "span": {
+        "begin": 3922,
+        "end": 3937
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "outro",
+      "span": {
+        "begin": 3958,
+        "end": 3969
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "outro",
+      "span": {
+        "begin": 3986,
+        "end": 3998
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "individuo",
+      "span": {
+        "begin": 4090,
+        "end": 4104
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "tempo",
+      "span": {
+        "begin": 4130,
+        "end": 4150
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "tempo",
+      "span": {
+        "begin": 4182,
+        "end": 4189
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "produtor_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T11"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T6"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T7"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T19"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T19"
+    },
+    {
+      "id": "R14",
+      "pred": "localizado_em",
+      "subj": "T32",
+      "obj": "T30"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T25"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T25"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T30"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T17"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T5"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T7"
+    },
+    {
+      "id": "R21",
+      "pred": "localizado_em",
+      "subj": "T43",
+      "obj": "T4"
+    },
+    {
+      "id": "R22",
+      "pred": "localizado_em",
+      "subj": "T44",
+      "obj": "T4"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T4"
+    },
+    {
+      "id": "R24",
+      "pred": "autor_de",
+      "subj": "T49",
+      "obj": "T48"
+    },
+    {
+      "id": "R25",
+      "pred": "vinculo_inst",
+      "subj": "T52",
+      "obj": "T51"
+    },
+    {
+      "id": "R26",
+      "pred": "vinculo_inst",
+      "subj": "T57",
+      "obj": "T51"
+    },
+    {
+      "id": "R27",
+      "pred": "incluido",
+      "subj": "T58",
+      "obj": "T5"
+    },
+    {
+      "id": "R28",
+      "pred": "ter_participacao_de",
+      "subj": "T58",
+      "obj": "T57"
+    },
+    {
+      "id": "R29",
+      "pred": "incluido",
+      "subj": "T60",
+      "obj": "T5"
+    }
+  ]
+}

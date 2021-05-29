@@ -1,0 +1,38 @@
+{
+  "text": "Ministro da Defesa Nacional visita Forças Nacionais Destacadas no Afeganistão | Forças Nacionais Destacadas no Afeganistão",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 111,
+        "end": 122
+      }
+    }
+  ],
+  "relations": []
+}

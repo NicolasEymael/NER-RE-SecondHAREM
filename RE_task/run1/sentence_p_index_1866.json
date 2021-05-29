@@ -1,0 +1,29 @@
+{
+  "text": "Onde é que nasceu o Vítor Baía? Onde é que começou a jogar futebol? Quantos golos é que marcou na sua carreira? Que idade tinha ele quando se mudou para o FC Porto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 155,
+        "end": 163
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

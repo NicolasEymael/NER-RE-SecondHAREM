@@ -1,0 +1,69 @@
+{
+  "text": "O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a Ronald Reagen . A revista Time tinha-lhe pedido para seguir o Presidente durante um mês , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo. Havia mais dois fotógrafos a seu lado, um deles da Associated Press que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas Salgado conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em Paris .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 103,
+        "end": 116
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 129,
+        "end": 133
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 165,
+        "end": 175
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 176,
+        "end": 190
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 351,
+        "end": 367
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 445,
+        "end": 452
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 556,
+        "end": 561
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

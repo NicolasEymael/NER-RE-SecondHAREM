@@ -1,0 +1,269 @@
+{
+  "text": "A segunda espécie vetora é P. megistus, sendo domiciliada em algumas regiões, peridomiciliar e silvestre em outras. Também tem vasta distribuição geográfica, distribui-se desde as Guianas até a Argentina. É a espécie responsável pelos focos mais intensos da endemia chagásica em Minas Gerais e Bahia (Brasil). Tem hábito silvestre no centro do Brasil e leste do Paraguai e está associado a Didelpbideos, motivo pelo qual os índices de infecção para T. cruzi são elevados. Invadem ocasionalmente domicílios e peridomicílios onde se colonizam com facilidade. P. geniculatus, espécie silvestre que também invade ocasionalmente ecótopos artificiais e tem ampla distribuição geográfica, esta associada a animais com hábitos terrestres (buracos), como é o caso dos tatus. Pode-se citar ainda o P. diasi com distribuição na Bolívia e Brasil nos estados de Goiás, Minas Gerais, São Paulo e Bahia, ocorrendo neste último estado na região da caatinga. P lutzi no nordeste brasileiro e P. tupynambai no Rio Grande do Sul e Uruguai são espécies que nos últimos anos têm sido encontradas com freqüência nas habitações humanas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 27,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 180,
+        "end": 187
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 194,
+        "end": 203
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 279,
+        "end": 291
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 294,
+        "end": 299
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 301,
+        "end": 307
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 344,
+        "end": 350
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 362,
+        "end": 370
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 390,
+        "end": 402
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 449,
+        "end": 457
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 480,
+        "end": 494
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 557,
+        "end": 571
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 609,
+        "end": 623
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 788,
+        "end": 796
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 817,
+        "end": 824
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 827,
+        "end": 833
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 849,
+        "end": 854
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 856,
+        "end": 868
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 870,
+        "end": 879
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 882,
+        "end": 887
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "outro",
+      "span": {
+        "begin": 942,
+        "end": 949
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "outro",
+      "span": {
+        "begin": 975,
+        "end": 988
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 992,
+        "end": 1009
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1012,
+        "end": 1019
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "tempo",
+      "span": {
+        "begin": 1037,
+        "end": 1053
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1075,
+        "end": 1089
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T16",
+      "obj": "T14"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T17",
+      "obj": "T14"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T18",
+      "obj": "T14"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T19",
+      "obj": "T14"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "sede_de",
+      "subj": "T20",
+      "obj": "T14"
+    },
+    {
+      "id": "R8",
+      "pred": "sede_de",
+      "subj": "T23",
+      "obj": "T21"
+    },
+    {
+      "id": "R9",
+      "pred": "sede_de",
+      "subj": "T24",
+      "obj": "T21"
+    }
+  ]
+}

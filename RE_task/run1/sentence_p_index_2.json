@@ -1,0 +1,14 @@
+{
+  "text": "A Reforma Religiosa e Política na Inglaterra",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

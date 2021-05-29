@@ -1,0 +1,117 @@
+{
+  "text": "A Coleção Eusébio de Queirós engloba 350 documentos, sobretudo correspondências trocadas entre políticos e seus familiares, versando, principalmente, sobre a repressão ao tráfico negreiro e temas políticos e judiciais. Magistrado e político brasileiro, nascido em Angola em 1812 , Eusébio de Queirós Coutinho Matoso da Câmara exerceu o cargo de Ministro da Justiça de 1848 a 1852 , destacando-se como autor de duas importantes leis do Império : a lei 556 , que criava o Código Comercial , e o decreto 708 , que estabelecia medidas para a repressão ao tráfico de africanos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 37,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 264,
+        "end": 270
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 271,
+        "end": 278
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 281,
+        "end": 325
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 345,
+        "end": 364
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 365,
+        "end": 379
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 435,
+        "end": 442
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 470,
+        "end": 486
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 493,
+        "end": 504
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "data_nascimento",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T5"
+    }
+  ]
+}

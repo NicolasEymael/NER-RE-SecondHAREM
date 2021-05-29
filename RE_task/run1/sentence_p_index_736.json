@@ -1,0 +1,37 @@
+{
+  "text": "GP Brasil: Raikkonen campeão do Mundo | Mundo",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 20
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 37
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

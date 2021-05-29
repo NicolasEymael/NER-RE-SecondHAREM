@@ -1,0 +1,14 @@
+{
+  "text": "- Formação continuada de professores em Educação Ambiental",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 40,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

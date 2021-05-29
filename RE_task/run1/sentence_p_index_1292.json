@@ -1,0 +1,22 @@
+{
+  "text": "Quem é a rainha da Austrália | rainha da Austrália?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

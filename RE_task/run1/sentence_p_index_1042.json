@@ -1,0 +1,29 @@
+{
+  "text": "Pacifistas protestam com tinta vermelha atirada na logomarca de instituições americanas e inglesa, em Salvador ( BA )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 102,
+        "end": 110
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 113,
+        "end": 115
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

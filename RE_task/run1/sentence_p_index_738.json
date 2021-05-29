@@ -1,0 +1,121 @@
+{
+  "text": "O finlandês Kimi Raikkonen sagrou-se campeão do Mundo | Mundo de F1 vencendo o GP do Brasil | GP do Brasil, à frente do companheiro de equipa na Ferrari Filipe Massa e do espanhol Fernando Alonso.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 48,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 65,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 79,
+        "end": 91
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 94,
+        "end": 96
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 106
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 145,
+        "end": 152
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 153,
+        "end": 165
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 180,
+        "end": 195
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_por",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_profissional",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "participante_em",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "praticante_de",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "participante_em",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "praticante_de",
+      "subj": "T9",
+      "obj": "T3"
+    }
+  ]
+}

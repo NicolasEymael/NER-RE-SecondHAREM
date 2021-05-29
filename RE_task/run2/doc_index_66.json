@@ -1,0 +1,387 @@
+{
+  "text": " Terá ainda que se esperar para ver outros resultados do Plano Tecnológico , mas este perdeu dinâmica no último ano . 6. Quanto às « Novas Oportunidades » foram no seu início um sucesso naquilo que era mais difícil: revalorizar o papel do ensino, da educação, da aprendizagem, do saber, em sectores da população que na sua vida tinham voltado as costas a esses valores, ou por necessidade, ou por facilidade. Porém o programa entra agora numa fase crucial: após os momentos de arranque incial, é suposto que se começe agora a aprender e a ser avaliado. Esta é a parte difícil, mas a que justifica o projecto. E aqui as intenções iniciais começam a esmorecer, os atrasos a somarem-se, a perplexidade dos formadores a aumentar e o anúncio regular pelo governo da outorga de mais uns milhares de diplomas faz suspeitar de facilitismo. Vamos ver. 7. No PSD deu-se mais um passo para a irrelevância, ou ainda pior, para tornar o partido um mero gestor alternativo das políticas do PS . Ora, para fazer a mesma política, os eleitores preferem o PS como mais eficaz e mais credível. Com Marques Mendes , o PSD esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia Saint Just ), perdeu-se o pouco que se tinha adquirido voltando o partido ao dia anterior da derrota de 2005 . Mendes não conseguiu impor-se, mas os seus esforços foram no sentido certo. Menezes também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado. O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve desde 2005 . 8. O PP já atingiu o equilibrio dos pequenos partidos, que atingem uma «stasis» interna onde que tudo o que acontece, não acontece. E no entanto, a retirada do PSD da oposição poderia ser uma oportunidade e o PP tem aproveitado os vazios para ocupar o terreno de algumas questões importantes como a dos direitos dos contribuintes e a omnipotência do fisco. Mas não chega. Portas reduziu o partido a si próprio, e dar atenção ao PP é dar atenção a Portas e cada vez menos pessoas o fazem. 9. O PCP teve um bom ano, o problema do PCP é que ninguém dá por ela disso. O PCP é o único partido cuja força é «civil», mesmo que se tenha em conta o processo de estatização dos sindicatos, maior na UGT do que na CGTP . Conseguiu com autonomia uma capacidade de mobilização que já tinha perdido e pôs na rua muitas dezenas, senão centenas de milhares de pessoas. O problema do PCP é que passou de moda mediática, a sua contestação parece um arcaísmo social e por isso parece ser inútil. 10. O BE está em crise. Deixou-se enredar com o PS em Lisboa , o pior sítio para alguém se enredar com o PS . Deixou-se reduzir a Louçã e Louçã fixou-se num discurso cujo esgotamento irrita mais do que cansa. Para a contestação social o PCP é mais eficaz, e as causas \"fracturantes\" são na maioria dos casos ou inócuas, ou tão vanguardistas que ficam na marginalidade e no radical chic.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 57,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 115
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 133,
+        "end": 152
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 161,
+        "end": 174
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 849,
+        "end": 852
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 976,
+        "end": 978
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1039,
+        "end": 1041
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 1080,
+        "end": 1094
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1099,
+        "end": 1102
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 1238,
+        "end": 1248
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 1312,
+        "end": 1327
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 1339,
+        "end": 1346
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 1349,
+        "end": 1355
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1425,
+        "end": 1432
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 1614,
+        "end": 1624
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1632,
+        "end": 1634
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1787,
+        "end": 1790
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1836,
+        "end": 1838
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 1999,
+        "end": 2005
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2055,
+        "end": 2057
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 2074,
+        "end": 2080
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2120,
+        "end": 2123
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2155,
+        "end": 2158
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2193,
+        "end": 2196
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2316,
+        "end": 2319
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2330,
+        "end": 2334
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2494,
+        "end": 2497
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2610,
+        "end": 2612
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2652,
+        "end": 2654
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 2658,
+        "end": 2664
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2709,
+        "end": 2711
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 2734,
+        "end": 2739
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 2742,
+        "end": 2747
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2841,
+        "end": 2844
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T16"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T16"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T16"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T19"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T22"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T22"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T22"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T6"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T6"
+    },
+    {
+      "id": "R15",
+      "pred": "vinculo_inst",
+      "subj": "T32",
+      "obj": "T28"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T32"
+    },
+    {
+      "id": "R17",
+      "pred": "vinculo_inst",
+      "subj": "T34",
+      "obj": "T22"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T22"
+    }
+  ]
+}

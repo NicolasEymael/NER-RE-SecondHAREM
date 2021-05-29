@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava a mãe de Nero?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

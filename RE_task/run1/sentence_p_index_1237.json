@@ -1,0 +1,30 @@
+{
+  "text": "Sem compará-lo a Oiticica, Sílvio Elia, no seu estudo sobre Houaiss, chamou-nos a atenção para este aspecto do pensamento lingüístico-pedagógico-político do nosso homenageado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    }
+  ],
+  "relations": []
+}

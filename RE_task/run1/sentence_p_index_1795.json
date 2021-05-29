@@ -1,0 +1,14 @@
+{
+  "text": "Qual a população da Ilha de Moçambique?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

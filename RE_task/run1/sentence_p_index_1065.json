@@ -1,0 +1,123 @@
+{
+  "text": "Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na Europa, o Guaraná Power tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras. A partir de um estudo econômico da cidade de Maués, no Amazonas, detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias. \"Estabelecemos o valor de R$ 15 para o quilo de sementes, enquanto as indústrias pagam R$ 7\", afirmou Bjornstjerne Christiansen, membro do Superflex, em entrevista à Folha de São Paulo. O projeto conta com o apoio da Secretaria de Desenvolvimento Sustentável do Governo do Estado do Amazonas | Secretaria de Desenvolvimento Sustentável do Governo do Estado do Amazonas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 77,
+        "end": 83
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 87,
+        "end": 100
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 258,
+        "end": 263
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 268,
+        "end": 276
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 414,
+        "end": 419
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 475,
+        "end": 479
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 490,
+        "end": 515
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 527,
+        "end": 536
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 554,
+        "end": 572
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 605,
+        "end": 679
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 682,
+        "end": 723
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 727,
+        "end": 734
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 738,
+        "end": 756
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T10",
+      "obj": "T4"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Quem foi Stu Sutcliffe? Quando é que ele se juntou aos Beatles? Que instrumento é que ele tocava? O que é que ele vendeu ao homem de negócios John Moores para comprar uma viola?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 142,
+        "end": 153
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

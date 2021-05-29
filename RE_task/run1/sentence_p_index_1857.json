@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a capital de Timor Ocidental?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

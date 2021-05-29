@@ -1,0 +1,53 @@
+{
+  "text": "Durante os anos 90 , o interesse no Cavalo-marinho por parte do público da região metropolitana do Recife tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral. Jovens visitam o interior para assistir a apresentações e para entrar no Mergulhão - a dança de abertura do Cavalo-marinho, e existem diversos projetos de pesquisa e documentação\" .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 36,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 99,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 272,
+        "end": 281
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 307,
+        "end": 321
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

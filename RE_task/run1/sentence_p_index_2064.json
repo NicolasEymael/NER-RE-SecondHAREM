@@ -1,0 +1,14 @@
+{
+  "text": "Quem é que escreveu \"Os Persas\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 21,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,693 @@
+{
+  "text": " Bibliografia de Censurados. Os Censurados nasceram em Lisboa \"no ano de 1988, pelo antigo vocalista da banda Ku de Judas, João Ribas, juntando-se-lhe Orlando Cohen, o ex-membro dos Peste & Sida, Samuel Palitos e ainda Fred Valsassina. Os Censurados começaram por tocar ao vivo. Muito. As letras, em português, eram simples e directas, refrões fortes que traduziam o sentimento da juventude da era Cavaquista. O primeiro registo em vinil, na compilação \"Feedback\" incluiu os temas \"Senhores Politicos\", Não Vales Nada\" e \"Está a andar de Mota\" (um instrumental). \"Tu ò Bófia\", \"Não Vales Nada\", \"Angústia\", \"Senhores Politicos\" eram temas fortíssimos que foram passando de cassete em cassete e eram entoados em coro nos concertos muito antes do lançamento do álbum \"Censurados\"1990. Este disco é um album histórico que foi aclamado pela mais importante fanzine dedicada ao Punk e Hardore \"na altura, a Maximum Rockn'Roll(EUA) apesar das letras em português, o que mostra a qualidade das composições e sobretudo das prestações dos músicos. Em 1991 editam o 2º | 2º album \"Confusão\" e passam os anos seguintes na estrada. Em 1993 sai o \"Sopa\" com o single de mesmo nome e uma participação de Jorge Palma na música \"Estou agarrado a ti\". O ano de 1994 é o ano da despedida, mas antes participam no tributo a Zeca Afonso, \"Filhos da Madrugada\" com a reedição do tema \"O que faz falta\". Em 1998 a editora \"El Tatu\" de Tim reedita os albuns \"Censurados\" e \"Sopa\". Em 1999 os Censurados reaparecem, para rejubilo dos fãns, participando no tributo de Xutos & Pontapés, \"XX Anos XX Bandas\". Participaram na tourné de promoção desse disco com os Xutos, mas ao contrário do que se esperava os Censurados ficaram por aí, não voltando nunca mais. Em 2006 é lançado a biografia da banda, \"Censurados Até Morrer\", escrita por Augusto Figueira e Renato Conteiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 61
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 63,
+        "end": 77
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 110,
+        "end": 121
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 133
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 151,
+        "end": 164
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 182,
+        "end": 194
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 196,
+        "end": 210
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 219,
+        "end": 234
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 239,
+        "end": 249
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 391,
+        "end": 408
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 454,
+        "end": 462
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 482,
+        "end": 500
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "obra",
+      "span": {
+        "begin": 503,
+        "end": 517
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "obra",
+      "span": {
+        "begin": 522,
+        "end": 542
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "obra",
+      "span": {
+        "begin": 564,
+        "end": 574
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "obra",
+      "span": {
+        "begin": 578,
+        "end": 592
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "obra",
+      "span": {
+        "begin": 596,
+        "end": 604
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "obra",
+      "span": {
+        "begin": 608,
+        "end": 626
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "obra",
+      "span": {
+        "begin": 766,
+        "end": 776
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 777,
+        "end": 781
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 873,
+        "end": 877
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 880,
+        "end": 887
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "outro",
+      "span": {
+        "begin": 902,
+        "end": 920
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 921,
+        "end": 924
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1039,
+        "end": 1046
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "valor",
+      "span": {
+        "begin": 1056,
+        "end": 1058
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "obra",
+      "span": {
+        "begin": 1071,
+        "end": 1079
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 1090,
+        "end": 1107
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1120,
+        "end": 1127
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "obra",
+      "span": {
+        "begin": 1135,
+        "end": 1139
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1190,
+        "end": 1201
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "obra",
+      "span": {
+        "begin": 1213,
+        "end": 1232
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1235,
+        "end": 1248
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "tempo",
+      "span": {
+        "begin": 1251,
+        "end": 1256
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 1275,
+        "end": 1280
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 1305,
+        "end": 1316
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "obra",
+      "span": {
+        "begin": 1319,
+        "end": 1338
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "obra",
+      "span": {
+        "begin": 1364,
+        "end": 1379
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 1382,
+        "end": 1389
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1401,
+        "end": 1408
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 1413,
+        "end": 1416
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "obra",
+      "span": {
+        "begin": 1436,
+        "end": 1446
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "obra",
+      "span": {
+        "begin": 1451,
+        "end": 1455
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "tempo",
+      "span": {
+        "begin": 1458,
+        "end": 1465
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1469,
+        "end": 1479
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1543,
+        "end": 1559
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "obra",
+      "span": {
+        "begin": 1562,
+        "end": 1579
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1636,
+        "end": 1641
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1682,
+        "end": 1692
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "tempo",
+      "span": {
+        "begin": 1734,
+        "end": 1741
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "obra",
+      "span": {
+        "begin": 1775,
+        "end": 1796
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "individuo",
+      "span": {
+        "begin": 1811,
+        "end": 1827
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "individuo",
+      "span": {
+        "begin": 1830,
+        "end": 1845
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "data_nascimento",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "obra_de",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T13"
+    },
+    {
+      "id": "R15",
+      "pred": "obra_de",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T15"
+    },
+    {
+      "id": "R17",
+      "pred": "obra_de",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T14"
+    },
+    {
+      "id": "R19",
+      "pred": "obra_de",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R20",
+      "pred": "data_de",
+      "subj": "T22",
+      "obj": "T21"
+    },
+    {
+      "id": "R21",
+      "pred": "praticado_por",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R22",
+      "pred": "praticado_por",
+      "subj": "T24",
+      "obj": "T1"
+    },
+    {
+      "id": "R23",
+      "pred": "obra_de",
+      "subj": "T29",
+      "obj": "T1"
+    },
+    {
+      "id": "R24",
+      "pred": "data_de",
+      "subj": "T29",
+      "obj": "T27"
+    },
+    {
+      "id": "R25",
+      "pred": "obra_de",
+      "subj": "T32",
+      "obj": "T1"
+    },
+    {
+      "id": "R26",
+      "pred": "data_de",
+      "subj": "T32",
+      "obj": "T31"
+    },
+    {
+      "id": "R27",
+      "pred": "participante_em",
+      "subj": "T33",
+      "obj": "T32"
+    },
+    {
+      "id": "R28",
+      "pred": "incluido",
+      "subj": "T34",
+      "obj": "T32"
+    },
+    {
+      "id": "R29",
+      "pred": "ter_participacao_de",
+      "subj": "T34",
+      "obj": "T33"
+    },
+    {
+      "id": "R30",
+      "pred": "obra_de",
+      "subj": "T39",
+      "obj": "T38"
+    },
+    {
+      "id": "R31",
+      "pred": "obra_de",
+      "subj": "T40",
+      "obj": "T38"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T21"
+    },
+    {
+      "id": "R33",
+      "pred": "data_de",
+      "subj": "T44",
+      "obj": "T41"
+    },
+    {
+      "id": "R34",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T21"
+    },
+    {
+      "id": "R35",
+      "pred": "data_de",
+      "subj": "T45",
+      "obj": "T41"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T47",
+      "obj": "T1"
+    },
+    {
+      "id": "R37",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T48"
+    },
+    {
+      "id": "R38",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T1"
+    },
+    {
+      "id": "R39",
+      "pred": "data_de",
+      "subj": "T53",
+      "obj": "T52"
+    },
+    {
+      "id": "R40",
+      "pred": "autor_de",
+      "subj": "T54",
+      "obj": "T53"
+    },
+    {
+      "id": "R41",
+      "pred": "autor_de",
+      "subj": "T55",
+      "obj": "T53"
+    }
+  ]
+}

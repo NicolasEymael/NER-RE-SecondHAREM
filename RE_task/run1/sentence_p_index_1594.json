@@ -1,0 +1,22 @@
+{
+  "text": "Quem é Arsène Wenger? De que equipa é que ele se tornou treinador em 1987?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 66,
+        "end": 73
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": " Multibanco é uma marca registada propriedade da empresa SIBS . O termo é utilizado comumente para designar as caixas automáticas (as máquinas que permitem a realização de operações bancárias em regime de auto-serviço), sendo mesmo utilizados em relação a caixas automáticas de sistema outros que o controlado pela SIBS . Neste contexto, também se utiliza o termo ATM , do inglês Automatic Teller Machine . Enquanto Portugal foi um dos últimos países da Europa ocidental a instalá-las, o equipamento usado representou o que havia de mais avançado, baseado nas experiências de outros países, muitos dos quais gastam agora imenso dinheiro para substituir e actualizar máquinas obsoletas. O número de caixas Multibanco mais do que triplicou em Portugal na última década , revela um estudo da Marktest . Desde 1995 , triplicou também o valor mensal médio de levantamentos per capita, revelam os dados fornecidos pela SIBS e incluídos na pesquisa « Os Concelhos Portugueses -- 1995/2005 ». Em Portugal , os multibancos têm tido muito sucesso, o que levou ao aparecimento de novos serviços não bancários, como a venda de bilhetes ou o pagamento de serviços. Neste momento a Rede Multibanco é uma das mais sofisticadas redes interbancárias do mundo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 913,
+        "end": 917
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 57,
+        "end": 61
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

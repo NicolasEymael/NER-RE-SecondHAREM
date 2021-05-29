@@ -1,0 +1,46 @@
+{
+  "text": "O atacante segue em recuperação. Nesta sexta-feira , participou da maior parte das atividades, em Dubai , nos Emirados Árabes . O técnico dividiu o elenco em dois times com 11 jogadores atuando na metade do gramado do estádio Al Maktoum .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 98,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 110,
+        "end": 125
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 173,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 226,
+        "end": 236
+      }
+    }
+  ],
+  "relations": []
+}

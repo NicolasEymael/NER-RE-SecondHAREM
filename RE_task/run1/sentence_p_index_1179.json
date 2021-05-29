@@ -1,0 +1,14 @@
+{
+  "text": "- Beleza então, se a qualidade não for boa eu volto aqui amanhã e troco.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

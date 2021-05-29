@@ -1,0 +1,46 @@
+{
+  "text": "E no que depender do Vj | Vj pixel , que pela segunda vez fez a ambientação visual do show ( esse ano ao lado do inglês Salsaman), o Criei tem tudo para melhorar cada vez mais empolgante: \"A gente gostou muito da estrutura que tem aqui, todo mundo tá adorando fazer. Nossa intenção é, terminando o evento, refletir sobre isso e escrever um relatório sobre o que foi bom e o que foi ruim, pra no ano que vem fazer uma estrutura semelhante, mas ainda melhor\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 93,
+        "end": 101
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 120,
+        "end": 128
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 133,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 392,
+        "end": 406
+      }
+    }
+  ],
+  "relations": []
+}

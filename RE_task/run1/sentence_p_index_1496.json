@@ -1,0 +1,29 @@
+{
+  "text": "Quando é que teve lugar a primeira Oktoberfest? Quantas pessoas morreram no atentado na Oktoberfest?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 35,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 88,
+        "end": 99
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

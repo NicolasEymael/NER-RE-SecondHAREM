@@ -1,0 +1,14 @@
+{
+  "text": "Quando viveu Franz Liszt?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

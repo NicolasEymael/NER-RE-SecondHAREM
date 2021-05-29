@@ -1,0 +1,29 @@
+{
+  "text": "Quem era Flaubert? Em que ano publicou «Bouvard e Pécuchet»? Lista todas as suas obras.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 40,
+        "end": 58
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

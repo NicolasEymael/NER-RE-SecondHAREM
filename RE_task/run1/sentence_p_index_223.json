@@ -1,0 +1,166 @@
+{
+  "text": "Cerca de 10.200 fotografias, entre as quais os primeiros processos fotográficos, como daguerreótipos e ambrotipos, integram o acervo do Arquivo Histórico . São fotografias de Marc Ferrez e Augusto Malta , além de cartões postais de diversas épocas. Destaque para a \" Coleção Juan Gutierrez \". Fotógrafo espanhol, Gutierrez atuou no Rio de Janeiro entre 1880 e 1890 . Documentou a Revolta da Armada ( 1893/94 ), retratando as fortificações, os soldados e o armamento utilizado sem, contudo, apresentar cenas do embate. Suas lentes captaram, ainda, vistas de vários bairros da antiga cidade do Rio de Janeiro , reproduzindo sua arquitetura e seu cotidiano. Conheça toda a coleção de fotografias de Gutierrez em nossa Galeria Virtual . Desenhos, gravuras e aquarelas de importantes artistas como Rugendas , Debret , Norfini e Reis Carvalho , retratam cidades e paisagens brasileiras ao longo dos séculos XIX e XX , estando também preservados no Arquivo Histórico .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 136,
+        "end": 153
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 175,
+        "end": 186
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 267,
+        "end": 289
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 313,
+        "end": 322
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 332,
+        "end": 346
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 347,
+        "end": 364
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 380,
+        "end": 397
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 400,
+        "end": 407
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 592,
+        "end": 606
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 696,
+        "end": 705
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 715,
+        "end": 730
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 793,
+        "end": 801
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 804,
+        "end": 810
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 813,
+        "end": 820
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 823,
+        "end": 836
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 880,
+        "end": 904
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 907,
+        "end": 909
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 942,
+        "end": 959
+      }
+    }
+  ],
+  "relations": []
+}

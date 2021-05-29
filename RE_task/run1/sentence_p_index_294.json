@@ -1,0 +1,30 @@
+{
+  "text": "Inicia a sua actividade de ensaista e crítico literário com a publicação, em 1912 , na revista « Águia », do artigo « A nova poesia portuguesa sociologicamente considerada | A nova poesia portuguesa sociologicamente considerada », a que se seguiriam outros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 81
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 97,
+        "end": 102
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 118,
+        "end": 171
+      }
+    }
+  ],
+  "relations": []
+}

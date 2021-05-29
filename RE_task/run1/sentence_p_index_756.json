@@ -1,0 +1,14 @@
+{
+  "text": "Companhias começaram a comercializar sistemas antifurto que utilizavam ondas de rádio para determinar se um item havia sido roubado ou pago normalmente. Era o advento das tags (etiquetas) denominadas de \"etiquetas de vigilância eletrônica\" as quais ainda são utilizadas até hoje. Cada etiqueta utiliza um bit. Se a pessoa paga pela mercadoria, o bit é posto em off ou 0. E os sensores não dispararão o alarme. Caso o contrário, o bit continua em on ou 1, e caso a mercadoria saia através dos sensores, um alarme será disparado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 270,
+        "end": 278
+      }
+    }
+  ],
+  "relations": []
+}

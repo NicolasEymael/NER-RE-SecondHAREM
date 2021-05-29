@@ -1,0 +1,30 @@
+{
+  "text": "Palácio Nacional de Mafra | Palácio Nacional de Mafra",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 48,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

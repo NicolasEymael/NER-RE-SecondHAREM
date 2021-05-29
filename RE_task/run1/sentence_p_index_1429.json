@@ -1,0 +1,22 @@
+{
+  "text": "Como se chama o patrão da Microsoft | patrão da Microsoft?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 57
+      }
+    }
+  ],
+  "relations": []
+}

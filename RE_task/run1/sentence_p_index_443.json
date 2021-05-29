@@ -1,0 +1,30 @@
+{
+  "text": "Programa Institucional de Gestão Ambiental do MEC | Programa Institucional de Gestão Ambiental do MEC que visa a melhor gestão dos recursos naturais e a diminuição dos impactos ambientais gerados pelas suas atividades.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 52,
+        "end": 94
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 98,
+        "end": 101
+      }
+    }
+  ],
+  "relations": []
+}

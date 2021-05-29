@@ -1,0 +1,721 @@
+{
+  "text": " Amadeo de Souza-Cardoso. A sua familia era rica e influenciou-o a ingressar no curso de Direito na Universidade de Coimbra | Universidade de Coimbra. Depressa desistiu do curso e mudou-se para o curso de Arquitectura na Academia de Belas Artes de Lisboa | Academia de Belas Artes de Lisboa em 1905. O curso nao satisfaz o seu genio criativo, por isso parte para Paris em 1906 instalando-se em Montparnasse com a intençao de continuar a estudar. As suas primeiras experiências artisticas conhecidas foram desenhos e caricaturas, depois dedicou-se à pintura. Poder-se-á dizer que foi um pintor impressionista, expressionista, cubista, futurista mas sempre recusou qualquer rotulo. Apesar das multiplas influencias procurava a originalidade e a criatividade na sua obra. Em 1908 instala-se no número catorze da Cité de Falguière. Frequentou ateliers preparatórios para Academia de Beaux-Arts e a Academia Viti do pintor catalão Anglada Camarasa mas, apesar disso, nao chega a ser admitido. Em 1910 esteve alguns meses em Bruxelas e em 1911 expôs trabalhos no Salon des Indépendants, em Paris, aproximando-se progressivamente das vanguardas e de artistas como Amedeo Modigliani, Constantin Brancusi, Alexander Archipenko, Juan Gris e Robert Delaunay. Em 1912 publicou um álbum com vinte desenhos e, em seguida, copiou o conto de Gustave Flaubert, \"La Légende de Saint Julien l'Hospitalier\", trabalhos ignorados pelos apreciadores de arte. Depois de participar em 1913 numa exposição com oito trabalhos nos Estados Unidos da América, no Armory Show, voltou a Portugal, onde teve a ousadia de realizar duas exposições, respectivamente em Porto e em Lisboa. Nesse ano participou ainda no Herbstsalon da Galeria Der Sturm, em Berlim. Em 1914 encontrou-se em Barcelona com Antoni Gaudí, e parte para Madrid onde é surpreendido pelo início da I Guerra Mundial. Regressou então a Portugal, onde iniciou meteórica carreira na experimentação de novas formas de expressão, tendo pintado com grande constância ao ponto de, em 1916, expor no Porto 114 obras com o título \"Abstraccionismo\", que serão também expostas em Lisboa, num e noutro caso com novidade e algum escândalo. O cubismo em expansão por toda a Europa foram influências marcantes no seu cubismo analítico. Amadeo de Souza-Cardoso explora o expressionismo e nos seus últimos trabalhos experimenta novas formas e técnicas, como as colagens e outras formas de expressão plástica. Em 25 de Outubro de 1918, aos 31 anos de idade, morre prematuramente em Espinho, vítima da \"pneumónica\" que grassava em Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 89,
+        "end": 96
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 123
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 142,
+        "end": 149
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 205,
+        "end": 217
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 257,
+        "end": 280
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 284,
+        "end": 290
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 298
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 363,
+        "end": 368
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 369,
+        "end": 376
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 394,
+        "end": 406
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 529,
+        "end": 535
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 769,
+        "end": 776
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 809,
+        "end": 826
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 867,
+        "end": 889
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 894,
+        "end": 907
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 926,
+        "end": 942
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 988,
+        "end": 995
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1003,
+        "end": 1015
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 1019,
+        "end": 1027
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 1030,
+        "end": 1037
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1057,
+        "end": 1079
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1084,
+        "end": 1089
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 1157,
+        "end": 1174
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1176,
+        "end": 1195
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1197,
+        "end": 1217
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1219,
+        "end": 1228
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1231,
+        "end": 1246
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1248,
+        "end": 1255
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1326,
+        "end": 1342
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "obra",
+      "span": {
+        "begin": 1345,
+        "end": 1385
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 1457,
+        "end": 1464
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1503,
+        "end": 1528
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1533,
+        "end": 1544
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1555,
+        "end": 1563
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "local",
+      "span": {
+        "begin": 1633,
+        "end": 1638
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "local",
+      "span": {
+        "begin": 1644,
+        "end": 1650
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "tempo",
+      "span": {
+        "begin": 1652,
+        "end": 1661
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1682,
+        "end": 1693
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1697,
+        "end": 1714
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "local",
+      "span": {
+        "begin": 1719,
+        "end": 1725
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "tempo",
+      "span": {
+        "begin": 1727,
+        "end": 1734
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "local",
+      "span": {
+        "begin": 1751,
+        "end": 1760
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "individuo",
+      "span": {
+        "begin": 1765,
+        "end": 1777
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "local",
+      "span": {
+        "begin": 1792,
+        "end": 1798
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1834,
+        "end": 1850
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 1870,
+        "end": 1878
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 2009,
+        "end": 2016
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "local",
+      "span": {
+        "begin": 2027,
+        "end": 2032
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "valor",
+      "span": {
+        "begin": 2033,
+        "end": 2036
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2057,
+        "end": 2072
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "local",
+      "span": {
+        "begin": 2104,
+        "end": 2110
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "local",
+      "span": {
+        "begin": 2195,
+        "end": 2201
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "individuo",
+      "span": {
+        "begin": 2256,
+        "end": 2279
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "tempo",
+      "span": {
+        "begin": 2427,
+        "end": 2451
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "valor",
+      "span": {
+        "begin": 2457,
+        "end": 2464
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "local",
+      "span": {
+        "begin": 2499,
+        "end": 2506
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "local",
+      "span": {
+        "begin": 2547,
+        "end": 2555
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "residencia_de",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T11"
+    },
+    {
+      "id": "R8",
+      "pred": "residencia_de",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T18"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T24",
+      "obj": "T11"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T11"
+    },
+    {
+      "id": "R12",
+      "pred": "obra_de",
+      "subj": "T33",
+      "obj": "T32"
+    },
+    {
+      "id": "R13",
+      "pred": "localizado_em",
+      "subj": "T36",
+      "obj": "T35"
+    },
+    {
+      "id": "R14",
+      "pred": "ter_participacao_de",
+      "subj": "T36",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "inclui",
+      "subj": "T37",
+      "obj": "T5"
+    },
+    {
+      "id": "R16",
+      "pred": "inclui",
+      "subj": "T37",
+      "obj": "T9"
+    },
+    {
+      "id": "R17",
+      "pred": "natural_de",
+      "subj": "T37",
+      "obj": "T1"
+    },
+    {
+      "id": "R18",
+      "pred": "incluido",
+      "subj": "T38",
+      "obj": "T37"
+    },
+    {
+      "id": "R19",
+      "pred": "incluido",
+      "subj": "T39",
+      "obj": "T37"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T9"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T34"
+    },
+    {
+      "id": "R22",
+      "pred": "ter_participacao_de",
+      "subj": "T41",
+      "obj": "T1"
+    },
+    {
+      "id": "R23",
+      "pred": "produtor_de",
+      "subj": "T42",
+      "obj": "T41"
+    },
+    {
+      "id": "R24",
+      "pred": "sede_de",
+      "subj": "T42",
+      "obj": "T41"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T43",
+      "obj": "T42"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T49",
+      "obj": "T37"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T38"
+    },
+    {
+      "id": "R28",
+      "pred": "obra_de",
+      "subj": "T53",
+      "obj": "T1"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T9"
+    },
+    {
+      "id": "R30",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T25"
+    },
+    {
+      "id": "R31",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T22"
+    },
+    {
+      "id": "R32",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T37"
+    },
+    {
+      "id": "R33",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T43"
+    },
+    {
+      "id": "R34",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T45"
+    },
+    {
+      "id": "R35",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T47"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T56",
+      "obj": "T1"
+    },
+    {
+      "id": "R37",
+      "pred": "data_morte",
+      "subj": "T57",
+      "obj": "T1"
+    },
+    {
+      "id": "R38",
+      "pred": "incluido",
+      "subj": "T59",
+      "obj": "T37"
+    },
+    {
+      "id": "R39",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T37"
+    }
+  ]
+}

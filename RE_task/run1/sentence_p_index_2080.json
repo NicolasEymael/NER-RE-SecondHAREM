@@ -1,0 +1,22 @@
+{
+  "text": "At 1:55 PM, César Viana said...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

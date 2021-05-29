@@ -1,0 +1,37 @@
+{
+  "text": "Como se chamavam os dois navios que colidiram no Estreito do Bósforo em 1994? Quantos morreram na colisão? Qual o pavilhão de ambos os navios? Qual o comprimento do Estreito do Bósforo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 68
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 69,
+        "end": 76
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 165,
+        "end": 184
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

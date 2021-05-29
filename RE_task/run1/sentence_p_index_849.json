@@ -1,0 +1,175 @@
+{
+  "text": "O grande mérito da MAD Magazine trazer para as HQs um humor anárquico, satírico e, principalmente, judeu. Ainda em sua primeira fase - reconhecidamente a melhor de todas - ela destruiu sem dó nem piedade todo e qualquer ícone da cultura de massa norte-americana. Flash Gordon virou Flesh Garden ( Jardim de Carne ), um brutamontes com zero de QI | QI , e Batman foi transformando em um anão vampiro que vivia tentando agarrar a Mulher Maravilha . São notáveis também as sátiras feitas ao Superman ( Superduperman e a charge Supermarket , sobre um supermercado exclusivo para heróis) e as adaptações de contos de fadas, todas elas temperadas por uma certa dosa de perversão sexual. A MAD merece ainda um capítulo à parte sobre sua produção gráfica, pois foi nela que floresceu o talento de Wallace Wood ; Basil Wolverton , especialista em desenhar monstros deformados, e Bill Elder , os responsáveis pela \"cara\" da fase clássica da revista. Para se ter uma idéia de como a coisa era pesada para época, o slogan da MAD era uma provocação absurda: \"MAD Magazine: Humor In a Jugular Vein!!\", frase que, nos anúncios da revista, aparecia escrita sob uma Monalisa deformada criada por Basil Wolverton .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 47,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 263,
+        "end": 275
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 282,
+        "end": 294
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 297,
+        "end": 312
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 343,
+        "end": 345
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 355,
+        "end": 361
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 428,
+        "end": 444
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 488,
+        "end": 496
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 499,
+        "end": 512
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 524,
+        "end": 535
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 683,
+        "end": 686
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 789,
+        "end": 801
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 804,
+        "end": 819
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 870,
+        "end": 880
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 1013,
+        "end": 1016
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "obra",
+      "span": {
+        "begin": 1149,
+        "end": 1157
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 1179,
+        "end": 1194
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T14"
+    }
+  ]
+}

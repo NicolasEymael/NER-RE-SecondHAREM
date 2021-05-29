@@ -1,0 +1,30 @@
+{
+  "text": "Para SÓCRATES , esta Carta \"vai para além\" dos cidadãos da UE , representando \"um esteio fundamental da convicção de um mundo melhor e de que os direitos são universalmente respeitados\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 5,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 21,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 61
+      }
+    }
+  ],
+  "relations": []
+}

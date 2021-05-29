@@ -1,0 +1,89 @@
+{
+  "text": "Directiva 2004/101/CE do Parlamento Europeu e do Conselho | Directiva 2004/101/CE do Parlamento Europeu e do Conselho, de 27 de Outubro de 2004, que altera a Directiva 2003/87/CE relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade, no que diz respeito aos mecanismos baseados em projectos do Protocolo de Quioto",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 60,
+        "end": 81
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 85,
+        "end": 103
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 109,
+        "end": 117
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 119,
+        "end": 143
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 158,
+        "end": 178
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 279,
+        "end": 289
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 351,
+        "end": 370
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "data_de",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "text": "Neste campeonato aprendi mais, e sei que tenho muito que aprender, ganhou Marcos Mata representante de Lisboa, cadete da ACM da mesma cidade, ganhou e ganhou bem, foi merecido o triunfo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 121,
+        "end": 124
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "text": "O ginásio da ACM de Coimbra | ACM de Coimbra, é o melhor que até à data tenho visto, assim como o seu pucking-ball, que é o único no género que existe em Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 44
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 61,
+        "end": 71
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 154,
+        "end": 162
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

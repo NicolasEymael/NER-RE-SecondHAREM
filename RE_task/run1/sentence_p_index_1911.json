@@ -1,0 +1,14 @@
+{
+  "text": "Quem preside à RAI?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

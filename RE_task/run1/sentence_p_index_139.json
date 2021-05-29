@@ -1,0 +1,46 @@
+{
+  "text": "Os Fitacola são um grupo de amigos, que um dia , em 2003 em Coimbra , se lembraram de formar uma banda na garagem e brincar aos músicos, imitando os ídolos que admiravam. O projecto foi continuando nesta toada de brincadeira e divertimento até 2005 , altura em que a banda fixou a formação actual.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 49,
+        "end": 56
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 240,
+        "end": 248
+      }
+    }
+  ],
+  "relations": []
+}

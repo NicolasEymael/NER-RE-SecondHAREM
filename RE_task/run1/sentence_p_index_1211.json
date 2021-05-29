@@ -1,0 +1,121 @@
+{
+  "text": "Não custa lembrar que, por essa fase inicial da FNF, e antes dela, na Universidade do Distrito Federal | Universidade do Distrito Federal (UDF), brilhavam nela os nomes de Sousa da Silveira, José Oiticica e Antenor Nascentes, que, sem dúvida, constituiriam mais uma razão para que Houaiss, Celso e Olavo fizessem o Curso de Letras Neolatinas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 70,
+        "end": 102
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 105,
+        "end": 117
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 121,
+        "end": 137
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 139,
+        "end": 142
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 172,
+        "end": 189
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 204
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 207,
+        "end": 224
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 281,
+        "end": 288
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 290,
+        "end": 295
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 298,
+        "end": 303
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 315,
+        "end": 341
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T12",
+      "obj": "T10"
+    },
+    {
+      "id": "R3",
+      "pred": "outrarel",
+      "subj": "T12",
+      "obj": "T11"
+    }
+  ]
+}

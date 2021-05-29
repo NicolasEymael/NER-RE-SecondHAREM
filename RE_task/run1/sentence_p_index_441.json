@@ -1,0 +1,91 @@
+{
+  "text": "A Secretaria de Educação Continuada, Alfabetização e Diversidade ( SECAD ) foi convidada pelo departamento de Ensino Médio da Secretaria de Educação Básica ( SEB ) a participar do processo de reelaboração dos Parâmetros Curriculares Nacionais do Ensino Médio , no intuito de produzir textos que contemplassem a perspectiva da diversidade.Nesse sentido, a SECAD fez uma oficina com a participação de suas coordenações-gerais onde foi trabalhada a questão da diversidade no currículo como forma de orientar as atividades pedagógicas, ou seja, definir qual a concepção de currículo e diversidade que se quer trabalhar, quais os objetivos e qual a melhor maneira de inserir as diferentes temáticas nas áreas e disciplinas do ensino médio. Cada coordenação produziu um texto procurando articular as várias temáticas, que resultará num Caderno de Diversidade para acompanhar os Parâmetros Curriculares Nacionais do Ensino Médio .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 67,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 110,
+        "end": 122
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 155
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 158,
+        "end": 161
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 209,
+        "end": 258
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 355,
+        "end": 360
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 830,
+        "end": 852
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 872,
+        "end": 921
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T6"
+    }
+  ]
+}

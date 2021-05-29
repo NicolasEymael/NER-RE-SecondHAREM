@@ -1,0 +1,22 @@
+{
+  "text": "8.3. O que o IBAP fez e faz pela institucionalização dos órgãos de Advocacia Pública?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 67,
+        "end": 84
+      }
+    }
+  ],
+  "relations": []
+}

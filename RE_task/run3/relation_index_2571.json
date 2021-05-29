@@ -1,0 +1,29 @@
+{
+  "text": " Lisboa-Dakar | Lisboa - Dakar: Carlos Sousa ambiciona pódio. O piloto português Carlos Sousa revelou que tem \"capacidade para chegar ao pódio\" dos automóveis na edição de 2008 do Lisboa-Dakar | Lisboa - Dakar cujo percurso foi hoje apresentado em Lisboa. Carlos Sousa acredita que este ano o rali vai ser mais duro. \"Vai ser um percurso para os mais resistentes. É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo\", afirmou o piloto da Lagos Team, que vai conduzir um Volkswagen Touareg idêntico aos de fábrica. Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: \"Há 15 ou mais pilotos com hipóteses de chegar à vitória e ao pódio. As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela Internet | Internet, mas para os pilotos vai ser uma luta até ao último dia\". O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical em Setembro. No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições dentro de mês e meio, quando começar o rali.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 479,
+        "end": 489
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 44
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

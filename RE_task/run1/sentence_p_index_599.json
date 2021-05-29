@@ -1,0 +1,30 @@
+{
+  "text": "\" De vez em quando chega um produto revolucionário que muda tudo. É sorte se pudermos trabalhar num ao longo da carreira... e a Apple é sortuda por já ter lançado vários\", disse Steve Jobs .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 2,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 128,
+        "end": 133
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 178,
+        "end": 188
+      }
+    }
+  ],
+  "relations": []
+}

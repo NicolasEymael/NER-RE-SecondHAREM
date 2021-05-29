@@ -1,0 +1,14 @@
+{
+  "text": "Em que anos foi Nelson Piquet campeão do mundo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

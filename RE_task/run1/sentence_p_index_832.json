@@ -1,0 +1,135 @@
+{
+  "text": "Portugal , que assumiu a presidência da UE durante o segundo semestre de 2007 , lançou uma conferência intergovernamental ( CIG ) nos dias 23 e 24 de Julho , para acabar a redação do texto, coincidindo com a reunião de ministros dos Negócios Estrangeiros . O novo Tratado foi apresentado na cimeira de 18 de Outubro , em Lisboa , tendo sido assinado pelos representantes dos vários governos no dia 13 de Dezembro de 2007 , no Mosteiro dos Jerónimos . Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor em 2009 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 124,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 130,
+        "end": 141
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 144,
+        "end": 155
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 219,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 264,
+        "end": 271
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 299,
+        "end": 315
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 321,
+        "end": 327
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 391,
+        "end": 420
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 426,
+        "end": 448
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 546,
+        "end": 553
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T3"
+    }
+  ]
+}

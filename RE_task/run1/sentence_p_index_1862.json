@@ -1,0 +1,14 @@
+{
+  "text": "O que é o Tux? Que animal é? Quem o criou? Quando?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 10,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

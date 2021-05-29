@@ -1,0 +1,14 @@
+{
+  "text": "A Empresa socialmente responsável , é a STN - SISTEMA DE TRANSMISSÃO DO NORDESTE | STN - SISTEMA DE TRANSMISSÃO DO NORDESTE .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

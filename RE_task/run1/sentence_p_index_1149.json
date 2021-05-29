@@ -1,0 +1,29 @@
+{
+  "text": "Mas, e o Kuduro? Brasileiros que somos, se focarmos mais ainda a nossa lente, vamos encontrar no Kuduro, a mais pura essência (os tonalistas também odeiam este conceito) de nossa tão ambígua e fugidia brasilidade. Duvidam?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 9,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 97,
+        "end": 103
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

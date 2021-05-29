@@ -1,0 +1,81 @@
+{
+  "text": "Durante a discussão sobre a natureza do salazarismo, e depois de assinalar, com o fastio do costume, a ignorância grotesca do adversário, Vasco Pulido Valente recomendou-lhe esta reflexão: « Vítor Dias que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que o PCP já não chamou 'fascista??» Bom argumento. De facto, a repetição exaustiva da mesma acusação desacredita o acusador. Proponho, por isso, outra reflexão. Vasco Pulido Valente que puxe pela cabeça: existe em Portugal alguém ou alguma coisa a que Vasco Pulido Valente já não tenha chamado \"ignorante\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 138,
+        "end": 158
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 191,
+        "end": 201
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 234,
+        "end": 242
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 274,
+        "end": 277
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 430,
+        "end": 450
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 483,
+        "end": 491
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 521,
+        "end": 541
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    }
+  ]
+}

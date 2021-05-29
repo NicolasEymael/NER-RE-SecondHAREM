@@ -1,0 +1,14 @@
+{
+  "text": "Onde foi apunhalado Naguib Mahfouz?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

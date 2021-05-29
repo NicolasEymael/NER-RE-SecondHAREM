@@ -1,0 +1,22 @@
+{
+  "text": "Um pedido de financiamento feito em 1998 pelo Office of Naval Research propõe a criação de micro-organismos geneticamente projetados que corroeriam estradas e pistas de decolagem, e produziriam \"deterioração de partes metálicas, revestimentos e lubrificantes de armas, veículos e equipamento de apoio, bem como combustíveis.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

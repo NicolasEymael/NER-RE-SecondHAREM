@@ -1,0 +1,121 @@
+{
+  "text": "Este espaço se destina a divulgar os principais Programas , Projetos e Ações desenvolvidos pela Coordenação-Geral de Educação Ambiental que tem como eixos centrais: Fortalecimento da Política Nacional de Educação Ambiental - Lei 9795/99 ; Formação Continuada na Educação Básica ; Fomento a projetos de Educação Ambiental | Fomento a projetos de Educação Ambiental ; Educação Ambiental no Ensino Superior .Estas ações, em sua maior parte, estão em consonância com as ações procedidas no âmbito da Diretoria de Educação Ambiental - DEA , do Ministério do Meio Ambiente ; guardadas suas competências e atribuições específicas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 48,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 60,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 71,
+        "end": 76
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 96,
+        "end": 135
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 165,
+        "end": 222
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 225,
+        "end": 236
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 239,
+        "end": 277
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 280,
+        "end": 320
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 366,
+        "end": 403
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 496,
+        "end": 527
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 530,
+        "end": 533
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 539,
+        "end": 566
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T10"
+    }
+  ]
+}

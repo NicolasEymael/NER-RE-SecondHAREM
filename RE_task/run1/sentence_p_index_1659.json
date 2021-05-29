@@ -1,0 +1,29 @@
+{
+  "text": "De que país é que Pierre Beregovoy era primeiro-ministro? Em que ano é que Beregovoy se suicidou? A que partido político pertencia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 75,
+        "end": 84
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

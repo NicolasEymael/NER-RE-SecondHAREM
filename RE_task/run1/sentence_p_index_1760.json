@@ -1,0 +1,14 @@
+{
+  "text": "Com quem se casou a rainha Cristina? Que idade tinha ela quando morreu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

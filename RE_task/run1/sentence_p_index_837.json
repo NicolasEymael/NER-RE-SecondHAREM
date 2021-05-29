@@ -1,0 +1,22 @@
+{
+  "text": "-\"O worm mais travesso\" foi o RogueMario.A, destinado a entreteter os utilizadores enquanto os infecta. Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo Mario Bros de cada vez que infecta um computador.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 30,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 183,
+        "end": 193
+      }
+    }
+  ],
+  "relations": []
+}

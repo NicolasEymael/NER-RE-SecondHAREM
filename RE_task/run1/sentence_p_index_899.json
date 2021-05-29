@@ -1,0 +1,38 @@
+{
+  "text": "Aí eu me derreti toda, por que tenho paixnão pelo Cuti desde que sentei no colo dele. Calma pessoal, calminha aí. Eu tinha dois aninhos de idade, quando ele participou em um encontro em Porto, na Câmara de Vereadores, e \"Papá estava lá comigo e eu só queria saber do colo do moço lindão, conforme a resenha da época. Não vamos desviar do assunto que quer tratar é da presença nossa, humana, nos palcos da vida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 186,
+        "end": 191
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 216
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 221,
+        "end": 225
+      }
+    }
+  ],
+  "relations": []
+}

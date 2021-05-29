@@ -1,0 +1,14 @@
+{
+  "text": "Falar das fotografias do Sebastião Salgado é redundante. Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

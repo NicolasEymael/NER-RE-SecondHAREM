@@ -1,0 +1,91 @@
+{
+  "text": "Quais são os caminhos utilizados pelas escolas em Educação Ambiental ? Para responder a essa pergunta, uma parceria entre a Secretaria de Educação Continuada, Alfabetização e Diversidade - SECAD/MEC , o INEP e a Associação Nacional de Pesquisa em Educação - ANPED possibilitou a elaboração de uma pesquisa para aprofundar os dados obtidos no Censo Escolar ( 2001-2004 ) e conhecer melhor como estas alternativas são processadas e significadas nos diferentes contextos escolares, possibilitando uma compreensão qualitativa dos caminhos de inserção da Educação Ambiental no ensino fundamental.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 50,
+        "end": 68
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 124,
+        "end": 186
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 189,
+        "end": 198
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 203,
+        "end": 207
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 212,
+        "end": 255
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 258,
+        "end": 263
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 342,
+        "end": 355
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 358,
+        "end": 367
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 550,
+        "end": 568
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

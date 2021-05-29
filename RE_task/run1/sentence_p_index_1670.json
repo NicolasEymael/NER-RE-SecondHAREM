@@ -1,0 +1,29 @@
+{
+  "text": "Qual a profissão de Michael Barrymore? Diga um programa de televisão apresentado por Michael Barrymore. Quanto tempo é que durou o casamento dele? Como é que se chamava a mulher dele?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 85,
+        "end": 102
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

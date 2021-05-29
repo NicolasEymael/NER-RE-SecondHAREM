@@ -1,0 +1,77 @@
+{
+  "text": "Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo Governo é o do pão, que deverá aumentar 10 a 15% em Janeiro ou Fevereiro, segundo contas feitas pela direcção da Associação dos Industriais de Panificação, Pastelaria e Similares do Norte | Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 90,
+        "end": 97
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 130,
+        "end": 138
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 139,
+        "end": 149
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 203,
+        "end": 277
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 280,
+        "end": 345
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 349,
+        "end": 354
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 356,
+        "end": 361
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    }
+  ]
+}

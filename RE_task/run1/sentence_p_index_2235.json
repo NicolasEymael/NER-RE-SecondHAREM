@@ -1,0 +1,14 @@
+{
+  "text": "8.2. O IBAP é associado a alguma entidade internacional?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 7,
+        "end": 11
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Quantos atletas participaram nos Jogos Olímpicos de Barcelona | Jogos Olímpicos de Barcelona?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 33,
+        "end": 61
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 64,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 83,
+        "end": 92
+      }
+    }
+  ],
+  "relations": []
+}

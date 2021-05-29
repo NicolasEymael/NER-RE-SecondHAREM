@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano se afundou o Titanic?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 24,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

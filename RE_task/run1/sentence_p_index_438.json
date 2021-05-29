@@ -1,0 +1,94 @@
+{
+  "text": "O Manual Orientador para Coletivos Jovens de Meio Ambiente é uma das publicações do Programa , e tem como objetivo contribuir para o fortalecimento dos Coletivos Jovens ( CJs ) já existentes e estimular a formação de novos Coletivos Jovens em municípios.A principal linha de ação do Programa é a formação de jovens na área socioambiental, em cinco temas principais: Educação Ambiental ; Fortalecimento Organizacional ; Educomunicação ; Empreendedorismo ; e Participação Política . Trata-se de um processo de formação presencial e a distância, e que envolverá jovens de todos os estados brasileiros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 84,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 152,
+        "end": 168
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 171,
+        "end": 174
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 223,
+        "end": 239
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 283,
+        "end": 291
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 366,
+        "end": 384
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 387,
+        "end": 416
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 419,
+        "end": 433
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 436,
+        "end": 452
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 457,
+        "end": 478
+      }
+    }
+  ],
+  "relations": []
+}

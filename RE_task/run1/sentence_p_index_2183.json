@@ -1,0 +1,14 @@
+{
+  "text": "Sim, desde que tenha se aposentado na condição de Advogado/a Público/a | Advogado/a Público/a .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

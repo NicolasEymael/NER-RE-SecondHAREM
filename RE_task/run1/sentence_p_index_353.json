@@ -1,0 +1,30 @@
+{
+  "text": "A obra de Salgado supera muito do que tem sido em geral nos últimos 30 anos | nos últimos 30 anos a fotografia documental. Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 90,
+        "end": 97
+      }
+    }
+  ],
+  "relations": []
+}

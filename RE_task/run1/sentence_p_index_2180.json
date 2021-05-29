@@ -1,0 +1,14 @@
+{
+  "text": "8 - IBAP EM AÇÃO: NOSSAS LUTAS E CAMPANHAS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4,
+        "end": 8
+      }
+    }
+  ],
+  "relations": []
+}

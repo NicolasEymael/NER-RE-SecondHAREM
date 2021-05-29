@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Boris Becker?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

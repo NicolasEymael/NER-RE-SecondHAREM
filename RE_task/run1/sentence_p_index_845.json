@@ -1,0 +1,163 @@
+{
+  "text": "Até 1947 , o jovem William M.Gaines não passava de um bon-vivant dedicado única e exclusivamente às coisas boas do mundo. Mas só até 1947 , pois naquele mesmo ano sua vida mudaria drasticamente após a morte de sua mãe num acidente de barco. Profundamente abatido com a tragédia, seu pai, Max Gaines , resolveu retirar-se dos negócios e passou para o filho a missão de tocar adiante a empresa da família, a editora de quadrinhos religiosos Educational Comics . O único problema é que quadrinhos religiosos não eram exatamente um gênero de sucesso entre a molecada, que preferia as aventuras do Capitão América às adaptações carolas de passagens do Novo Testamento , daí ser compreensível que a Educational Comics estivesse em sérias dificuldades financeiras. Entretanto, o destino de Gaines tomaria um rumo inesperado quando ele cruzou o caminho de Al Feldstein , um talentoso artista freelancer em começo de carreira e que, assim como o ex-playboy, adorava aventuras de terror e mistério. Descobertas as afinidades, a dupla juntou as forças e criou duas histórias: A Cripta do Terror e A Câmara do Horror . E já que pior do que estava não podia ficar, Gaines aproveitou a editora que herdara do pai e lançou os dois títulos no mercado. Nasciam aí os quadrinhos de terror e a lendária EC Comics .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 129,
+        "end": 137
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 145,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 288,
+        "end": 298
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 439,
+        "end": 457
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 593,
+        "end": 608
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 647,
+        "end": 662
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 693,
+        "end": 711
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 783,
+        "end": 789
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 848,
+        "end": 860
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 1065,
+        "end": 1083
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 1086,
+        "end": 1104
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1152,
+        "end": 1158
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 1284,
+        "end": 1293
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "obra_de",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R5",
+      "pred": "obra_de",
+      "subj": "T13",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "outrarel",
+      "subj": "T15",
+      "obj": "T6"
+    }
+  ]
+}

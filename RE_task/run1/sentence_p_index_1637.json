@@ -1,0 +1,37 @@
+{
+  "text": "Que agência está encarregada de centralizar as ofertas e pedidos de emprego em França? Quantos colaboradores tem a ANPE? Quem é que dirige essa agência desde 2005?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 79,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 115,
+        "end": 119
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 152,
+        "end": 162
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

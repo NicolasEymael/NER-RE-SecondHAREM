@@ -1,0 +1,22 @@
+{
+  "text": "Quantos quilos de anchova apanhou a frota do Cantábrico em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 45,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

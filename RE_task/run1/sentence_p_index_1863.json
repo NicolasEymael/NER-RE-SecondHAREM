@@ -1,0 +1,14 @@
+{
+  "text": "Diga uma emissora de televisão brasileira que tenha iniciado as suas actividades antes de 1970.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 94
+      }
+    }
+  ],
+  "relations": []
+}

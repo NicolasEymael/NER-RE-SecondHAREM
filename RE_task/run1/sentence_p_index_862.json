@@ -1,0 +1,22 @@
+{
+  "text": "\"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da Grande Estrada a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar muitas vezes em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 101,
+        "end": 115
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 201,
+        "end": 213
+      }
+    }
+  ],
+  "relations": []
+}

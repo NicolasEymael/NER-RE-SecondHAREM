@@ -1,0 +1,53 @@
+{
+  "text": "Em declarações à agência Lusa, António Fontes, da AIPAN, disse que o preço do pão terá de aumentar para fazer face à subida de 92% registada ao longo de 2007 no preço da matéria-prima de base (farinha).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 50,
+        "end": 55
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 127,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 141,
+        "end": 157
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

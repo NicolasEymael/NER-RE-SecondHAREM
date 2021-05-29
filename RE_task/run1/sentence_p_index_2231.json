@@ -1,0 +1,225 @@
+{
+  "text": "Os eventos promovidos pelo IBAP são realizados em todo o território nacional e não apenas na cidade onde se localiza sua sede social. O I Congresso Brasileiro de Advocacia Pública foi promovido em 1997 na cidade de Campos do Jordão/SP. O II Congresso foi promovido em 1998 em São Lourenço/MG. O III Congresso foi promovido em junho de 1999 em Salvador/BA. O IV Congresso Brasileiro de Advocacia Pública será realizado em 2000, em Teresópolis, no Estado do Rio de Janeiro. As atividades desenvolvidas nos diversos Estados Federados são organizadas pelos Coordenadores Regionais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 136,
+        "end": 179
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 194,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 215,
+        "end": 231
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 232,
+        "end": 234
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 238,
+        "end": 250
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 265,
+        "end": 272
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 276,
+        "end": 288
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 289,
+        "end": 291
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 295,
+        "end": 308
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 323,
+        "end": 339
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 343,
+        "end": 351
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 352,
+        "end": 354
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 358,
+        "end": 402
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 418,
+        "end": 425
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 430,
+        "end": 441
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 446,
+        "end": 470
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 513,
+        "end": 530
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 553,
+        "end": 576
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "data_de",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "data_de",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R7",
+      "pred": "sede_de",
+      "subj": "T12",
+      "obj": "T10"
+    },
+    {
+      "id": "R8",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R9",
+      "pred": "data_de",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R10",
+      "pred": "sede_de",
+      "subj": "T16",
+      "obj": "T14"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T17",
+      "obj": "T16"
+    }
+  ]
+}

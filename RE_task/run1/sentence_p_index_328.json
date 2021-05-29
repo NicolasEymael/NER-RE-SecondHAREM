@@ -1,0 +1,54 @@
+{
+  "text": "As conclusões do Conselho em matéria «de prevenção, de preparação para intervir e de resposta a atentados terroristas» e o «programa de solidariedade da União Europeia respeitante às consequências das ameaças e dos atentados terroristas\", adoptado pelo Conselho em Dezembro de 2004 , apoiaram a elaboração de um Programa Europeu para a Protecção das Infra-Estruturas Críticas e a criação de uma Rede de Alerta para as Infra-estruturas Críticas .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 153,
+        "end": 167
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 253,
+        "end": 261
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 262,
+        "end": 281
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 312,
+        "end": 375
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 395,
+        "end": 443
+      }
+    }
+  ],
+  "relations": []
+}

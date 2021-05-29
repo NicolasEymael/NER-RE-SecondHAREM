@@ -1,0 +1,14 @@
+{
+  "text": "Quem escreveu \"Mein Kampf\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

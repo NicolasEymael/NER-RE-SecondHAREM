@@ -1,0 +1,14 @@
+{
+  "text": "Quantos estados tem a Alemanha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

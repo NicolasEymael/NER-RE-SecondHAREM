@@ -1,0 +1,22 @@
+{
+  "text": "Em explicações ao DN, António Nunes considerou que a nova lei «não proíbe expressamente o tabaco nos casinos e nas salas de jogos», justificando com a existência de um conflito de interesses com a lei do jogo, que contudo, não faz qualquer referência ao consumo de tabaco.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

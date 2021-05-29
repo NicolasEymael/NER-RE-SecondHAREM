@@ -1,0 +1,54 @@
+{
+  "text": "Rosa Campello · Recife ( PE ) · 31/12/2007 11:18 · 137 votos",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 27
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 32,
+        "end": 42
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 48
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 51,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

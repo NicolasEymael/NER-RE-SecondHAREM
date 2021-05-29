@@ -1,0 +1,65 @@
+{
+  "text": "Só para a referência de uma importante contribuição de São Paulo (USP - 1998), cabe menção a recente tese de livre-docência de Valter Kehdi A Morfologia e a Sintaxe Portuguesas na Obra de J. Mattoso Câmara Jr.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 66,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 72,
+        "end": 76
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 127,
+        "end": 139
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 140,
+        "end": 208
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "obra_de",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

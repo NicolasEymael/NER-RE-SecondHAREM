@@ -1,0 +1,46 @@
+{
+  "text": "Com este aumento, o Metro passou a ser o maior jornal gratuito, à frente do Destak que registou, este ano, uma circulação de 173 mil exemplares (melhorando 5,3 por cento).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 20,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 76,
+        "end": 82
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 125,
+        "end": 132
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 156,
+        "end": 169
+      }
+    }
+  ],
+  "relations": []
+}

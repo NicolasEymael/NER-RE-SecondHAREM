@@ -1,0 +1,22 @@
+{
+  "text": "Que velocidade atingiu Louis Blériot a 25 de Julho de 1909?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 37,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

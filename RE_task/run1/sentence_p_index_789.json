@@ -1,0 +1,30 @@
+{
+  "text": "Tabaco: Associação lamenta exemplo de presidente da ASAE | presidente da ASAE",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 8,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 73,
+        "end": 77
+      }
+    }
+  ],
+  "relations": []
+}

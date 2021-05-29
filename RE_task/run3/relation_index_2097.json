@@ -1,0 +1,29 @@
+{
+  "text": " COISAS DA SÁBADO | COISAS DA SÁBADO : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS. No dia em que a operação « Noite Branca » começou a prender suspeitos de serem responsáveis pelo clima de violência no Porto , a comparação entre um jornal de Lisboa , o Diário de Notícias , e um do Porto , o Jornal de Notícias , no mesmo dia 17 de Dezembro , não podia ser mais significativa. O Diário de Notícias falava das biografias e do background dos detidos, fazendo nota, como é óbvio, do seu profundo envolvimento com a claque do FCP , os Super Dragões . Na verdade nenhum destes homens se tornou conhecido por ser segurança na noite, nem por frequentar ginásios e mesmo as suas páginas e vídeos guerreiros (*) nunca tinham merecido muita atenção. Onde eles apareciam era à frente da claque em filmes (a SIC mostrou-os) e em fotos de segurança aos dirigentes do clube. No Jornal de Notícias tudo isto é cuidadosamente omitido e os presos aparecem sem biografia, ou apenas com uma referência casual e singular a essa pertença. De facto, o Jornal de Notícias parece ser um jornal do Casaquistão tal é a ignorância do que se passa à sua volta. Mas não é, é mesmo do Porto e esse é que é o problema: é do Porto e cala.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1212,
+        "end": 1217
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 221,
+        "end": 226
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

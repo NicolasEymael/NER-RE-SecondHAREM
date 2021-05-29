@@ -1,0 +1,22 @@
+{
+  "text": "\"Oh, não\", diz Mills . \"É abstrata. É o que você está tentando dizer.\" Bem, isso me esclareceu. Mills é totalmente inacessível sobre conteúdo ou inspiração para os sons de seus álbuns. Não parece haver uma clara agenda estética ou social. Mas ele tem alguns princípios organizativos pouco usuais. \"Eu penso num conceito e provavelmente o ponho em algum tipo de escala de cor,\" ele me conta em certo momento. \"Preciso de uma sensação muito clara com algum tanto de drama, então talvez eu pegue verde. Em minha mente tenho esta idéia de como soa o verde. Verde é as frequências que são mais baixas, não subsônicas, mas de médio alcance.\" Então ele confusamente glosa isso dizendo \"é como se você pegasse um teclado e começasse do branco e fosse por todo o caminho até o negro.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 101
+      }
+    }
+  ],
+  "relations": []
+}

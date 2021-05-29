@@ -1,0 +1,22 @@
+{
+  "text": "Os criadores são o que são - ocorre que, no caso deste nosso estranho mundo 'moderno', eles têm sido negros (ou não brancos, tanto faz) desde há muito tempo - É que o universo capitalista é mesmo este insano criador de periferias, pústulas urbanas, lixo debaixo do tapete, encruzilhadas e guerras. Mundo extremista, cruel, que ainda morre disto um dia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 136,
+        "end": 156
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 345,
+        "end": 351
+      }
+    }
+  ],
+  "relations": []
+}

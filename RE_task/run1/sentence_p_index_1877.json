@@ -1,0 +1,14 @@
+{
+  "text": "Quem era o pai de Isabel II?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

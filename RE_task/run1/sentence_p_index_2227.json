@@ -1,0 +1,30 @@
+{
+  "text": "Estamos arquivando em nossa home-page todos os eventos já realizados. Neste endereço, você poderá conhecer alguns deles: Cursos, Seminários e Coongressos já realizados",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 121,
+        "end": 127
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 129,
+        "end": 139
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 142,
+        "end": 153
+      }
+    }
+  ],
+  "relations": []
+}

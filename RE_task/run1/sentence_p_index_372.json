@@ -1,0 +1,70 @@
+{
+  "text": "Às 17h30 de ontem em Lisboa , a vaga especulativa do mercado do petróleo convergiu com as previsões dos últimos meses que davam como certa a chegada do preço do crude aos 100 dólares . As projecções tornaram-se realidade, ao fim de um ano em que o preço desta matéria subiu 58 por cento e que foi também o maior aumento anual da última década .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 9,
+        "end": 17
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 27
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 100,
+        "end": 117
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 171,
+        "end": 182
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 222,
+        "end": 238
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 274,
+        "end": 286
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 326,
+        "end": 342
+      }
+    }
+  ],
+  "relations": []
+}

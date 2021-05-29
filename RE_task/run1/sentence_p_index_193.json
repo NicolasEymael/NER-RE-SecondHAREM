@@ -1,0 +1,54 @@
+{
+  "text": "Com o patrocínio da HOLCIM (Brasil) S. A . foram recuperados 1.000 metros quadrados de galerias voltadas para o Pátio Gustavo Barroso para a implantação da exposição permanente \" Do Móvel Ao Automóvel: Transitando pela História \", reunindo a preciosa coleção de meios de transportes terrestres do Museu Histórico Nacional em sua totalidade, a partir de restauração viabilizada graças a Vitae - Apoio à Cultura, Educação e Promoção Social .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 61,
+        "end": 83
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 133
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 179,
+        "end": 227
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 297,
+        "end": 321
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 386,
+        "end": 437
+      }
+    }
+  ],
+  "relations": []
+}

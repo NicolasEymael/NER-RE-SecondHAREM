@@ -1,0 +1,46 @@
+{
+  "text": "O CyberTracker é apenas mais uma das modernas tecnologias atualmente à disposição dos ecologistas, que cada vez mais recorrem a ferramentas como análises de DNA e imagens de satélite para obter uma maior compreensão da natureza. Liebenberg teve a idéia de criar o sistema CyberTracker enquanto acompanhava caçadores bosquímanos no deserto do Kalahari.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 157,
+        "end": 160
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 229,
+        "end": 239
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 272,
+        "end": 284
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 342,
+        "end": 350
+      }
+    }
+  ],
+  "relations": []
+}

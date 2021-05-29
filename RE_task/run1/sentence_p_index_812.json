@@ -1,0 +1,125 @@
+{
+  "text": "Lisboa não foi a única cidade portuguesa afectada pela catástrofe. Todo o sul de Portugal, nomeadamente o Algarve, foi atingido e a destruição foi generalizada. As ondas de choque do sismo foram sentidas por toda a Europa e norte da África. Os maremotos originados pela movimentação tectónica varreram desde do norte de África até ao norte da Europa, nomeadamente até à Finlândia e através do Atlântico, afectando locais tão longínquos como Martinica e Barbados.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 81,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 113
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 215,
+        "end": 221
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 233,
+        "end": 239
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 320,
+        "end": 326
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 343,
+        "end": 349
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 370,
+        "end": 379
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 393,
+        "end": 402
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 441,
+        "end": 450
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 453,
+        "end": 461
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T4"
+    }
+  ]
+}

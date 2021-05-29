@@ -1,0 +1,14 @@
+{
+  "text": "Em que dia ocorreu a batalha de La Lys?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 32,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

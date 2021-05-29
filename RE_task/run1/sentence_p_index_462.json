@@ -1,0 +1,59 @@
+{
+  "text": "Nuno Álvares Pereira nasceu na vila de Cernache do Bonjardim , concelho da Sertã . Era filho de Álvaro Gonçalves Pereira e de Iria Gonçalves do Carvalhal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 80
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 120
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 126,
+        "end": 153
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

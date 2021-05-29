@@ -1,0 +1,22 @@
+{
+  "text": "O que são os DOM franceses? Quantos são eles? Qual deles fica na Europa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 13,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 71
+      }
+    }
+  ],
+  "relations": []
+}

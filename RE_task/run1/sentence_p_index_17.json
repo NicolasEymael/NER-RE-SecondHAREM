@@ -1,0 +1,22 @@
+{
+  "text": "No antigo Egito o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo). As escavações egípcias que datam de 3000 a.C. continham milhares de artigos como jóia, muitos feitos de lápis. Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 251,
+        "end": 263
+      }
+    }
+  ],
+  "relations": []
+}

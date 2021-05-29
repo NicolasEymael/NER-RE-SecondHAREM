@@ -1,0 +1,30 @@
+{
+  "text": "Os partidários de Bhutto, ontem, acusavam Musharraf do assassinato. Mas será?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 31
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 42,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

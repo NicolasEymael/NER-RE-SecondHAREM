@@ -1,0 +1,113 @@
+{
+  "text": "A festa duraria pouco e, logo, a década de 50 seria conhecida como um dos períodos mais sem-graça da história das HQs . Apesar de algumas coisas maravilhosas, como Pogo , de Walt Kelly , e Ferdinando , as histórias em quadrinhos sofreram um duro golpe com o surgimento do macarthismo, da paranóia anti-comunista e com a publicação de A Seducao dos Inocentes - livro do psiquiatra Frederic Werthan sobre os \"malefícios\" das HQs . Entre outras coisas, Dr. Werthan , \"provava\" que Batman e Robin mantinham um ardoroso caso homossexual:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 114,
+        "end": 117
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 168
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 184
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 199
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 334,
+        "end": 357
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 380,
+        "end": 396
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 423,
+        "end": 426
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 450,
+        "end": 461
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 478,
+        "end": 484
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 487,
+        "end": 492
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

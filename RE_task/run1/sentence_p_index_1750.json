@@ -1,0 +1,14 @@
+{
+  "text": "Que cidade francesa foi residência dos Papas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

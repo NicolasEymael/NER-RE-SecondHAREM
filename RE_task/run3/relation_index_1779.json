@@ -1,0 +1,29 @@
+{
+  "text": " História protege Briosa. CONIMBRICENSES VENCEU NA FIGUEIRA DA FOZ NAS DUAS ÚLTIMAS ÉPOCAS. Naval e Académica não podem deixar amanhã de olhar para a tradição. É que a Briosa venceu sempre na Figueira da Foz ( 2005/06 : 1-0 e 2006/07 : 1-0 ) mas, por outro lado, a Naval também costuma brilhar em Coimbra -- 2005/06 : 2-2 e 2006/07 : 2-1 ) e, neste momento , até está mais bem posicionada na Liga . No ano passado , Joeano marcou o golo do triunfo na Figueira da Foz , mas Domingos desvaloriza tudo isso. «A história nem sempre se repete e não há jogos iguais. Aliás, a Naval fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na Figueira da Foz , «mais adeptos da Académica do que da Naval ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 734,
+        "end": 743
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 24
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "text": "Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por Nauman Barakat , vice-presidente da Macquarie Futures | vice-presidente da Macquarie Futures dos EUA .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 137
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 140,
+        "end": 176
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 198,
+        "end": 215
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 220,
+        "end": 223
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

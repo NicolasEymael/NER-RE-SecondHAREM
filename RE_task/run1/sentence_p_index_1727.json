@@ -1,0 +1,14 @@
+{
+  "text": "De que estado foi governador Adhemar de Barros?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

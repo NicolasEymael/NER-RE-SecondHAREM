@@ -1,0 +1,30 @@
+{
+  "text": "«Há muitas dificuldades. Mesmo com o Mundial, só iniciei a preparação em Julho, enquanto os colegas começaram em Maio, e isso notou-se», explicou com alguma mágoa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 37,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 70,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 110,
+        "end": 117
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Fui também à excursão realizada no dia 24 de Junho, a primeira que se realizou desde que sou sócio, e juntamente com 57 pessoas fomos nesse dia até Viana do Castelo. Foi mais uma afirmação de amor dada pela família evangélica é com saudade que me recordo desses bons momentos passados em que Deus nos ajudou correndo tudo admiravelmente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 32,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 117,
+        "end": 119
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 134,
+        "end": 143
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 148,
+        "end": 164
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 292,
+        "end": 296
+      }
+    }
+  ],
+  "relations": []
+}

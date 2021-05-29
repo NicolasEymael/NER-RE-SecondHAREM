@@ -1,0 +1,46 @@
+{
+  "text": "O número de jornais gratuitos nacionais distribuídos nos nove primeiros meses deste ano quase duplicou em relação ao mesmo período de 2006, ultrapassando os 600 mil exemplares, de acordo com dados hoje divulgados pela APCT.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 53,
+        "end": 87
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 114,
+        "end": 138
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 157,
+        "end": 164
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 197,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 218,
+        "end": 222
+      }
+    }
+  ],
+  "relations": []
+}

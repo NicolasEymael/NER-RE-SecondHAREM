@@ -1,0 +1,22 @@
+{
+  "text": "Durante o ano passado o nome Toyota Prius esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 29,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

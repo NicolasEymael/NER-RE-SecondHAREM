@@ -1,0 +1,29 @@
+{
+  "text": "Qual a profundidade do Grand Canyon? Como se chamam as três cataratas do Canyon?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

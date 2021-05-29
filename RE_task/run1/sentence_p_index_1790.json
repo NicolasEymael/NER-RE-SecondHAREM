@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a latitude e longitude da Guarda?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

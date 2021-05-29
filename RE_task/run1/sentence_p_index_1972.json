@@ -1,0 +1,14 @@
+{
+  "text": "Descreva o World Trade Center.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 11,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

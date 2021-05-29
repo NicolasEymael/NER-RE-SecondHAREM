@@ -1,0 +1,53 @@
+{
+  "text": "Texto: John Murphy , Ph.D., Etnomusicólogo e professor de música na Western Illinois University ( até 2001 ) e a University of North Texas ( à partir de Agosto de 2001 ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 68,
+        "end": 95
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 98,
+        "end": 106
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 113,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 141,
+        "end": 167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Que paises entraram na União Europeia a 1 de Janeiro de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

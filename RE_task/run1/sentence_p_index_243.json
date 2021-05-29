@@ -1,0 +1,14 @@
+{
+  "text": "Nicolau Santos",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    }
+  ],
+  "relations": []
+}

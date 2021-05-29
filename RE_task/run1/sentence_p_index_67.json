@@ -1,0 +1,22 @@
+{
+  "text": "- Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o Mourinho não conseguiu ver o Todo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 110,
+        "end": 118
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 139,
+        "end": 143
+      }
+    }
+  ],
+  "relations": []
+}

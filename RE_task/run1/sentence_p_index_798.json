@@ -1,0 +1,22 @@
+{
+  "text": "Sobre os primeiros dias da vigência da proibição de fumar em espaços de uso colectivo fechados, Luís Rebelo considerou que a lei está a ter «uma óptima» aplicação com «a generalidade dos fumadores a compreender a proibição».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 6,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 107
+      }
+    }
+  ],
+  "relations": []
+}

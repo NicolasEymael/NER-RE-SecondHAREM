@@ -1,0 +1,14 @@
+{
+  "text": "Que organismo gere os subsídios de desemprego em França?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 55
+      }
+    }
+  ],
+  "relations": []
+}

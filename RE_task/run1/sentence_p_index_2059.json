@@ -1,0 +1,14 @@
+{
+  "text": "Quem criou Spirou?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 11,
+        "end": 17
+      }
+    }
+  ],
+  "relations": []
+}

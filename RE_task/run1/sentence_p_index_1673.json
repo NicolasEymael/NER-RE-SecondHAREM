@@ -1,0 +1,45 @@
+{
+  "text": "Quantos locais pertencem ao sistema de Parques Nacionais dos Estados Unidos | Parques Nacionais dos Estados Unidos? Quantos acres têm os parques nacionais no seu conjunto? Qual foi o primeiro parque? Diga os dois parques criados a 31 de Outubro de 1994.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 78,
+        "end": 95
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 114
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 229,
+        "end": 252
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

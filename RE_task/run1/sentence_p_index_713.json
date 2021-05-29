@@ -1,0 +1,53 @@
+{
+  "text": "Durão Barroso lembrou que o «sucesso político tem agora de ser concretizado» com a ratificação do tratado por todos os Estados-membros , o que foi já hoje feito pela Hungria , o primeiro dos 27 países a cumprir esta etapa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 119,
+        "end": 134
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 150,
+        "end": 154
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 191,
+        "end": 193
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

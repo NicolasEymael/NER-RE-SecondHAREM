@@ -1,0 +1,151 @@
+{
+  "text": "É verdade que no PSD há a presença deste \"bloco central\", mas há também uma tradição de ruptura que, no passado, tornou o partido na principal força reformista em Portugal . O PS foi crucial na defesa da democracia política em 1975 , o PSD foi crucial na normalização democrática. Sem o PSD , na fórmula da AD de Sá Carneiro , não se iria tão longe e tão cedo no fim da presença militar na tutela da democracia. Sem Cavaco Silva não haveria uma cultura de \"bom governo\", o fim da Constituição socializante na economia, o retorno à economia de mercado, o boom de infra-estruturas, a democratização do ensino, uma modernização imperfeita mas real do país. Ambos associaram um programa de reformas à alteração das condições políticas dominantes em momentos desejados e sentidos como de ruptura: Sá Carneiro e Freitas do Amaral mostraram que outros partidos podiam governar Portugal que não apenas o PS , e Cavaco abriu caminho para as maiorias absolutas como condição de governabilidade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 163,
+        "end": 171
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 176,
+        "end": 178
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 224,
+        "end": 231
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 236,
+        "end": 239
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 287,
+        "end": 290
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 307,
+        "end": 309
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 313,
+        "end": 324
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 428
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 480,
+        "end": 492
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 792,
+        "end": 803
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 806,
+        "end": 823
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 870,
+        "end": 878
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 896,
+        "end": 898
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 903,
+        "end": 909
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T8"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T9"
+    }
+  ]
+}

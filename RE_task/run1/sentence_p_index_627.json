@@ -1,0 +1,62 @@
+{
+  "text": "Um dos jogadores mais acarinhados pelos adeptos na chegada a Lisboa , o capitão Vasco Uva explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português. \"Foi a maneira como nos batemos, a maneira como fizemos honrar o País \", considerou, acrescentando que o momento mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos \" Lobos \", contra a Escócia , em St. Etienne . \"Foi muito bom.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 80,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 265,
+        "end": 269
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 303,
+        "end": 312
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 405,
+        "end": 410
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 423,
+        "end": 430
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 436,
+        "end": 447
+      }
+    }
+  ],
+  "relations": []
+}

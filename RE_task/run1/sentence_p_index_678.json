@@ -1,0 +1,75 @@
+{
+  "text": "O passaporte biológico abrange todos os ciclistas do ProTour, onde só há um português, podendo as equipas Continentais Profissionais, na qual faz parte o Benfica, serem também abrangidas. Ao todo, o grupo de trabalho prevê fazer 4.200 análises ao sangue -- seis por cada ciclista do ProTour --, mais 3.700 do que em 2007.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 60
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 106,
+        "end": 132
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 154,
+        "end": 161
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 229,
+        "end": 234
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 283,
+        "end": 290
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 300,
+        "end": 305
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 313,
+        "end": 320
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

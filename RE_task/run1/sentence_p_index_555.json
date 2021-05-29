@@ -1,0 +1,22 @@
+{
+  "text": "De fora do percurso ficou o Mali, depois dos problemas de segurança ocorridos na prova deste ano, o que levou ao cancelamento de uma etapa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 96
+      }
+    }
+  ],
+  "relations": []
+}

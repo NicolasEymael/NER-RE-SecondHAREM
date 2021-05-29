@@ -1,0 +1,69 @@
+{
+  "text": "Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada desde antes de 7000 a.C. em Mehrgarh na Índia , situado nos dias de hoje no Paquistão . A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos. É ainda extremamente popular hoje. Trata-se de uma rocha e não de um mineral porque é composto de vários minerais. A primeira parte do nome, lápis, em latim significa pedra. A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito Raja Warta significando anel, vida do rei. Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra. A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 135,
+        "end": 159
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 163,
+        "end": 171
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 175,
+        "end": 180
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 191,
+        "end": 207
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 211,
+        "end": 220
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 453,
+        "end": 457
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 744,
+        "end": 754
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

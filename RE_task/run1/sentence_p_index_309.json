@@ -1,0 +1,86 @@
+{
+  "text": "A necessidade de melhorar os actuais ou de estabelecer novos Sistemas de Alerta Precoce na União Europeia foi reconhecida pelo Conselho em diversas ocasiões . Em particular, o Conselho adoptou, em 2005 , o Programa de Acção para Tsunamis e afirmou que «A Comissão é convidada a fazer propostas [envolvendo] a criação de um sistema de detecção e alerta precoce (...) para o Mediterrâneo e o Atlântico ». Mais recentemente, o Instrumento Financeiro para a Protecção Civil definiu que a criação de um sistema de detecção e alerta precoce é elegível para assistência financeira através de acções como estudos, avaliações e estabelecimento de interligações.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 61,
+        "end": 87
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 91,
+        "end": 105
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 127,
+        "end": 135
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 176,
+        "end": 184
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 194,
+        "end": 201
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 206,
+        "end": 237
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 255,
+        "end": 263
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 373,
+        "end": 385
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 390,
+        "end": 399
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 424,
+        "end": 469
+      }
+    }
+  ],
+  "relations": []
+}

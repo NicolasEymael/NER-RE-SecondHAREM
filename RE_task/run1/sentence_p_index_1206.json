@@ -1,0 +1,150 @@
+{
+  "text": "Um interessante episódio de sua vida, narrada por Maximiano de Carvalho e Silva no livro sobre Sousa da Silveira, revela-nos o quanto já estudava e conhecia de latim, mesmo antes de ingressar na Faculdade. Abrira a Prefeitura do Distrito Federal | Prefeitura do Distrito Federal, em 1936, concurso para preenchimento de uma vaga de Português no seu quadro de magistério. Inscreveram-se 23 candidatos, entre os quais Antônio Houaiss. Ponto sorteado: a ortografia portuguesa e seus fundamentos históricos. Na comissão examinadora estavam Sousa da Silveira (presidente), Daltro Santos e Marieta Castagnino da Mota. Corrigidas as provas, foram selecionados 6 candidatos, e de um sétimo, porque escrevera mais de trinta péginas sobre ortografia latina; se pensou em não aprová-lo, sob o pretexto de ter fugido do assunto. Aí interveio em favor do candidato o presidente Sousa da Silveira, argumentando que, quem escreveu tanto sobre ortografia latina, se lhe sobrasse tempo, teria feito outra boa exposição acerca da ortografia portuguesa e seus fundamentos históricos. E assim foram 7 os candidatos aprovados, tendo alcançado o 1.º lugar no concurso o nosso saudoso Sílvio Elia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 95,
+        "end": 112
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 195,
+        "end": 204
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 215,
+        "end": 245
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 248,
+        "end": 258
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 262,
+        "end": 278
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 280,
+        "end": 287
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 332,
+        "end": 341
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 386,
+        "end": 388
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 431
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 536,
+        "end": 553
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 568,
+        "end": 581
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 584,
+        "end": 610
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 653,
+        "end": 654
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 854,
+        "end": 882
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 1079,
+        "end": 1080
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 1124,
+        "end": 1127
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 1162,
+        "end": 1173
+      }
+    }
+  ],
+  "relations": []
+}

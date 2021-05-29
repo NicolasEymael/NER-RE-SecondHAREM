@@ -1,0 +1,14 @@
+{
+  "text": "Que fabrica a Leica?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

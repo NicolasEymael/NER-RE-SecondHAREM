@@ -1,0 +1,14 @@
+{
+  "text": "Em que dia foi promulgada a constituição espanhola de 1812?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

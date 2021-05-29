@@ -1,0 +1,129 @@
+{
+  "text": "Uma vez que Salazar tomara medidas contra o cônsul, Aristides continuou a sua actividade de 20 a 23 de Junho em Baiona ( França ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de Salazar . A 22 de Junho de 1940 , a França pediu um armistício à Alemanha Nazi . Mesmo a caminho de Hendaye , Aristides continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que a 23 de Junho , Salazar demitira-o de suas funções de cônsul.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 52,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 89,
+        "end": 108
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 112,
+        "end": 118
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 121,
+        "end": 127
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 227,
+        "end": 234
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 237,
+        "end": 258
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 263,
+        "end": 269
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 292,
+        "end": 305
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 327,
+        "end": 334
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 337,
+        "end": 346
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 446,
+        "end": 459
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 462,
+        "end": 469
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "localizado_em",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T5"
+    }
+  ]
+}

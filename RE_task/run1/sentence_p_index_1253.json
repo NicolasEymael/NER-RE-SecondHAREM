@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi António de Oliveira Salazar?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

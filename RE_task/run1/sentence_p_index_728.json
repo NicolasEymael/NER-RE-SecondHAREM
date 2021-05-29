@@ -1,0 +1,97 @@
+{
+  "text": "A razão pela qual o PSD se ausentou para parte incerta foi explicada na pouco noticiada conferência de imprensa \"oferecedora de pactos\", antecedendo o debate parlamentar de \"primeira oportunidade\" entre Sócrates e Santana Lopes . Desde aí que se conhecem as razões de substância para este já longo silêncio: o PSD aproximou-se politicamente do PS como nunca esteve antes, ao ponto de se oferecer para co-governar em praticamente todas as áreas. Na conferência e em declarações avulsas - da política externa à política europeia, passando pela defesa, segurança interna e legislação eleitoral, e acabando no célebre \"pacto das obras públicas\", a que se soma o \"pacto da justiça\" vindo do tempo de Marques Mendes -, o PSD faz uma abdicação da diferença, da alteridade, da oposição.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 203,
+        "end": 211
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 214,
+        "end": 227
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 310,
+        "end": 313
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 344,
+        "end": 346
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 365,
+        "end": 370
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 683,
+        "end": 691
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 695,
+        "end": 709
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 715,
+        "end": 718
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T4"
+    }
+  ]
+}

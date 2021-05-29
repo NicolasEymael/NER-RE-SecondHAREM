@@ -1,0 +1,14 @@
+{
+  "text": "Que actores são os protagonistas de «O Bom, o Mau e o Vilão\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 37,
+        "end": 59
+      }
+    }
+  ],
+  "relations": []
+}

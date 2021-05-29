@@ -1,0 +1,38 @@
+{
+  "text": "Os documentos retidos também incluem propostas para usar bombas fétidas, sedativos e derivados do ópio como armas, os quais Wheelis considera que transgrediriam a Convenção das Armas Químicas de 1992 | Convenção das Armas Químicas de 1992 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 124,
+        "end": 131
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 163,
+        "end": 199
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 202,
+        "end": 230
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 231,
+        "end": 238
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Quem se tornou líder do Partido Trabalhista | líder do Partido Trabalhista britânico a 21 de Julho de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 74
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 85,
+        "end": 106
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,38 @@
+{
+  "text": "A Carta \"representa um compromisso das instituições da União de a respeitarem e aplicarem quotidianamente. Só assim seremos dignos herdeiros do que há de melhor na nossa identidade colectiva e tradição comum de uma Europa que honra os direitos e as garantias dos cidadãos\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 90,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 215,
+        "end": 221
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que Rachel Weisz estudou literatura?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

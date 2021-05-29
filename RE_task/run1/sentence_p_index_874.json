@@ -1,0 +1,37 @@
+{
+  "text": "Bactérias que comem estradas e edifícios. Biocatalizadores que decompõem combustíveis e plásticos. Dispositivos que corroem secretamente o alumínio e outros metais. Estes são apenas uns poucos exemplos de armas não letais que os EUA tentaram, ou estão a tentar, desenvolver. Mas quão próximas estas armas estarão da realidade nunca poderemos saber. A US National Academy of Sciences ( NAS ) recusa-se a liberar dúzias de relatórios que propõem ou descrevem seu desenvolvimento, embora os documentos devam estar nos registRos públicos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 229,
+        "end": 232
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 351,
+        "end": 382
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 385,
+        "end": 388
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "- É esse mesmo. É com o Olavo da novela.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

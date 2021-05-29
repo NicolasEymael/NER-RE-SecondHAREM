@@ -1,0 +1,14 @@
+{
+  "text": "O que significa a sigla WIA?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 24,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

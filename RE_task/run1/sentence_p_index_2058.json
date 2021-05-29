@@ -1,0 +1,30 @@
+{
+  "text": "Quem foi presidente da Suíça | presidente da Suíça no ano de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 45,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 65
+      }
+    }
+  ],
+  "relations": []
+}

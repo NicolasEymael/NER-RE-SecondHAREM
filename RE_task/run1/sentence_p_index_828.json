@@ -1,0 +1,78 @@
+{
+  "text": "O Tratado de Lisboa ou Tratado de Reforma , é o acordo ratificado pelo Conselho da União Europeia | Conselho daUnião Europeia em Lisboa , a 19 de Outubro de 2007 , e que substitui a Constituição europeia de 2004 .[1]",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 23,
+        "end": 41
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 71,
+        "end": 97
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 108
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 111,
+        "end": 125
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 129,
+        "end": 135
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 138,
+        "end": 161
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 182,
+        "end": 194
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 204,
+        "end": 211
+      }
+    }
+  ],
+  "relations": []
+}

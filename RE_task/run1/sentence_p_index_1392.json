@@ -1,0 +1,46 @@
+{
+  "text": "O que é que Antonio Rebollo usou para acender a Chama Olímpica nos Jogos Olímpicos de Barcelona | Jogos Olímpicos de Barcelona?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 48,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 67,
+        "end": 95
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 98,
+        "end": 113
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 117,
+        "end": 126
+      }
+    }
+  ],
+  "relations": []
+}

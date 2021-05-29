@@ -1,0 +1,73 @@
+{
+  "text": "Com cada rastreador registrando até 300 observações por dia, o dispositivo permite a coleta de quantidades imensas de informação, que pode ser analisada em mapas e bancos de dados quase imediatamente. \"É aí que novos padrões vêm à tona: correlações entre espécies diferentes, características da paisagem e outros fatores que não poderiam ser descobertos de outra maneira\", afirma Jason Knight, instrutor da Wilderness Awareness School em Duvall, Washington.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 32,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 380,
+        "end": 392
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 407,
+        "end": 434
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 438,
+        "end": 444
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 446,
+        "end": 456
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "text": "Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso. Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata. Logo encontrei dois títulos nacionais:Xuxa Gêmeas e Ó paí ó | Ó paí ó. Perguntei se ele tinha Tropa de Elite, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão Billabong respondeu:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 199,
+        "end": 210
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 213,
+        "end": 220
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 255,
+        "end": 269
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 335,
+        "end": 344
+      }
+    }
+  ],
+  "relations": []
+}

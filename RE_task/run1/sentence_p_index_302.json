@@ -1,0 +1,123 @@
+{
+  "text": "Fernando Pessoa possuía ligações com o ocultismo e o misticismo, salientando-se a Maçonaria e a Rosa-Cruz (embora não se conheça qualquer filiação concreta em Loja ou Fraternidade destas escolas de pensamento), havendo inclusive defendido publicamente as organizações iniciáticas, no Diário de Lisboa , de 4 de fevereiro de 1935 , contra ataques por parte da ditadura do Estado Novo . O seu poema hermético mais conhecido e apreciado entre os estudantes de esoterismo intitula-se \" No Túmulo de Christian Rosenkreutz \". Tinha o hábito de fazer consultas astrológicas para si mesmo (de acordo com a sua certidão de nascimento, nasceu às 15h20 ; tinha ascendente Escorpião e o Sol em Gémeos ). Realizou mais de mil horóscopos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 82,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 96,
+        "end": 105
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 159,
+        "end": 163
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 167,
+        "end": 179
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 284,
+        "end": 300
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 303,
+        "end": 328
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 371,
+        "end": 382
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 482,
+        "end": 516
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 633,
+        "end": 641
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 661,
+        "end": 670
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "outro",
+      "span": {
+        "begin": 675,
+        "end": 678
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 682,
+        "end": 688
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "7.2. Quais eventos planeja o IBAP realizar?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

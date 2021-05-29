@@ -1,0 +1,30 @@
+{
+  "text": "A íntegra do Estatuto Social do IBAP | Estatuto Social do IBAP encontra-se disponível nesta home-page: http://www.ibap.org/estatuto.htm",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 13,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 39,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

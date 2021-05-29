@@ -1,0 +1,30 @@
+{
+  "text": "Analogamente a Pompeu que disse que \"navegar é preciso; viver não é preciso\", Pessoa diz, no poema Navegar é Preciso | Navegar é Preciso , que \"viver não é necessário; o que é necessário é criar\". Outra interpretação comum deste poema diz respeito ao fato de que a navegação foi resultado de uma atitude racionalista do mundo ocidental (a navegação exigiria precisão) enquanto a vida poderia dispensar tal precisão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 15,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 78,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 99,
+        "end": 116
+      }
+    }
+  ],
+  "relations": []
+}

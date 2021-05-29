@@ -1,0 +1,22 @@
+{
+  "text": "SELECÇÃO DE REGRESSO APÓS BOA PRESTAÇÃO NO MUNDIAL",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 43,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

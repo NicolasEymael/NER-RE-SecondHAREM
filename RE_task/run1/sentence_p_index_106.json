@@ -1,0 +1,221 @@
+{
+  "text": "A AAC é dirigida pela Direcção Geral ( DG ), composta por estudantes, e eleita anualmente entre Novembro e Dezembro em eleições abertas a todos os sócios, tanto estudantes como os sócios seccionistas. À DG compete a administração da AAC bem como a representação política dos estudantes. Em termos políticos, é ainda de referir a importância das Assembleias Magnas , assembleias sobretudo de discussão da política da Academia , abertas a todos os sócios, cujas decisões têm de ser obrigatoriamente cumpridas, independentemente da opinião da DG . Este poder decisório da Assembleia Magna torna-a no palco de discussões acesas, sobretudo entre os estudantes politizados. No passado recente, tem havido no mínimo 5-6 Assembleias Magnas por ano , com participação oscilante, mas um mínimo de cerca de 200 sócios. Infelizmente, a falta de interesse generalizado por estas questões na nossa sociedade, particularmente nas faixas etárias mais jovens, faz-se reflectir na fraca participação das Assembleias Magnas [carece de fontes?]. No entanto, a AAC continua a lutar para pautar a política educativa do Ensino Superior em Portugal [carece de fontes?]. O actual edifício da AAC foi inaugurado em 1961 e alberga praticamente todas as secções da AAC , estando integrado num quarteirão que inclui ainda uma sala de espectáculos (Teatro Académico de Gil Vicente) e um complexo de cantinas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 41
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 79,
+        "end": 89
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 90,
+        "end": 115
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 203,
+        "end": 205
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 233,
+        "end": 236
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 345,
+        "end": 363
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 416,
+        "end": 424
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 540,
+        "end": 542
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 569,
+        "end": 585
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 709,
+        "end": 712
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 713,
+        "end": 731
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 732,
+        "end": 739
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 787,
+        "end": 799
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 986,
+        "end": 1004
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1040,
+        "end": 1043
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1097,
+        "end": 1112
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1116,
+        "end": 1124
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1167,
+        "end": 1170
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1186,
+        "end": 1193
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1237,
+        "end": 1240
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1319,
+        "end": 1350
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T8"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": "\"Os itinerários provisórios indiciam uma quilometragem de especiais significante mais importante que nos anos anteriores. Em 2006 e 2007 ficámos nos 4.000 , 5.000 quilómetros . Em 2008, queremos mais especiais e menos ligações\", afirmou o director do Lisboa-Dakar | director do Lisboa-Dakar, Etienne Lavigne, durante a apresentação da prova.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 120
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 122,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 136
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 149,
+        "end": 174
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 177,
+        "end": 184
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 251,
+        "end": 263
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 266,
+        "end": 290
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 292,
+        "end": 307
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "participante_em",
+      "subj": "T8",
+      "obj": "T6"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": "\" África \" do fotojornalista Sebastião Salgado é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano. É também o carimbo que autentica a vitalidade do fotojornalismo de referência, no tempo em que num ápice de 5 anos | de 5 anos a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 280,
+        "end": 288
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 306,
+        "end": 315
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 321,
+        "end": 327
+      }
+    }
+  ],
+  "relations": []
+}

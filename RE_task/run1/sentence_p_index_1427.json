@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava o autor de «Romeu e Julieta\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

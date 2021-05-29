@@ -1,0 +1,53 @@
+{
+  "text": "Que filho de um ex-presidente dos EUA | ex-presidente dos EUA foi eleito governador do Texas | governador do Texas em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 73,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 109,
+        "end": 114
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 115,
+        "end": 122
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

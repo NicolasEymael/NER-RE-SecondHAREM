@@ -1,0 +1,30 @@
+{
+  "text": "No sábado o programa prevê observação de supernovas e do Sol e apresentação a professores do projecto ' Hands-On Universe ', que pretende uma nova abordagem no ensino e aprendizagem da astronomia, recorrendo a ferramentas interactivas que podem, por exemplo, passar pela utilização de tempo de observação em telescópios profissionais nas salas de aulas e tratamento de imagens num software especialmente desenvolvido para o efeito.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 57,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 104,
+        "end": 121
+      }
+    }
+  ],
+  "relations": []
+}

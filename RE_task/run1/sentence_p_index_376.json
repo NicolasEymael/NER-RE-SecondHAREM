@@ -1,0 +1,86 @@
+{
+  "text": "Para este desequilíbrio contribui agora a nova vaga de violência da Nigéria , país que nos últimos anos já perdeu 25 por cento da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos EUA . Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de 12 pessoas na passagem de ano, é agora superior ao que foi nos últimos meses . E contribui também a situação geopolítica no Paquistão , uma semana depois do assassinado de Benazir Bhuto - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 114,
+        "end": 126
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 219,
+        "end": 222
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 306,
+        "end": 308
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 317,
+        "end": 335
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 365,
+        "end": 382
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 430,
+        "end": 439
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 442,
+        "end": 459
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 478,
+        "end": 491
+      }
+    }
+  ],
+  "relations": []
+}

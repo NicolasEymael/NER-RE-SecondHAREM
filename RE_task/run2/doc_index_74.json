@@ -1,0 +1,305 @@
+{
+  "text": " Restauração da Independência. Guerra da Restauração. Finalmente, um sentimento profundo de autonomia estava a crescer e foi consumado na revolta de 1640 , na qual um grupo de conspiradores da nobreza aclamou o duque de Bragança como Rei de Portugal | Rei de Portugal , com o título de D. João IV ( 1640-1656 ), dando início à quarta Dinastia -- Dinastia de Bragança . O esforço nacional foi mantido durante vinte e oito anos , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de Filipe III e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo em 1668 . Esses anos foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na Catalunha , os esforços diplomáticos da Inglaterra , França , Holanda e Roma , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa. Paralelamente, as tropas portuguesas conseguiram expulsar os holandeses do Brasil , como também de Angola e de São Tomé e Príncipe ( 1641-1654 ), restabelecendo o poder atlântico português. No entanto, as perdas no Oriente tornaram-se irreversíveis e Ceuta ficaria na posse dos Habsburgo . Devido a estarem indisponíveis as mercadorias indianas, Portugal passou a só obter lucro com a cana-de-açúcar do Brasil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 31,
+        "end": 52
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 146,
+        "end": 153
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 211,
+        "end": 228
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 234,
+        "end": 249
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 252,
+        "end": 255
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 259,
+        "end": 267
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 286,
+        "end": 296
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 299,
+        "end": 308
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 334,
+        "end": 342
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 346,
+        "end": 366
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 400,
+        "end": 425
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 512,
+        "end": 522
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 604,
+        "end": 611
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 614,
+        "end": 624
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 723,
+        "end": 732
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 763,
+        "end": 773
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 776,
+        "end": 782
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 785,
+        "end": 792
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 795,
+        "end": 799
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 989,
+        "end": 995
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 1013,
+        "end": 1019
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1025,
+        "end": 1044
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1047,
+        "end": 1056
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1129,
+        "end": 1136
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1165,
+        "end": 1170
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1192,
+        "end": 1201
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1260,
+        "end": 1268
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1317,
+        "end": 1323
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T10",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R8",
+      "pred": "datado_de",
+      "subj": "T11",
+      "obj": "T9"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T25"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T7"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T21"
+    }
+  ]
+}

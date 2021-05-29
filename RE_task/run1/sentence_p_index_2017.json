@@ -1,0 +1,14 @@
+{
+  "text": "Quanto mede Sergei Yuran?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

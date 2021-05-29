@@ -1,0 +1,46 @@
+{
+  "text": "Durante o apuramento, Cordeiro foi dos que mais sofreu. Sempre que havia convocatória, o veterinário e inspector sanitário «saía do trabalho \"pelas 17 horas, viajava para Lisboa, treinava e regressava, chegando perto da uma da madrugada». «Aconteceu ter de me levantar às 4 horas para ir trabalhar», conta.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 142,
+        "end": 156
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 171,
+        "end": 177
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 211,
+        "end": 236
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 269,
+        "end": 279
+      }
+    }
+  ],
+  "relations": []
+}

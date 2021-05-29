@@ -1,0 +1,94 @@
+{
+  "text": "\"Foi nessa oportunidade que três amigos seus [de Houaiss], que também haviam participado e sido aprovados no referido concurso [para preencher vagas de Professor | Professor da antiga Prefeitura do Distrito Federal | Prefeitura do Distrito Federal, em 1935], Rocha Lima, Matos Peixoto e o autor destas linhas, se reuniram para alugarem uma sala no centro da cidade, com o fito de atenderem a alunos particulares (...) Aí não só cumpríamos os nossos deveres profissionais, mas ainda nos reuníamos para trocar idéias sobre problemas do ensino, indagar das novas tendências da filosofia e da lingüística e, last but not least, perdermos em alguns dedos de amenidades e questões de momento. Foi então que se aproximou de nós um mestre que todos admirávamos e respeitávamos: José Oiticica. Veio trazer-nos a experiência do seu trabalho didático, de sua larga cultura, a vivência do seu amor ao estudo e aos estudantes. José Oiticica, numa época em que os estudos lingüísticos estavam engolfados nas águas do historicismo, volta-se, em bases mentalistas, para a investigação dos fatos da língua portuguesa, antecipando-se assim ao que viria a ser apanágio da lingüística moderna: a perspectiva sincrônica nos estudos da linguagem. Tome-se para exemplo o seu inovador Manual de Análise, infelizmente e injustamente esquecido em nossos cursos universitários.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 49,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 152,
+        "end": 161
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 184,
+        "end": 214
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 217,
+        "end": 227
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 231,
+        "end": 247
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 249,
+        "end": 256
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 259,
+        "end": 269
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 271,
+        "end": 284
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 770,
+        "end": 783
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 914,
+        "end": 927
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 1261,
+        "end": 1278
+      }
+    }
+  ],
+  "relations": []
+}

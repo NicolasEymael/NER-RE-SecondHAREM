@@ -1,0 +1,14 @@
+{
+  "text": "Em que telenovela aparece o prefeito Odorico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 37,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

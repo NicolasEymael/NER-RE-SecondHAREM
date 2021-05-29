@@ -1,0 +1,30 @@
+{
+  "text": "Há poucas coisas que me entristecem tanto como esta história das directas do PSD . É que eu sempre fui um aficcionado dos congressos do PSD . Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: « PSD: Responsabilidade e sentido de Estado .»",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 77,
+        "end": 80
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 136,
+        "end": 139
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 343,
+        "end": 384
+      }
+    }
+  ],
+  "relations": []
+}

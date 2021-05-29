@@ -1,0 +1,295 @@
+{
+  "text": " CONGRESSOS DO PSD , VOLTEM QUE ESTÃO PERDOADOS. Há poucas coisas que me entristecem tanto como esta história das directas do PSD . É que eu sempre fui um aficcionado dos congressos do PSD . Trata-se do evento político onde é mais provável que, de repente, se levante uma dúzia de militantes, salte para o palco e desate aos pontapés a tudo e a todos, inclusive a um cartaz com a mensagem: « PSD: Responsabilidade e sentido de Estado .». Habituei-me, ao longo dos anos , a assistir às transmissões televisivas dos congressos social-democratas, madrugada adentro , enquanto comia pipocas. Menos quando Santana Lopes fazia aqueles discursos improvisados, que me provocavam um nó na garganta. Lembro-me de a minha mãe uma vez entrar na sala, ver-me lavado em lágrimas, perguntar o que é que se passava e de eu dizer, a soluçar: «Ele vai apresentar uma moção de estratégia ao congresso, mesmo depois de tudo o que o Conselho Nacional lhe fez... Cafagestes!». É certo que, agora que já não há intervenções pungentes de Santana Lopes , os congressos do PSD ficariam demasiado dependentes das gaffes de Luís Filipe Menezes . Na minha opinião, acho perigoso que se dê assim tanto poder a um só homem. Costuma-se dizer -- e com razão - que o PSD é o Sport Lisboa e Benfica da política, uma vez que se trata do partido com a maior diversidade de classes sociais. O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão. Segundo Pacheco Pereira , é esta diversidade social que começa a estar seriamente ameaçada. Há uns tempos , escreveu no PÚBLICO que «o problema do PSD é começar a ter só um Portugal ou dois dentro de si». Não podia estar mais em desacordo com esta afirmação. Para mim, é precisamente esse o problema do partido. Se, em vez de « Portugais », o PSD tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado. De resto, fico já satisfeito por ter conseguido escrever um post sobre o PSD , sem uma única referência à baixa estatura de Marques Mendes . (O quê? Isto conta como referência?).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 185,
+        "end": 188
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 392,
+        "end": 433
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 451,
+        "end": 468
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 544,
+        "end": 561
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 601,
+        "end": 614
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 912,
+        "end": 929
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 1014,
+        "end": 1027
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1047,
+        "end": 1050
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 1096,
+        "end": 1115
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1233,
+        "end": 1236
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1241,
+        "end": 1263
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1510,
+        "end": 1525
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 1594,
+        "end": 1607
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 1622,
+        "end": 1629
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1649,
+        "end": 1652
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1675,
+        "end": 1683
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1830,
+        "end": 1839
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1845,
+        "end": 1848
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1861,
+        "end": 1870
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1879,
+        "end": 1889
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2027,
+        "end": 2030
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 2078,
+        "end": 2092
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T7"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T17"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T17"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T17"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T17"
+    },
+    {
+      "id": "R16",
+      "pred": "vinculo_inst",
+      "subj": "T24",
+      "obj": "T1"
+    }
+  ]
+}

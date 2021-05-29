@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que tem lugar a Semana Verde?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 23,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

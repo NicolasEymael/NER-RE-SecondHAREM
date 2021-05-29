@@ -1,0 +1,14 @@
+{
+  "text": "Qual a religião oficial da Tailândia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

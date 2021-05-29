@@ -1,0 +1,14 @@
+{
+  "text": "De que cidade é Friedensreich Hundertwasser?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica o parque Eduardo VII?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

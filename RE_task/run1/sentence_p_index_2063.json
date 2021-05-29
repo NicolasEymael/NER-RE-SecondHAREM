@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o sogro de Mohammad Khalifa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

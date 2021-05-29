@@ -1,0 +1,30 @@
+{
+  "text": "Grava até 600 endereços pessoais.(ou 200 endereços por cada utilizador, permitindo um máximo de 3 utilizadores.)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 6,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 37,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 96,
+        "end": 97
+      }
+    }
+  ],
+  "relations": []
+}

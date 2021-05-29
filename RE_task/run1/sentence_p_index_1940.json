@@ -1,0 +1,30 @@
+{
+  "text": "Quantos telespectadores seguiram a final do Campeonato do Mundo de Futebol de 1994 | Campeonato do Mundo de Futebol de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 44,
+        "end": 82
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 85,
+        "end": 115
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 116,
+        "end": 123
+      }
+    }
+  ],
+  "relations": []
+}

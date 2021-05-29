@@ -1,0 +1,523 @@
+{
+  "text": " Tratado de Lisboa ( 2007 ). O Tratado de Lisboa ou Tratado de Reforma , é o acordo ratificado pelo Conselho da União Europeia | Conselho daUnião Europeia em Lisboa , a 19 de Outubro de 2007 , e que substitui a Constituição europeia de 2004 .[1]. O Tratado de Lisboa confere à União Europeia , personalidade jurídica própria para assinar acordos internacionais a nível comunitário. O termo « Comunidade » será substituído por « União », nomeia o Alto Representante para a Política Exterior e de Segurança Comum da União Europeia | Alto Representante para a Política Exterior e de Segurança Comum da União Europeia e estabelece a aplicação formal da dupla maioria a partir de 2014 . A emenda proposta pela Presidência alemã do Conselho da União Europeia | Conselho da União Europeia ( 2007 ) a 19 de Maio de 2007 incluiu a \"essência da Constituição \". A proposta foi apresentada após as reuniões de trabalho entre a presidência e os delegados dos 27 estados membros durante o primeiro semestre de 2007 . Decidiu-se abandonar o formato do ' Tratado constitucional ' e, em alternativa, dar impulso a um tratado clássico que introduza emendas nos dois tratados actualmente em vigor, o Tratado da União Europeia e o Tratado da Comunidade Europeia , que passaria a chamar-se Tratado sobre o funcionamento da União . Portugal , que assumiu a presidência da UE durante o segundo semestre de 2007 , lançou uma conferência intergovernamental ( CIG ) nos dias 23 e 24 de Julho , para acabar a redação do texto, coincidindo com a reunião de ministros dos Negócios Estrangeiros . O novo Tratado foi apresentado na cimeira de 18 de Outubro , em Lisboa , tendo sido assinado pelos representantes dos vários governos no dia 13 de Dezembro de 2007 , no Mosteiro dos Jerónimos . Dar-se-á agora início ao processo de ratificação com o objectivo de que o texto entre em vigor em 2009 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 1,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 21,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 31,
+        "end": 48
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 52,
+        "end": 70
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 126
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 129,
+        "end": 137
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 154
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 158,
+        "end": 164
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 167,
+        "end": 190
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 211,
+        "end": 223
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 233,
+        "end": 240
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 249,
+        "end": 266
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 277,
+        "end": 291
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 392,
+        "end": 402
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 428,
+        "end": 433
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 446,
+        "end": 528
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 531,
+        "end": 595
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 599,
+        "end": 613
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 663,
+        "end": 679
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 705,
+        "end": 716
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 726,
+        "end": 752
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 755,
+        "end": 763
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 767,
+        "end": 781
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 784,
+        "end": 788
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "tempo",
+      "span": {
+        "begin": 791,
+        "end": 811
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "obra",
+      "span": {
+        "begin": 835,
+        "end": 847
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "valor",
+      "span": {
+        "begin": 946,
+        "end": 948
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 965,
+        "end": 1000
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "obra",
+      "span": {
+        "begin": 1039,
+        "end": 1061
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "obra",
+      "span": {
+        "begin": 1181,
+        "end": 1206
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "obra",
+      "span": {
+        "begin": 1211,
+        "end": 1241
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1269,
+        "end": 1307
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1310,
+        "end": 1318
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1350,
+        "end": 1352
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1353,
+        "end": 1387
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1434,
+        "end": 1437
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 1440,
+        "end": 1451
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1454,
+        "end": 1465
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1529,
+        "end": 1564
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "obra",
+      "span": {
+        "begin": 1574,
+        "end": 1581
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 1609,
+        "end": 1625
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1631,
+        "end": 1637
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "tempo",
+      "span": {
+        "begin": 1701,
+        "end": 1730
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "local",
+      "span": {
+        "begin": 1736,
+        "end": 1758
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "tempo",
+      "span": {
+        "begin": 1856,
+        "end": 1863
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "outrarel",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "outrarel",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "data_de",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T5"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T13"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T21",
+      "obj": "T20"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T5"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T2"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T10"
+    },
+    {
+      "id": "R16",
+      "pred": "incluido",
+      "subj": "T28",
+      "obj": "T2"
+    },
+    {
+      "id": "R17",
+      "pred": "outrarel",
+      "subj": "T30",
+      "obj": "T13"
+    },
+    {
+      "id": "R18",
+      "pred": "outrarel",
+      "subj": "T31",
+      "obj": "T13"
+    },
+    {
+      "id": "R19",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T2"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T37",
+      "obj": "T35"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T38",
+      "obj": "T35"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T1"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T41",
+      "obj": "T35"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T8"
+    },
+    {
+      "id": "R25",
+      "pred": "incluido",
+      "subj": "T43",
+      "obj": "T35"
+    },
+    {
+      "id": "R26",
+      "pred": "incluido",
+      "subj": "T44",
+      "obj": "T8"
+    }
+  ]
+}

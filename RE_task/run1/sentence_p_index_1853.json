@@ -1,0 +1,30 @@
+{
+  "text": "Quais são as línguas oficiais da Suíça? E quantos cantões tem? Quando é que Berna aderiu à Confederação?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 76,
+        "end": 81
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 91,
+        "end": 103
+      }
+    }
+  ],
+  "relations": []
+}

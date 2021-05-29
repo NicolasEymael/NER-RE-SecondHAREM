@@ -1,0 +1,29 @@
+{
+  "text": " « PolivalênciaVacas - Para o BCE somos vacas!!. Para o Banco Central Europeu somos gado!!. Os politicos comprados por Bruxelas gerem as manadas nacionais. Fui ontem ( terça ) às urgencias pediátricas de cascais com a minmha filhiha de 4 anos e ... \"Vai ter que voltar, porque só funciona das 08h00 às 09h00 \". 1º - Assinar a petição contra o desmembramento, só possivel pela cegueira provocada pela rentabilidade que enche os bolsos de alguns e lixa todos, dos cuidados INDISPENSAVEIS de saude em Portugal . 2º - Arranjar uma petição de cidadãos a exigir a extinção do BCE .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 570,
+        "end": 573
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 33
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "text": "Entretanto, em 1940 , o governo francês refugiou-se temporariamente na cidade, fugindo de Paris antes da chegada das tropas alemãs. Dezenas de milhar de refugiados que fogem do avanço Nazi dirigiram-se a Bordéus . Muitos deles afluem ao consulado português desejando obter um visto de entrada para Portugal ou para os Estados Unidos , onde Sousa Mendes , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 90,
+        "end": 95
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 184,
+        "end": 188
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 211
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 298,
+        "end": 306
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 318,
+        "end": 332
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 340,
+        "end": 352
+      }
+    }
+  ],
+  "relations": []
+}

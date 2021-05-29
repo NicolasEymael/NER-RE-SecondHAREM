@@ -1,0 +1,78 @@
+{
+  "text": "De acordo com o projeto, iniciado em setembro de 2007 , 17 líderes indígenas estiveram em 44 comunidades no Alto Rio Negro , Alto e Médio Solimões , Vale do Javari , Purus , Juruá e Manaus para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 53
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 56,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 90,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 108,
+        "end": 122
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 146
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 149,
+        "end": 163
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 166,
+        "end": 171
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 174,
+        "end": 179
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 182,
+        "end": 188
+      }
+    }
+  ],
+  "relations": []
+}

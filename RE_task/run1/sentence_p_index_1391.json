@@ -1,0 +1,22 @@
+{
+  "text": "O que é que Leonardo da Vinci desenhou em 1492?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 39,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

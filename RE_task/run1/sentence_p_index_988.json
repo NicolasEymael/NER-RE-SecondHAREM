@@ -1,0 +1,30 @@
+{
+  "text": "Alguém já parou para pensar que na violenta e exuberante expressão coreográfica de uma multidão de jovens favelados do Rio , muitos deles portando fuzis automáticos como se fossem lanças, existem passos completamente estranhos ao novaiorquino repertório de movimentos de break original, de, entre outros, James Brown e Michael Jackson ? Há break sim, mas, um pouquinho só. Há desconjuntamento de braços e punhos, movimentos robóticos, como imagens de luz negra intermitente, mas, o que será que significam os outros passos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 119,
+        "end": 122
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 305,
+        "end": 316
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 319,
+        "end": 334
+      }
+    }
+  ],
+  "relations": []
+}

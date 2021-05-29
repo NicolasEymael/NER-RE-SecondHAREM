@@ -1,0 +1,14 @@
+{
+  "text": "Aliás, o que um Sampler faz mesmo? Não muda nada. Copia. E haja periferia e miséria para samplear.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

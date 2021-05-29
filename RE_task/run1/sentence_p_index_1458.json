@@ -1,0 +1,107 @@
+{
+  "text": "Quantos estados membros tinha a UE em 1994? Em que cidade teve lugar a cimeira da UE que começou a 26 de Junho de 1995? Quantos estados membros tinha a UE em 1995? Que estados europeus aderiram à UE em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 82,
+        "end": 84
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 118
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 152,
+        "end": 154
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 155,
+        "end": 162
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 196,
+        "end": 198
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 199,
+        "end": 206
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T6"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "text": "A Associação Académica de Coimbra | Associação Académica de Coimbra ( AAC ), fundada a 3 de Novembro de 1887 , é a mais antiga associação de estudantes de Portugal . Representa os cerca de 20 000 estudantes da Universidade de Coimbra | Universidade de Coimbra , que são automaticamente considerados seus sócios quando se encontrem inscritos nesta universidade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 36,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 70,
+        "end": 73
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 85,
+        "end": 108
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 155,
+        "end": 163
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 180,
+        "end": 195
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 210,
+        "end": 233
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 236,
+        "end": 248
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 252,
+        "end": 259
+      }
+    }
+  ],
+  "relations": []
+}

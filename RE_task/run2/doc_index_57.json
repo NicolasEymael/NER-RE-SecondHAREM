@@ -1,0 +1,467 @@
+{
+  "text": " Mundial: Rui Cordeiro e Lobos arrepiam franceses. NÃO FOI SÓ EM PORTUGAL QUE O HINO PUXOU PELAS EMOÇÕES FORTES. Os homens também choram, e isso ficou provado quando os jogadores da Selecção cantaram o hino antes do Escócia-Portugal | Escócia-Portugal. As imagens emocionaram o País mas não só. No bloco informativo dedicado à prova, a TF1 -- uma das principais cadeias de televisão francesas -- anunciou «o momento mais incrível do Mundial até agora» e, de seguida, exibiu «A Portuguesa» na íntegra, com os Lobos a chorarem. Não é todos os dias que se vê um «gigante» de 1,84 metros e 140 kg a chorar como uma criança. Mas Rui Cordeiro foi um dos Lobos que mais impressionou a cantar hino. Logo ele, que «é difícil ir às lágrimas». «Senti tanta coisa. O hino sempre foi um momento importante nos nossos jogos e nós não o cantamos, gritamos! Depois entre o aquecimento e o regresso, as bancadas, que ainda estavam quase vazias, compuseram-se. Deu-me muitas ganas», explicou Cordeiro, prosseguindo: «Assim como a Nova Zelândia se motiva com o 'haka', nós fazemo-lo com 'A Portuguesa'.». Durante o apuramento, Cordeiro foi dos que mais sofreu. Sempre que havia convocatória, o veterinário e inspector sanitário «saía do trabalho \"pelas 17 horas, viajava para Lisboa, treinava e regressava, chegando perto da uma da madrugada». «Aconteceu ter de me levantar às 4 horas para ir trabalhar», conta. Adeus à Selecção. O último jogo de Rui Cordeiro no Mundial vai ser também o derradeiro da carreira internacional. «É complicado conciliar a Selecção Nacional com a carreira profissional», justifica o pilar da Académica, que este ano regressa à Divisão de Honra. «Há muitas dificuldades. Mesmo com o Mundial, só iniciei a preparação em Julho, enquanto os colegas começaram em Maio, e isso notou-se», explicou com alguma mágoa. Assim, o jogo com a Roménia promete trazer-nos um Cordeiro mais «chorão». «Vai haver choradeira no início, no fim, o tempo todo», promete, bem-disposto, o pilar, que vai «continuar na Académica enquanto der gozo».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 30
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 73
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 182,
+        "end": 190
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 216,
+        "end": 232
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 235,
+        "end": 242
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 243,
+        "end": 251
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 282
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 336,
+        "end": 339
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 406,
+        "end": 415
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 433,
+        "end": 440
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 475,
+        "end": 487
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 508,
+        "end": 513
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 532,
+        "end": 545
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 572,
+        "end": 583
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 586,
+        "end": 592
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 624,
+        "end": 636
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 648,
+        "end": 653
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 842,
+        "end": 848
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 974,
+        "end": 982
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1012,
+        "end": 1025
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "obra",
+      "span": {
+        "begin": 1069,
+        "end": 1081
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 1108,
+        "end": 1116
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "tempo",
+      "span": {
+        "begin": 1228,
+        "end": 1242
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1257,
+        "end": 1263
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1297,
+        "end": 1322
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 1355,
+        "end": 1365
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1401,
+        "end": 1409
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1428,
+        "end": 1440
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1444,
+        "end": 1451
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "outro",
+      "span": {
+        "begin": 1533,
+        "end": 1550
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1602,
+        "end": 1611
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 1617,
+        "end": 1625
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1637,
+        "end": 1653
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1692,
+        "end": 1699
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 1725,
+        "end": 1733
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1765,
+        "end": 1772
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1839,
+        "end": 1846
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 1869,
+        "end": 1877
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2003,
+        "end": 2012
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "participante_em",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T3"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T13"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T26",
+      "obj": "T4"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T3"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T2"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T1"
+    },
+    {
+      "id": "R18",
+      "pred": "inclui",
+      "subj": "T33",
+      "obj": "T2"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T1"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T2"
+    },
+    {
+      "id": "R21",
+      "pred": "vinculo_inst",
+      "subj": "T41",
+      "obj": "T2"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T33"
+    }
+  ]
+}

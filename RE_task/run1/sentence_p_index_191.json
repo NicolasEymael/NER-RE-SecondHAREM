@@ -1,0 +1,30 @@
+{
+  "text": "Nesse etapa foi desmontada a laje construída em 1940 , quando parte do conjunto arquitetônico era utilizada pelo Ministério da Agricultura , para abrigar um canteiro de experiências agrícolas e que gerava no pavimento térreo uma área de insalubridade que comprometia a integridade física do acervo sob a guarda do Museu .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 45,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 113,
+        "end": 138
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 314,
+        "end": 319
+      }
+    }
+  ],
+  "relations": []
+}

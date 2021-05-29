@@ -1,0 +1,14 @@
+{
+  "text": "Quem se tornou rei após a morte de D. Afonso Henriques?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 35,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

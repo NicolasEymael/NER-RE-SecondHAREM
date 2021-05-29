@@ -1,0 +1,46 @@
+{
+  "text": "Nesta sequência, foi realizada uma reunião com a UN/OCHA a 28 e 29 de Novembro , a qual permitiu adoptar uma revisão das Directrizes que clarifica o princípio do último recurso, garantindo um tratamento diferenciado para os recursos de Protecção Civil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 78
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 121,
+        "end": 132
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 236,
+        "end": 251
+      }
+    }
+  ],
+  "relations": []
+}

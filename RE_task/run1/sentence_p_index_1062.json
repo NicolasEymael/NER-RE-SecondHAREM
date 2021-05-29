@@ -1,0 +1,22 @@
+{
+  "text": "Coletivo dinamarquês acusa Fundação Bienal de censura",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

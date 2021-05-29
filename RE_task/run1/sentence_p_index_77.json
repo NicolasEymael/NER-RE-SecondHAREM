@@ -1,0 +1,127 @@
+{
+  "text": "Com um grande concerto realizado ao ar livre, na Praça do Museu , no dia 21 de Março de 1993 , o CCB iniciava, há quinze anos , a sua actividade como centro de produção e apresentação de espectáculos e exposições o maior de Portugal . O Grande Auditório viria a ser inaugurado seis meses depois , a 22 de Setembro , com um recital da soprano catalã Montserrat Caballé , enquanto o Pequeno Auditório abrira as suas portas em Junho com um espectáculo do violoncelista Anner Bylsma .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 66,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 97,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 111,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 224,
+        "end": 232
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 237,
+        "end": 253
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 277,
+        "end": 294
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 297,
+        "end": 313
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 349,
+        "end": 367
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 381,
+        "end": 398
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 421,
+        "end": 429
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 466,
+        "end": 478
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "datado_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T5"
+    }
+  ]
+}

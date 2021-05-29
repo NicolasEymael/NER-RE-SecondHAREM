@@ -1,0 +1,37 @@
+{
+  "text": "Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política. Se o conflito entre ambos era aberto, ausência de Bhutto piora a situação. Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o Talibã e a al-Qaeda.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 186,
+        "end": 192
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 337,
+        "end": 343
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 348,
+        "end": 356
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

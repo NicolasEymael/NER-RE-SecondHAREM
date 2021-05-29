@@ -1,0 +1,14 @@
+{
+  "text": "Que país declarou a independência em 1291?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

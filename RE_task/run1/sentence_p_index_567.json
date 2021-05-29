@@ -1,0 +1,46 @@
+{
+  "text": "Na subsequente batalha de Alcácer-Quibir, o campo dos três reis, os portugueses sofreram uma derrota humilhante às mãos do sultão Ahmed Mohammed de Fez | sultão Ahmed Mohammed de Fez e perderam uma boa parte do seu exército. Quanto a Sebastião, provavelmente morreu na batalha ou foi morto depois desta terminar. Mas para o povo português de então o rei havia apenas desaparecido. Este desastre teria as piores consequências para o país, colocando em perigo a sua independência. O resgate dos sobreviventes ainda mais agravou as dificuldades financeiras do país.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 26,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 151
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 154,
+        "end": 175
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 179,
+        "end": 182
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 234,
+        "end": 243
+      }
+    }
+  ],
+  "relations": []
+}

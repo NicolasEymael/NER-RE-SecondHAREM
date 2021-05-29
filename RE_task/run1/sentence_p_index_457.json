@@ -1,0 +1,62 @@
+{
+  "text": "Em Fevereiro de 1513 Albuquerque parte para o estreito de Bab-el-Mandebe, tentando tomar Áden sem êxito. Com a construção da fortaleza de Ormuz em 1515 concluiu o seu plano de domínio dos pontos estratégicos que permitiam o controlo marítimo e o monopólio comercial da Índia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 89,
+        "end": 93
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 138,
+        "end": 143
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 144,
+        "end": 151
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 269,
+        "end": 274
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Os associados regulares do IBAP contribuem mensalmente com o pagamento de taxa de R$22,00 (vinte e dois reais). Desse total, R$2,00 (dois reais) constituem taxa bancária pelo serviço de confecção de boletos ou de débito automático em conta. A verba destina-se ao pagamento de locação da sede social do IBAP, salários de dois funcionários, despesas com telefone, hospedagem de home-page, acesso a provedor de Internet | Internet, impressão de livros, revistas e boletins, organização de congressos e outras despesas diretamente relacionadas com os objetivos estatutários.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 82,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 125,
+        "end": 131
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 302,
+        "end": 306
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 408,
+        "end": 416
+      }
+    }
+  ],
+  "relations": []
+}

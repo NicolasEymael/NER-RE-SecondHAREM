@@ -1,0 +1,143 @@
+{
+  "text": "Depois de ser exibida no Rio , chega a São Paulo a mostra Carmen Miranda para sempre , que será inaugurada hoje para convidados e amanhã para o público no Memorial da América Latina | Memorial da América Latina . Fotos, roupas (algumas são releituras contemporâneas de seu estilo), objetos, são mais de 700 peças reunidas (além de filmes e músicas) para contar a história da \" Pequena Notável \" ou a \" Brazilian Bombshell \" - não há no mundo quem não conheça essa genial estrela que conquistou o Brasil , a Broadway e Hollywood .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 58,
+        "end": 84
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 107,
+        "end": 111
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 130,
+        "end": 136
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 155,
+        "end": 181
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 184,
+        "end": 192
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 210
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 295,
+        "end": 306
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 377,
+        "end": 392
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 402,
+        "end": 421
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 496,
+        "end": 502
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 507,
+        "end": 515
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 518,
+        "end": 527
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T2"
+    }
+  ]
+}

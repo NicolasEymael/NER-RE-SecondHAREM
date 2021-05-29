@@ -1,0 +1,37 @@
+{
+  "text": "Quando é que os japoneses atacaram Pearl Harbor? Quantos americanos morreram no ataque a Pearl Harbor a 7 de dezembro de 1941?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 89,
+        "end": 101
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 125
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quantos meses tem numa semana?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 18,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

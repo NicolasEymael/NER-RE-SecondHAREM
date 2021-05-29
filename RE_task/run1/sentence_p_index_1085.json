@@ -1,0 +1,14 @@
+{
+  "text": "Fonte: Centro de Mídia Independente (www.midiaindependente.org).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 7,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

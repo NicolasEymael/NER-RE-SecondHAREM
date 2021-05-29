@@ -1,0 +1,22 @@
+{
+  "text": "O laboratório anti-malware da Panda Security, revelou um relatório onde agrupa os \"mais curiosos\" exemplos de malware que emergiram no último semestre de 2007.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 158
+      }
+    }
+  ],
+  "relations": []
+}

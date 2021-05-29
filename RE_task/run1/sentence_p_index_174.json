@@ -1,0 +1,38 @@
+{
+  "text": "- Poderíamos ter vencido o Inter ( 2 a 1 , o segundo gol em falha de Dida ). Não podemos ficar pressionando o Dida . Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 35,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 69,
+        "end": 73
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 110,
+        "end": 114
+      }
+    }
+  ],
+  "relations": []
+}

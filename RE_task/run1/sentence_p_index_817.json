@@ -1,0 +1,86 @@
+{
+  "text": "Pelo segundo ano consecutivo e após a era de Lance Armstrong , o Tour está desfalcado de grandes candidatos à vitória. Sem a presença do norte-americano, do alemão Jan Ullrich e do italiano Ivan Basso , e até de outro transalpino, Alessandro Petacchi , a « Grand Boucle » inicia-se amanhã em Londres sem grandes expectativas. Procura-se candidato, é este o ponto fulcral da prova, que também não terá o dorsal n.º 1 | 1.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 45,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 65,
+        "end": 69
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 190,
+        "end": 200
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 231,
+        "end": 250
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 257,
+        "end": 269
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 282,
+        "end": 288
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 292,
+        "end": 299
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 414,
+        "end": 415
+      }
+    }
+  ],
+  "relations": []
+}

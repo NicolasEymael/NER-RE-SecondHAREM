@@ -1,0 +1,151 @@
+{
+  "text": "Jaz em local desconhecido em Goa, na India? Ora, quando morreu, conta Diogo Barbosa Machado na Bibliotheca Lusitana (Tomo I, página 23) que «foi amortalhado com o manto da Ordem militar de Santiago, de que era comendador, sepultado na igreja de Nossa Senhora da Serra em Goa, que edificara em agradecimento do feliz sucesso da conquista de Malaca. Passados 51 anos | Passados 51 anos, foi trasladado, como dispusera seu testamento, ao convento de Nossa Senhora da Graça dos Religiosos Eremitas de Santo Agostinho | Nossa Senhora da Graça dos Religiosos Eremitas de Santo Agostinho da corte, para onde foi conduzido em 19 de maio de 1566 com pompa».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 70,
+        "end": 91
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 95,
+        "end": 115
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 117,
+        "end": 123
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 197
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 245,
+        "end": 267
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 271,
+        "end": 274
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 340,
+        "end": 346
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 348,
+        "end": 364
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 376,
+        "end": 383
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 447,
+        "end": 512
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 515,
+        "end": 537
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 542,
+        "end": 580
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 615,
+        "end": 636
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O software consiste em uma série de camadas contendo menus baseados em figuras nos quais os pesquisadores registram suas observações. Eles selecionam ícones para representar as plantas e animais que observam, e para descrever seu comportamento e suas características. O GPS registra o local e a hora de cada observação. Rastreadores experientes normalmente podem identificar um único indivíduo de determinada espécie, ou pelo menos saber seu sexo, idade e estado de saúde, apenas observando suas pegadas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 270,
+        "end": 273
+      }
+    }
+  ],
+  "relations": []
+}

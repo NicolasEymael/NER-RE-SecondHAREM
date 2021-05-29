@@ -1,0 +1,22 @@
+{
+  "text": "Que slalom é que Alberto Tomba ganhou a 6 de Fevereiro de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 38,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

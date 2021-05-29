@@ -1,0 +1,425 @@
+{
+  "text": " Palácio Nacional de Mafra | Palácio Nacional de Mafra. Em 1715 , foi fundado o Convento de Nossa Senhora e Santo António de Mafra | Convento de Nossa Senhora e Santo António de Mafra , que pertencia à província eclesiástica da Arrábida . Teve origem numa comunidade do Hospício do Espírito Santo . Em 1730 , sagrada a Igreja de Nossa Senhora e Santo António , junto de Mafra , foi para lá transferida a sobredita comunidade. Entre 1771 e 1791 , por breve de Clemente XIV , de 4 de julho de 1770 , a requerimento do Marquês de Pombal , foi ocupado pelos Cónegos Regulares de Santo Agostinho da Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra ; os Franciscanos da Província da Arrábida | Franciscanos da Província da Arrábida saíram do Convento de Mafra | Convento de Mafra , em Maio de 1771 . Em 1791 , os Cónegos Regulares de Santo Agostinho saíram do edifício de Mafra . Em 1834 , no âmbito da \" Reforma geral eclesiástica \" empreendida pelo ministro e secretário de Estado , Joaquim António de Aguiar , executada pela Comissão da Reforma Geral do Clero ( 1833-1837 ), pelo Decreto de 28 de Maio , promulgado a 30 desse mês , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 54
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 63
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 130
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 133,
+        "end": 174
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 178,
+        "end": 183
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 228,
+        "end": 236
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 270,
+        "end": 296
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 299,
+        "end": 306
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 319,
+        "end": 358
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 370,
+        "end": 375
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 426,
+        "end": 443
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 459,
+        "end": 471
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 474,
+        "end": 495
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 516,
+        "end": 533
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 554,
+        "end": 590
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 594,
+        "end": 630
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 633,
+        "end": 658
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 662,
+        "end": 669
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 672,
+        "end": 683
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 687,
+        "end": 697
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 701,
+        "end": 708
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 714,
+        "end": 751
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 754,
+        "end": 766
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 770,
+        "end": 791
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 802,
+        "end": 819
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 822,
+        "end": 830
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 834,
+        "end": 839
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 842,
+        "end": 857
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 860,
+        "end": 867
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 873,
+        "end": 909
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 932,
+        "end": 937
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 940,
+        "end": 947
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "obra",
+      "span": {
+        "begin": 965,
+        "end": 991
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "individuo",
+      "span": {
+        "begin": 1022,
+        "end": 1042
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "individuo",
+      "span": {
+        "begin": 1045,
+        "end": 1070
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1088,
+        "end": 1122
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 1125,
+        "end": 1134
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "obra",
+      "span": {
+        "begin": 1143,
+        "end": 1164
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 1178,
+        "end": 1192
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "datado_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "datado_de",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T17"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T5"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T28",
+      "obj": "T5"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T17"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T36"
+    },
+    {
+      "id": "R14",
+      "pred": "autor_de",
+      "subj": "T37",
+      "obj": "T35"
+    },
+    {
+      "id": "R15",
+      "pred": "data_de",
+      "subj": "T39",
+      "obj": "T35"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "COISAS DA SÁBADO: NÃO HÁ MAL QUE SEMPRE DURE, NEM BEM QUE NUNCA ACABE",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 10,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

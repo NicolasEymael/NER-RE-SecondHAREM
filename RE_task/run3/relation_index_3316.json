@@ -1,0 +1,29 @@
+{
+  "text": " Coletivo dinamarquês acusa Fundação Bienal de censura. 16 de Outubro de 2006. Apresentada na Bienal de Veneza | Bienal de Veneza em 2003, a obra \"Guaraná Power\", do coletivo dinamarquês Superflex, foi selecionada pela curadoria da 27ª Bienal de São Paulo | 27ª Bienal de São Paulo mas teve sua exibição vetada pela Fundação realizadora da mostra. Tônico de sabor concentrado e propriedades energéticas, de grande sucesso na Europa, o Guaraná Power tem como função primeira a crítica ao monopólio do mercado e a suas conseqüências nas comunidades agricultoras. A partir de um estudo econômico da cidade de Maués, no Amazonas, detectou-se o impacto econômico da redução do preço das sementes de guaraná por parte das grandes indústrias. \"Estabelecemos o valor de R$ 15 para o quilo de sementes, enquanto as indústrias pagam R$ 7\", afirmou Bjornstjerne Christiansen, membro do Superflex, em entrevista à Folha de São Paulo. O projeto conta com o apoio da Secretaria de Desenvolvimento Sustentável do Governo do Estado do Amazonas | Secretaria de Desenvolvimento Sustentável do Governo do Estado do Amazonas. Impedidos de apresentar a obra - e tendo suas páginas do catálogo da mostra cobertas por tarjas pretas -, os dinamarqueses distribuíram o Guaraná Power, sem rótulo, em vernissages na Galeria Vermelho e Instituto Tomie Ohtake, além de pontos espalhados pela capital paulista. O coletivo Superflex já recebeu elogios do Ministro da Cultura Gilberto Gil em junho deste ano, ao apresentar no Brasil o projeto Free Beer (\"cerveja livre\"), cerveja cuja fórmula é licenciada em Creative Commons e permite que qualquer pessoa interessada possa fabricá-la ou aprimorá-la. Na entrevista coletiva dos organizadores da Bienal, o presidente da Fundação Bienal | presidente da Fundação Bienal, Manuel Francisco Pires da Costa, optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: \"Eu jamais interferi no mérito das obras selecionadas. Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora. Foi o departamento jurídico da Bienal quem informou que essa obra não estava de acordo com as regras da legislação brasileira\". \"O que eles sempre nos disseram é que isso [a referência à marca do guaraná Antarctica] poderia ser um problema, mas o presidente nunca nos deu respostas claras. Nossas obras sempre envolvem negociação, mas com ele tivemos as portas fechadas. Se eles olhassem como ficou a lata [diferente da criação original], não haveria problema legal\", afirmou Jakob Fenger, um dos membros do coletivo, em entrevista para a Folha de São Paulo, em matéria que informa ainda: \"Por meio de sua assessoria, a AmBev [fabricante do guaraná Antarctica] declarou não ver problema na obra. Diz não ter tido nenhum contato com o grupo\". O Superflex ainda distribuiu à imprensa, no dia da coletiva, o documento \"A obra de arte que os brasileiros não terão permissão de ver na Bienal | A obra de arte que os brasileiros não terão permissão de ver na Bienal\" . Nele, afirma-se que o \"presidente da Fundação Bienal | presidente da Fundação Bienal censurou um trabalho com reconhecimento internacional para o público brasileiro\", que, segundo o texto divulgado, teria sido recusado \"por não ser considerada uma 'atividade artística'\". A polêmica gerada pela Fundação Bienal fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada. Foi grande o interesse público pelo modelo econômico e social do projeto Guaraná Power -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 258,
+        "end": 268
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "produzido_por",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

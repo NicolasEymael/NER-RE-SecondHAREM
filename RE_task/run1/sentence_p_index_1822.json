@@ -1,0 +1,14 @@
+{
+  "text": "Quantos municípios tem o distrito do Porto?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

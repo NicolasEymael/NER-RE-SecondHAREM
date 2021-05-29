@@ -1,0 +1,14 @@
+{
+  "text": "O que são os números E?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 21,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

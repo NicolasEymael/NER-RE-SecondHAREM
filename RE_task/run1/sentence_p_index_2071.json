@@ -1,0 +1,22 @@
+{
+  "text": "Quando é que a URSS invadiu a Manchúria?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

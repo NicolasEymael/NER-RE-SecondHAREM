@@ -1,0 +1,38 @@
+{
+  "text": "Em que país nasceu Edouard Balladur? Quando é que ele se tornou presidente de França | presidente de França? A que partido político pertencia? De 1968 a 1980, ele foi presidente de que companhia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 64,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 101,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 143,
+        "end": 157
+      }
+    }
+  ],
+  "relations": []
+}

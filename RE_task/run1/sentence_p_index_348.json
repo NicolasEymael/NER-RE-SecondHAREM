@@ -1,0 +1,38 @@
+{
+  "text": "Em Fátima , no dia seguinte pela manhã voltei a encontrá-lo, sempre com o António Pedro Ferreira ao lado, e ele acabou por confessar (o lugar prestava-se a isso!) que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da Procissão das Velas . Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis. Não são.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 96
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 282,
+        "end": 301
+      }
+    }
+  ],
+  "relations": []
+}

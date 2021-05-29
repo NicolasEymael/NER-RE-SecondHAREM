@@ -1,0 +1,14 @@
+{
+  "text": "Que percentagem do orçamento da União Europeia se destina à agricultura?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

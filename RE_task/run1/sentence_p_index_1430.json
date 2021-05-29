@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano foi assassinado John F. Kennedy?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

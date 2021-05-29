@@ -1,0 +1,14 @@
+{
+  "text": "6.1. Quais são as publicações editadas pelo IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 44,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

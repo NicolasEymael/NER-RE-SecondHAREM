@@ -1,0 +1,14 @@
+{
+  "text": "Quanto custou a Mars Observer?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

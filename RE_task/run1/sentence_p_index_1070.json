@@ -1,0 +1,22 @@
+{
+  "text": "A polêmica gerada pela Fundação Bienal fortaleceu a ação política do coletivo dinamarquês, tendo a censura gerado uma reação oposta à desejada. Foi grande o interesse público pelo modelo econômico e social do projeto Guaraná Power -- baseado no colaborativismo do software livre -- e positiva a repercussão do tema, exatamente onde interessa: no país fornecedor da matéria-prima de uma das bebidas estrangeiras mais famosas no exterior.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 38
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 217,
+        "end": 230
+      }
+    }
+  ],
+  "relations": []
+}

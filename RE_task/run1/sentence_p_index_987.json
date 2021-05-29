@@ -1,0 +1,22 @@
+{
+  "text": "Fenômeno recorrente, efetivamente, existem manifestações como o Kuduro em todas as periferias do mundo. Decupando a estrutura de todas elas, especialmente no que diz respeito à coreografia, encontraremos, quase que invariavelmente, a seguinte composição: Passos e gestos de Break Dance , fundidos a movimentos de uma ou mais danças tradicionais, tribais mesmo em muitos casos, existentes na cultura local.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 64,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 274,
+        "end": 285
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,53 @@
+{
+  "text": "Durante a Conferência das Nações Unidas sobre as Alterações Climáticas, em Bali, o Público teve uma secção designada \"Eu contribuo\", onde os leitores eram convidados a dizerem aquilo que fazem pelo Ambiente. Não parece ter havido muitos participantes, mas houve quem divulgasse a sua opção pela bicicleta como meio de transporte principal ou secundário.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 10,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 83,
+        "end": 90
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 198,
+        "end": 206
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

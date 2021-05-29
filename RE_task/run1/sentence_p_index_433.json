@@ -1,0 +1,14 @@
+{
+  "text": "as escolas do ensino fundamental do Brasil .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

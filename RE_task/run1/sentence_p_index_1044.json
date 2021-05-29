@@ -1,0 +1,54 @@
+{
+  "text": "A terça-feira em Salvador amanheceu diferente. As logomarcas nos totens dos bancos de Boston e Citibank , Clube Banco dos Ingleses e lanchonete McDonalds estavam manchadas de sangue. Pelo menos é o que parecia numa olhada rápida. O primeiro pensamento: mais uma onda de protestos atingiu os símbolos dos impérios britânico e americano. É vermelho, embora não seja sangue.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 95,
+        "end": 103
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 106,
+        "end": 130
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 144,
+        "end": 153
+      }
+    }
+  ],
+  "relations": []
+}

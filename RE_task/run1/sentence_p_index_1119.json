@@ -1,0 +1,105 @@
+{
+  "text": "A al-Qaeda é um grupo saudita. A Arábia Saudita era um dos três países do mundo que reconheciam, no Afeganistão, o governo Talibã. A vertente de islamismo radical que impera no norte do Paquistão é profundamente semelhante à que a Arábia Saudita espalha pelo mundo. Sharif não é fundamentalista. Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação. O que vai imperar? A Arábia Saudita interessada em regimes islâmicos como os defendidos pelos radicais? Ou a Arábia Saudita interessada em combater o terrorismo? No Paquistão, as duas opções são incompatíveis.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 33,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 111
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 123,
+        "end": 129
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 186,
+        "end": 195
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 231,
+        "end": 245
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 266,
+        "end": 272
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 451,
+        "end": 465
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 539,
+        "end": 553
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 595,
+        "end": 604
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T6"
+    }
+  ]
+}

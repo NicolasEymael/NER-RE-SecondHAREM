@@ -1,0 +1,54 @@
+{
+  "text": "Ainda está por definir quem será declarado vencedor de 2006 , depois do caso de doping de Floyd Landis . Daí a organização ter decidido suspender os dorsais entre o 1 | 1 e o 1 | 1 , começando o Tour no 11 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 90,
+        "end": 102
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 165,
+        "end": 166
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 169,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 195,
+        "end": 199
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 203,
+        "end": 205
+      }
+    }
+  ],
+  "relations": []
+}

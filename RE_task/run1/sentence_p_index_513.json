@@ -1,0 +1,30 @@
+{
+  "text": "O filme « Call girl », de António-Pedro Vasconcelos , estreia hoje em quarenta salas de cinema, mostrando uma intriga policial que envolve uma mulher fatal e um autarca escrupuloso que se deixa corromper.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 10,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 62,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

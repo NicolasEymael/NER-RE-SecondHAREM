@@ -1,0 +1,163 @@
+{
+  "text": "Em 1581, Filipe I de Portugal | Filipe I de Portugal, mandou transladar para o Mosteiro dos Jerónimos em Lisboa um corpo que alegava ser o do rei desaparecido, na esperança de acabar com o sebastianismo, o que não resultou, nem se pôde comprovar ser o corpo realmente o de Sebastião I. O Túmulo de Mármore que repousa sobre dois elefantes, pode ainda hoje ser observado em Lisboa. A dúvida que persiste há mais de 425 anos | há mais de 425 anos poderia provavelmente hoje ser resolvida com um simples teste de ADN (DNA).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 40
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 52
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 79,
+        "end": 101
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 105,
+        "end": 111
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 273,
+        "end": 284
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 288,
+        "end": 305
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 351,
+        "end": 355
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 373,
+        "end": 379
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 403,
+        "end": 422
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 436,
+        "end": 444
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 467,
+        "end": 471
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 510,
+        "end": 513
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 515,
+        "end": 518
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T14"
+    }
+  ]
+}

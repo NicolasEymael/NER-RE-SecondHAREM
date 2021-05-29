@@ -1,0 +1,85 @@
+{
+  "text": "Com recursos do Ministério da Cultura foram concluidas as obras da terceira fase do « Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 \" com o objetivo de ampliar o auditório, visando dobrar a capacidade de atendimento de cem para duzentos lugares e, possibilitando a um maior número de interessados o acesso aos cursos e seminários promovidos pelo Museu . Ainda com recursos do Ministério da Cultura , o Pátio dos Canhões foi reformado, contando com o apoio do Arsenal de Guerra do Rio | Arsenal de Guerra do Rio e do Instituto Benjamin Constant para a confecção das novas legendas das peças expostas, inclusive em braille.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 86,
+        "end": 163
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 378,
+        "end": 383
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 408,
+        "end": 429
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 451
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 491,
+        "end": 515
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 518,
+        "end": 535
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 539,
+        "end": 542
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 548,
+        "end": 575
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

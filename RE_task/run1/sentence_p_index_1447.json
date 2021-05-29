@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que nasceu Aldous Huxley?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Como se chama o vocalista do grupo U2?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

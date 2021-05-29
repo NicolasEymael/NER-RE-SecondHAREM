@@ -1,0 +1,339 @@
+{
+  "text": " US Open: Federer campeão. Roger Federer conquistou este domingo pela quarta vez consecutiva o US Open, ao bater na final o sérvio Novak Djokovic por 7-6(4), 7-6(2) e 6-4. Com este triunfo, o suíço contabiliza 12 vitórias em torneios do Grand Slam, aproximando-se do recorde de 14, que pertence a Pete Sampras. A final demorou 2.26 horas e o líder mundial fez 11 ases contra apenas 5 do sérvio. Ao helvético apenas lhe falta o título no Open de França | Open de França, em Roland Garros. Entretanto, a francesa Nathalie Dechy conquistou o seu segundo título consecutivo em pares femininos. Dechy e a russa Dinara Safina bateram Chan Yung-jan e Chuang Chia-jung (Taiwan), por 6-4 e 6-2.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 17
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 40
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 64
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 95,
+        "end": 102
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 131,
+        "end": 145
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 150,
+        "end": 156
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 158,
+        "end": 164
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 167,
+        "end": 170
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 210,
+        "end": 212
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 237,
+        "end": 247
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 278,
+        "end": 280
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 297,
+        "end": 309
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 327,
+        "end": 337
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 360,
+        "end": 362
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 382,
+        "end": 383
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 437,
+        "end": 451
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 454,
+        "end": 458
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 462,
+        "end": 468
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 473,
+        "end": 486
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 511,
+        "end": 525
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 590,
+        "end": 595
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 606,
+        "end": 619
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 628,
+        "end": 641
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 644,
+        "end": 660
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 662,
+        "end": 668
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "valor",
+      "span": {
+        "begin": 675,
+        "end": 678
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "valor",
+      "span": {
+        "begin": 681,
+        "end": 684
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "participante_em",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ter_participacao_de",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ter_participacao_de",
+      "subj": "T13",
+      "obj": "T11"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T17",
+      "obj": "T11"
+    },
+    {
+      "id": "R9",
+      "pred": "sede_de",
+      "subj": "T20",
+      "obj": "T17"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T19"
+    },
+    {
+      "id": "R11",
+      "pred": "natural_de",
+      "subj": "T21",
+      "obj": "T19"
+    },
+    {
+      "id": "R12",
+      "pred": "participante_em",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T22"
+    },
+    {
+      "id": "R14",
+      "pred": "participante_em",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "participante_em",
+      "subj": "T24",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "participante_em",
+      "subj": "T25",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "natural_de",
+      "subj": "T26",
+      "obj": "T24"
+    },
+    {
+      "id": "R18",
+      "pred": "natural_de",
+      "subj": "T26",
+      "obj": "T25"
+    }
+  ]
+}

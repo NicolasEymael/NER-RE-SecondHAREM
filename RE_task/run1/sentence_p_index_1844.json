@@ -1,0 +1,14 @@
+{
+  "text": "Quem comandou os gregos em Salamina?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 27,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

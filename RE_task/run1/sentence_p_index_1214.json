@@ -1,0 +1,77 @@
+{
+  "text": "Neste exercício de investigação microscópica das vertentes e fontes que impulsionaram Antônio Houaiss, ao largo de sua atividade como lingüista e filólogo - atividade desdobrada no labor lexicográfico, dicionarístico, enciclopédico, ecdótico e de crítica literária -, além, está claro, de seus dotes natos e inclinações pessoais, desejo agora trazer à luz e à consideração dos meus benévolos ouvintes a figura de José Oiticica que, dentre a trindade que reinava na fase inicial de nossos cursos superiores de letras, poderia ser o menos indicado para, à primeira vista, estabelecer tantos pontos de contacto com Houaiss. E, quiçá, não só pontos de contactos, mas evidentes afinidades, que não se devem reduzir, a meu ver, ao plano do ideal político, pois que, neste aspecto, por informação do irmão Maurício Houaiss, este ideal deriva da influência do Professor Pascoal Leme que \"tinha \"idéias\" que logo o apaixonaram, acrescidas do influxo de um colega seu pouco mais velho, Reinaldo Machado, cujo pai, José Alves Machado, foi por longo tempo mestre de ambos em matéria de anarquismo\"1 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 86,
+        "end": 101
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 413,
+        "end": 426
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 612,
+        "end": 619
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 799,
+        "end": 815
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 852,
+        "end": 874
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 976,
+        "end": 992
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 1004,
+        "end": 1022
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 1028,
+        "end": 1043
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

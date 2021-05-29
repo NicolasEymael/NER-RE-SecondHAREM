@@ -1,0 +1,14 @@
+{
+  "text": "- Também tem o Caixa Dois, sabe qual é?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

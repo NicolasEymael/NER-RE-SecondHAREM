@@ -1,0 +1,134 @@
+{
+  "text": "Mesmo assim, a maioria deles surgem ou agem graças à internet. Alguns, como o Expressão Sarcástica , Vitoriamario , Poro , TEMP , BaseV , ou Cocadaboa , possuem seus próprios sites. Outros, como o CORO , um grupo que pretende mapear todos os coletivos em ação no Brasil , ou a Universidade do Fora , entre outros, funcionam com lista de discussão. Blogs também hospedam grupos com identidade virtual à Luther Blissett , como o Ari Almeida ou Timóteo Pinto , enquanto os fotologs tem servido como meio de divulgação de coletivos como o Radioatividade , ou grupos do stencil e do sticker (adesivo) como Faca , Coletivo Rua , SHN , entre dezenas de outros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 78,
+        "end": 98
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 101,
+        "end": 113
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 116,
+        "end": 120
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 123,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 130,
+        "end": 135
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 141,
+        "end": 150
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 197,
+        "end": 201
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 263,
+        "end": 269
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 277,
+        "end": 297
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 402,
+        "end": 417
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 427,
+        "end": 438
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 442,
+        "end": 455
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 535,
+        "end": 549
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 601,
+        "end": 605
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 608,
+        "end": 620
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 623,
+        "end": 626
+      }
+    }
+  ],
+  "relations": []
+}

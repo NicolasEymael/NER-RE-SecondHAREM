@@ -1,0 +1,30 @@
+{
+  "text": "Resta saber como isso vai repercutir daqui pra frente. Vai ser bom ou não? Quem pode ter certeza sobre o que o diretor José Padilha diz à Folha de S. Paulo: \"que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro.\" Ou será que o boca a boca vai fazer o filme estourar? Vai virar reportagem do Fantástico? Ganhar as páginas policiais dos jornais mais uma vez?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 111,
+        "end": 131
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 155
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 472,
+        "end": 482
+      }
+    }
+  ],
+  "relations": []
+}

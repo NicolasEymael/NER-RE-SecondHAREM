@@ -1,0 +1,102 @@
+{
+  "text": "O novo telefone vai estar disponível em Junho , nos EUA , em duas versões: uma com 8 gigabytes (GB) de capacidade de armazenamento, que custará 600 dólares , e outra com 4 GB , a cerca de 500 dólares . À Europa chegará no final do ano , e na Ásia só em 2008 . Tem uma câmara fotográfica com 2 megapixels de resolução e um ecrã táctil com 8,8 centímetros de diagonal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 37,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 52,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 83,
+        "end": 99
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 144,
+        "end": 155
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 170,
+        "end": 174
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 179,
+        "end": 199
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 210
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 219,
+        "end": 234
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 242,
+        "end": 246
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 250,
+        "end": 257
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 291,
+        "end": 303
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "valor",
+      "span": {
+        "begin": 338,
+        "end": 353
+      }
+    }
+  ],
+  "relations": []
+}

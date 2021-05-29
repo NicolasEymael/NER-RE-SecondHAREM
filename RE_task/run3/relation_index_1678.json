@@ -1,0 +1,29 @@
+{
+  "text": " Amadeo de Souza-Cardoso. A sua familia era rica e influenciou-o a ingressar no curso de Direito na Universidade de Coimbra | Universidade de Coimbra. Depressa desistiu do curso e mudou-se para o curso de Arquitectura na Academia de Belas Artes de Lisboa | Academia de Belas Artes de Lisboa em 1905. O curso nao satisfaz o seu genio criativo, por isso parte para Paris em 1906 instalando-se em Montparnasse com a intençao de continuar a estudar. As suas primeiras experiências artisticas conhecidas foram desenhos e caricaturas, depois dedicou-se à pintura. Poder-se-á dizer que foi um pintor impressionista, expressionista, cubista, futurista mas sempre recusou qualquer rotulo. Apesar das multiplas influencias procurava a originalidade e a criatividade na sua obra. Em 1908 instala-se no número catorze da Cité de Falguière. Frequentou ateliers preparatórios para Academia de Beaux-Arts e a Academia Viti do pintor catalão Anglada Camarasa mas, apesar disso, nao chega a ser admitido. Em 1910 esteve alguns meses em Bruxelas e em 1911 expôs trabalhos no Salon des Indépendants, em Paris, aproximando-se progressivamente das vanguardas e de artistas como Amedeo Modigliani, Constantin Brancusi, Alexander Archipenko, Juan Gris e Robert Delaunay. Em 1912 publicou um álbum com vinte desenhos e, em seguida, copiou o conto de Gustave Flaubert, \"La Légende de Saint Julien l'Hospitalier\", trabalhos ignorados pelos apreciadores de arte. Depois de participar em 1913 numa exposição com oito trabalhos nos Estados Unidos da América, no Armory Show, voltou a Portugal, onde teve a ousadia de realizar duas exposições, respectivamente em Porto e em Lisboa. Nesse ano participou ainda no Herbstsalon da Galeria Der Sturm, em Berlim. Em 1914 encontrou-se em Barcelona com Antoni Gaudí, e parte para Madrid onde é surpreendido pelo início da I Guerra Mundial. Regressou então a Portugal, onde iniciou meteórica carreira na experimentação de novas formas de expressão, tendo pintado com grande constância ao ponto de, em 1916, expor no Porto 114 obras com o título \"Abstraccionismo\", que serão também expostas em Lisboa, num e noutro caso com novidade e algum escândalo. O cubismo em expansão por toda a Europa foram influências marcantes no seu cubismo analítico. Amadeo de Souza-Cardoso explora o expressionismo e nos seus últimos trabalhos experimenta novas formas e técnicas, como as colagens e outras formas de expressão plástica. Em 25 de Outubro de 1918, aos 31 anos de idade, morre prematuramente em Espinho, vítima da \"pneumónica\" que grassava em Portugal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1697,
+        "end": 1714
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1682,
+        "end": 1693
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

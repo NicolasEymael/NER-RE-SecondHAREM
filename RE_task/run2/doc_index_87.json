@@ -1,0 +1,223 @@
+{
+  "text": " Panda elege os vírus mais curiosos de 2007. O laboratório anti-malware da Panda Security, revelou um relatório onde agrupa os \"mais curiosos\" exemplos de malware que emergiram no último semestre de 2007. -O código malicioso \"mais pontual\" detectado nos últimos tempos, revela a Panda, foi o Trojan Aifone.A. O nome não engana: é um malware associado ao iPhone da Apple | iPhone da Apple. Mal tinha acabado de ser lançado, já este malware o promovia, mas com o objectivo de propagar cópias de si mesmo entre utilizadores... -\"O worm mais travesso\" foi o RogueMario.A, destinado a entreteter os utilizadores enquanto os infecta. Tem uma vertente generosa, já que foi desenhado para instalar a versão do jogo Mario Bros de cada vez que infecta um computador. -A categoria Lost in Translation\" vai para worms como os MSNFunny.B, Mimbot.A ou MsnSend.A, que conseguem enviar mensagens em vários idiomas, ainda que em frases não muito bem construídas. -O Voter.A é um worm com \"consciência cívica\", conta a Panda. Convida os cidadãos do Quénia a participarem em eleições e a votarem num dos candidatos. Uma ideia de aplaudir, não fosse a técnica mostrar uma imagem do candidato de nove a nove segundos. -O Trojan LiveDeath.A tem associado a si a curiosidade. Sempre que infecta um computador, abre uma consola de comandos e força os utilizadores a responderem a uma série de perguntas, como \"Qual a sua cor favorita?\". O esforço de responder será sempre inglório: qualquer que seja a resposta o computador encerrar-se-á. Ainda que algumas destas ameaças lhe possam parecer interessantes, a Panda recomenda o afastamento face a estes exemplos de malware.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 75,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 177,
+        "end": 203
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 279,
+        "end": 284
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 292,
+        "end": 307
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 354,
+        "end": 369
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 372,
+        "end": 378
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 382,
+        "end": 387
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 554,
+        "end": 566
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 707,
+        "end": 717
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 770,
+        "end": 789
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 814,
+        "end": 824
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 826,
+        "end": 834
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 838,
+        "end": 847
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 949,
+        "end": 956
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1001,
+        "end": 1006
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 1031,
+        "end": 1037
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 1172,
+        "end": 1195
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 1200,
+        "end": 1218
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1584,
+        "end": 1589
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "outrarel",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T5"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T5"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T5"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "text": "1.º Pela presente portaria é concessionada, pelo período de 12 anos | pelo período de 12 anos , à Associação de Caçadores da Ajuda | Associação de Caçadores da Ajuda , com o número de identificação fiscal 502302569 e sede na Rua de D. Vasco , 7, 7050 Montemor-o-Novo , a zona de caça associativa da Herdade da Casa Branca e outras ( processo n.º 4799-DGRF ), englobando vários prédios rústicos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Cabrela , município de Montemor-o-Novo , com a área de 545 ha .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 44,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 86,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 98,
+        "end": 130
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 133,
+        "end": 156
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 160,
+        "end": 165
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 225,
+        "end": 240
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 251,
+        "end": 266
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 299,
+        "end": 321
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 507,
+        "end": 514
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 530,
+        "end": 545
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 562,
+        "end": 568
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

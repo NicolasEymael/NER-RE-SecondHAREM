@@ -1,0 +1,113 @@
+{
+  "text": "\"O Alex aqui da Sulamerica , faltando 1 km , sentiu câimbras e foi para o hospital, ficando no soro... Mateus meu filho, faltando 3km , também sentiu câimbras nas duas pernas. Por sorte, o Edu parou e veio com ele devagar até a chegada. (Valeu Edu , obrigado por ajudar meu filho! Araribóia !!!) Continuei meu ritmo e dei uma força para o ' Chico Buarque ' ( Israel ), grande guerreiro araribóia, mandou muito bem! ( 1:40:00 ). Eu estava bem, minha passada dez, mais um índio amigo precisava de apoio pra chegar e, como somos uma família, fiz de tudo para ele cruzar a linha de chegada voando...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 38,
+        "end": 42
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 130,
+        "end": 133
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 192
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 244,
+        "end": 247
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 281,
+        "end": 290
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 341,
+        "end": 354
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 359,
+        "end": 365
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 417,
+        "end": 424
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "text": "Seguiu-se uma breve reacção católica durante o reinado de Maria I ( 1553-1558 ). De início moderada na sua política religiosa, Maria procura a reconciliação com Roma , consagrada em 1554 , quando o Parlamento vota o regresso à obediência papal. Porém, as perseguições violentas que move aos não católicos e o seu casamento com Filipe II de Espanha | Filipe II de Espanha | Filipe II de Espanha , provocam um forte descontentamento na população.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 77
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 127,
+        "end": 132
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 161,
+        "end": 165
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 179,
+        "end": 186
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 198,
+        "end": 208
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 327,
+        "end": 347
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 350,
+        "end": 359
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 363,
+        "end": 370
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "relacao_familiar",
+      "subj": "T7",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "relacao_familiar",
+      "subj": "T8",
+      "obj": "T3"
+    }
+  ]
+}

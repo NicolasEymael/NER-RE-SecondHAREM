@@ -1,0 +1,61 @@
+{
+  "text": "Os carros e edifícios se desmaterializaram em resposta à tração do futuro. \"Nós estamos quase fora da fase do territorial\", diz Mills . Detroit , a primeira cidade portátil. Seus habitantes a virtualizaram muito tempo atrás . \"Isto é o que muitas pessoas costumavam fazer em Detroit . Nós poderíamos criar uma canção só para a ambiência, só para o local onde você mora, e deixá-la rolar por todo o dia . Esta não é a música que você vai eventualmente colocar num DAT e vender. É música habitável.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 128,
+        "end": 133
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 143
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 206,
+        "end": 223
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 275,
+        "end": 282
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 387,
+        "end": 401
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 463,
+        "end": 466
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

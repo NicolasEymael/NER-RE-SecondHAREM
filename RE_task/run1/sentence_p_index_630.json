@@ -1,0 +1,147 @@
+{
+  "text": "Foi desenvolvida em 1935 pelo médico neurologista português António Egas Moniz (1874-1955), em equipe com o cirurgião Almeida Lima, na Universidade de Lisboa | Universidade de Lisboa. Egas Moniz veio a receber com este trabalho o prêmio Nobel da Medicina e Fisiologia em 1949.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 80,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 135,
+        "end": 157
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 160,
+        "end": 172
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 176,
+        "end": 182
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 184,
+        "end": 194
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 237,
+        "end": 267
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 268,
+        "end": 275
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_profissional",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "outrarel",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T3"
+    }
+  ]
+}

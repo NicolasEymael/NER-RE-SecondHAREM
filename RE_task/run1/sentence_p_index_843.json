@@ -1,0 +1,22 @@
+{
+  "text": "A história dos quadrinhos, de Bill Gaines a Roy Lichtenstein",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 30,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 44,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

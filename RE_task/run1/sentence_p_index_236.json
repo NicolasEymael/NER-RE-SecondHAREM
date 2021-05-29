@@ -1,0 +1,62 @@
+{
+  "text": "Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional , Humberto Delgado Ubach Chaves Rosa , Secretário de Estado do Ambiente , em 23 de Novembro de 2007 . --- O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas , Jaime de Jesus Lopes Silva , em 30 de Novembro de 2007 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 5,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 88,
+        "end": 122
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 125,
+        "end": 157
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 185
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 194,
+        "end": 256
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 259,
+        "end": 285
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 288,
+        "end": 313
+      }
+    }
+  ],
+  "relations": []
+}

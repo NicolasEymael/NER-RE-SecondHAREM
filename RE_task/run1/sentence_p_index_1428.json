@@ -1,0 +1,14 @@
+{
+  "text": "Quantos pisos tem o Empire State Building?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

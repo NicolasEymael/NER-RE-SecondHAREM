@@ -1,0 +1,29 @@
+{
+  "text": " H5N1: Mais de 32 mil mortos se pandemia atingisse Portugal. Mais de 32 mil pessoas poderiam morrer se uma pandemia de gripe humana de origem aviária atingisse Portugal, segundo cenários elaborados este ano por peritos do Instituto Nacional de Saúde Ricardo Jorge. Na quinta-feira, a Organização Mundial de Saúde confirmou que um paquistanês vítima da gripe das aves tinha contraído o vírus H5N1 de outro humano, apesar de os peritos afastarem ainda qualquer risco de contaminação generalizado. Em Portugal, o Instituto Nacional de Saúde elaborou cenários de uma eventual pandemia de gripe humana de origem em aves, que poderá ou não ser desencadeada pelo H5N1, a estirpe do vírus mais mortal até agora conhecida. Os cenários tiveram em conta a utilização do Oseltamivir (o anti-viral tido como o mais eficaz contra uma eventual pandemia com origem da gripe das aves), mas não consideraram outras medidas de saúde pública, apesar de os autores admitirem que estas «terão um efeito principal, embora não exclusivo, na diminuição da incidência da doença e, portanto, nas taxas de ataque». Os autores dos cenários basearam o seu cálculo em três taxas de ataque (30, 35 e 40 por cento da população), admitindo que a pandemia evoluiria em duas ondas. Os peritos consideram provável que, com uma taxa de ataque de 30 por cento, existiriam 3.106.835 casos de gripe, 3.624.641 numa taxa de ataque de 35 por cento e 4.142.447 perante a mais severa taxa de ataque (40 por cento).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 510,
+        "end": 537
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 222,
+        "end": 263
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

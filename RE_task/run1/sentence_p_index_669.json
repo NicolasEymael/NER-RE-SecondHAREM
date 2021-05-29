@@ -1,0 +1,83 @@
+{
+  "text": "Com Marques Mendes , o PSD esboçou um ruptura com o período negro anterior, mas como quando se fazem «revoluções pela metade cava-se o seu próprio túmulo» (dizia Saint Just ), perdeu-se o pouco que se tinha adquirido voltando o partido ao dia anterior da derrota de 2005 . Mendes não conseguiu impor-se, mas os seus esforços foram no sentido certo. Menezes também não está a conseguir impor-se, mas todos os seus esforços vão no sentido errado. O governo está verdadeiramente à solta, a oposição numa crise maior do que alguma vez esteve desde 2005 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 162,
+        "end": 172
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 236,
+        "end": 251
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 263,
+        "end": 270
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 273,
+        "end": 279
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 349,
+        "end": 356
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 538,
+        "end": 548
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    }
+  ]
+}

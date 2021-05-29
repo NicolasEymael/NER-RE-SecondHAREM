@@ -1,0 +1,73 @@
+{
+  "text": "Cavalo-marinho , uma tradição folclórica do ciclo de Natal | de Natal , é a versão pernambucana do Bumba-meu-Boi . Encontrado em toda parte do Brasil , o Bumba-meu-boi é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 64,
+        "end": 69
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 99,
+        "end": 112
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 143,
+        "end": 149
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 154,
+        "end": 167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "pratica_se",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "pratica_se",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

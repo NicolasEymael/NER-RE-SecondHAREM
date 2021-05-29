@@ -1,0 +1,43 @@
+{
+  "text": "Quando é que nasceu Yitzhak Rabin? Quando é que ele morreu? Qual era a sua profissão quando morreu? Quantas pessoas foram a Jerusálem prestar homenagem a Rabin quando ele morreu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 124,
+        "end": 133
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 154,
+        "end": 159
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

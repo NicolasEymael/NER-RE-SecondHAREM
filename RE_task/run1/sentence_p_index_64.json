@@ -1,0 +1,22 @@
+{
+  "text": "- Pois não. Mas a primeira parte foi tão má que parecia que o Mourinho não tinha lido « O Ser e o Tempo ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 88,
+        "end": 103
+      }
+    }
+  ],
+  "relations": []
+}

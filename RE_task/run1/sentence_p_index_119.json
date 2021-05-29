@@ -1,0 +1,107 @@
+{
+  "text": "A síntese de Detroit de grooves de trance funk e futurismo disco europeu foi realizada por um surpreendentemente pequeno círculo de produtores, que começaram seus experimentos em meados dos 80 . As estórias de Cybotron , Model 500 e a transição da disco para o eletro-funk para o tecno foram muito bem contadas em outras paragens por escritores como Matthew Collin ( Altered State ) e Kodwo Eshun ( More Brilliant Than The Sun: Adventures In Sonic Fiction ). Um dos pioneiros foi Jeff Mills , que, como produtor e DJ, tem semeado o som de Durban a Tóquio , e a ele não se deveria atribuir pouca responsabilidade pelo fato de que seres urbanos de todo o mundo agora vivam numa paisagem midiática onde enxutas batidas eletrônicas servem como trilha sonora para tudo, desde idas ao shopping e suas experiências com drogas, a noites em casa em frente da tv.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 13,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 176,
+        "end": 192
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 210,
+        "end": 218
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 230
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 350,
+        "end": 364
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 367,
+        "end": 380
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 385,
+        "end": 396
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 399,
+        "end": 455
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 480,
+        "end": 490
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 539,
+        "end": 545
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 548,
+        "end": 554
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "obra_de",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

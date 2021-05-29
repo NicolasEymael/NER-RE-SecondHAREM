@@ -1,0 +1,14 @@
+{
+  "text": "Copyright © New Scientist 2002 . For fair use only.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 12,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

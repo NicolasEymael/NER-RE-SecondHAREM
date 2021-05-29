@@ -1,0 +1,101 @@
+{
+  "text": "Dos grandes mestres do idioma com quem Houaiss conviveu como aluno e discípulo - Oiticica, Sousa da Silveira e Antenor Nascentes - só o primeiro possuía esse desvanecimento pela riqueza vocabular, como também o praticava nos seus escritos, em prosa ou poesia. Oiticica debruçou-se nos escritores de léxico pujante, fichando seu arsenal vocabular, como, segundo suas declarações, fez de autores portugueses (Camilo e Aquilino Ribeiro) e brasileiros (Rui, Euclides e Coelho Neto). Defende este último de maneira veemente: «Houve quem acoimasse Coelho Neto de maníaco nesse ponto, glosando-se que inventava as histórias para empregar certos vocábulos. Não me parece real a coima. O que reconheço é serem seus vocábulos empregados com perfeita precisão».5",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 81,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 91,
+        "end": 108
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 111,
+        "end": 128
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 260,
+        "end": 268
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 407,
+        "end": 413
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 432
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 449,
+        "end": 452
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 454,
+        "end": 462
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 465,
+        "end": 476
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 542,
+        "end": 553
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    }
+  ]
+}

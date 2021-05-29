@@ -1,0 +1,111 @@
+{
+  "text": "Segundo a sinopse oferecida pela produção do filme, \" 3 Efes é uma comédia dramática que aborda as dificuldades - afetivas, financeiras e culturais - enfrentadas por um grupo de personagens que circula em torno de Sissi , uma jovem universitária que sustenta, a duras penas, o pai viúvo e o irmão pequeno. Nessa situação de dificuldade, Sissi recorre aos conselhos de sua tia, Martina , uma dona-de-casa entediada que, em meio a uma crise no seu casamento com o publicitário Rogério , fica irresistivelmente atraída por William , um simples catador de papel. Rogério também está em apuros: sua última campanha publicitária deu errado, e agora ele precisa dar um jeito de salvar seu emprego - de qualquer jeito. Assim, sob todas essas pressões do cotidiano, os personagens acabam tomando importantes decisões que vão mudar muita coisa entre eles - e também provocar algumas situações inusitadas\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 54,
+        "end": 60
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 214,
+        "end": 219
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 337,
+        "end": 342
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 377,
+        "end": 384
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 475,
+        "end": 482
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 520,
+        "end": 527
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 559,
+        "end": 566
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "personagem_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "personagem_de",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "relacao_familiar",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "personagem_de",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "relacao_familiar",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "personagem_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T5"
+    }
+  ]
+}

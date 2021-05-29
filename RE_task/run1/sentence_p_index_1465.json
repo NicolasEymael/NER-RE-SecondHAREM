@@ -1,0 +1,29 @@
+{
+  "text": "Qual era a alcunha de Al Capone? Quem era ele? Quando é que ele foi alvejado? Que idade tinha ele quando levou a sua família para Chicago?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 130,
+        "end": 137
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "residencia_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

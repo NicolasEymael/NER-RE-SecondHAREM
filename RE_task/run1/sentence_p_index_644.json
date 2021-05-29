@@ -1,0 +1,22 @@
+{
+  "text": "Em Dezembro em Lisboa",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 15,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

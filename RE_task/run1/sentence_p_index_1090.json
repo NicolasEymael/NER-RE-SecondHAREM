@@ -1,0 +1,14 @@
+{
+  "text": "Aquele \"ouro\" líquido, que o balconista costumava servir a conta-gotas e com um chorinho miserável e sem vela, está deixando de existir. Com a garrafa de um bom scotch sendo vendida a menos de R$ 60 em qualquer supermercado, já é possível encontrar, com facilidade, bares e botequins que assumiram o serviço regado do puro scotch.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 184,
+        "end": 198
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que é que foi anexado após a Guerra dos Seis Dias?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 31,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

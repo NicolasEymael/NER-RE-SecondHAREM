@@ -1,0 +1,45 @@
+{
+  "text": "\"Vamos aqui ficar [no patamar dos 100 dólares ], enquanto houver um desequilíbrio entre a oferta e a procura\", afirmou à France Presse o analista do mercado de capitais da BMO , Bart Melek .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 34,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 121,
+        "end": 134
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 175
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 178,
+        "end": 188
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

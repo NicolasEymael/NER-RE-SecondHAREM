@@ -1,0 +1,30 @@
+{
+  "text": "Para ele a peça dirigida por Jessé Oliveira é \"primorosa; a montagem relê o clássico a partir de uma estética negra, com elementos da cultura afro-brasileira ajudando a contar a história imortalizada por William Shakespeare. É notável o equilíbrio que Jessé conseguiu ao mesclar todos estes elementos\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 204,
+        "end": 223
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 252,
+        "end": 257
+      }
+    }
+  ],
+  "relations": []
+}

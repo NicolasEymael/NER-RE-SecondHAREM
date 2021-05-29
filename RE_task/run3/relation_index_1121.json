@@ -1,0 +1,29 @@
+{
+  "text": " Salgado , o fotógrafo da África perdida. \" África \" do fotojornalista Sebastião Salgado é um murro na alma, um livro que consegue ainda surpreender os nossos olhos tão viciados que estão na catadupa de imagens que invadem o nosso quotidiano. É também o carimbo que autentica a vitalidade do fotojornalismo de referência, no tempo em que num ápice de 5 anos | de 5 anos a fotografia digital e toda ferramenta que permite uma nova linguagem multimédia, pareciam condenar o preto-e-branco como a última sessão fotográfica. Conheci o Sebastião Salgado em Fátima no ano de 1979 . Ao meu lado apareceu um fotógrafo estrangeiro, de ar cansado e que começou a comentar como era louco um velhote com as pernas entrapadas que teimava em iniciar de joelhos mais uma dolorosa promessa. O António Pedro Ferreira , outro fotógrafo peregrino, reconheceu-o logo como sendo o Sebastião Salgado . Na época ele ainda não era muito conhecido, tinha iniciado a carreira de fotógrafo em 1975 , em Angola , fotografando a aventura portuguesa na hora da descolonização. Mandara às urtigas uma profissão respeitável de economista e descobrira que a fotografia era o meio ideal para mostrar ao Mundo a saga do sofrimento humano. As suas fotos tinham sido publicadas na Photo e no Paris-Match , que eu me lembre, e tinham-me marcado pela capacidade de testemunharem momentos únicos, aliando o olhar jornalístico, ao apuro técnico, a sensibilidade social ao rigor estético. Sempre me intrigou, e hoje de novo ao ver o \" África \" onde estão também essas fotos, como é que um fotógrafo sem experiência já conseguia enquadrar de uma forma tão rigorosa e com um carácter tão forte. Só os mestres o conseguem com muita maturidade mas ele já alinhava na grelha de partida em primeiro para aquela que acabaria por ser uma carreira fulgurante. Em Fátima , no dia seguinte pela manhã voltei a encontrá-lo, sempre com o António Pedro Ferreira ao lado, e ele acabou por confessar (o lugar prestava-se a isso!) que tinha adormecido na véspera no quarto do hotel, depois de um jantar reconfortante falhando assim as fotografias da Procissão das Velas . Eu já contei esta história mas gosto de a repetir porque ela desmistifica a ideia de que os grandes repórteres são infalíveis. Não são. Falar das fotografias do Sebastião Salgado é redundante. Elas falam, dizem, explicam, sugerem, escondem, denunciam, por si, a visão grandiosa do fotojornalista-autor. Interessante é o método de Salgado para concretizar as suas reportagens. Trabalha com uma equipa reduzida. A mulher, arquitecta, dá-lhe apoio na produção, no design que transporta as fotografias. Depois conta com mais duas ou três pessoas num pequeno apartamento em Paris . Por detrás das suas imagens uma ideia, um projecto, uma produção, um fim. Salgado não fotografa à solta, não dispara sem objectivo. Por isso as suas fotografias demoram anos a fazer, editar, imprimir, mostrar. Durante muitos anos o fotógrafo trabalhou nas agências Sygma e Gamma e mais tarde foi membro da Magnum . Para ter fundo de maneio para poder realizar muitas das fotografias que agora aparecem no \" África \", trabalhava nove meses em Paris a fazer conselhos de ministros, política, faits-divers, para poder financiar os seus projectos especiais a preto-e-branco com cariz de autor, durante os restantes três meses do ano . O trabalho mais bem pago como fotojornalista foram as fotografias que fez por mero acaso do atentado a Ronald Reagen . A revista Time tinha-lhe pedido para seguir o Presidente durante um mês , ele fê-lo com alguma contrariedade e acabou por estar no sítio certo, à hora exacta, no instante decisivo. Havia mais dois fotógrafos a seu lado, um deles da Associated Press que fez fotos muito melhores, mais nítidas e mais perto, do que as dele, mas Salgado conseguiu mesmo assim com a venda dessas imagens, um pouco tremidas, comprar um pequeno apartamento em Paris . A obra de Salgado supera muito do que tem sido em geral nos últimos 30 anos | nos últimos 30 anos a fotografia documental. Não há outro fotógrafo na arte de testemunhar com uma tão extensa foto-galeria. Mas se o público enche aos milhares as suas exposições e corre a comprar os seus foto-álbuns, há uma elite da fotografia que questiona o sucesso comercial assente no testemunho da tragédia alheia, mesmo que haja no seu discurso visual e falado uma obsessão de esquerda pelo estado das coisas e pelos desígnios da Humanidade . Com \" África \" regressamos ao tempo perdido e com Salgado revivemos o melhor que há na essência do fotojornalismo documental. Luiz Carvalho , fotojornalista do Expresso.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3895,
+        "end": 3902
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

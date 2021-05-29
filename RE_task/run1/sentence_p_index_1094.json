@@ -1,0 +1,14 @@
+{
+  "text": "Outros exemplos de bom uísque barato e regado na cidade do Rio:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

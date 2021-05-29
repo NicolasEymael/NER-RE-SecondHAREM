@@ -1,0 +1,22 @@
+{
+  "text": "Em que país teve lugar a cimeira dos G7 em Julho de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 56
+      }
+    }
+  ],
+  "relations": []
+}

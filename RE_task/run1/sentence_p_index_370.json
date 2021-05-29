@@ -1,0 +1,22 @@
+{
+  "text": "03.01.2008 - 08h46",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 13,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

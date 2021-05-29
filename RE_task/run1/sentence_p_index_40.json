@@ -1,0 +1,22 @@
+{
+  "text": "Era professora, quero dizer ela veio para Portugal dar aulas. Não sei se veio interna para uma casa e depois deixou, estava...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 108
+      }
+    }
+  ],
+  "relations": []
+}

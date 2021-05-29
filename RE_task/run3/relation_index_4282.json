@@ -1,0 +1,29 @@
+{
+  "text": " Site Admin | Site Admin. Registo: 12 Apr 2005. Mensagens: 4. Local/Origem: Lisboa (Portugal). Colocada: Quarta-feira Maio 04, 2005 23:36 Assunto: Como efectuar um Registo (tem vantagens). Gostaria muito, que os Acólitos, se registassem no forum, de modo a ser algo organizado, principalmente os da AAPSE e é muito simples, querem ver. José Eduardo Pires. Ass. de Acólitos da Paróquia de Santo Eugénio | Ass. de Acólitos da Paróquia de Santo Eugénio.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 299,
+        "end": 304
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 212,
+        "end": 220
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "text": "Os documentos em causa foram colecionados no ano passado por um painel de cientistas acadêmicos e industriais organizado pela NAS para avaliar recentes investigações de armas não letais para o Joint Non-Lethal Weapons Program (JNLWP), do Pentágono. Os EUA ganharam um interesse acrescido pelas armas não letais após a sua desastrosa missão pacificadora na Somália, em 1993, quando civis amotinados mataram soldados americanos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 193,
+        "end": 225
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 227,
+        "end": 232
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 238,
+        "end": 247
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 252,
+        "end": 255
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 356,
+        "end": 363
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 365,
+        "end": 372
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

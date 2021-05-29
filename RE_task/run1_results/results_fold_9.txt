@@ -1,0 +1,24 @@
+autor_de            	TP:2 FP:1 FN:4	P:0.666667 R:0.333333 F1:0.444444
+data_de             	TP:1 FP:6 FN:5	P:0.142857 R:0.166667 F1:0.153846
+ident               	TP:3 FP:16 FN:27	P:0.157895 R:0.100000 F1:0.122449
+inclui              	TP:4 FP:19 FN:15	P:0.173913 R:0.210526 F1:0.190476
+incluido            	TP:0 FP:9 FN:11	P:0.000000 R:0.000000 F1:0.000000
+localizado_em       	TP:0 FP:0 FN:7	P:0.000000 R:0.000000 F1:0.000000
+natural_de          	TP:0 FP:1 FN:0	P:0.000000 R:0.000000 F1:0.000000
+obra_de             	TP:1 FP:2 FN:3	P:0.333333 R:0.250000 F1:0.285714
+outrarel            	TP:0 FP:0 FN:6	P:0.000000 R:0.000000 F1:0.000000
+participante_em     	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+personagem_de       	TP:0 FP:0 FN:2	P:0.000000 R:0.000000 F1:0.000000
+pratica_se          	TP:1 FP:1 FN:3	P:0.500000 R:0.250000 F1:0.333333
+praticado_por       	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+produtor_de         	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+produzido_por       	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+proprietario_de     	TP:0 FP:1 FN:0	P:0.000000 R:0.000000 F1:0.000000
+relacao_familiar    	TP:0 FP:3 FN:1	P:0.000000 R:0.000000 F1:0.000000
+relacao_profissional	TP:0 FP:0 FN:1	P:0.000000 R:0.000000 F1:0.000000
+sede_de             	TP:5 FP:7 FN:10	P:0.416667 R:0.333333 F1:0.370370
+ter_participacao_de 	TP:0 FP:3 FN:3	P:0.000000 R:0.000000 F1:0.000000
+vinculo_inst        	TP:1 FP:8 FN:14	P:0.111111 R:0.066667 F1:0.083333
+--------------------------------------------------
+All                 	TP:18 FP:77 FN:116	P:0.189474 R:0.134328 F1:0.157205
+--- 484.31249809265137 seconds ---

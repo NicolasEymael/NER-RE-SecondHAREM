@@ -1,0 +1,157 @@
+{
+  "text": "Outra curiosa coleção pertencente ao acervo do Museu é formada por 26 caricaturas de Rian , entre as quais as dos Presidentes Juscelino Kubitsckek , Eurico Gaspar Dutra , João Café Filho e Humberto de Alencar Castelo Branco . Os traços irônicos de Rian fixaram, sobretudo, personalidades políticas e figuras da alta sociedade. Rian , na realidade Nair de Teffé , já era conhecida caricaturista ao casar-se, em 1913 , com o então Presidente da República , Hermes da Fonseca . Com trabalhos publicados em revistas nacionais e estrangeiras, como o Semanário Fon-Fon , Le Rire e a Gazeta de Notícias , escandalizou muitas vezes o Palácio do Catete com suas atitudes excêntricas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 47,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 67,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 85,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 114,
+        "end": 146
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 149,
+        "end": 168
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 171,
+        "end": 186
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 189,
+        "end": 223
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 248,
+        "end": 252
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 327,
+        "end": 331
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 347,
+        "end": 360
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 407,
+        "end": 414
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 429,
+        "end": 452
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 455,
+        "end": 472
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 545,
+        "end": 562
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 565,
+        "end": 572
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 577,
+        "end": 595
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 611,
+        "end": 623
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 626,
+        "end": 643
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T12"
+    }
+  ]
+}

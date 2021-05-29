@@ -1,0 +1,61 @@
+{
+  "text": "Outros romancistas como Proust e George Perec , com o seu A Vida Modos de Usar , são citados no capítulo como exemplos de uma escritura que conduz à multiplicidade (de caminhos, de níveis, de pensamentos, de vozes etc.). Mas, de acordo com Calvino , esse modelo de redes possíveis pode ser construído tanto em romances extensos, como pode ser concentrado nas poucas páginas de um conto de Borges . Chegamos assim a' O Jardim dos Caminhos que se Bifurcam .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 33,
+        "end": 45
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 58,
+        "end": 78
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 240,
+        "end": 247
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 389,
+        "end": 395
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 416,
+        "end": 453
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

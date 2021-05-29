@@ -1,0 +1,177 @@
+{
+  "text": "Por mais inverosímil que nos possa parecer, mais de cinco séculos passados e quase quarenta anos depois do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações. Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso para os tempos que correm. Estamos perante uma espécie de Cruzadas ao contrário, que o Islão lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus. As Twin Towers , o metro de Londres , a estação de Atocha em Madrid ou a histeria lançada contra os cartonistas dinamarqueses e contra a Dinamarca , são formas modernas de cruzadas travadas em nome de Alá (o Misericordioso ...) contra os valores em que nós, no Ocidente , acreditamos. Cinco séculos passados, o Islão tira a sua desforra de Granada , através das suas duas únicas e demolidoras armas: o petróleo e o terror.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 44,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 77,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 315,
+        "end": 329
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 373,
+        "end": 381
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 402,
+        "end": 407
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 479,
+        "end": 490
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 504,
+        "end": 511
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 527,
+        "end": 533
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 537,
+        "end": 543
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 613,
+        "end": 622
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 677,
+        "end": 680
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 684,
+        "end": 698
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 737,
+        "end": 745
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 761,
+        "end": 783
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 787,
+        "end": 792
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 816,
+        "end": 823
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T9"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T10"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T5"
+    }
+  ]
+}

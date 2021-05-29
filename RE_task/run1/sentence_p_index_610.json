@@ -1,0 +1,30 @@
+{
+  "text": "COISAS DA SÁBADO | COISAS DA SÁBADO : A DIFERENÇA ENTRE O JORNAL DE NOTÍCIAS E O DIÁRIO DE NOTÍCIAS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 58,
+        "end": 76
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 81,
+        "end": 99
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quando foi assinada a \"Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 23,
+        "end": 115
+      }
+    }
+  ],
+  "relations": []
+}

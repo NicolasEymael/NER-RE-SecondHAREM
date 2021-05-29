@@ -1,0 +1,14 @@
+{
+  "text": "sou da raça pagã dos Prometeus...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 21,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

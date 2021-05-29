@@ -1,0 +1,22 @@
+{
+  "text": "Decisão da Comissão n.º 156/2004, de 29 de Janeiro de 2004, que estabelece orientações para a monitorização e comunicação de informações relativas às emissões de gases com efeito de estufa",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

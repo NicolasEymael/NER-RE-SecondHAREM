@@ -1,0 +1,137 @@
+{
+  "text": "Outro gênero que pertence a este grupo, cujos adultos invadem ecótopos artificiais, são algumas espécies de Rhodnius, principalmente R. domesticus, que é encontrado na região litorânea do Brasil, R. pictipes nas regiões norte e centro-oeste do Brasil e o R. brethesi, com distribuição no norte do Brasil e Venezuela, tem hábitos silvestres e habita palmeiras de piaçaba (Leopoldinia piassaba), ataca o homem com avidez e, nos últimos anos, tem invadido com freqüência ecótopos artificiais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 108,
+        "end": 116
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 133,
+        "end": 146
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 188,
+        "end": 194
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 196,
+        "end": 207
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 244,
+        "end": 250
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 255,
+        "end": 266
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 297,
+        "end": 303
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 306,
+        "end": 315
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 371,
+        "end": 391
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 422,
+        "end": 438
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 453,
+        "end": 467
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R7",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T6"
+    }
+  ]
+}

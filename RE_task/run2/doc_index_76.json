@@ -1,0 +1,325 @@
+{
+  "text": " Actualmente é de 570,6 euros. Espanha aumenta salário mínimo para 600 euros. O Governo socialista espanhol aprovou hoje o aumento do salário mínimo em Espanha , fazendo-o passar dos actuais 570,6 euros para 600 euros no próximo ano . «Aprovámos o decreto que estabelece o salário mínimo interprofissional nos 600 euros por mês, com efeito a partir de 1 de Janeiro », anunciou o chefe do Governo , José Luís Rodriguez Zapatero , numa conferência de imprensa do último Conselho de Ministros deste ano . Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou Zapatero , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos 460 euros em 2004 , aquando da sua ascensão ao poder. O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de 9 de Março , e salienta frequentemente o seu balanço económico positivo. Em Outubro , Zapatero prometeu igualmente aumentar o salário mínimo até aos 800 euros por mês em caso de reeleição. À excepção dos antigos países do bloco de leste, a Espanha é um dos países que tem o salário mínimo mais baixo da União Europeia , juntamente com Portugal , Grécia e Malta .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 18,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 31,
+        "end": 38
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 67,
+        "end": 76
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 87
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 116,
+        "end": 120
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 152,
+        "end": 159
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 191,
+        "end": 202
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 208,
+        "end": 217
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 218,
+        "end": 232
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 310,
+        "end": 319
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 320,
+        "end": 327
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 340,
+        "end": 364
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 379,
+        "end": 395
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 398,
+        "end": 426
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 468,
+        "end": 489
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 490,
+        "end": 499
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 591,
+        "end": 599
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 715,
+        "end": 724
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 725,
+        "end": 732
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 864,
+        "end": 874
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 888,
+        "end": 902
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 937,
+        "end": 947
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 950,
+        "end": 958
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 1013,
+        "end": 1022
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "tempo",
+      "span": {
+        "begin": 1023,
+        "end": 1030
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1104,
+        "end": 1111
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 1167,
+        "end": 1181
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1199,
+        "end": 1207
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1210,
+        "end": 1216
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1219,
+        "end": 1224
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T14"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T14"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T6"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T26"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T28"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T29"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T27",
+      "obj": "T30"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Teria sido aquela minha saudosa rapaziada de Padre Miguel a inventora do Kuduro ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 45,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

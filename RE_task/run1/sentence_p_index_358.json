@@ -1,0 +1,14 @@
+{
+  "text": "THANKSGIVING COM MINE DE RIEN",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    }
+  ],
+  "relations": []
+}

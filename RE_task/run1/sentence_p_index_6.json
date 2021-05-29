@@ -1,0 +1,134 @@
+{
+  "text": "Houve muitos opositores da Reforma de Henrique | Reforma de Henrique , tais como Thomas More e o Bispo John Fischer , que foram executados pela sua oposição. Mas também existiu um partido crescente de Protestantes genuínos que estavam inspirados pelas doutrinas então correntes no continente. Quando Henrique foi sucedido pelo seu filho Eduardo VI em 1547 , os protestantes viram-se em ascendente no governo. Uma reforma mais radical foi imposta, com a destruição de imagens e o fecho de capelas, para além de ter sido revogada a \" Confissão dos Seis Artigos \". Em 1552 , é redigido o novo \" Livro de Orações \" e promulgada a \" Confissão de Fé em Quarenta e Dois Artigos \", que aproximava doutrinalmente a Igreja de Inglaterra | Igreja de Inglaterra do calvinismo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 27,
+        "end": 46
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 49,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 68
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 81,
+        "end": 92
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 97,
+        "end": 115
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 201,
+        "end": 213
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 300,
+        "end": 308
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 337,
+        "end": 347
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 348,
+        "end": 355
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 532,
+        "end": 558
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 562,
+        "end": 569
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 592,
+        "end": 608
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 628,
+        "end": 670
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 706,
+        "end": 726
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 729,
+        "end": 735
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 739,
+        "end": 749
+      }
+    }
+  ],
+  "relations": []
+}

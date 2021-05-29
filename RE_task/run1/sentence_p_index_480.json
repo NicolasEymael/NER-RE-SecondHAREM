@@ -1,0 +1,22 @@
+{
+  "text": "Pela Circular 14 , Salazar ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: \"estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 5,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,127 @@
+{
+  "text": "Fotografou por dentro a Guerra Civil espanhola, sempre pelo lado republicano, estava no Dia D | no Dia D na Normandia e acabou por morrer ao pisar uma mina na Indochina a 25 de Maio de 1954 . Como curiosidade passou por Portugal e foi visto no Café Palladium dos Restauradores pelo jornalista de O Século , Francisco Mata , já falecido, e que o contou numa crónica do antigo Sete .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 85,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 99,
+        "end": 104
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 108,
+        "end": 117
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 159,
+        "end": 168
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 169,
+        "end": 189
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 220,
+        "end": 228
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 244,
+        "end": 258
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 263,
+        "end": 276
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 296,
+        "end": 304
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 307,
+        "end": 321
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 375,
+        "end": 379
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T10"
+    }
+  ]
+}

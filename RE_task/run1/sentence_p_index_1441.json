@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o desenhador de Astérix e Obélix ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 23,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

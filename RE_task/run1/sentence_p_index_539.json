@@ -1,0 +1,161 @@
+{
+  "text": "Em 1991 editam o 2º | 2º album \"Confusão\" e passam os anos seguintes na estrada. Em 1993 sai o \"Sopa\" com o single de mesmo nome e uma participação de Jorge Palma na música \"Estou agarrado a ti\". O ano de 1994 é o ano da despedida, mas antes participam no tributo a Zeca Afonso, \"Filhos da Madrugada\" com a reedição do tema \"O que faz falta\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 17,
+        "end": 19
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 32,
+        "end": 40
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 68
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 88
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "obra",
+      "span": {
+        "begin": 96,
+        "end": 100
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 151,
+        "end": 162
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 174,
+        "end": 193
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 196,
+        "end": 209
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 212,
+        "end": 217
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 236,
+        "end": 241
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 266,
+        "end": 277
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "obra",
+      "span": {
+        "begin": 280,
+        "end": 299
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 325,
+        "end": 340
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "participante_em",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R6",
+      "pred": "obra_de",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R7",
+      "pred": "obra_de",
+      "subj": "T14",
+      "obj": "T12"
+    }
+  ]
+}

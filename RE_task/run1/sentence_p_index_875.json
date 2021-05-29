@@ -1,0 +1,30 @@
+{
+  "text": "A academia justifica sua reticência sem precedentes mencionando preocupações com segurança após o 11 de Setembro | após o 11 de Setembro. Mas pessoas experientes pensam que a razão real é que as investigações violam tanto a lei dos EUA como tratados internacionais sobre armas químicas e bacteriológicas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 91,
+        "end": 112
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 122,
+        "end": 136
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 232,
+        "end": 235
+      }
+    }
+  ],
+  "relations": []
+}

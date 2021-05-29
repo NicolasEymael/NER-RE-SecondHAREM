@@ -1,0 +1,14 @@
+{
+  "text": "Quem era primeiro-ministro britânico antes de John Major?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 46,
+        "end": 56
+      }
+    }
+  ],
+  "relations": []
+}

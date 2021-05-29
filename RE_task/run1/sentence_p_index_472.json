@@ -1,0 +1,299 @@
+{
+  "text": "A sua familia era rica e influenciou-o a ingressar no curso de Direito na Universidade de Coimbra | Universidade de Coimbra. Depressa desistiu do curso e mudou-se para o curso de Arquitectura na Academia de Belas Artes de Lisboa | Academia de Belas Artes de Lisboa em 1905. O curso nao satisfaz o seu genio criativo, por isso parte para Paris em 1906 instalando-se em Montparnasse com a intençao de continuar a estudar. As suas primeiras experiências artisticas conhecidas foram desenhos e caricaturas, depois dedicou-se à pintura. Poder-se-á dizer que foi um pintor impressionista, expressionista, cubista, futurista mas sempre recusou qualquer rotulo. Apesar das multiplas influencias procurava a originalidade e a criatividade na sua obra. Em 1908 instala-se no número catorze da Cité de Falguière. Frequentou ateliers preparatórios para Academia de Beaux-Arts e a Academia Viti do pintor catalão Anglada Camarasa mas, apesar disso, nao chega a ser admitido. Em 1910 esteve alguns meses em Bruxelas e em 1911 expôs trabalhos no Salon des Indépendants, em Paris, aproximando-se progressivamente das vanguardas e de artistas como Amedeo Modigliani, Constantin Brancusi, Alexander Archipenko, Juan Gris e Robert Delaunay. Em 1912 publicou um álbum com vinte desenhos e, em seguida, copiou o conto de Gustave Flaubert, \"La Légende de Saint Julien l'Hospitalier\", trabalhos ignorados pelos apreciadores de arte.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 63,
+        "end": 70
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 74,
+        "end": 97
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 116,
+        "end": 123
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 179,
+        "end": 191
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 195,
+        "end": 228
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 231,
+        "end": 254
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 258,
+        "end": 264
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 265,
+        "end": 272
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 337,
+        "end": 342
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 343,
+        "end": 350
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 368,
+        "end": 380
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 503,
+        "end": 509
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 743,
+        "end": 750
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 783,
+        "end": 800
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 841,
+        "end": 863
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 868,
+        "end": 881
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 900,
+        "end": 916
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 962,
+        "end": 969
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 977,
+        "end": 989
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 993,
+        "end": 1001
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1004,
+        "end": 1011
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1031,
+        "end": 1053
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1058,
+        "end": 1063
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1131,
+        "end": 1148
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 1150,
+        "end": 1169
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1171,
+        "end": 1191
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 1193,
+        "end": 1202
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1205,
+        "end": 1220
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "tempo",
+      "span": {
+        "begin": 1222,
+        "end": 1229
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 1300,
+        "end": 1316
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "obra",
+      "span": {
+        "begin": 1319,
+        "end": 1359
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T12",
+      "obj": "T10"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T15",
+      "obj": "T10"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T10"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T10"
+    },
+    {
+      "id": "R6",
+      "pred": "obra_de",
+      "subj": "T32",
+      "obj": "T31"
+    }
+  ]
+}

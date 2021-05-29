@@ -1,0 +1,753 @@
+{
+  "text": " Associação Académica de Coimbra | Associação Académica de Coimbra. A Associação Académica de Coimbra | Associação Académica de Coimbra ( AAC ), fundada a 3 de Novembro de 1887 , é a mais antiga associação de estudantes de Portugal . Representa os cerca de 20 000 estudantes da Universidade de Coimbra | Universidade de Coimbra , que são automaticamente considerados seus sócios quando se encontrem inscritos nesta universidade. A AAC alberga uma série de secções culturais e desportivas. Entre as secções culturais pontificam, o Centro de Estudos Cinematográficos ( CEC ) que realiza anualmente o Festival \" Caminhos do Cinema Português \" | Festival \"Caminhos do Cinema Português\" , a Rádio Universidade de Coimbra ( RUC ), a Secção de Jornalismo (que edita o jornal universitário \" A Cabra \"), a secção de fado, o Grupo de folclore e etnografia | Grupo de folclore e etnografia ( GEFAC ) e os grupos de teatro ( TEUC e CITAC ). As secções desportivas abrangem um vasto leque de desportos, tais como o futebol, andebol, basquetebol, rugby, conoagem, natação, voleibol, ténis, artes marciais e xadrez, entre outros. A \" Académica \" é assim o \"clube\" mais eclético do pais, uma vez que \"pratica\" o maior número de modalidades. Também referido como \" Académica \", o clube de futebol profissional mais conhecido de Coimbra , de seu verdadeiro nome Associação Académica de Coimbra - Organismo Autónomo de Futebol ( AAC-OAF ), é considerado o herdeiro da secção de futebol da AAC (que se mantém na pratica amadora), mas é hoje um clube independente, cuja ligação com a AAC é cada vez mais ténue. A AAC é dirigida pela Direcção Geral ( DG ), composta por estudantes, e eleita anualmente entre Novembro e Dezembro em eleições abertas a todos os sócios, tanto estudantes como os sócios seccionistas. À DG compete a administração da AAC bem como a representação política dos estudantes. Em termos políticos, é ainda de referir a importância das Assembleias Magnas , assembleias sobretudo de discussão da política da Academia , abertas a todos os sócios, cujas decisões têm de ser obrigatoriamente cumpridas, independentemente da opinião da DG . Este poder decisório da Assembleia Magna torna-a no palco de discussões acesas, sobretudo entre os estudantes politizados. No passado recente, tem havido no mínimo 5-6 Assembleias Magnas por ano , com participação oscilante, mas um mínimo de cerca de 200 sócios. Infelizmente, a falta de interesse generalizado por estas questões na nossa sociedade, particularmente nas faixas etárias mais jovens, faz-se reflectir na fraca participação das Assembleias Magnas [carece de fontes?]. No entanto, a AAC continua a lutar para pautar a política educativa do Ensino Superior em Portugal [carece de fontes?]. O actual edifício da AAC foi inaugurado em 1961 e alberga praticamente todas as secções da AAC , estando integrado num quarteirão que inclui ainda uma sala de espectáculos (Teatro Académico de Gil Vicente) e um complexo de cantinas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 70,
+        "end": 101
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 104,
+        "end": 124
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 128,
+        "end": 135
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 141
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 176
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 223,
+        "end": 231
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 248,
+        "end": 263
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 301
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 304,
+        "end": 316
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 320,
+        "end": 327
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 431,
+        "end": 434
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 530,
+        "end": 564
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 567,
+        "end": 570
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 585,
+        "end": 595
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 609,
+        "end": 637
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 642,
+        "end": 681
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 686,
+        "end": 715
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 718,
+        "end": 721
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 727,
+        "end": 747
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 784,
+        "end": 791
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 816,
+        "end": 846
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 882,
+        "end": 887
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 914,
+        "end": 918
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 921,
+        "end": 926
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1120,
+        "end": 1129
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1249,
+        "end": 1258
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1312,
+        "end": 1319
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1345,
+        "end": 1408
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1411,
+        "end": 1418
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1471,
+        "end": 1474
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 1517,
+        "end": 1521
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1564,
+        "end": 1567
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1593,
+        "end": 1596
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1613,
+        "end": 1627
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1630,
+        "end": 1632
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 1670,
+        "end": 1680
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "tempo",
+      "span": {
+        "begin": 1681,
+        "end": 1706
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1794,
+        "end": 1796
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1824,
+        "end": 1827
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1936,
+        "end": 1954
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2007,
+        "end": 2015
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2131,
+        "end": 2133
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2160,
+        "end": 2176
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "valor",
+      "span": {
+        "begin": 2300,
+        "end": 2303
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2304,
+        "end": 2322
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "tempo",
+      "span": {
+        "begin": 2323,
+        "end": 2330
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "valor",
+      "span": {
+        "begin": 2378,
+        "end": 2390
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2577,
+        "end": 2595
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2631,
+        "end": 2634
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2688,
+        "end": 2703
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "local",
+      "span": {
+        "begin": 2707,
+        "end": 2715
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2758,
+        "end": 2761
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "tempo",
+      "span": {
+        "begin": 2777,
+        "end": 2784
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2828,
+        "end": 2831
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "local",
+      "span": {
+        "begin": 2910,
+        "end": 2941
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R8",
+      "pred": "localizado_em",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "inclui",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T3"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T15",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R17",
+      "pred": "produzido_por",
+      "subj": "T18",
+      "obj": "T15"
+    },
+    {
+      "id": "R18",
+      "pred": "produzido_por",
+      "subj": "T19",
+      "obj": "T15"
+    },
+    {
+      "id": "R19",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T1"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T20"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T1"
+    },
+    {
+      "id": "R22",
+      "pred": "produzido_por",
+      "subj": "T23",
+      "obj": "T22"
+    },
+    {
+      "id": "R23",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T1"
+    },
+    {
+      "id": "R24",
+      "pred": "vinculo_inst",
+      "subj": "T26",
+      "obj": "T1"
+    },
+    {
+      "id": "R25",
+      "pred": "vinculo_inst",
+      "subj": "T27",
+      "obj": "T1"
+    },
+    {
+      "id": "R26",
+      "pred": "vinculo_inst",
+      "subj": "T28",
+      "obj": "T1"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T31"
+    },
+    {
+      "id": "R28",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T3"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T31"
+    },
+    {
+      "id": "R30",
+      "pred": "incluido",
+      "subj": "T32",
+      "obj": "T1"
+    },
+    {
+      "id": "R31",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T1"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T1"
+    },
+    {
+      "id": "R33",
+      "pred": "ident",
+      "subj": "T36",
+      "obj": "T1"
+    },
+    {
+      "id": "R34",
+      "pred": "incluido",
+      "subj": "T37",
+      "obj": "T1"
+    },
+    {
+      "id": "R35",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T37"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T41",
+      "obj": "T37"
+    },
+    {
+      "id": "R37",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T1"
+    },
+    {
+      "id": "R38",
+      "pred": "localizado_em",
+      "subj": "T43",
+      "obj": "T3"
+    },
+    {
+      "id": "R39",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T11"
+    },
+    {
+      "id": "R40",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T37"
+    },
+    {
+      "id": "R41",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T43"
+    },
+    {
+      "id": "R42",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T43"
+    },
+    {
+      "id": "R43",
+      "pred": "ident",
+      "subj": "T52",
+      "obj": "T1"
+    },
+    {
+      "id": "R44",
+      "pred": "inclui",
+      "subj": "T54",
+      "obj": "T3"
+    },
+    {
+      "id": "R45",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T9"
+    },
+    {
+      "id": "R46",
+      "pred": "ident",
+      "subj": "T55",
+      "obj": "T1"
+    },
+    {
+      "id": "R47",
+      "pred": "ident",
+      "subj": "T57",
+      "obj": "T1"
+    }
+  ]
+}

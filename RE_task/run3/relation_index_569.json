@@ -1,0 +1,29 @@
+{
+  "text": " Ronaldo volta a treinar com bola no Milan. Fenômeno não participava de um coletivo desde novembro . Jogador se recupera de lesão. Das agências de notícias Dubai , Emirados Árabes. Depois de ser cotado para vestir a camisa do Flamengo , o Fenômeno parece, se não satisfeito, pelo menos conformado em retornar ao grupo do Milan . Após longo período se recuperando de uma lesão, Ronaldo calçou as chuteiras e voltou a treinar com bola, o que não fazia desde novembro . O atacante segue em recuperação. Nesta sexta-feira , participou da maior parte das atividades, em Dubai , nos Emirados Árabes . O técnico dividiu o elenco em dois times com 11 jogadores atuando na metade do gramado do estádio Al Maktoum . Em seguida, quando começou a movimentação com bola, Ronaldo seguiu correndo. Aí quem se destacou - negativamente, de acordo com o jornal italiano \" La Gazzetta dello Sport \" - foi o goleiro Dida . O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por 6 a 0 . Três dos gols que levou eram defensáveis, segundo o jornal italiano. Alessandro Nesta saiu em defesa do companheiro. - Poderíamos ter vencido o Inter ( 2 a 1 , o segundo gol em falha de Dida ). Não podemos ficar pressionando o Dida . Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 565,
+        "end": 570
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 156,
+        "end": 161
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

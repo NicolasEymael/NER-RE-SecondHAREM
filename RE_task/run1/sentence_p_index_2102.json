@@ -1,0 +1,46 @@
+{
+  "text": "Consultoria e Sistemas RML - Sistema de faturamento e administração de academias com controle de catracas eletrônicas e desenvolvimento de sistemas.OperFit, Adm pro, R white e Life sport",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 148,
+        "end": 155
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 157,
+        "end": 164
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 176,
+        "end": 186
+      }
+    }
+  ],
+  "relations": []
+}

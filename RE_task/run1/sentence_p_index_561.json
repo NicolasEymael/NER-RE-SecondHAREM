@@ -1,0 +1,14 @@
+{
+  "text": "Biografia de Dead Fish",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

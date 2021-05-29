@@ -1,0 +1,77 @@
+{
+  "text": "No caso do Kuduro clássico (como ocorre com toda coqueluche pop, as distorções e deformações aparecem rapidamente), a batida copiada (sampleada) parece ser o que se chamava nos anos 70 , 80 de Kabetula , um ritmo muito popular em Luanda , semelhante ao Semba , do qual talvez seja uma variação (uma outra corrente afirma, contudo, que o Kuduro é uma variação do Kuzukuta , ritmo popular do carnaval angolano).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 11,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 173,
+        "end": 184
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 187,
+        "end": 189
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 193,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 230,
+        "end": 236
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 253,
+        "end": 258
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 337,
+        "end": 343
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 362,
+        "end": 370
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "pratica_se",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

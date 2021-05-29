@@ -1,0 +1,81 @@
+{
+  "text": "Manifestando-se \"muito honrado como europeu e como português\" por participar na cerimónia de proclamação da Carta dos Direitos Fundamentais da UE | Carta dos Direitos Fundamentais da UE -- que definiu como \"a mais importante de toda a carreira política\" -- SÓCRATES salientou ainda o compromisso assumido pelas três instituições -- PE , Conselho e Comissão -- de que \"os valores fundamentais serão respeitados e aplicados\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 108,
+        "end": 145
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 148,
+        "end": 179
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 183,
+        "end": 185
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 265
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 332,
+        "end": 334
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 337,
+        "end": 345
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 348,
+        "end": 356
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T3"
+    }
+  ]
+}

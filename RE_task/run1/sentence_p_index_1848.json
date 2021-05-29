@@ -1,0 +1,22 @@
+{
+  "text": "Quantos senadores tem o Senado brasileiro actualmente? Quantos anos tem os seus mandatos? Quantos senadores tem cada estado? Quantos senadores havia em 1972?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 149,
+        "end": 156
+      }
+    }
+  ],
+  "relations": []
+}

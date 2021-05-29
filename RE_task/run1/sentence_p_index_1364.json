@@ -1,0 +1,30 @@
+{
+  "text": "Quantos degraus tem a Torre de Pisa | Torre de Pisa ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 47,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

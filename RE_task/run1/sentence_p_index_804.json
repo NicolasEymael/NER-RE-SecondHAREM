@@ -1,0 +1,37 @@
+{
+  "text": "O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o ministro da Indústria da Informação , Wang Xundong , citado pela agência Xinhua .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 184,
+        "end": 219
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 222,
+        "end": 234
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 257,
+        "end": 263
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

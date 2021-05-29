@@ -1,0 +1,29 @@
+{
+  "text": "O que são \"Frosties\"? Que companhia é que os produz? Quando é que eles foram lançados? Qual é a mascote dos Frosties?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 11,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 108,
+        "end": 116
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

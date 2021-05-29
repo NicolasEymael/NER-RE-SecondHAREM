@@ -1,0 +1,14 @@
+{
+  "text": "Quando ocorreu o tremor de terra em Los Angeles?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

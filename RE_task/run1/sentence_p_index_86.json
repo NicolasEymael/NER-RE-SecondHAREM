@@ -1,0 +1,22 @@
+{
+  "text": "A recente onda dos coletivos artísticos e ativistas (ou \"artivistas\") no Brasil tem chamado a atenção da mídia mainstream para um fenômeno de proporções bem maiores e razões mais profundas que a vã filosofia dos cadernos culturais poderia imaginar. Pouco compreendida, a dinâmica destas articulações chega assim maquiada com um verniz espetaculoso e superficial que, ao que parece, tenta esconder o pano de fundo crítico e instrumental desses grupos. Muitas vezes passageiros como um casual flashmob, outras vezes organizados e duradouros como uma associação, tais ajuntamentos são na verdade indícios de uma mutação maior que está se dando tanto na esfera tecnológica quanto na social.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 451,
+        "end": 463
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "7.1. Que eventos já realizou o IBAP até hoje?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 31,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

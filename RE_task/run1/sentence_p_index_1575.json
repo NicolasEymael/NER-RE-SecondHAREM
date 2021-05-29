@@ -1,0 +1,22 @@
+{
+  "text": "A que cidade chinesa foi Warren Christopher enviado por Bill Clinton para apreciar os eventuais progressos relativos aos direitos humanos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 56,
+        "end": 68
+      }
+    }
+  ],
+  "relations": []
+}

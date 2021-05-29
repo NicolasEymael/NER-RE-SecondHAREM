@@ -1,0 +1,22 @@
+{
+  "text": "Menus e indicações de voz, a partir de Setembro 2005 (unidades vendidas agora terão actualização grátis nessa altura.)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 27,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 104,
+        "end": 116
+      }
+    }
+  ],
+  "relations": []
+}

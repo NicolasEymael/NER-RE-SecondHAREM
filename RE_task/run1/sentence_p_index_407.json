@@ -1,0 +1,67 @@
+{
+  "text": "Também o co-presidente dos Verdes/ALE | co-presidente dos Verdes/ALE , Daniel COHN-BENDIT , se mostrou \"consternado\" com o ocorrido, mas pediu que não se dramatize a situação: \"Há 50 loucos mas há 700 sãos\"; \"não peçamos a expulsão destes loucos porque um Parlamento | Parlamento livre é aquele que aguenta os loucos que lhe são desagradáveis\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 71,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 180,
+        "end": 182
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 197,
+        "end": 200
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 256,
+        "end": 266
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

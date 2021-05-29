@@ -1,0 +1,297 @@
+{
+  "text": " Foi desenvolvida em 1935 pelo médico neurologista português António Egas Moniz (1874-1955), em equipe com o cirurgião Almeida Lima, na Universidade de Lisboa | Universidade de Lisboa. Egas Moniz veio a receber com este trabalho o prêmio Nobel da Medicina e Fisiologia em 1949. A Leucotomia foi a primeira técnica de Psicocirurgia ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica). Inicialmente foi usada para tratar depressão severa. Egas Moniz sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio. No entanto apesar de cerca de 6% dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o Japão e os Estados Unidos. Neste último país foi popularizada pelo cirurgião Walter Freeman, que divulgou a técnica por todo o seu país, percorrendo o no seu Lobotomobile, e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas. Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos. A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento. Cerca de 50.000 doentes foram tratados só nos Estados Unidos. Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos. Durante muito tempo foi considerada algo injustamente como um episódio barbárico na história da Psiquiatria, sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 18,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 61,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 90
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 119,
+        "end": 131
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 158
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 161,
+        "end": 173
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 177,
+        "end": 183
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 185,
+        "end": 195
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 238,
+        "end": 268
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 269,
+        "end": 276
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 280,
+        "end": 290
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 317,
+        "end": 330
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 611,
+        "end": 621
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 740,
+        "end": 751
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 941,
+        "end": 946
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 952,
+        "end": 966
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 1018,
+        "end": 1032
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 1099,
+        "end": 1111
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "valor",
+      "span": {
+        "begin": 1596,
+        "end": 1611
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1642,
+        "end": 1656
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 1767,
+        "end": 1786
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1863,
+        "end": 1874
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_profissional",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "outrarel",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "outrarel",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T8"
+    },
+    {
+      "id": "R13",
+      "pred": "pratica_se",
+      "subj": "T15",
+      "obj": "T11"
+    },
+    {
+      "id": "R14",
+      "pred": "pratica_se",
+      "subj": "T16",
+      "obj": "T11"
+    },
+    {
+      "id": "R15",
+      "pred": "natural_de",
+      "subj": "T17",
+      "obj": "T16"
+    },
+    {
+      "id": "R16",
+      "pred": "praticante_de",
+      "subj": "T17",
+      "obj": "T11"
+    },
+    {
+      "id": "R17",
+      "pred": "propriedade_de",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T16"
+    },
+    {
+      "id": "R19",
+      "pred": "inclui",
+      "subj": "T22",
+      "obj": "T12"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Sobre as dúvidas manifestadas pelo máximo responsável da ASAE relativamente ao âmbito de aplicação da nova lei, Luís Rebelo considerou que a legislação «é clara» quanto à proibição de fumar nos casinos e salas de jogos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 57,
+        "end": 61
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 112,
+        "end": 123
+      }
+    }
+  ],
+  "relations": []
+}

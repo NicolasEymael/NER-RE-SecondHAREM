@@ -1,0 +1,14 @@
+{
+  "text": "O que é que foi usado como desfolhante na Guerra do Vietname?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 42,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

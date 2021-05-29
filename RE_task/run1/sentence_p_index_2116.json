@@ -1,0 +1,14 @@
+{
+  "text": "DHCP Informática - Comércio de equipamentos de informática. Trabalha com placas mães, processadores, HDs, placas de vídeo, gravadores, CD-ROMs, DVDs, disquetes, monitores, placas aceleradoras, mémorias, cooler, drives,hubs, placas da rede, placa de som, fax.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

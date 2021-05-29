@@ -1,0 +1,86 @@
+{
+  "text": "Na sequência dos trabalhos desenvolvidos pela Presidência Alemã neste âmbito, foi dada continuidade à negociação da proposta de Directiva , tendo-se analisado o parecer do Parlamento Europeu e discutido as reservas introduzidas pelas diversas delegações. O balanço final é positivo, uma vez que se conseguiu eliminar a maior parte das reservas existentes. Embora exista consenso em relação a cerca de 70% da proposta de Directiva , subsistem reservas de fundo de diversos Estados-Membros que se relacionam, por exemplo, com a natureza legal do instrumento a adoptar, a inclusão do sector do «nuclear» no âmbito da Directiva , a definição de Infra-estrutura Crítica Europeia e a obrigatoriedade de estabelecimento de Planos de Segurança e Oficiais de Ligação .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 128,
+        "end": 137
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 190
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 392,
+        "end": 404
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 420,
+        "end": 429
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 472,
+        "end": 487
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 614,
+        "end": 623
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 641,
+        "end": 673
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 716,
+        "end": 735
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "obra",
+      "span": {
+        "begin": 738,
+        "end": 757
+      }
+    }
+  ],
+  "relations": []
+}

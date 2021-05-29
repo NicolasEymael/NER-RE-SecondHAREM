@@ -1,0 +1,257 @@
+{
+  "text": "A sua infância e adolescência foram marcadas por factos que o influenciariam posteriormente. Às cinco horas da manhã de 24 de Julho de 1893 | Às cinco horas da manhã de 24 de Julho de 1893 , o seu pai morre com 43 anos vítima de tuberculose. A morte é reportada no Diário de Notícias do dia. Joaquim de Seabra Pessoa deixou-o com apenas cinco anos, a mãe e o seu irmão Jorge que viria a falecer no outro ano sem chegar a completar um ano. A mãe então vê-se obrigada a leiloar parte da mobília e mudam-se para uma casa mais modesta, o terceiro andar do n.º 104 da Rua de São Marçal . É também nesse período que surge o seu primeiro heterónimo, Chevalier de Pas , facto relatado pelo próprio Fernando Pessoa a Adolfo Casais Monteiro , numa carta de 1935 em que fala extensamente sobre a origem dos heterónimos. Ainda no mesmo ano cria seu primeiro poema, um verso curto com a infantil epígrafe de À Minha Querida Mamã . Sua mãe casa-se pela segunda vez em 1895 por procuração, na Igreja de São Mamede em Lisboa , com o Comandante João Miguel Rosa , cônsul de Portugal | cônsul de Portugal em Durban ( África do Sul ), o qual havia conhecido um ano antes . Em África , Pessoa viria a demonstrar possuir desde cedo habilidades para a literatura.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 93,
+        "end": 116
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 117,
+        "end": 139
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 142,
+        "end": 156
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 157,
+        "end": 188
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 211,
+        "end": 218
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 265,
+        "end": 283
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 284,
+        "end": 290
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 292,
+        "end": 316
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 369,
+        "end": 374
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 395,
+        "end": 407
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 563,
+        "end": 580
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 592,
+        "end": 605
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 643,
+        "end": 659
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 690,
+        "end": 705
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 708,
+        "end": 730
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 744,
+        "end": 751
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 815,
+        "end": 827
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 895,
+        "end": 915
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 951,
+        "end": 958
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 978,
+        "end": 998
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 1002,
+        "end": 1008
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 1017,
+        "end": 1044
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1047,
+        "end": 1065
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 1078,
+        "end": 1086
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1090,
+        "end": 1096
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1099,
+        "end": 1112
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1139,
+        "end": 1151
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1157,
+        "end": 1163
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1166,
+        "end": 1172
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T8"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T22"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T28",
+      "obj": "T26"
+    }
+  ]
+}

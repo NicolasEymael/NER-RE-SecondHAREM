@@ -1,0 +1,229 @@
+{
+  "text": "De regresso ao reino de Portugal, «mais cheio de glórias que de despojos», foi bem acolhido por D. Manuel que em 1506 o tornou a enviar ao Oriente em companhia de Tristão da Cunha e nomeando-o governador da Índia | governador da Índia na sucessão do vice-Rei D. Francisco de Almeida. Neste posto, conquistou vários portos em Omã acabando por chegar à riquíssima cidade de Ormuz, que se tornou tributária de Portugal. Em 1510 toma Goa ao turco Hidalcão e em 1511 toma Malaca, abrindo aos portugueses o acesso às especiarias das Molucas e ao comércio com a China.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 105
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 110,
+        "end": 117
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 139,
+        "end": 146
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 163,
+        "end": 179
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 207,
+        "end": 212
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 215,
+        "end": 234
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 250,
+        "end": 282
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 325,
+        "end": 328
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 372,
+        "end": 377
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 407,
+        "end": 415
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 417,
+        "end": 424
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 430,
+        "end": 433
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 443,
+        "end": 451
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 454,
+        "end": 461
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 467,
+        "end": 473
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 527,
+        "end": 534
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 555,
+        "end": 560
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "localizado_em",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T6"
+    },
+    {
+      "id": "R9",
+      "pred": "localizado_em",
+      "subj": "T13",
+      "obj": "T6"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T4"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T17",
+      "obj": "T4"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T4"
+    }
+  ]
+}

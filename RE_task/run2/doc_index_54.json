@@ -1,0 +1,503 @@
+{
+  "text": " Novidades na Macworld 2007. Apple lançou o iPhone , o telemóvel mais esperado dos últimos tempos. Sempre é o iPhone , dirão os que acompanharam as especulações e palpites dos últimos meses . A Apple , empresa de tecnologias que tem nos leitores multimédia iPod e nos computadores Macintosh a sua bandeira, acaba de entrar na área das telecomunicações. O novo telemóvel junta as capacidades de um telefone às de um leitor multimédia portátil. Funciona com o sistema operativo MacOS X , serve para comunicar e para trazer no bolso as músicas, o e-mail, as fotos ou os vídeos preferidos. O anúncio foi feito ontem , em São Francisco , nos EUA , onde decorre a Macworld , feira que a Apple organiza todos os anos para apresentar as suas novidades. Como de costume, a conferência de Steve Jobs , o director-geral da empresa, foi o ponto alto para os fãs da Apple . \" De vez em quando chega um produto revolucionário que muda tudo. É sorte se pudermos trabalhar num ao longo da carreira... e a Apple é sortuda por já ter lançado vários\", disse Steve Jobs . O novo telefone vai estar disponível em Junho , nos EUA , em duas versões: uma com 8 gigabytes (GB) de capacidade de armazenamento, que custará 600 dólares , e outra com 4 GB , a cerca de 500 dólares . À Europa chegará no final do ano , e na Ásia só em 2008 . Tem uma câmara fotográfica com 2 megapixels de resolução e um ecrã táctil com 8,8 centímetros de diagonal. Nos EUA , o telemóvel da Apple funcionará na rede Cingular Wireless . O seu desenvolvimento levou ao registo de mais de 200 patentes, o que o torna numa das maiores inovações da empresa. O facto de ter o sistema operativo OS X - usado nos computadores da Apple - significa que o iPhone terá muitas das funções habituais naquelas máquinas. Permitirá aceder ao correio electrónico de forma automática ou ver os mapas do Google .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 14,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 44,
+        "end": 50
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 79,
+        "end": 97
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 110,
+        "end": 116
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 172,
+        "end": 189
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 194,
+        "end": 199
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 257,
+        "end": 261
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 281,
+        "end": 290
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 476,
+        "end": 483
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 606,
+        "end": 611
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 617,
+        "end": 630
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 637,
+        "end": 640
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 658,
+        "end": 666
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 681,
+        "end": 686
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 696,
+        "end": 709
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 779,
+        "end": 789
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 853,
+        "end": 858
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 863,
+        "end": 879
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 989,
+        "end": 994
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1039,
+        "end": 1049
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1089,
+        "end": 1097
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1104,
+        "end": 1107
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 1135,
+        "end": 1151
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "valor",
+      "span": {
+        "begin": 1196,
+        "end": 1207
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "valor",
+      "span": {
+        "begin": 1222,
+        "end": 1226
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "valor",
+      "span": {
+        "begin": 1231,
+        "end": 1251
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1256,
+        "end": 1262
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 1271,
+        "end": 1286
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1294,
+        "end": 1298
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1302,
+        "end": 1309
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "valor",
+      "span": {
+        "begin": 1343,
+        "end": 1355
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "valor",
+      "span": {
+        "begin": 1390,
+        "end": 1405
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "local",
+      "span": {
+        "begin": 1423,
+        "end": 1426
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1444,
+        "end": 1449
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "outro",
+      "span": {
+        "begin": 1469,
+        "end": 1486
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "valor",
+      "span": {
+        "begin": 1531,
+        "end": 1542
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "outro",
+      "span": {
+        "begin": 1641,
+        "end": 1645
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "outro",
+      "span": {
+        "begin": 1674,
+        "end": 1679
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "outro",
+      "span": {
+        "begin": 1698,
+        "end": 1704
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "local",
+      "span": {
+        "begin": 1837,
+        "end": 1843
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "produtor_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "produzido_por",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "produzido_por",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "produzido_por",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "produzido_por",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "inclui",
+      "subj": "T13",
+      "obj": "T13"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "localizado_em",
+      "subj": "T14",
+      "obj": "T12"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "produtor_de",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "participante_em",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T2"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T2"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T17"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T13"
+    },
+    {
+      "id": "R19",
+      "pred": "outrarel",
+      "subj": "T24",
+      "obj": "T3"
+    },
+    {
+      "id": "R20",
+      "pred": "outrarel",
+      "subj": "T25",
+      "obj": "T3"
+    },
+    {
+      "id": "R21",
+      "pred": "outrarel",
+      "subj": "T26",
+      "obj": "T3"
+    },
+    {
+      "id": "R22",
+      "pred": "outrarel",
+      "subj": "T27",
+      "obj": "T3"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T13"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T18"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T18"
+    },
+    {
+      "id": "R26",
+      "pred": "inclui",
+      "subj": "T38",
+      "obj": "T10"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T2"
+    },
+    {
+      "id": "R28",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T3"
+    }
+  ]
+}

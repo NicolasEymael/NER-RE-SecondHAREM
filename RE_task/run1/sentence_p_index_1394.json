@@ -1,0 +1,29 @@
+{
+  "text": "Que presente é que Nova Iorque recebeu para comemorar o centenário da indepêndencia dos Estados Unidos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 88,
+        "end": 102
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

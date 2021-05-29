@@ -1,0 +1,59 @@
+{
+  "text": "- Cada personagem encarna um tipo ou um mito da cultura negra, em especial das religiões afro-brasileiras: Hamlet é Xangô; o rei Cláudio, Zé Pelintra; e Polônio, um ex-babalorixá que se tornou pastor evangélico. A música ao vivo (o próprio elenco manda ver em cânticos de umbanda, sambas, hip-hop, ladainhas de capoeira e até cantos evangélicos), além de ajudar a contar a história, torna o nível de comunicação do espetáculo com a platéia algo digno de nota.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 107,
+        "end": 113
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 116,
+        "end": 121
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 125,
+        "end": 136
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 138,
+        "end": 149
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 153,
+        "end": 160
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

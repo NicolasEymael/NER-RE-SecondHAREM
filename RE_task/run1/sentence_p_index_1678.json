@@ -1,0 +1,22 @@
+{
+  "text": "Onde é que é o museu do Hermitage? Quem era o director do museu em 1994? Em que palácio é que fica o museu? Quantos quartos há nesse palácio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 71
+      }
+    }
+  ],
+  "relations": []
+}

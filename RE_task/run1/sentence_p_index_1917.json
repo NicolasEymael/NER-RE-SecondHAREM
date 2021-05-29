@@ -1,0 +1,14 @@
+{
+  "text": "Onde é a sede da Interpol?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

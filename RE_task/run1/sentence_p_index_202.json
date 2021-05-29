@@ -1,0 +1,30 @@
+{
+  "text": "O Arquivo pode ser consultado de segunda a sexta-feira , das 10h às 16h30m , mediante agendamento prévio através do telefone (0xx21) 2550-9268.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 2,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 74
+      }
+    }
+  ],
+  "relations": []
+}

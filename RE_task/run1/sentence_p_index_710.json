@@ -1,0 +1,54 @@
+{
+  "text": "O presidente da Comissão Europeia | presidente da Comissão Europeia elogiou hoje a prestação da presidência portuguesa da UE e a «competente liderança» do primeiro-ministro, José Sócrates , na condução dos destinos europeus no segundo semestre deste ano .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 50,
+        "end": 67
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 76,
+        "end": 80
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 122,
+        "end": 124
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 187
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 224,
+        "end": 253
+      }
+    }
+  ],
+  "relations": []
+}

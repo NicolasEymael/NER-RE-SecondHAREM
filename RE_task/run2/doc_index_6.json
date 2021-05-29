@@ -1,0 +1,185 @@
+{
+  "text": " HEIDEGGER e o 4-4-2: Foi, ontem , apresentado o livro « Liderança - As Lições de José Mourinho » de Luís Lourenço , baseado na sua tese de mestrado. Segundo o autor, José Mourinho \"é diferente por partir de um novo paradigma de pensamento, preconizado por Heidegger ou Morin , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o Todo , que põe de parte a divisão e análise das partes e o pensamento cartesiano de há quatro séculos \". Cada vez que leio isto (e faço-o várias vezes ao dia , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de Stanford Bridge :. - Eh pá, o Chelsea não merecia ter empatado este jogo. - Pois não. Mas a primeira parte foi tão má que parecia que o Mourinho não tinha lido « O Ser e o Tempo ». - Quantas vezes é que o Heidegger avisou que o 4-4-2 só resulta se o trinco compensar a subida dos laterais?. - Calma. Também tens que perceber que estava nevoeiro. Se calhar, por isso é que, durante a primeira parte, o Mourinho não conseguiu ver o Todo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 27,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 57,
+        "end": 95
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 101,
+        "end": 114
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 167,
+        "end": 180
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 266
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 270,
+        "end": 275
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 345,
+        "end": 349
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 426,
+        "end": 446
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 483,
+        "end": 502
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 612,
+        "end": 627
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 642,
+        "end": 649
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 748,
+        "end": 756
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 774,
+        "end": 789
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 817,
+        "end": 826
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 1013,
+        "end": 1021
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1042,
+        "end": 1046
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "obra_de",
+      "subj": "T14",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T6"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T5"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T8"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": "É um caso inédito para o cinema brasileiro, e talvez para a Polícia também. Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora \"não-ação\" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história. O vazamento da cópia já está sendo investigado pela própria Polícia. Haja metalinguagem cinematográfica!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 404,
+        "end": 411
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

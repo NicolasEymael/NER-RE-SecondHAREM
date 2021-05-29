@@ -1,0 +1,22 @@
+{
+  "text": "Todas as colaborações de associados são submetidas a exame prévio da Comissão Editorial. Os associados poderão remeter sua colaboração, em arquivo word, via e-mail (ibap@ibap.org) ou diretamente, na sede do IBAP, em disquete.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 69,
+        "end": 87
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 207,
+        "end": 211
+      }
+    }
+  ],
+  "relations": []
+}

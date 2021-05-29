@@ -1,0 +1,22 @@
+{
+  "text": "Foi a colaboração que permitiu o surgimento de movimentos massivos como os protestos \"anti-globalização\", bem como a organização de festas-protesto como as do Reclaim the Streets , ou ainda a publicação aberta da rede Indymedia . A divisão de tarefas, o compartilhamento de valores e a liderança coletiva caracterizam em grande parte essas organizações cuja tradução mais exata é a filosofia do open source.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 159,
+        "end": 178
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 218,
+        "end": 227
+      }
+    }
+  ],
+  "relations": []
+}

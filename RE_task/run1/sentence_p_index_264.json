@@ -1,0 +1,70 @@
+{
+  "text": "Nuno Severiano Teixeira visitará o contingente português estacionado em Campo Warehouse , composto pela 22.ª Companhia de Atiradores Pára-Quedistas da Brigada de Reacção Rápida | 22.ª Companhia de Atiradores Pára-Quedistas da Brigada de Reacção Rápida e uma equipa de Controladores Aéreos Avançados da Força Aérea | Controladores Aéreos Avançados da Força Aérea .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 87
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 104,
+        "end": 176
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 179,
+        "end": 222
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 226,
+        "end": 251
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 268,
+        "end": 313
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 316,
+        "end": 346
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 350,
+        "end": 361
+      }
+    }
+  ],
+  "relations": []
+}

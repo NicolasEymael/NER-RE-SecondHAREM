@@ -1,0 +1,159 @@
+{
+  "text": "Na seqüência, vieram os DJs Lucio K e JC , ganhadores do Overmixter , Concurso de Remixes Brasil-África do Sul . O sul-africano JC abriu os trabalhos com o seu remix vencedor e convidou o público a bater palma enquanto a mistura sonora invadia o recinto. Em seguida, foi a vez do Lucio K , com o seu remix vencedor Tudo Vem da África e com uma faixa do seu último disco, que mistura carimbó com música eletrônica, agitando a platéia. Pra valer: \" No final, ainda recebi de um espectador um dos melhores elogios possíveis: \"fiquei impressionado com o groove que você tem, mesmo sendo branco assim!, diverte-se o Lucio . Encerrando a noite, os pernambucanos do Mombojó fizeram um ótimo show, com o público cantando junto e dançando. No final, o vocalista Felipe S. convidou o povo pra subir ao palco, e ao contrário do show da Bataclã , o convite foi aceito, com uma galera invadindo o palco e pulando muito, pelo menos até a hora em que os seguranças começaram a tirar todo mundo de lá. Mas foi uma bela forma de terminar a festa, com alegria e empolgação, características que marcaram não só os shows como os três dias de Criei, Tive Como! .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 57,
+        "end": 67
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 70,
+        "end": 110
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 128,
+        "end": 130
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 280,
+        "end": 287
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 315,
+        "end": 333
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 611,
+        "end": 616
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 659,
+        "end": 666
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 753,
+        "end": 762
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 825,
+        "end": 832
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 1106,
+        "end": 1118
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1122,
+        "end": 1139
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "obra_de",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

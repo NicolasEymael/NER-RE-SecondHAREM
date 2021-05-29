@@ -1,0 +1,243 @@
+{
+  "text": "Na Europa e nos EUA , a fusão de arte e política já estava presente nos dadaístas e surrealistas, e representou o ponto fundamental dos situacionistas no pós-guerra, e desde então essa mescla tem se dado em vários grupos que atuam na fronteira ativismo/arte, como o Arte & Linguagem , Art Workers Coalition , Black Mask , neoístas, Gran Fury , Group Material , PAD/D , Guerrilla Girls , ou os mais recentes Luther Blissett Project , RTmark , Etoy , Critical Art Ensemble , boa parte destes últimos atuando diretamente com alta tecnologia, no que se tem atualmente denominado de mídia tática.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 19
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 266,
+        "end": 282
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 285,
+        "end": 306
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 309,
+        "end": 319
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 332,
+        "end": 341
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 344,
+        "end": 358
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 361,
+        "end": 366
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 369,
+        "end": 384
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 407,
+        "end": 430
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 433,
+        "end": 439
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 442,
+        "end": 446
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 449,
+        "end": 470
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_em",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "natural_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "praticado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "praticado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "praticado_em",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R9",
+      "pred": "praticado_em",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R10",
+      "pred": "natural_de",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "praticado_em",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "natural_de",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R13",
+      "pred": "praticado_em",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R15",
+      "pred": "praticado_em",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "natural_de",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "praticado_em",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R18",
+      "pred": "natural_de",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R19",
+      "pred": "praticado_em",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R20",
+      "pred": "natural_de",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R21",
+      "pred": "praticado_em",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R22",
+      "pred": "natural_de",
+      "subj": "T13",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "text": "Qual a profissão de Billy Connolly? Qual a sua nacionalidade? Que filme com Connolly ganhou o prémio de melhor drama nos Prémios Bafta escoceses em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 76,
+        "end": 84
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 121,
+        "end": 134
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 145,
+        "end": 152
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

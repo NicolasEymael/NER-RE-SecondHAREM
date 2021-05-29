@@ -1,0 +1,14 @@
+{
+  "text": "Retrato do Imperador D. Pedro II",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

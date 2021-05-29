@@ -1,0 +1,22 @@
+{
+  "text": "O ano de \"2007 mostrou que a Europa está à altura dos seus compromissos\", sublinhou o presidente do executivo comunitário, estendendo à anterior presidência alemã os louros pelo acordo que permitiu a assinatura do novo tratado europeu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

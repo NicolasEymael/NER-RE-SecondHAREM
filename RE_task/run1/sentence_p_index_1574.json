@@ -1,0 +1,22 @@
+{
+  "text": "O que é a FPLP? Quem era considerado chefe do grupo? Em que país fica Beit Liqya?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 70,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

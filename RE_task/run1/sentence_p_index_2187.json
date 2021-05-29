@@ -1,0 +1,46 @@
+{
+  "text": "Sim. A situação do associado aposentado não difere em nada da situação do associado em exercício. Pode ele candidatar-se a cargo de diretor, participar de todos os eventos, escrever nas publicações do IBAP, participar da Lista de Debates da Internet, enfim, exercer plenamente os seus direitos associativos. Eventualmente, se o associado aposentado estiver enfrentando dificuldades financeiras, poderá requerer a isenção temporária do pagamento de mensalidades à Coordenadoria Financeira do IBAP | Coordenadoria Financeira do IBAP.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 201,
+        "end": 205
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 221,
+        "end": 249
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 463,
+        "end": 495
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 498,
+        "end": 522
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 526,
+        "end": 530
+      }
+    }
+  ],
+  "relations": []
+}

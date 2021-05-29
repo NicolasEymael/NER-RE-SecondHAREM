@@ -1,0 +1,14 @@
+{
+  "text": "2 Comments:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 0,
+        "end": 1
+      }
+    }
+  ],
+  "relations": []
+}

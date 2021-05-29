@@ -1,0 +1,29 @@
+{
+  "text": " Mundial: Rui Cordeiro e Lobos arrepiam franceses. NÃO FOI SÓ EM PORTUGAL QUE O HINO PUXOU PELAS EMOÇÕES FORTES. Os homens também choram, e isso ficou provado quando os jogadores da Selecção cantaram o hino antes do Escócia-Portugal | Escócia-Portugal. As imagens emocionaram o País mas não só. No bloco informativo dedicado à prova, a TF1 -- uma das principais cadeias de televisão francesas -- anunciou «o momento mais incrível do Mundial até agora» e, de seguida, exibiu «A Portuguesa» na íntegra, com os Lobos a chorarem. Não é todos os dias que se vê um «gigante» de 1,84 metros e 140 kg a chorar como uma criança. Mas Rui Cordeiro foi um dos Lobos que mais impressionou a cantar hino. Logo ele, que «é difícil ir às lágrimas». «Senti tanta coisa. O hino sempre foi um momento importante nos nossos jogos e nós não o cantamos, gritamos! Depois entre o aquecimento e o regresso, as bancadas, que ainda estavam quase vazias, compuseram-se. Deu-me muitas ganas», explicou Cordeiro, prosseguindo: «Assim como a Nova Zelândia se motiva com o 'haka', nós fazemo-lo com 'A Portuguesa'.». Durante o apuramento, Cordeiro foi dos que mais sofreu. Sempre que havia convocatória, o veterinário e inspector sanitário «saía do trabalho \"pelas 17 horas, viajava para Lisboa, treinava e regressava, chegando perto da uma da madrugada». «Aconteceu ter de me levantar às 4 horas para ir trabalhar», conta. Adeus à Selecção. O último jogo de Rui Cordeiro no Mundial vai ser também o derradeiro da carreira internacional. «É complicado conciliar a Selecção Nacional com a carreira profissional», justifica o pilar da Académica, que este ano regressa à Divisão de Honra. «Há muitas dificuldades. Mesmo com o Mundial, só iniciei a preparação em Julho, enquanto os colegas começaram em Maio, e isso notou-se», explicou com alguma mágoa. Assim, o jogo com a Roménia promete trazer-nos um Cordeiro mais «chorão». «Vai haver choradeira no início, no fim, o tempo todo», promete, bem-disposto, o pilar, que vai «continuar na Académica enquanto der gozo».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1602,
+        "end": 1611
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 22
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

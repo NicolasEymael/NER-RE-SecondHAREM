@@ -1,0 +1,38 @@
+{
+  "text": "Aliviados, alguém do grupo levantou o fato de nenhum deles nunca ter participado de uma ação clandestina. Só naquele momento , eles avaliaram o perigo de uma bala ter sido disparada ou um policial ter perseguido os carros. As moças acharam melhor não irem direto para casa: voltaram à cena do crime como boas criminosas para fotografar e flagrar dois vigias e dois cães, todos de guarda dormindo relaxados, bem de frente para a fachada iluminada do Citibank da Barra | Citibank da Barra , tingida de tinta ainda quente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 109,
+        "end": 124
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 449,
+        "end": 466
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 469,
+        "end": 477
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 481,
+        "end": 486
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 7,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

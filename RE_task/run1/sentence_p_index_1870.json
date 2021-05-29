@@ -1,0 +1,14 @@
+{
+  "text": "Quais são os signos do Zodíaco?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 23,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

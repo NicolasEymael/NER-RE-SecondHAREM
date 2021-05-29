@@ -1,0 +1,53 @@
+{
+  "text": "Através de suas constantes viagens pelo mundo, colecionou um vasto acervo de trajes típicos, fundando, em 1960 , o primeiro Museu de Indumentária Histórica e Antigüidades da América Latina | Museu de Indumentária Histórica e Antigüidades da América Latina em sua residência no bairro carioca de Santa Teresa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 103,
+        "end": 110
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 124,
+        "end": 188
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 191,
+        "end": 237
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 241,
+        "end": 255
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 295,
+        "end": 307
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "text": " De bicicleta também pelo Ambiente. Durante a Conferência das Nações Unidas sobre as Alterações Climáticas, em Bali, o Público teve uma secção designada \"Eu contribuo\", onde os leitores eram convidados a dizerem aquilo que fazem pelo Ambiente. Não parece ter havido muitos participantes, mas houve quem divulgasse a sua opção pela bicicleta como meio de transporte principal ou secundário. Joana Marinho, uma estudante universitária de 25 anos, de Vila do Conde: «Tudo começou quando os meus pais acoplaram às bicicletas cestinhos de verga para nos levarem, a mim e aos meus irmãos, nas deslocações ao supermercado e à praia. A partir dos seis anos, eu e o meu irmão mais velho íamos para a escola de bicicleta. Este hábito perdura até hoje, ao qual se acrescentaram muitas outras medidas.». Também Vítor Pereira, um recém-licenciado em Medicina, 28 anos, de Matosinhos, usa a bicicleta como opção de transporte: «(...) a ida para o trabalho, sempre que possível uso a bicicleta ou o transporte público.». Obrigada ao Hugo Jorge pela dica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 26,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 46,
+        "end": 106
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 111,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 119,
+        "end": 126
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 154,
+        "end": 166
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 234,
+        "end": 242
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 390,
+        "end": 403
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 436,
+        "end": 443
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 448,
+        "end": 461
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 732,
+        "end": 740
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 799,
+        "end": 812
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 837,
+        "end": 845
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 847,
+        "end": 854
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 859,
+        "end": 869
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 1018,
+        "end": 1028
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "praticado_por",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R5",
+      "pred": "natural_de",
+      "subj": "T14",
+      "obj": "T11"
+    }
+  ]
+}

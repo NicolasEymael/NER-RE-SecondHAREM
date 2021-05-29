@@ -1,0 +1,14 @@
+{
+  "text": "6 - PUBLICAÇÕES DO IBAP",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

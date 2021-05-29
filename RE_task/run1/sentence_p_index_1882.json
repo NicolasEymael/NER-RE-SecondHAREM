@@ -1,0 +1,14 @@
+{
+  "text": "Quem escreveu a epopeia fantástica \"O Senhor dos Anéis\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 36,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,89 @@
+{
+  "text": "Em 1834 , no âmbito da \" Reforma geral eclesiástica \" empreendida pelo ministro e secretário de Estado , Joaquim António de Aguiar , executada pela Comissão da Reforma Geral do Clero ( 1833-1837 ), pelo Decreto de 28 de Maio , promulgado a 30 desse mês , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 51
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 82,
+        "end": 102
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 105,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 148,
+        "end": 182
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 185,
+        "end": 194
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 203,
+        "end": 224
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 238,
+        "end": 252
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "data_de",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

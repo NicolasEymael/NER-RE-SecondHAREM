@@ -1,0 +1,30 @@
+{
+  "text": "Com o \" Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 \", o Museu Histórico Nacional segue a tendência mundial dos grandes museus nacionais de se adequarem às necessidades impostas pelo aumento do fluxo de visitantes e à valorização das instituições culturais nesse novo milênio .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 8,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 91,
+        "end": 115
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 309
+      }
+    }
+  ],
+  "relations": []
+}

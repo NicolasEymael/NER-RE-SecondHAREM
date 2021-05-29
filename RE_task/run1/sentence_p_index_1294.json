@@ -1,0 +1,14 @@
+{
+  "text": "Que actor faz de Chewbacca?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

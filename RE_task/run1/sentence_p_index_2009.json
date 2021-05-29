@@ -1,0 +1,14 @@
+{
+  "text": "Que país tomou a Grande Hanish?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

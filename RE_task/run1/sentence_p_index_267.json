@@ -1,0 +1,30 @@
+{
+  "text": "O Ministro da Defesa Nacional estará de regresso a Lisboa no dia 30 de Dezembro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 58,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

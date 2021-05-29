@@ -1,0 +1,78 @@
+{
+  "text": "\"Mas dois dias depois a NAS retirou os documentos\", conta Hammond . \" Kevin Hale , o responsável de segurança da NAS , disse-me que era porque alguém havia exprimido preocupação\". Quem o fez não é claro. A pressão restritiva não parece ter vindo da própria JNLWP , porque na semana passada esta enviou a Hammond oito documentos que ele havia requerido, incluindo três que estavam na lista da NAS .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 5,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 27
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 65
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 70,
+        "end": 80
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 113,
+        "end": 116
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 257,
+        "end": 262
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 272,
+        "end": 289
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 304,
+        "end": 311
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 392,
+        "end": 395
+      }
+    }
+  ],
+  "relations": []
+}

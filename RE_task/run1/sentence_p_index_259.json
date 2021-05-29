@@ -1,0 +1,85 @@
+{
+  "text": "Infelizmente, não foi o nosso caso. Pela mão do ministro Freitas do Amaral , e sem necessidade alguma, Portugal foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu. Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada nos últimos 25 anos | nos últimos 25 anos que não rastejar perante os poderosos, em cada cena e em cada tempo: Angola , Indonésia (com a notável excepção de Guterres e Sampaio ), Estados Unidos e, agora, perante os países islâmicos. [...]",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 48,
+        "end": 74
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 103,
+        "end": 111
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 317,
+        "end": 336
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 351,
+        "end": 358
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 428,
+        "end": 434
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 437,
+        "end": 446
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 474,
+        "end": 482
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 485,
+        "end": 492
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 496,
+        "end": 510
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

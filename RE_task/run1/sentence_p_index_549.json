@@ -1,0 +1,22 @@
+{
+  "text": "De resto, fico já satisfeito por ter conseguido escrever um post sobre o PSD , sem uma única referência à baixa estatura de Marques Mendes . (O quê? Isto conta como referência?)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 73,
+        "end": 76
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 124,
+        "end": 138
+      }
+    }
+  ],
+  "relations": []
+}

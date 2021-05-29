@@ -1,0 +1,14 @@
+{
+  "text": "Steve Jobs é o presidente de que empresa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    }
+  ],
+  "relations": []
+}

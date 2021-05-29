@@ -1,0 +1,14 @@
+{
+  "text": "Que ordem foi fundada por Santa Clara?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

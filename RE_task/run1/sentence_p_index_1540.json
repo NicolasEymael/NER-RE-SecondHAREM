@@ -1,0 +1,22 @@
+{
+  "text": "Quantos casamentos ocurreram na Grã-Bretanha em 1993?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 45,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

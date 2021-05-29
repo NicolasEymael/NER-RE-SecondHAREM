@@ -1,0 +1,14 @@
+{
+  "text": "Registo: 12 Apr 2005",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 9,
+        "end": 20
+      }
+    }
+  ],
+  "relations": []
+}

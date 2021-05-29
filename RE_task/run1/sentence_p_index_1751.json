@@ -1,0 +1,14 @@
+{
+  "text": "Quando foi fundado o Nacional da Madeira? Onde?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 21,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Instituto Brasileiro de Advocacia Pública",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

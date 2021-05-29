@@ -1,0 +1,83 @@
+{
+  "text": "As galerias revitalizadas com os recursos do BNDES abrigam o multivídeo panorâmico \" A Trajetória de um museu \", que apresenta o Museu Histórico Nacional ao visitante, e a exposição \" Oreretama \", que abre pela primeira vez no Museu Histórico Nacional um espaço permanente dedicado ao índio brasileiro. \" Oreretama » apresenta também uma ambientação representando uma gruta do sítio arqueológico da Serra da Capivara e os sambaquis do litoral, incluindo objetos retirados de sítios do Estado do Rio de Janeiro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 85,
+        "end": 109
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 129,
+        "end": 153
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 184,
+        "end": 193
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 227,
+        "end": 251
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 305,
+        "end": 314
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 399,
+        "end": 416
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 485,
+        "end": 509
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

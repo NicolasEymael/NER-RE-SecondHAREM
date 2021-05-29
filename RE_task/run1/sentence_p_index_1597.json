@@ -1,0 +1,22 @@
+{
+  "text": "Quantos litros de azeite são comercializados por ano pela EBS?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 45,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 58,
+        "end": 61
+      }
+    }
+  ],
+  "relations": []
+}

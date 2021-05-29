@@ -1,0 +1,118 @@
+{
+  "text": "A 16 de Maio de 2004, na final da Taça de Portugal | Taça de Portugal, o FC Porto adiantou-se, por Derlei, mas o grego Fyssas empatou e, no prolongamento, Simão derrotou o \"onze\" de José Mourinho, que, 10 dias depois | 10 dias depois, viria a vencer a Liga dos Campeões (3-0 ao AS Mónaco).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 34,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 57
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 69
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 73,
+        "end": 81
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 99,
+        "end": 105
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 119,
+        "end": 125
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 155,
+        "end": 160
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 182,
+        "end": 195
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 202,
+        "end": 216
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 219,
+        "end": 226
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 252,
+        "end": 269
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 271,
+        "end": 274
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 287
+      }
+    }
+  ],
+  "relations": []
+}

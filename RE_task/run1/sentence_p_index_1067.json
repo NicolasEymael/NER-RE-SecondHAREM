@@ -1,0 +1,53 @@
+{
+  "text": "Na entrevista coletiva dos organizadores da Bienal, o presidente da Fundação Bienal | presidente da Fundação Bienal, Manuel Francisco Pires da Costa, optou por, além de responsabilizar a assessoria jurídica, emitir sua opinião pessoal acerca da obra polêmica: \"Eu jamais interferi no mérito das obras selecionadas. Aliás, a acho de muito mau gosto e, se não julguei, estou julgando agora. Foi o departamento jurídico da Bienal quem informou que essa obra não estava de acordo com as regras da legislação brasileira\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 44,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 54,
+        "end": 83
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 115
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 117,
+        "end": 148
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 420,
+        "end": 426
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

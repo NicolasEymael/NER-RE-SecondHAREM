@@ -1,0 +1,14 @@
+{
+  "text": "O \"Paquistão é uma potência nuclear.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 12
+      }
+    }
+  ],
+  "relations": []
+}

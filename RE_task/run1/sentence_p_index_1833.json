@@ -1,0 +1,30 @@
+{
+  "text": "Quem era rei de Portugal | rei de Portugal em 1860?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 34,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

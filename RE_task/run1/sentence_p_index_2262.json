@@ -1,0 +1,22 @@
+{
+  "text": "Decisão da Comissão Europeia sobre o PNALE português",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 11,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 37,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

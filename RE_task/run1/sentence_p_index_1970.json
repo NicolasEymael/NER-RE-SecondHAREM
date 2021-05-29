@@ -1,0 +1,22 @@
+{
+  "text": "Em que museu foi exibida em 1994 uma exposição sobre Mondriaan?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 53,
+        "end": 62
+      }
+    }
+  ],
+  "relations": []
+}

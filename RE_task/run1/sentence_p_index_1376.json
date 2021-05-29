@@ -1,0 +1,22 @@
+{
+  "text": "O que é que a Norsk Hydro produzia durante a Segunda Guerra Mundial?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 14,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 45,
+        "end": 67
+      }
+    }
+  ],
+  "relations": []
+}

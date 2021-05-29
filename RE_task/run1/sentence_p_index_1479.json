@@ -1,0 +1,29 @@
+{
+  "text": "Quanto dinheiro ganhou «Parque Jurássico» de Steven Spielberg?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 24,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 45,
+        "end": 61
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

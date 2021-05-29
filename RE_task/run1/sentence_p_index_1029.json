@@ -1,0 +1,14 @@
+{
+  "text": "Nas voltas que a Pampulha dá...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

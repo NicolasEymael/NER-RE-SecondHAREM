@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade nasceu Wolfgang Amadeus Mozart?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

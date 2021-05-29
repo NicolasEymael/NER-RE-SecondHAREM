@@ -1,0 +1,37 @@
+{
+  "text": "No Brasil, a Free Beer está sendo produzida pela Cervejaria Germânia, que irá comercializar a bebida durante a exposição a partir da versão 3.4, desenvolvida pela empresa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 13,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 68
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

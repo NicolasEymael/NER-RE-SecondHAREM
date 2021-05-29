@@ -1,0 +1,109 @@
+{
+  "text": "Regulamento (CE) n.º 2216/2004 da Comissão de 21 de Dezembro de 2004, relativo a um sistema de registos normalizado e protegido em conformidade com a Directiva 2003/87/CE do Parlamento Europeu e do Conselho e a Decisão n.º 280/2004/CE do Parlamento Europeu e do Conselho",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 68
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 150,
+        "end": 170
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 174,
+        "end": 192
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 198,
+        "end": 206
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 211,
+        "end": 234
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 238,
+        "end": 256
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 262,
+        "end": 270
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "autor_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "autor_de",
+      "subj": "T9",
+      "obj": "T7"
+    }
+  ]
+}

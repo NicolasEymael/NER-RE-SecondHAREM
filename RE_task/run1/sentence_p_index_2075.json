@@ -1,0 +1,14 @@
+{
+  "text": "\"Se a música comtemporânea pôde ser considerada incompreensível quanto ao seu código de leitura, hoje já não é a música que se tornou incompreensível mas sim o público.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 97,
+        "end": 101
+      }
+    }
+  ],
+  "relations": []
+}

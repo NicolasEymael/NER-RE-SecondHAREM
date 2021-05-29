@@ -1,0 +1,37 @@
+{
+  "text": "Quando é que foi criado o Tribunal Internacional Penal para o Ruanda | Tribunal Internacional Penal para o Ruanda ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 26,
+        "end": 68
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 71,
+        "end": 99
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 107,
+        "end": 113
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

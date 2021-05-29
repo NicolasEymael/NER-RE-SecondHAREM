@@ -1,0 +1,37 @@
+{
+  "text": "Qual o endereço da Delegação de Turismo do Sri Lanka | Delegação de Turismo do Sri Lanka?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 52
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 79,
+        "end": 88
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "text": "Fui ontem ( terça ) às urgencias pediátricas de cascais com a minmha filhiha de 4 anos e ...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 4,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 17
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 80,
+        "end": 86
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

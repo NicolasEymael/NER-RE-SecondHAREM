@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano ocorreu a retirada de Dunquerque?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

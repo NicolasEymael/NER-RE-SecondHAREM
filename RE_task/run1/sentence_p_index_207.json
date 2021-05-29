@@ -1,0 +1,14 @@
+{
+  "text": "Il Guarany",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 3,
+        "end": 10
+      }
+    }
+  ],
+  "relations": []
+}

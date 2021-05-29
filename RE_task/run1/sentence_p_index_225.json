@@ -1,0 +1,22 @@
+{
+  "text": "Dita Rian ( 1886-1981 )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 5,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 12,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,38 @@
+{
+  "text": "No campo da Protecção Civil , UE e África partilham uma série de preocupações e riscos comuns, maioritariamente na região Euro-Mediterrânica | Euro-Mediterrânica . Estes riscos estão particularmente relacionados com os incêndios florestais, sismos e tsunamis, acidentes químicos e, também, ameaças terroristas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 12,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 35,
+        "end": 41
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 122,
+        "end": 140
+      }
+    }
+  ],
+  "relations": []
+}

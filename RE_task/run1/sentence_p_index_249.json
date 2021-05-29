@@ -1,0 +1,94 @@
+{
+  "text": "Para uma eventual candidatura, Bloomberg nem sequer está preocupado com o facto de arrancar tarde, numas eleições em que as primárias servem para angariar fundos (em anteriores eleições, o também magnata dos \"media\" já gastou mais de 160 milhões de dólares do seu bolso, e tem muitos mais para gastar). Além disso, Bloomberg conta com o efeito de subida de popularidade dos independentes nos EUA . Os estudos dizem que cerca de 40% dos eleitores não tem simpatia por nenhum dos partidos. E este dado torna o estatuto de independente muito atraente -- um fenómeno semelhante ao verificado com a candidatura de Manuel Alegre , nas últimas presidenciais portuguesas, ou com aquilo que esperam conseguir Helena Roseta e Carmona Rodrigues nas próximas eleições intercalares para a Câmara de Lisboa | Câmara de Lisboa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 226,
+        "end": 256
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 315,
+        "end": 324
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 392,
+        "end": 395
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 419,
+        "end": 431
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 609,
+        "end": 622
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 700,
+        "end": 713
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 716,
+        "end": 733
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 776,
+        "end": 792
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 795,
+        "end": 801
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 805,
+        "end": 811
+      }
+    }
+  ],
+  "relations": []
+}

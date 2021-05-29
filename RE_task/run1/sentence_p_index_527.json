@@ -1,0 +1,38 @@
+{
+  "text": "Na mesma temporada, Camacho perdeu no FC Porto por 2-0 e, na anterior, já tinha perdido em casa por 1-0.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 51,
+        "end": 54
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 100,
+        "end": 103
+      }
+    }
+  ],
+  "relations": []
+}

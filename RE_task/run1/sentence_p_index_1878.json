@@ -1,0 +1,30 @@
+{
+  "text": "Quem foi chanceler da Alemanha | chanceler da Alemanha de 1974 a 1982?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 55,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

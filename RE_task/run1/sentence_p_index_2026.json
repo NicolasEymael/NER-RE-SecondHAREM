@@ -1,0 +1,22 @@
+{
+  "text": "Contra que clube jogou o Marítimo a 2 de Abril de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 54
+      }
+    }
+  ],
+  "relations": []
+}

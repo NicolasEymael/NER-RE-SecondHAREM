@@ -1,0 +1,14 @@
+{
+  "text": "Quem escreveu o romance não-publicado \"Cruz sem Amor\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 39,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

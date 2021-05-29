@@ -1,0 +1,14 @@
+{
+  "text": "De que organização é que Javier Solana era secretário-geral?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

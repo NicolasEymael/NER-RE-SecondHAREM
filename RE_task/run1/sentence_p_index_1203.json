@@ -1,0 +1,38 @@
+{
+  "text": "Mas de toda esta trajetória, de todo esse processo administrativo-ideológico nos dão conta os estudos e depoimentos sobre o homem e sobre suas obras enfeixados na miscelânea em honra aos 80 anos de Houaiss. Temos aí um retrato de corpo inteiro levantado na visão macroscópica do objeto estudado. Todavia, é hora de descermos às minúncias e de percorrer as estradas vicinais que vão desembocar na grande avenida, na grande estrada percorrida pelos ilustres colaboradores de Uma Vida. E esses fragmentos, aparentemente desinteressantes e desprovidos de valor, nos permitem juntar certos dados menores para melhor conhecer o gigante retratado Antônio Houaiss.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 187,
+        "end": 194
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 198,
+        "end": 205
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 473,
+        "end": 481
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 640,
+        "end": 655
+      }
+    }
+  ],
+  "relations": []
+}

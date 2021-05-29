@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano foi inaugurado o AVE Madrid-Sevilha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 28,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

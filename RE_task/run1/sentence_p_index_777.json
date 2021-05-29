@@ -1,0 +1,45 @@
+{
+  "text": "Lisboa-Dakar | Lisboa - Dakar: Carlos Sousa ambiciona pódio",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 15,
+        "end": 21
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 29
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 31,
+        "end": 43
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

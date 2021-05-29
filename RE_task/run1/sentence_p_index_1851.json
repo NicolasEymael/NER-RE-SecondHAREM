@@ -1,0 +1,14 @@
+{
+  "text": "Em que jornal escreve o Miguel Sousa Tavares?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

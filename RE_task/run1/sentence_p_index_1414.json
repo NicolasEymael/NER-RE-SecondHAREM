@@ -1,0 +1,51 @@
+{
+  "text": "Contra que país é que a Espanha jogou a final de basquete das Olímpiadas de 1984 | Olímpiadas de 1984?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 62,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 83,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 94,
+        "end": 101
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "International Emissions Trading Association, \"Guidelines for an accredited verification system of the greenhouse gas emissions within the EU Emissions Trading Scheme\" (em inglês)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 138,
+        "end": 165
+      }
+    }
+  ],
+  "relations": []
+}

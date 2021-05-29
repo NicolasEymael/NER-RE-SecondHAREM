@@ -1,0 +1,14 @@
+{
+  "text": "A que se refere o termo \"Les Six\" em música?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 25,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

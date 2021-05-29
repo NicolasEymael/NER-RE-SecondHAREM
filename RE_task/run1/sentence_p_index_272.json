@@ -1,0 +1,46 @@
+{
+  "text": "\"A feira destina-se ao público em geral, embora o programa de sexta-feira esteja muito pensado para as escolas, com actividades para os primeiros ciclos, e sábado tenha actividades para os professores, com uma pequena mostra das actividades do NUCLIO \", disse à Agência Lusa a astrónoma Rosa Doran .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 59,
+        "end": 73
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 156,
+        "end": 162
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 244,
+        "end": 250
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 262,
+        "end": 274
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 287,
+        "end": 297
+      }
+    }
+  ],
+  "relations": []
+}

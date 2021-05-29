@@ -1,0 +1,70 @@
+{
+  "text": "Por outro lado, é também importante sublinhar o facto de que o Mecanismo Comunitário de Protecção Civil já interveio por diversas vezes nesta região (ex: sismos da Argélia e de Marrocos ) e diversos Estados-Membros mantêm acordos bilaterais de cooperação com os Países do Mediterrâneo Sul | Países do Mediterrâneo Sul , que conduziram a missões de assistência mútua durante emergências passadas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 63,
+        "end": 103
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 117,
+        "end": 135
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 164,
+        "end": 171
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 177,
+        "end": 185
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 199,
+        "end": 214
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 262,
+        "end": 288
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 291,
+        "end": 297
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 301,
+        "end": 317
+      }
+    }
+  ],
+  "relations": []
+}

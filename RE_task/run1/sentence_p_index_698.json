@@ -1,0 +1,30 @@
+{
+  "text": "Nos transportes públicos, a subida é, em média, de 3,9%, e nas portagens das auto-estradas será de 2,6%, também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar \"até 15 de Novembro as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 51,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 99,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 197,
+        "end": 215
+      }
+    }
+  ],
+  "relations": []
+}

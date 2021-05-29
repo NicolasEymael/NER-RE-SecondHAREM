@@ -1,0 +1,79 @@
+{
+  "text": "A Expotec 2003, Feira de Ciências e Cultura da Escola Fortec | Feira de Ciências e Cultura da Escola Fortec, reuniu mais de 2000 pessoas na unidade 4, em São Vicente - Feira de Ciências e Cultura da Escola Fortec.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 16,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 63,
+        "end": 90
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 94,
+        "end": 107
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 116,
+        "end": 128
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 154,
+        "end": 165
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T4"
+    }
+  ]
+}

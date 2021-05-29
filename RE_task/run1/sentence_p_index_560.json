@@ -1,0 +1,62 @@
+{
+  "text": "\"Nestes últimos dois anos, Portugal, Lisboa e Portimão deixaram uma marca muito forte no Dakar. Foram anos fantásticos, com uma adesão fantástica e um ambiente extraordinário\", sublinhou João Lagos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 1,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 43
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 54
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 89,
+        "end": 94
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 102,
+        "end": 106
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 187,
+        "end": 197
+      }
+    }
+  ],
+  "relations": []
+}

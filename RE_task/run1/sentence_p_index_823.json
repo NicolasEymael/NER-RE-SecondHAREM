@@ -1,0 +1,77 @@
+{
+  "text": "O Tour de França de 2009 | Tour de França de 2009 | Tour de França de 2009 vai começar no Mónaco com um contra-relógio de 15 quilómetros, numa etapa que também terminará no principado monegasco.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 27,
+        "end": 41
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 49
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 52,
+        "end": 56
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 66
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 67,
+        "end": 74
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 90,
+        "end": 96
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 122,
+        "end": 136
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T1"
+    }
+  ]
+}

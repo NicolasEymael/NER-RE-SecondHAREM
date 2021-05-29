@@ -1,0 +1,14 @@
+{
+  "text": "Documentos relacionados com o PNALE",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 30,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

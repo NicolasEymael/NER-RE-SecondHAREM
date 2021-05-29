@@ -1,0 +1,14 @@
+{
+  "text": "Desde quando é Portugal uma república?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

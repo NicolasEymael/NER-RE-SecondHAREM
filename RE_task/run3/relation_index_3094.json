@@ -1,0 +1,29 @@
+{
+  "text": " Amazonas - Índios querem sobrenomes característicos da etnia. HOME PAGE RONDONIA AO VIVO , 24.12.2007. Índios do Amazonas reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias. Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do Projeto Registro Civil dos Povos Indígenas do Amazonas | Projeto Registro Civil dos Povos Indígenas do Amazonas , que aconteceu na última semana em Manaus . De acordo com o projeto, iniciado em setembro de 2007 , 17 líderes indígenas estiveram em 44 comunidades no Alto Rio Negro , Alto e Médio Solimões , Vale do Javari , Purus , Juruá e Manaus para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório. O documento, será apresentado em março de 2008 e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas. Ao todo, foram mais de 1,4 mil questionários aplicados em 325 comunidades, o equivalente a 43 etnias visitadas. Fonte: Clipping da 6ªCCR do MPF | 6ªCCR do MPF .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 604,
+        "end": 618
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 9
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

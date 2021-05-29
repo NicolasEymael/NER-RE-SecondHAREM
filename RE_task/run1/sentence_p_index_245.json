@@ -1,0 +1,75 @@
+{
+  "text": "No mês passado , o presidente da Câmara de Nova Iorque | presidente da Câmara de Nova Iorque | presidente da Câmara de Nova Iorque , Michael Bloomberg , decidiu entregar o cartão de militante do Partido Conservador . O gesto foi entendido como o arregaçar de mangas para entrar na corrida presidencial numa candidatura independente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 54
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 71,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 81,
+        "end": 92
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 109,
+        "end": 130
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 133,
+        "end": 150
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 195,
+        "end": 214
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T6"
+    }
+  ]
+}

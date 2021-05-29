@@ -1,0 +1,14 @@
+{
+  "text": "Que senador americano foi prisioneiro no Vietname?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

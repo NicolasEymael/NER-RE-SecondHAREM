@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi Alexander Graham Bell?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

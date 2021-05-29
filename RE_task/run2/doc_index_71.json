@@ -1,0 +1,263 @@
+{
+  "text": " A fama do Prius. Durante o ano passado o nome Toyota Prius esteve nas bocas de todo o mundo e foi alvo de notícia e reportagem por vários meios de comunicação, a maioria deles sem estarem sequer relacionamos com o mundo automóvel. Com toda esta atenção e o sucesso nas vendas por todo o mundo o nome Prius tornou-se um sinónimo de híbrido Nos Estados Unidos da America foram vendidos em 2004 mais de 50 mil unidades deste modelo e as listas de espera têm sido grandes, de tal forma grandes que existem casos de Prius a serem vendidos em segunda mão ao mesmo preço que um novo. Além de ser um híbrido, o que proporciona consumos mais moderados e menos poluição, é também um carro conduzido pelas estrelas de Hollywood. Cameron Diaz, Leonardo DiCaprio ou Will Ferrell são três dos muitos nomes famosos que possuem um Toyota Prius. Em cidade o Prius consome apenas 4,3 litros a cada 100km, tornando-o num dos automóveis mais económicos do mercado. Estamos claro a falar dum motor 1.5 VVT-i com apenas 78cv, que aliado ao sistema HSD (Hybrid Synergy Drive) aumenta a sua potência para 110cv. Dos 0 aos 100km/h o Prius demora cerca de 11 segundos. A Toyota afirma que, apesar destas prestações conseguiram reduzir em 89% as emissões libertadas, comparando a um veículo novo a gasolina.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 11,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 18,
+        "end": 39
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 47,
+        "end": 59
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 301,
+        "end": 306
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 344,
+        "end": 369
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 385,
+        "end": 392
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 393,
+        "end": 407
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 512,
+        "end": 517
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 708,
+        "end": 717
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 719,
+        "end": 731
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 733,
+        "end": 750
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 754,
+        "end": 766
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "outro",
+      "span": {
+        "begin": 816,
+        "end": 828
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 842,
+        "end": 847
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 863,
+        "end": 873
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 881,
+        "end": 886
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "outro",
+      "span": {
+        "begin": 978,
+        "end": 987
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 999,
+        "end": 1003
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 1027,
+        "end": 1030
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 1032,
+        "end": 1052
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 1082,
+        "end": 1087
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 1089,
+        "end": 1106
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 1109,
+        "end": 1114
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1122,
+        "end": 1142
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1146,
+        "end": 1152
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "valor",
+      "span": {
+        "begin": 1213,
+        "end": 1216
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T19"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "proprietario_de",
+      "subj": "T25",
+      "obj": "T1"
+    }
+  ]
+}

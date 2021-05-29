@@ -1,0 +1,54 @@
+{
+  "text": "Pois não é que o Kaduke , o Kalundu e talvez até mesmo o Jongo formaram talvez, a base principal - coreográfica e musical- do que conhecemos vulgarmente hoje no Brasil como Samba ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 17,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 57,
+        "end": 62
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 157
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 161,
+        "end": 167
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 173,
+        "end": 178
+      }
+    }
+  ],
+  "relations": []
+}

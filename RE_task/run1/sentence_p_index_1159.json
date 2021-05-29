@@ -1,0 +1,102 @@
+{
+  "text": "T. sordida geralmente é encontrada em ecótopos silvestres e no peridomicílio, invade com freqüência o domicílio, mas é considerada espécie secundária. Tem distribuição no Brasil Central (cerrado), partes do Paraguai. noroeste da Argentina, Uruguai e Bolívia. Tem sido encontrada com baixa taxa de infecção natural, a qual está associada a roedores. T. dimidiata freqüenta o domicílio e é encontrada em diversas tocas silvestres, tais como rocas, grutas ocupadas por morcegos e ocos de arvores, sendo um importante vetor da América Central, México, Colômbia, Equador e norte do Peru.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 171,
+        "end": 185
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 207,
+        "end": 215
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 229,
+        "end": 238
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 240,
+        "end": 247
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 250,
+        "end": 257
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 349,
+        "end": 361
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 523,
+        "end": 538
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 540,
+        "end": 546
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 548,
+        "end": 556
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 558,
+        "end": 565
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 577,
+        "end": 581
+      }
+    }
+  ],
+  "relations": []
+}

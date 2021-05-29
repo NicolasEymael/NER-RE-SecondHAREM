@@ -1,0 +1,213 @@
+{
+  "text": "Faz o curso primário na escola de freiras irlandesas da West Street , onde realiza a sua primeira comunhão e percorre em três anos o equivalente a cinco. Em 1899 ingressa na Durban High School , onde permanecerá durante três anos e será um dos primeiros alunos da turma, no mesmo ano cria o pseudónimo Alexander Search , no qual envia cartas a si mesmo utilizando esse nome. No ano de 1901 é aprovado com distinção no seu primeiro exame da Cape Scholl High Examination , escreve os primeiros poemas em inglês. Na mesma época morre sua irmã Madalena Henriqueta , de dois anos. De férias, parte em 1901 com a família para Portugal . No navio em que viajam, o paquete König , vem o corpo da sua irmã falecida. Em Lisboa mora com a família em Pedrouços e depois na Avenida de D. Carlos I , n.º. 109, 3º. Esquerdo. Na capital portuguesa nasce João Maria , quarto filho do segundo casamento da mãe de Pessoa . Viaja com o padrasto, a mãe e os irmãos à Ilha Terceira , nos Açores , onde vive a família materna. Também partem para Tavira onde para visitar os parentes paternos. Nessa época escreve a poesia Quando ela passa | Quando ela passa .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 56,
+        "end": 67
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 118,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 154,
+        "end": 161
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 174,
+        "end": 192
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 212,
+        "end": 229
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 271,
+        "end": 283
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 302,
+        "end": 318
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 375,
+        "end": 389
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 440,
+        "end": 468
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 510,
+        "end": 524
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 540,
+        "end": 559
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 593,
+        "end": 600
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 620,
+        "end": 628
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "outro",
+      "span": {
+        "begin": 665,
+        "end": 670
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 710,
+        "end": 716
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 739,
+        "end": 748
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 751,
+        "end": 757
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 761,
+        "end": 783
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 838,
+        "end": 848
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 895,
+        "end": 901
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 946,
+        "end": 959
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 966,
+        "end": 972
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1023,
+        "end": 1029
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1070,
+        "end": 1081
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "obra",
+      "span": {
+        "begin": 1099,
+        "end": 1115
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T19",
+      "obj": "T11"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "text": "A equipe liderada por Yoshihiro Kawaoka analisou amostras do H5N1 , o vírus influenza que, em 1997 , matou 6 das 18 pessoas infectadas, em Hong Kong .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 61,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 91,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 107,
+        "end": 108
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 113,
+        "end": 115
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 139,
+        "end": 148
+      }
+    }
+  ],
+  "relations": []
+}

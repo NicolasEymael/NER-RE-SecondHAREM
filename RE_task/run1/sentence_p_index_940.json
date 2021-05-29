@@ -1,0 +1,22 @@
+{
+  "text": "HOME PAGE RONDONIA AO VIVO , 24.12.2007",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 10,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 29,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

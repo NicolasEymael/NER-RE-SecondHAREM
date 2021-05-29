@@ -1,0 +1,46 @@
+{
+  "text": "\"Mais uma vez a prova foi fantástica! Testando resistência, o psicológico e outros bichos mais. Se você acha que a meia maratona é pesada, corra 18km na Pampulha onde a largada somente aconteceu às 10h , debaixo do maior sol e com muito calor. Isso é Pampulha ! O coração da Terra do Pão de Queijo ... Muita gente caída nas calçadas recorrendo ao balão de oxigênio. Muita mesmo!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 145,
+        "end": 149
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 153,
+        "end": 161
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 195,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 251,
+        "end": 259
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 275,
+        "end": 297
+      }
+    }
+  ],
+  "relations": []
+}

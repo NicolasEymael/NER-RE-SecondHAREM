@@ -1,0 +1,30 @@
+{
+  "text": "Quando dois partidos se colam tanto que pouco se diferenciam, o que sobra para a luta política tende a ser incidental, conjuntural: esta nomeação, aquela opção por Ferreira de Cima em vez de ser por Ferreira de Baixo e várias variantes de questões \"fracturantes\", que em muitos casos são distracções dos problemas centrais de poder político e remetem para agendas em que nem sequer é líquido que o Estado e o poder político devam entrar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 164,
+        "end": 180
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 199,
+        "end": 216
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 398,
+        "end": 404
+      }
+    }
+  ],
+  "relations": []
+}

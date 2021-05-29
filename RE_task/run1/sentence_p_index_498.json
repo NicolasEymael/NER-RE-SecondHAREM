@@ -1,0 +1,30 @@
+{
+  "text": "Com 3,520 quilos , o bebé nasceu de parto normal e encontra-se bem, tal como a sua mãe, Mariana , de 16 anos .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 4,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 101,
+        "end": 108
+      }
+    }
+  ],
+  "relations": []
+}

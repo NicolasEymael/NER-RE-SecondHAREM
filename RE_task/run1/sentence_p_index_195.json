@@ -1,0 +1,22 @@
+{
+  "text": "Com o patrocínio do Banco Nacional de Desenvolvimento Econômico e Social , essa etapa incluiu, ainda, a recuperação de três amplas galerias de exposição permanente situadas no segundo andar, além da realização de obras estruturais no terceiro andar, onde funciona a Administração .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 72
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 266,
+        "end": 279
+      }
+    }
+  ],
+  "relations": []
+}

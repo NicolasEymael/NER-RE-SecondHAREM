@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que a Organização Mundial do Comércio entrou em vigor?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 15,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

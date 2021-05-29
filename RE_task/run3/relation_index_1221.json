@@ -1,0 +1,29 @@
+{
+  "text": " Preço do barril de crude chegou ao nível histórico de 100 dólares. 03.01.2008 - 08h46. Por Lurdes Ferreira. Às 17h30 de ontem em Lisboa , a vaga especulativa do mercado do petróleo convergiu com as previsões dos últimos meses que davam como certa a chegada do preço do crude aos 100 dólares . As projecções tornaram-se realidade, ao fim de um ano em que o preço desta matéria subiu 58 por cento e que foi também o maior aumento anual da última década . O recorde histórico verificou-se na bolsa mercantil de Nova Iorque , com a transacção do crude de tipo leve, de referência para o mercado dos EUA , com entrega para Fevereiro , a pular mais de três dólares numa só sessão e a bater na marca histórica dos 100 dólares . Baixou pouco depois para os 99,17 dólares . Em Londres , o Brent do Mar do Norte | Brent do Mar do Norte , também com entrega para Fevereiro , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos 97 dólares . O novo máximo histórico ficou em 97,74 dólares . A onda de violência na Nigéria e a instabilidade no Paquistão são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude nos últimos anos . Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( China , que já é o segundo maior consumidor do mundo, e a Índia ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a OPEP , em aumentar significativamente a sua produção. Outras são conjunturais: temperaturas frias do pico do Inverno ; e a descida das reservas dos EUA , o maior mercado consumidor do mundo. Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas. \"Vamos aqui ficar [no patamar dos 100 dólares ], enquanto houver um desequilíbrio entre a oferta e a procura\", afirmou à France Presse o analista do mercado de capitais da BMO , Bart Melek . Para este desequilíbrio contribui agora a nova vaga de violência da Nigéria , país que nos últimos anos já perdeu 25 por cento da sua produção, sendo o primeiro produtor africano, oitavo mundial e quinto fornecedor dos EUA . Para os analistas, o risco de ruptura de fornecimento neste país, com a morte de 12 pessoas na passagem de ano, é agora superior ao que foi nos últimos meses . E contribui também a situação geopolítica no Paquistão , uma semana depois do assassinado de Benazir Bhuto - não sendo um produtor importante, situa-se numa região estratégica para a produção de petróleo. A situação destes dois países \"provocou o regresso de muito capital especulativo ao mercado\", segundo o presidente da Ritterbusch & Associates | presidente da Ritterbusch & Associates , Jim Ritterbusch , citado pela Reuters . Mas estes não são os únicos dois países em turbulência geopolítica. É também o Quénia , \"ao lado da Nigéria , que se incendeia\", diz Moncef Kaabi , da Natixis , é também a Turquia , com as operações contra os separatistas curdos no Norte , justificando que mercados como o do petróleo \"traduzem a inquietação e a incerteza dos investidores\". Por outro lado, os EUA deverão anunciar ainda hoje a situação dos seus stocks de crude, mas os dados disponíveis antecipam o anúncio de uma nova quebra, pela sétima semana consecutiva, desta vez em 1,8 milhões de barris, face ao aumento da actividade das refinarias, de acordo com um inquérito da Reuters . O preço actual do petróleo ficou agora mais próximo do pico de 100 dólares de 1980 provocado pela guerra entre o Irão e o Iraque , dois países-membros da OPEP . O preço de então ajustado à inflação representa hoje 101,7 dólares . A convicção dominante no mercado, a avaliar pelos analistas contactados pela Reuters , é a de que o preço desta matéria-prima continuará provavelmente a subir nos próximos cinco anos , a não ser que o crescimento económico abrande e abrande também a procura de combustível. A pressão para a subida de preços que se verifica desde 2002 continua a ter condições para manter o ritmo: algumas regiões fora da OPEP , nomeadamente o mar do Norte , têm a sua produção em declínio, a China mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade. Para analistas como Kris Voorspools , da Fortis , em Bruxelas , o \"preço do petróleo pode continuar a subir\", por se estar perante o \"simples fundamento da oferta e da procura\". Mas há quem defenda, embora em minoria, que os preços elevados podem levar a uma recessão global, uma opinião expressa por Nauman Barakat , vice-presidente da Macquarie Futures | vice-presidente da Macquarie Futures dos EUA .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2938,
+        "end": 2953
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 2856,
+        "end": 2894
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": "A Autoridade da Concorrência formalizou hoje a decisão de não oposição à compra da Carrefour Portugal pela Sonae Distribuição , que fica obrigada à alienação, de pelo menos, dois supermercados Modelo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 83,
+        "end": 101
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 107,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 193,
+        "end": 199
+      }
+    }
+  ],
+  "relations": []
+}

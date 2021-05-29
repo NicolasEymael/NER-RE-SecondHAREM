@@ -1,0 +1,62 @@
+{
+  "text": "Haverá observação nocturna do céu com telescópios e será ainda apresentado o programa do Observatório Astronómico da Universidade de Coimbra | Observatório Astronómico da Universidade de Coimbra | Observatório Astronómico da Universidade de Coimbra \" Sol para Todos \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 89,
+        "end": 140
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 143,
+        "end": 167
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 171,
+        "end": 194
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 197,
+        "end": 221
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 225,
+        "end": 237
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 241,
+        "end": 248
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 251,
+        "end": 265
+      }
+    }
+  ],
+  "relations": []
+}

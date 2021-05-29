@@ -1,0 +1,953 @@
+{
+  "text": " 2008: preços de bens e serviços sobem acima da inflação. Os preços de diversos bens e serviços vão aumentar, no próximo ano, acima da inflação de 2,1% prevista pelo Governo para 2008, com destaque para o pão, com os industriais do sector a estimarem uma evolução de dois dígitos. A electricidade vai aumentar, de acordo com a proposta da Entidade Reguladora dos Serviços Energéticos (ERSE), aprovada pelo Conselho Tarifário, 2,9%, em média, em Portugal Continental, 2,6% nos Açores e 4,9% na Madeira. A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de 1,08 euros no próximo ano, mas os clientes industriais sofrerão um aumento médio de 3,0%, com maior peso para os de muita alta tensão (MAT) e alta tensão (AT) que terão uma subida de 3,9%. Os clientes de média tensão (MT) terão um aumento de 2,7%, enquanto os de baixa tensão especial (BTE), normalmente pequenas empresas, terão um aumento de 2,5%. Um dos casos em que a subida dos preços mais ultrapassa o valor da inflação prevista pelo Governo é o do pão, que deverá aumentar 10 a 15% em Janeiro ou Fevereiro, segundo contas feitas pela direcção da Associação dos Industriais de Panificação, Pastelaria e Similares do Norte | Associação dos Industriais de Panificação, Pastelaria e Similares do Norte (AIPAN). Em declarações à agência Lusa, António Fontes, da AIPAN, disse que o preço do pão terá de aumentar para fazer face à subida de 92% registada ao longo de 2007 no preço da matéria-prima de base (farinha). Desde o último aumento do preço do pão, em Janeiro de 2004, o preço da farinha mais do que duplicou, o das leveduras subiu 40%, o da energia 25%, o do gás 32%, o do gasóleo 70% e os custos com pessoal 14%, explicou. O preço do arroz, cujo consumo per capita em Portugal é o mais alto da Europa, deverá igualmente aumentar, apesar de os industriais não conseguirem ainda prever o valor real a pagar pelos consumidores. A Associação Nacional dos Industriais de Arroz (ANIA) explicou que um conjunto de factores a nível do mercado internacional - aumento do preço das matérias-primas com parte da produção a ser desviada para o fabrico de biocombustíveis - provocou em Portugal um acréscimo do valor por tonelada de 200 a 230 euros em 2006 para 280 a 290 euros este ano. Nos transportes públicos, a subida é, em média, de 3,9%, e nas portagens das auto-estradas será de 2,6%, também, em média, seguindo o estipulado na lei, que obriga as concessionárias a apresentar \"até 15 de Novembro as propostas de aumentos de portagens, tendo como por base a última inflação homóloga conhecida. Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de 5 cêntimos. O tabaco também vai pesar mais na carteira: o Governo decidiu em 2005 que o Imposto sobre o Tabaco teria um aumento médio anual de 15% até 2009 e, a partir de Janeiro de 2008, um maço das marcas mais comercializadas poderá mesmo aumentar, em média, 30 cêntimos. Sem contas fechadas, os CTT adiantam que «os preços dos serviços de correios não vão aumentar já em Janeiro» e, na água, o Instituto Regulador das Águas e Resíduos (IRAR) diz que o procedimento para 2008 está actualmente em curso, prevendo-se a sua conclusão em Janeiro. Quanto às empresas concessionárias dos sistemas municipais, as tarifas são definidas no momento do estabelecimento da concessão e actualizadas de acordo com as regras constantes do respectivo contrato com aprovação pelo município. Mas nem tudo são más notícias, tendo em conta que o Salário Mínimo Nacional vai aumentar, a partir do dia 1 de Janeiro, 5,7%, para 426 euros. O valor fixado insere-se no acordo tripartido assinado no ano passado e que prevê uma evolução significativa do salário mínimo, de modo a atingir os 450 euros em 2009 e os 500 euros em 2011. O \"Indexante de Apoios Sociais (IAS), o referencial de actualização e cálculo das prestações sociais, deverá situar-se nos 407,4 euros, o que traduz um crescimento de 2,4%, a partir de Janeiro do próximo ano, segundo as contas feitas pela agência Lusa. Em relação à actualização das pensões atribuídas pelo sistema de Segurança Social, as pensões de valor igual ou inferior a 1,5 IAS (611,10 euros) são actualizadas em 2,7%, as pensões entre 1,5 IAS e 6 IAS tem uma actualização de 2,17% e as pensões de valor superior a 6 IAS tem um aumento de 1,88%. Estes valores foram calculados com base na lei 53-B/2006, de 29 de Dezembro, que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de Segurança Social.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 1,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 110,
+        "end": 124
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 147,
+        "end": 151
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 183
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 339,
+        "end": 383
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 385,
+        "end": 389
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 406,
+        "end": 424
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 426,
+        "end": 430
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 445,
+        "end": 465
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 467,
+        "end": 471
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 476,
+        "end": 482
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 485,
+        "end": 489
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 493,
+        "end": 500
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 592,
+        "end": 602
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 603,
+        "end": 617
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 676,
+        "end": 680
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 727,
+        "end": 730
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 747,
+        "end": 749
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "valor",
+      "span": {
+        "begin": 775,
+        "end": 779
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "outro",
+      "span": {
+        "begin": 810,
+        "end": 812
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 834,
+        "end": 838
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "outro",
+      "span": {
+        "begin": 878,
+        "end": 881
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 935,
+        "end": 939
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1031,
+        "end": 1038
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "valor",
+      "span": {
+        "begin": 1071,
+        "end": 1079
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1080,
+        "end": 1090
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 1094,
+        "end": 1103
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1144,
+        "end": 1218
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1221,
+        "end": 1286
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "local",
+      "span": {
+        "begin": 1290,
+        "end": 1295
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1297,
+        "end": 1302
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1330,
+        "end": 1334
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 1336,
+        "end": 1350
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1355,
+        "end": 1360
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "valor",
+      "span": {
+        "begin": 1432,
+        "end": 1435
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "tempo",
+      "span": {
+        "begin": 1446,
+        "end": 1462
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1548,
+        "end": 1566
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "valor",
+      "span": {
+        "begin": 1631,
+        "end": 1634
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "valor",
+      "span": {
+        "begin": 1649,
+        "end": 1652
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "valor",
+      "span": {
+        "begin": 1663,
+        "end": 1666
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "valor",
+      "span": {
+        "begin": 1681,
+        "end": 1684
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "valor",
+      "span": {
+        "begin": 1709,
+        "end": 1712
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "local",
+      "span": {
+        "begin": 1769,
+        "end": 1777
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "local",
+      "span": {
+        "begin": 1795,
+        "end": 1801
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1928,
+        "end": 1972
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1974,
+        "end": 1978
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 2174,
+        "end": 2182
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "valor",
+      "span": {
+        "begin": 2221,
+        "end": 2236
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 2237,
+        "end": 2244
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "valor",
+      "span": {
+        "begin": 2250,
+        "end": 2265
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "tempo",
+      "span": {
+        "begin": 2266,
+        "end": 2274
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "valor",
+      "span": {
+        "begin": 2327,
+        "end": 2331
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "valor",
+      "span": {
+        "begin": 2375,
+        "end": 2379
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "tempo",
+      "span": {
+        "begin": 2473,
+        "end": 2491
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "valor",
+      "span": {
+        "begin": 2733,
+        "end": 2743
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2791,
+        "end": 2798
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "tempo",
+      "span": {
+        "begin": 2807,
+        "end": 2814
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "outro",
+      "span": {
+        "begin": 2821,
+        "end": 2843
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "valor",
+      "span": {
+        "begin": 2876,
+        "end": 2879
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "tempo",
+      "span": {
+        "begin": 2880,
+        "end": 2888
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "tempo",
+      "span": {
+        "begin": 2892,
+        "end": 2919
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "valor",
+      "span": {
+        "begin": 2994,
+        "end": 3005
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3031,
+        "end": 3034
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "tempo",
+      "span": {
+        "begin": 3104,
+        "end": 3114
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3130,
+        "end": 3170
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "organizacao",
+      "span": {
+        "begin": 3172,
+        "end": 3176
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "tempo",
+      "span": {
+        "begin": 3201,
+        "end": 3210
+      }
+    },
+    {
+      "id": "T69",
+      "obj": "tempo",
+      "span": {
+        "begin": 3266,
+        "end": 3276
+      }
+    },
+    {
+      "id": "T70",
+      "obj": "tempo",
+      "span": {
+        "begin": 3363,
+        "end": 3373
+      }
+    },
+    {
+      "id": "T71",
+      "obj": "outro",
+      "span": {
+        "begin": 3561,
+        "end": 3584
+      }
+    },
+    {
+      "id": "T72",
+      "obj": "tempo",
+      "span": {
+        "begin": 3599,
+        "end": 3627
+      }
+    },
+    {
+      "id": "T73",
+      "obj": "valor",
+      "span": {
+        "begin": 3629,
+        "end": 3633
+      }
+    },
+    {
+      "id": "T74",
+      "obj": "valor",
+      "span": {
+        "begin": 3640,
+        "end": 3649
+      }
+    },
+    {
+      "id": "T75",
+      "obj": "tempo",
+      "span": {
+        "begin": 3706,
+        "end": 3720
+      }
+    },
+    {
+      "id": "T76",
+      "obj": "valor",
+      "span": {
+        "begin": 3800,
+        "end": 3809
+      }
+    },
+    {
+      "id": "T77",
+      "obj": "tempo",
+      "span": {
+        "begin": 3810,
+        "end": 3817
+      }
+    },
+    {
+      "id": "T78",
+      "obj": "valor",
+      "span": {
+        "begin": 3823,
+        "end": 3832
+      }
+    },
+    {
+      "id": "T79",
+      "obj": "tempo",
+      "span": {
+        "begin": 3833,
+        "end": 3840
+      }
+    },
+    {
+      "id": "T80",
+      "obj": "outro",
+      "span": {
+        "begin": 3845,
+        "end": 3872
+      }
+    },
+    {
+      "id": "T81",
+      "obj": "outro",
+      "span": {
+        "begin": 3874,
+        "end": 3877
+      }
+    },
+    {
+      "id": "T82",
+      "obj": "valor",
+      "span": {
+        "begin": 3965,
+        "end": 3976
+      }
+    },
+    {
+      "id": "T83",
+      "obj": "valor",
+      "span": {
+        "begin": 4009,
+        "end": 4013
+      }
+    },
+    {
+      "id": "T84",
+      "obj": "tempo",
+      "span": {
+        "begin": 4015,
+        "end": 4049
+      }
+    },
+    {
+      "id": "T85",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4089,
+        "end": 4093
+      }
+    },
+    {
+      "id": "T86",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4160,
+        "end": 4176
+      }
+    },
+    {
+      "id": "T87",
+      "obj": "valor",
+      "span": {
+        "begin": 4218,
+        "end": 4225
+      }
+    },
+    {
+      "id": "T88",
+      "obj": "valor",
+      "span": {
+        "begin": 4227,
+        "end": 4239
+      }
+    },
+    {
+      "id": "T89",
+      "obj": "valor",
+      "span": {
+        "begin": 4261,
+        "end": 4265
+      }
+    },
+    {
+      "id": "T90",
+      "obj": "valor",
+      "span": {
+        "begin": 4278,
+        "end": 4299
+      }
+    },
+    {
+      "id": "T91",
+      "obj": "valor",
+      "span": {
+        "begin": 4324,
+        "end": 4329
+      }
+    },
+    {
+      "id": "T92",
+      "obj": "valor",
+      "span": {
+        "begin": 4363,
+        "end": 4368
+      }
+    },
+    {
+      "id": "T93",
+      "obj": "valor",
+      "span": {
+        "begin": 4387,
+        "end": 4392
+      }
+    },
+    {
+      "id": "T94",
+      "obj": "tempo",
+      "span": {
+        "begin": 4452,
+        "end": 4469
+      }
+    },
+    {
+      "id": "T95",
+      "obj": "organizacao",
+      "span": {
+        "begin": 4596,
+        "end": 4612
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T28",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T29"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T35",
+      "obj": "T32"
+    },
+    {
+      "id": "R10",
+      "pred": "vinculo_inst",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R11",
+      "pred": "inclui",
+      "subj": "T44",
+      "obj": "T10"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T44",
+      "obj": "T12"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T44",
+      "obj": "T14"
+    },
+    {
+      "id": "R14",
+      "pred": "inclui",
+      "subj": "T45",
+      "obj": "T44"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T47",
+      "obj": "T46"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T44"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T52",
+      "obj": "T37"
+    },
+    {
+      "id": "R18",
+      "pred": "inclui",
+      "subj": "T55",
+      "obj": "T37"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T57",
+      "obj": "T4"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T65",
+      "obj": "T1"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T67",
+      "obj": "T66"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T68",
+      "obj": "T1"
+    },
+    {
+      "id": "R23",
+      "pred": "inclui",
+      "subj": "T69",
+      "obj": "T1"
+    },
+    {
+      "id": "R24",
+      "pred": "inclui",
+      "subj": "T72",
+      "obj": "T1"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T75",
+      "obj": "T50"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T77",
+      "obj": "T61"
+    },
+    {
+      "id": "R27",
+      "pred": "outrarel",
+      "subj": "T81",
+      "obj": "T80"
+    },
+    {
+      "id": "R28",
+      "pred": "inclui",
+      "subj": "T84",
+      "obj": "T1"
+    },
+    {
+      "id": "R29",
+      "pred": "ident",
+      "subj": "T85",
+      "obj": "T33"
+    },
+    {
+      "id": "R30",
+      "pred": "ident",
+      "subj": "T88",
+      "obj": "T87"
+    },
+    {
+      "id": "R31",
+      "pred": "ident",
+      "subj": "T95",
+      "obj": "T86"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": " Lápis-lazúli , conhecido também como lápis, é uma rocha metamórfica de cor azul utilizada como gema ou como rocha ornamental utilizada desde antes de 7000 a.C. em Mehrgarh na Índia , situado nos dias de hoje no Paquistão . A sua azul-escura e opaca, fez com que esta gema fosse altamente apreciada pelos faraós egípcios, como pode ser visto por seu uso proeminente em muitos dos tesouros recuperados dos túmulos faraônicos. É ainda extremamente popular hoje. Trata-se de uma rocha e não de um mineral porque é composto de vários minerais. A primeira parte do nome, lápis, em latim significa pedra. A segunda parte, lazúli, é a forma genitiva no latim, lazulum, que veio do árabe (al)- lazward, que veio do persa lazhward, que veio do sânscrito Raja Warta significando anel, vida do rei. Lazúli era originalmente um nome, mas logo veio a significar azul por causa de sua associação com a pedra. A palavra em inglês azure, do azul espanhol e português, e o azzurro italiano são cognatos. No antigo Egito o lápis-lazúli era a pedra favorita para amuletos e ornamentos; foi usado também pelos assírios e pelos babilônicos nos selos cilíndricos (locais onde se gravavam pinturas contando a historia do povo). As escavações egípcias que datam de 3000 a.C. continham milhares de artigos como jóia, muitos feitos de lápis. Os lápis pulverizados foram usados por senhoras egípcias como uma sombra cosmética para o olho. Como inscrito no capítulo 140 do Livro dos Mortos egípcio, o lápis lazúli, na forma de um olho ajustado no ouro, foi considerado um amuleto de grande poder. No último dia do mês , oferecia-se este olho simbólico, porque se acreditava que, nesse dia, um ser supremo colocou tal imagem em sua cabeça. Os antigos túmulos reais sumérios de Ur , situados perto do rio Eufrates no baixo Iraque , continham mais de 6000 estatuetas belamente executadas, de lápis-lazúli, de pássaros, cervos, e roedores bem como pratos, grânulos, e selos de cilindro. Estes artefatos vieram indubitavelmente do material minado em Badakhshan no norte do Afeganistão . É a pedra oficial do anel de formatura dos psicologos, assim considerada a partir de 31 de março de 2006 , pela resolução Nº 002/2006, do Conselho Federal de Psicologia brasileiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2040,
+        "end": 2051
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 2017,
+        "end": 2027
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

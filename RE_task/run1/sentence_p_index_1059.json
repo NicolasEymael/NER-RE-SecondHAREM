@@ -1,0 +1,14 @@
+{
+  "text": "16 de abril de 2003",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

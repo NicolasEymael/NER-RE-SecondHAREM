@@ -1,0 +1,29 @@
+{
+  "text": "\"O combate pelos direitos fundamentais é uma tarefa quotidiana, uma tarefa sem fim, dos Estados , das sociedades civis, das empresas, dos sindicatos, dos cidadãos. A sua defesa é o reconhecimento de um valor essencial à identidade europeia, faz parte do nosso código genético, e esta é a Europa a que eu quero pertencer\", concluiu.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 288,
+        "end": 294
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

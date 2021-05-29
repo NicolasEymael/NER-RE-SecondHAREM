@@ -1,0 +1,78 @@
+{
+  "text": "A linguagem de mensagens, comunicações e comunicados oficiais e oficiosos de Mills é parte da teologia que guia o tecno de Detroit : a estória do circuito informacional que corre do futuro para o presente, do Claro Amanhã dos cruzadores pesados drexciyanos, de OVNIs ('você provavelmente verá um voando...') e dos anéis de Saturno , diretamente de volta para as rôtas rotas de hoje . É um circuito que canaliza energia através do corpo do produtor para seu estúdio, energia que posteriormente sai pelo PA e se distribui sobre a pista de dança. Detroit mesma é uma picape satélite, coletando e amplificando o futuro-potencial, transmitindo-o perpassando carros enferrujados nas ruas da cidade... Mills : \"Para mim, [minha música é] sobre fazer as pesoas sentirem que elas estão num tempo à frente deste tempo presente. Como se você estivesse ouvindo alguém falar numa língua que você não entende, ou se encontrasse numa vizinhança desconhecida. Isso quer dizer tirar você da sua base, deixando o ouvinte desarmado.\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 82
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 123,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 209,
+        "end": 221
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 261,
+        "end": 266
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 323,
+        "end": 330
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 374,
+        "end": 381
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 502,
+        "end": 504
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 544,
+        "end": 551
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 695,
+        "end": 700
+      }
+    }
+  ],
+  "relations": []
+}

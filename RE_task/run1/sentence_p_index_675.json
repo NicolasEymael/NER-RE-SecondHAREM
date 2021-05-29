@@ -1,0 +1,14 @@
+{
+  "text": "O ano de 2008 promete ser aquele em que tudo se fará para combater o flagelo do doping. Pelo menos é esta a intenção de vários agentes da modalidade que criaram, para tal, o passaporte biológico, a designação de um documento electrónico e individual na qual constarão todos os resultados dos controlos antidoping à urina e ao sangue efectuados aos ciclistas, assim como o respectivo perfil hematológico. O cruzamento destas informações permitirá avaliar as variações das análises e, consequentemente, detectar se houve manipulação de sangue.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

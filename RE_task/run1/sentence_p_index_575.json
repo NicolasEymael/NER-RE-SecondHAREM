@@ -1,0 +1,30 @@
+{
+  "text": "A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da Reserva Federal dos EUA | Reserva Federal dos EUA com o objectivo de inverter o cenário de abrandamento da economia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 89,
+        "end": 112
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 115,
+        "end": 130
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 135,
+        "end": 138
+      }
+    }
+  ],
+  "relations": []
+}

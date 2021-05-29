@@ -1,0 +1,14 @@
+{
+  "text": "Credi-Telemática Eletro-Eletrônicos - Loja virtual que atende todo o território nacional com eletro-eletrônicos importados, material de informática e de telefonia. Configurações personalizadas e as últimas novidades são encontradas aqui.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

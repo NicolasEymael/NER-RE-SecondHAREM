@@ -1,0 +1,30 @@
+{
+  "text": "A China vai desenvolver telemóveis de banda larga «de nova geração» em 2008 , informa hoje a imprensa estatal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 86,
+        "end": 90
+      }
+    }
+  ],
+  "relations": []
+}

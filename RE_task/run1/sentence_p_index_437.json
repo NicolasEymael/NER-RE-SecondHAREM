@@ -1,0 +1,79 @@
+{
+  "text": "Este Programa se propõe a incentivar e a aprofundar o debate socioambiental com foco em políticas públicas, deflagrando um processo de formação de jovens e de fortalecimento dos Coletivos Jovens de Meio Ambiente existentes em todo o país. A proposta dos Coletivos Jovens vem sendo construída e implementada desde 2003 , a partir da realização da I Conferência Nacional Infanto-Juvenil pelo Meio Ambiente . (*acesse a proposta de identidade visual dos Coletivos Jovens para compreender melhor esses grupos*)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 5,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 178,
+        "end": 211
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 254,
+        "end": 270
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 307,
+        "end": 317
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 346,
+        "end": 403
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 451,
+        "end": 467
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

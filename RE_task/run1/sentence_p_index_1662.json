@@ -1,0 +1,14 @@
+{
+  "text": "O que é o Síndroma da Guerra do Golfo? Quantas pessoas é que afectou?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 10,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

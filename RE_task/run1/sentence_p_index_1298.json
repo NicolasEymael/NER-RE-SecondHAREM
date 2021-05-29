@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que foi o atentado terrorista contra a AMIA? Quantas pessoas morreram nesse ataque?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

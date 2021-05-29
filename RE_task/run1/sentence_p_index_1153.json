@@ -1,0 +1,14 @@
+{
+  "text": "Desta forma, Carlos Chagas pode descrever o agente causador, o transmissor e o modo de transmissão da doença, como também comprovar a existência de vertebrados que são reservatórios silvestres e domésticos do parasita, esclarecendo assim os aspectos básicos da epidemiologia da doença.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

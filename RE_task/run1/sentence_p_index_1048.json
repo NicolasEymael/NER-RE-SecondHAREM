@@ -1,0 +1,30 @@
+{
+  "text": "SANGUE QUENTE - Pelo menos a ocupação sinistra de Bush no Iraque serviu para mobilizar os glóbulos vermelhos de muita gente. O grupo da \" Operação Sangue Quente garante: \"O sangue não vai esfriar tão cedo. Eles estão em alerta. A idéia é que outras intervenções surpreendam os cidadãos soteropolitanos, autoridades e o que estiver no alvo dos \"guerreiros.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 50,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 138,
+        "end": 160
+      }
+    }
+  ],
+  "relations": []
+}

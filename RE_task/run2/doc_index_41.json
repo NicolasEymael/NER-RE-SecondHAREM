@@ -1,0 +1,325 @@
+{
+  "text": " História protege Briosa. CONIMBRICENSES VENCEU NA FIGUEIRA DA FOZ NAS DUAS ÚLTIMAS ÉPOCAS. Naval e Académica não podem deixar amanhã de olhar para a tradição. É que a Briosa venceu sempre na Figueira da Foz ( 2005/06 : 1-0 e 2006/07 : 1-0 ) mas, por outro lado, a Naval também costuma brilhar em Coimbra -- 2005/06 : 2-2 e 2006/07 : 2-1 ) e, neste momento , até está mais bem posicionada na Liga . No ano passado , Joeano marcou o golo do triunfo na Figueira da Foz , mas Domingos desvaloriza tudo isso. «A história nem sempre se repete e não há jogos iguais. Aliás, a Naval fez uma boa recuperação e vamos encontrar um adversário forte.» Para facilitar os índices de motivação, o técnico pede, na Figueira da Foz , «mais adeptos da Académica do que da Naval ».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 66
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 92,
+        "end": 97
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 109
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 127,
+        "end": 133
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 168,
+        "end": 174
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 192,
+        "end": 207
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 210,
+        "end": 217
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 220,
+        "end": 223
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 226,
+        "end": 233
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 236,
+        "end": 239
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 265,
+        "end": 270
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 297,
+        "end": 304
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 308,
+        "end": 315
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 318,
+        "end": 321
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 324,
+        "end": 331
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 334,
+        "end": 337
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 343,
+        "end": 356
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 392,
+        "end": 396
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 399,
+        "end": 413
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 422
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 451,
+        "end": 466
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 473,
+        "end": 481
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 570,
+        "end": 575
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 699,
+        "end": 714
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 734,
+        "end": 743
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "organizacao",
+      "span": {
+        "begin": 754,
+        "end": 759
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T13",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ter_participacao_de",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ter_participacao_de",
+      "subj": "T19",
+      "obj": "T6"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "vinculo_inst",
+      "subj": "T21",
+      "obj": "T4"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "vinculo_inst",
+      "subj": "T23",
+      "obj": "T4"
+    },
+    {
+      "id": "R12",
+      "pred": "relacao_profissional",
+      "subj": "T23",
+      "obj": "T21"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T3"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T22"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T2"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T27",
+      "obj": "T3"
+    }
+  ]
+}

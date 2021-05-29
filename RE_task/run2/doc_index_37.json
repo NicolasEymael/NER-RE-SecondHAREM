@@ -1,0 +1,569 @@
+{
+  "text": " Aristides de Sousa Mendes. A Segunda Guerra Mundial. Aristides de Sousa Mendes permanece ainda cônsul de Bordéus | cônsul de Bordéus quando tem início a Segunda Guerra Mundial , e as tropas de Adolf Hitler avançam rapidamente sobre a França . Salazar manteve a neutralidade de Portugal . Pela Circular 14 , Salazar ordena aos cônsules portugueses espalhados pelo mundo que recusem conferir vistos às seguintes categorias de pessoas: \"estrangeiros de nacionalidade indefinida, contestada ou em litígio; os apátridas; os judeus, quer tenham sido expulsos do seu país de origem ou do país de onde são cidadãos\". Entretanto, em 1940 , o governo francês refugiou-se temporariamente na cidade, fugindo de Paris antes da chegada das tropas alemãs. Dezenas de milhar de refugiados que fogem do avanço Nazi dirigiram-se a Bordéus . Muitos deles afluem ao consulado português desejando obter um visto de entrada para Portugal ou para os Estados Unidos , onde Sousa Mendes , o cônsul, caso seguisse as instruções do seu governo distribuiria vistos com parcimónia. Já no final de 1939 , Sousa Mendes tinha desobedecido às instruções do seu governo e emitido alguns vistos. Entre as pessoas que ele tinha então decidido ajudar encontra-se o Rabino de Antuérpia Jacob Kruger | Rabino de Antuérpia Jacob Kruger | Rabino de Antuérpia Jacob Kruger , que lhe faz compreender que há que salvar os refugiados judeus. A 16 de Junho de 1940 , Aristides decide entregar um visto a todos os refugiados que o pedirem: \"A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião\". Com a ajuda dos seus filhos e sobrinhos e do rabino Kruger , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis. Confrontado com os primeiros avisos de Lisboa , ele terá dito: \"Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de Deus \". Uma vez que Salazar tomara medidas contra o cônsul, Aristides continuou a sua actividade de 20 a 23 de Junho em Baiona ( França ), no escritório de um vice-cônsul estupefacto, e mesmo na presença de dois outros funcionários de Salazar . A 22 de Junho de 1940 , a França pediu um armistício à Alemanha Nazi . Mesmo a caminho de Hendaye , Aristides continua a emitir vistos para os refugiados que cruzam com ele a caminho da fronteira, uma vez que a 23 de Junho , Salazar demitira-o de suas funções de cônsul. Apesar de terem sido enviados funcionários para trazer Aristides , este lidera com a sua viatura uma coluna de veículos de refugiados e guia-os em direcção à fronteira, onde do lado espanhol não existe qualquer telefone. Por isso mesmo, os guardas fronteiriços não tinham sido ainda avisados da decisão de Madrid de fechar as fronteiras com a França . Sousa Mendes impressiona os guardas aduaneiros, que acabariam por deixar passar todos os refugiados, que com os seus vistos puderam continuar viagem até Portugal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 30,
+        "end": 52
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 54,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 96,
+        "end": 113
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 126,
+        "end": 133
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 154,
+        "end": 176
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 194,
+        "end": 206
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 235,
+        "end": 241
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 244,
+        "end": 251
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 286
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 294,
+        "end": 305
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 308,
+        "end": 315
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 622,
+        "end": 629
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 700,
+        "end": 705
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 794,
+        "end": 798
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 814,
+        "end": 821
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 908,
+        "end": 916
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 928,
+        "end": 942
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 950,
+        "end": 962
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 1057,
+        "end": 1073
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1076,
+        "end": 1088
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 1229,
+        "end": 1261
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1264,
+        "end": 1283
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 1284,
+        "end": 1296
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1299,
+        "end": 1305
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "local",
+      "span": {
+        "begin": 1309,
+        "end": 1318
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "individuo",
+      "span": {
+        "begin": 1319,
+        "end": 1331
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "tempo",
+      "span": {
+        "begin": 1398,
+        "end": 1419
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1422,
+        "end": 1431
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1633,
+        "end": 1646
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1773,
+        "end": 1779
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1883,
+        "end": 1887
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1903,
+        "end": 1910
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 1943,
+        "end": 1952
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1980,
+        "end": 1999
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 2003,
+        "end": 2009
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 2012,
+        "end": 2018
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 2118,
+        "end": 2125
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "tempo",
+      "span": {
+        "begin": 2128,
+        "end": 2149
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2154,
+        "end": 2160
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2183,
+        "end": 2196
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 2218,
+        "end": 2225
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 2228,
+        "end": 2237
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "tempo",
+      "span": {
+        "begin": 2337,
+        "end": 2350
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "individuo",
+      "span": {
+        "begin": 2353,
+        "end": 2360
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "individuo",
+      "span": {
+        "begin": 2454,
+        "end": 2463
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2705,
+        "end": 2711
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 2742,
+        "end": 2748
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "individuo",
+      "span": {
+        "begin": 2751,
+        "end": 2763
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "local",
+      "span": {
+        "begin": 2904,
+        "end": 2912
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T8"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T5"
+    },
+    {
+      "id": "R8",
+      "pred": "sede_de",
+      "subj": "T17",
+      "obj": "T10"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T17",
+      "obj": "T5"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T30",
+      "obj": "T22"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T31",
+      "obj": "T10"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T9"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T1"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T8"
+    },
+    {
+      "id": "R18",
+      "pred": "inclui",
+      "subj": "T37",
+      "obj": "T36"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T38",
+      "obj": "T9"
+    },
+    {
+      "id": "R20",
+      "pred": "localizado_em",
+      "subj": "T40",
+      "obj": "T37"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T42",
+      "obj": "T37"
+    },
+    {
+      "id": "R22",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T1"
+    },
+    {
+      "id": "R23",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T9"
+    },
+    {
+      "id": "R24",
+      "pred": "ident",
+      "subj": "T46",
+      "obj": "T1"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T48",
+      "obj": "T37"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T49",
+      "obj": "T1"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T50",
+      "obj": "T17"
+    }
+  ]
+}

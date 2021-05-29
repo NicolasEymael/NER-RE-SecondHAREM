@@ -1,0 +1,54 @@
+{
+  "text": "Agora, qualquer questão, a qualquer momento, em qualquer lugar poderá ser o próximo alvo do fervilhar sanguíneo dos coligados anônimos da \" Operação Sangue Quente . Motivos por aqui não faltam. Mas o grupo ambiciona mais: quer instigar os cidadãos a ações semelhantes. Ou, no mínimo a um exercício de pensamento. Um dia desses uma estátua de gente importante pode aparecer ensacada (como fizeram os três artistas do grupo \"3Nós3, no início da década de 80 , tempos em que São Paulo amanhecia mais surpreendente) ou algo do gênero.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 162
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 313,
+        "end": 326
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 423,
+        "end": 428
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 430,
+        "end": 455
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 458,
+        "end": 464
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 472,
+        "end": 481
+      }
+    }
+  ],
+  "relations": []
+}

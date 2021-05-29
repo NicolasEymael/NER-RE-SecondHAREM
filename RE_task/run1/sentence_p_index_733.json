@@ -1,0 +1,38 @@
+{
+  "text": "Mas o \"bloco central de interesses\" evoluiu com a economia, e adaptou-se às privatizações, deslocou-se para fora do Estado e foi para os grupos económicos, para os bancos, as seguradoras, as empresas de construção civil, etc., etc. Quase que se pode formular uma regra simples: quanto mais depender um grupo económico de decisões do governo para conduzir a sua actividade empresarial, tanto maior é a presença deste \"bloco central de interesses\" no seu seio. A deslocação do Estado para o privado significa que os mecanismos de influência tendem a deslocar-se de fora para dentro, a centrar-se na mediação de negócios, assentes em empresas de consultadoria e em grandes escritórios de advogados, que todos sabem serem as portas certas para chegar ao governo, este e os anteriores. Quando um partido político, ainda por cima na oposição, se demarca deste jogo de interesses instalado, as suas lideranças são sujeitas a um processo que começa pela descredibilização e acaba na tentativa de expulsar os incontroláveis. Marcelo Rebelo de Sousa , num momento da sua liderança, quando contestou alguns grandes negócios, foi sujeito a essa campanha.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 116,
+        "end": 122
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 475,
+        "end": 481
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 1016,
+        "end": 1039
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 1042,
+        "end": 1053
+      }
+    }
+  ],
+  "relations": []
+}

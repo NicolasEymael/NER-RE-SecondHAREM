@@ -1,0 +1,37 @@
+{
+  "text": "Em que parte da Rússia é a Catedral de Santa Sofia? Quem era o arcipreste em 1995? Que escocês é que construiu a catedral? Que imperatriz russa é que lhe encomendou a construção?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 81
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

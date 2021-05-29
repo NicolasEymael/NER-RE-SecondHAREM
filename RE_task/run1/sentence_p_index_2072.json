@@ -1,0 +1,271 @@
+{
+  "text": "São admitidos à candidatura à matrícula no curso de formação n.o 25 680/2000, publicado no Diário da República, 2.a série, 2.a série, especializada candidatos com o grau de licenciatura em Enfermagem, de 15 de Dezembro de 2000, e na sequência do despacho de 22 de de acordo com de acordo com o Regulamento dos Cursos de Formação Especializada Novembro de 2004 da reitora da Universidade de Aveiro | reitora da Universidade de Aveiro | reitora da Universidade de Aveiro, que aprovou a criação do curso de formação especializada em Enfermagem, deter- mino o seguinte: 7.o 1.o Frequência Criação O curso de formação especializada apenas poderá ser frequentado O curso de formação especializada em Enfermagem, de curta dura- em regime de tempo integral. ção, é criado de acordo com o Regulamento sobre a Criação de Cursos de Formação Especializada na Universidade de Aveiro. A criação deste curso de formação especializada pretende responder 8.o a necessidades de formação de carácter específico para licenciados em Enfermagem. A sua estrutura modular, estando orientada para Recursos necessários profissionais ou futuros profissionais que procuram formações com- A Secção Autónoma de Ciências da Saúde disponibilizará o corpo plementares específicas ou actualização de competências, permite uma docente necessário à leccionação deste curso, em articulação com gestão flexível do tempo compatível com percursos individuais de colaborações externas pontuais. formação. Os objectivos deste curso de formação especializada enquadram-se ainda nos objectivos da Universidade de Aveiro | Universidade de Aveiro para a formação pós- 9.o -graduada, proporcionando uma oferta formativa diversificada que Propinas responda a necessidades de formação contínua profissional para além da tradicional formação orientada para percursos académicos. As propinas mínimas correspondentes à frequência do curso de formação especializada serão fixadas anualmente, de acordo com o estipulado no artigo 15.o do Regulamento sobre a Criação de Cursos 2.o de Formação Especializada na Universidade de Aveiro, tendo em Organização curricular consideração os factores multiplicativos por área científica fixados pela Secção de Planeamento e Gestão do Senado | Secção de Planeamento e Gestão do Senado. O curso de formação especializada em Enfermagem, de curta dura- ção, corresponde à obtenção de um mínimo de quatro unidades de 29 de Novembro de 2004. - A Vice-Reitora, Isabel P. Martins.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 91,
+        "end": 110
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 189,
+        "end": 199
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 201,
+        "end": 226
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 294,
+        "end": 342
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 363,
+        "end": 396
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 410,
+        "end": 432
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 446,
+        "end": 458
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 462,
+        "end": 468
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 530,
+        "end": 540
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 694,
+        "end": 704
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 780,
+        "end": 869
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1012,
+        "end": 1022
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1162,
+        "end": 1198
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1553,
+        "end": 1575
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1578,
+        "end": 1590
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 1594,
+        "end": 1600
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 1927,
+        "end": 1937
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2185,
+        "end": 2225
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2228,
+        "end": 2258
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2262,
+        "end": 2268
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2307,
+        "end": 2317
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 2394,
+        "end": 2419
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 2425,
+        "end": 2437
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 2439,
+        "end": 2456
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R2",
+      "pred": "outrarel",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "outrarel",
+      "subj": "T9",
+      "obj": "T7"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T6"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T7"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T8"
+    },
+    {
+      "id": "R10",
+      "pred": "sede_de",
+      "subj": "T16",
+      "obj": "T6"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T21",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T23"
+    }
+  ]
+}

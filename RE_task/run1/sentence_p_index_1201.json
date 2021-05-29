@@ -1,0 +1,38 @@
+{
+  "text": "Antônio Houaiss, nascido no Rio de Janeiro a 15 de outubro de 1915 e, nesta mesma cidade, falecido a 7 de março de 1999, conheceu um amplo quadro de atividades como filólogo, diplomata, político, acadêmico, enciclopedista, dicionarista, bibliólogo, ensaísta, crítico literário, teórico da literatura, tradutor, jornalista, perito em gastronomia: numa palavra, um humanista.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 99,
+        "end": 119
+      }
+    }
+  ],
+  "relations": []
+}

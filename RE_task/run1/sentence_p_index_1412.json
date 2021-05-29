@@ -1,0 +1,30 @@
+{
+  "text": "Quem era o czar da Rússia | czar da Rússia durante a Segunda Grande Guerra?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 74
+      }
+    }
+  ],
+  "relations": []
+}

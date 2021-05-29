@@ -1,0 +1,45 @@
+{
+  "text": "O livro é racista. Profundamente racista. Colonialista ao limite. Publicado em 1930 , em Tintin au Congo negros são burros qual portas e são chamados de macacos. O álbum não é sequer particularmente bom: é uma obra menor na coleção ilustrada e redigida por Georges Remi , que se assinava Hergé .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 76,
+        "end": 83
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 89,
+        "end": 104
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 257,
+        "end": 269
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 288,
+        "end": 293
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

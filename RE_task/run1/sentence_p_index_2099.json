@@ -1,0 +1,30 @@
+{
+  "text": "HQs de Velta disponíveis em CD-Rom (22/03/05)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 3
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 12
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

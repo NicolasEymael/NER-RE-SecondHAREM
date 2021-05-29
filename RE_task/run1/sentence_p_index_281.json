@@ -1,0 +1,85 @@
+{
+  "text": "O NUCLIO vai por isso assinar sábado um protocolo com a Câmara Municipal de Cascais | Câmara Municipal de Cascais para que o Centro de Interpretação Ambiental seja disponibilizado para as suas actividades junto da comunidade escolar. De acordo com o documento, a autarquia irá ainda apoiar a formação agendada para o presente ano lectivo com vinte mil euros . Durante a feira será também apresentado o livro de divulgação científica \" Passeio Aleatório pela ciência do dia-a-dia \", com a presença do autor Nuno Crespo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 56,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 86,
+        "end": 102
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 113
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 158
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 310,
+        "end": 337
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 435,
+        "end": 478
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 506,
+        "end": 517
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T9",
+      "obj": "T8"
+    }
+  ]
+}

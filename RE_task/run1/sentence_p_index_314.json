@@ -1,0 +1,99 @@
+{
+  "text": "Com base nas conclusões do seminário e nos resultados dos trabalhos desenvolvidos pela Comissão , ao nível de grupo de peritos, foi possível obter acordo sobre dois documentos de Conclusões do Conselho | Conclusões do Conselho adoptados no Conselho JAI de 5/6 de Dezembro . Um desses documentos ( Conclusões do Conselho sobre o desenvolvimento e estabelecimento de sistemas de alerta precoce na UE ) segue uma abordagem global multi-riscos, enquanto o outro ( Conclusões do Conselho sobre o desenvolvimento de um sistema de alerta precoce para tsunamis no Atlântico Nordeste e no Mediterrâneo ) direcciona as atenções para o risco de tsunamis. Ambos os documentos contêm diversas propostas de actuação futura por parte da Comissão e dos Estados-Membros .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 87,
+        "end": 95
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 179,
+        "end": 201
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 204,
+        "end": 214
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 218,
+        "end": 226
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 240,
+        "end": 252
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 253,
+        "end": 271
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 297,
+        "end": 397
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 460,
+        "end": 592
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 722,
+        "end": 730
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 737,
+        "end": 752
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T2"
+    }
+  ]
+}

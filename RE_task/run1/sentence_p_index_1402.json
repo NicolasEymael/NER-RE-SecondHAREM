@@ -1,0 +1,22 @@
+{
+  "text": "Quem ganhou o Óscar Honorário em 2007?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 14,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

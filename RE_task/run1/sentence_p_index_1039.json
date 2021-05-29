@@ -1,0 +1,14 @@
+{
+  "text": "Receba este blog PermalinkEnvieComente Ler comentários ( 2 )",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 57,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

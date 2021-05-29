@@ -1,0 +1,54 @@
+{
+  "text": "A missão científica da nave foi concluída em 30 de abril de 2002 . Depois disso, o satélite deixou de ter sua órbita corrigida. O atrito com as camadas mais altas da atmosfera gradativamente diminuiu a altitude, o que culminou com a reentrada, ontem . Como a volta à Terra não foi realizada de forma controlada (como aconteceu com as 135 toneladas da estação espacial Mir , em 2001 ), era impossível prever exatamente onde os destroços iriam cair.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 64
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 244,
+        "end": 249
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 267,
+        "end": 272
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 334,
+        "end": 347
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 368,
+        "end": 371
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 374,
+        "end": 381
+      }
+    }
+  ],
+  "relations": []
+}

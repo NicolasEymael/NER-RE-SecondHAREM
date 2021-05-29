@@ -1,0 +1,67 @@
+{
+  "text": "Do seu casamento com Leonor de Alvim , o Condestável teve apenas uma filha, Beatriz Pereira de Alvim , que se tornou mulher de Afonso , o primeiro Duque de Bragança , sendo assim um dos antepassados da actual casa real portuguesa. Lembrado como um dos melhores generais portugueses, abraça, nos últimos anos , a vida religiosa carmelita.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 41,
+        "end": 52
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 76,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 127,
+        "end": 133
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 147,
+        "end": 164
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 291,
+        "end": 307
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

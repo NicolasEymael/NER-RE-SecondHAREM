@@ -1,0 +1,14 @@
+{
+  "text": "Uma das tarefas mais importantes da arte foi sempre a de gerar uma demanda cujo atendimento integral só poderia produzir-se mais tarde .\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 124,
+        "end": 134
+      }
+    }
+  ],
+  "relations": []
+}

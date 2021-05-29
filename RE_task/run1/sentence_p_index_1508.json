@@ -1,0 +1,14 @@
+{
+  "text": "A que partido pertence Angela Merkel? Como se chama o irmão dela? Quem disse \"Die multikulturelle Gegelllschaft ist gescheitert\" ? .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

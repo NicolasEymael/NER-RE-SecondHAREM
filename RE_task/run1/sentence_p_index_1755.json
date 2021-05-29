@@ -1,0 +1,14 @@
+{
+  "text": "Quais são as cidades-estado da Alemanha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

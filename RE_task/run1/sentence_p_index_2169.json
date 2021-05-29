@@ -1,0 +1,14 @@
+{
+  "text": "Questões Frequentemente Perguntadas - Frequently Asked Questions (FAQ)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 9,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,525 @@
+{
+  "text": " Fernão de Magalhães. Fernão de Magalhães, algumas vezes referenciado como Fernando de Magalhães, (primavera de 1480 --- 27 de abril de 1521) foi um navegador português que, ao serviço do rei de Espanha | rei de Espanha, comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo. Foi o primeiro a dobrar estreito hoje conhecido pelo seu nome (o Estreito de Magalhães) e o primeiro europeu a navegar no Oceano Pacífico. Fernão de Magalhães morre nas Filipinas no curso daquela expedição, posteriormente chefiada por Juan Sebastián Elcano 1522. Alista-se com 25 anos na armada que foi à Índia, comandada por Francisco de Almeida, embora o seu nome não figure nas crónicas; sabe-se no entanto que ali permaneceu oito anos, que esteve em Goa, Cochim, Quíloa, que acompanhou Diogo Lopes de Sequeira a Malaca, viagem que acabou em naufrágio. No Oriente, Magalhães estabeleceu estreitas relações de amizade com Francisco Serrão, que veio a ser feitor nas Molucas; dele teria tido informações quanto à situação dos lugares produtores de especiarias. Tendo-se distinguido na defesa deAzamor, em que acompanhara o duque de Bragança, pediu a D. Manuel uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do Rei. Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas. Em 1517 foi a Sevilha com Rui Faleiro, tendo encontrado no feitor da Casa de la Contratación da cidade um adepto do projecto que entretanto concebera: dar a Espanha a possibilidade de atingir as Molucas pelo Ocidente, por mares não reservados aos portugueses no Tratado de Tordesilhas e, além disso, segundo Faleiro, provar que as ilhas das especiarias se situavam no hemisfério castelhano. Com a influência do bispo de Burgos | bispo de Burgos conseguiram a aprovação do projecto por parte de Carlos V, e começaram os morosos preparativos para a viagem, cheios de incidentes; depois da ruptura com Rui Faleiro, Magalhães continuou a aparelhagem dos cinco navios que, com 256 homens de tripulação, partiram de Sanlúcar de Barrameda em 20 de Setembro de 1519. A esquadra tinha cinco navios e era tripulada por 250 homens.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 41
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 56
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 75,
+        "end": 96
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 99,
+        "end": 140
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 188,
+        "end": 202
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 212,
+        "end": 219
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 345,
+        "end": 349
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 377,
+        "end": 398
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 449
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 451,
+        "end": 470
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "local",
+      "span": {
+        "begin": 481,
+        "end": 490
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 547,
+        "end": 568
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 569,
+        "end": 573
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 589,
+        "end": 596
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 617,
+        "end": 622
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 638,
+        "end": 658
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 741,
+        "end": 750
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 766,
+        "end": 769
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 771,
+        "end": 777
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 779,
+        "end": 785
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 802,
+        "end": 825
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 828,
+        "end": 834
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "local",
+      "span": {
+        "begin": 871,
+        "end": 878
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 880,
+        "end": 889
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "individuo",
+      "span": {
+        "begin": 936,
+        "end": 952
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 980,
+        "end": 987
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1107,
+        "end": 1113
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "individuo",
+      "span": {
+        "begin": 1136,
+        "end": 1153
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "individuo",
+      "span": {
+        "begin": 1163,
+        "end": 1172
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "individuo",
+      "span": {
+        "begin": 1336,
+        "end": 1339
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "tempo",
+      "span": {
+        "begin": 1444,
+        "end": 1451
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "local",
+      "span": {
+        "begin": 1458,
+        "end": 1465
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "individuo",
+      "span": {
+        "begin": 1470,
+        "end": 1481
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1513,
+        "end": 1536
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1601,
+        "end": 1608
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1639,
+        "end": 1646
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "local",
+      "span": {
+        "begin": 1652,
+        "end": 1660
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "obra",
+      "span": {
+        "begin": 1706,
+        "end": 1728
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 1752,
+        "end": 1759
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "individuo",
+      "span": {
+        "begin": 1855,
+        "end": 1870
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "local",
+      "span": {
+        "begin": 1882,
+        "end": 1888
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 1938,
+        "end": 1946
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "individuo",
+      "span": {
+        "begin": 2043,
+        "end": 2054
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "individuo",
+      "span": {
+        "begin": 2056,
+        "end": 2065
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "valor",
+      "span": {
+        "begin": 2116,
+        "end": 2119
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "local",
+      "span": {
+        "begin": 2154,
+        "end": 2175
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "tempo",
+      "span": {
+        "begin": 2176,
+        "end": 2201
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "valor",
+      "span": {
+        "begin": 2253,
+        "end": 2256
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "relacao_profissional",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T16"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T16"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T24"
+    },
+    {
+      "id": "R10",
+      "pred": "ident",
+      "subj": "T31",
+      "obj": "T30"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T33",
+      "obj": "T7"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T33"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R14",
+      "pred": "vinculo_inst",
+      "subj": "T36",
+      "obj": "T6"
+    },
+    {
+      "id": "R15",
+      "pred": "localizado_em",
+      "subj": "T36",
+      "obj": "T7"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T27"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T40",
+      "obj": "T34"
+    },
+    {
+      "id": "R18",
+      "pred": "incluido",
+      "subj": "T42",
+      "obj": "T7"
+    },
+    {
+      "id": "R19",
+      "pred": "vinculo_inst",
+      "subj": "T43",
+      "obj": "T7"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T44"
+    },
+    {
+      "id": "R21",
+      "pred": "ident",
+      "subj": "T45",
+      "obj": "T1"
+    }
+  ]
+}

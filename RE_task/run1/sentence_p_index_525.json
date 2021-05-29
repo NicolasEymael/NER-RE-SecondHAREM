@@ -1,0 +1,78 @@
+{
+  "text": "Em três \"duelos\", face a Jesualdo, então ao comando do Sp.Braga, Camacho venceu por duas vezes como visitante (3-1 em 2002/2003 e 3-0 em 2003/2004) e uma como anfitrião (2-0 em 2003/2004).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 55,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 65,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 80,
+        "end": 94
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 111,
+        "end": 114
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 115,
+        "end": 127
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 134,
+        "end": 146
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 170,
+        "end": 173
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 186
+      }
+    }
+  ],
+  "relations": []
+}

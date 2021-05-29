@@ -1,0 +1,14 @@
+{
+  "text": "Quando já recuperara para o quinto posto, eis que o britânico abranda com problemas na electrónica, acabando na 18.ª posição, o que o obriga a fazer uma corrida de trás para a frente na busca do título!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 112,
+        "end": 116
+      }
+    }
+  ],
+  "relations": []
+}

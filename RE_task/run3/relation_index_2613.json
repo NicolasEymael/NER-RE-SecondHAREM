@@ -1,0 +1,29 @@
+{
+  "text": " China vai desenvolver nova geração de telemóveis em 2008. A China vai desenvolver telemóveis de banda larga «de nova geração» em 2008 , informa hoje a imprensa estatal. O Conselho de Estado aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais TD-SCDMA . A estreia poderá acontecer durante os Jogos Olímpicos de 2008 | Jogos Olímpicos de 2008 . O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o ministro da Indústria da Informação , Wang Xundong , citado pela agência Xinhua . Segundo Wang , este será um dos principais temas da pesquisa tecnológica chinesa em 2008 , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros. A tecnologia TD-SCDMA é desenvolvida integralmente pela China , em oposição aos padrões norte-americanos ( CDMA 2000 ) e europeus ( WCDMA ). Ainda não há data para a concessão de licenças para telemóveis 3G , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país: China Telecom , China Netcom , China Mobile e China Unicom .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 576,
+        "end": 611
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 6
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

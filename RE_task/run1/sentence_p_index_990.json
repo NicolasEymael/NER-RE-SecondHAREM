@@ -1,0 +1,62 @@
+{
+  "text": "Assim como na África e no Brasil , na Índia , no Afeganistão , na Indonésia , a fórmula beat futurista somado à tradição, se repetirá. Uma lógica planetária, uma espécie de cultura global periférica se estabelecerá. Para nós brasileiros, por exemplo, o Kuduro pode vir a representar a feliz descoberta de que, embora alguns anseiem, desesperadamente, pelo nosso ingresso no clube dos brancos países desenvolvidos, fazemos parte sim - e disto muito devemos nos orgulhar- do universo paralelo da mais complexa, viva, diversificada e pujante Periferia .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 14,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 32
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 38,
+        "end": 43
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 60
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 66,
+        "end": 75
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 253,
+        "end": 259
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 539,
+        "end": 548
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Neste sentido, em Dezembro de 2006 , a Comissão apresentou uma proposta de Directiva do Conselho , na qual se propõem medidas para a identificação e designação das infra estruturas críticas europeias e para a avaliação da necessidade de melhorar a sua protecção, sendo que são abrangidas aquelas cuja perturbação ou destruição afectaria dois ou mais Estados-Membros , ou um único Estado-Membro se a infra-estrutura crítica estiver localizada em outro Estado-Membro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 75,
+        "end": 96
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 350,
+        "end": 365
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 380,
+        "end": 393
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 451,
+        "end": 464
+      }
+    }
+  ],
+  "relations": []
+}

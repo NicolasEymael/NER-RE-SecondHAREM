@@ -1,0 +1,14 @@
+{
+  "text": "CooperSis Informática - Somos especializados em pequenas e medias empresas que nao possuem informatizacao ou estao descontentes com o que tem",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 21
+      }
+    }
+  ],
+  "relations": []
+}

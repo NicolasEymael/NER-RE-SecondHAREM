@@ -1,0 +1,30 @@
+{
+  "text": "Permitam-me por isso que duvide da ofensiva putativa de Janeiro , porque a diferença não se faz com mais ou menos \"estudos\", \"porta-vozes\" ou \"governos-sombra\". Faz-se em primeiro lugar com políticas e não faltaram ocasiões nos últimos meses para se ser firme e duro com a política de um governo que está a empobrecer-nos a todos em nome de um modelo \"social\" que não tem futuro. Isto, na hipótese de o PSD ter um modelo diferente, que só pode ser mais liberal, mesmo que só moderadamente liberal, o que já não era mau.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 53,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 224,
+        "end": 241
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 403,
+        "end": 406
+      }
+    }
+  ],
+  "relations": []
+}

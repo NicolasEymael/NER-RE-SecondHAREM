@@ -1,0 +1,54 @@
+{
+  "text": "Para contribuir para este debate, a ANPC realizou, de 15 a 18 de Julho , em Albufeira , um seminário sobre Sistemas de Alerta Precoce , o qual reuniu cerca de 120 especialistas da maior parte dos Estados-Membros e no qual se procurou:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 36,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 70
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 76,
+        "end": 85
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 107,
+        "end": 133
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 150,
+        "end": 162
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 196,
+        "end": 211
+      }
+    }
+  ],
+  "relations": []
+}

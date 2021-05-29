@@ -1,0 +1,22 @@
+{
+  "text": "Que organismo dirigiu Alan Turing durante a Segunda Guerra Mundial?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 44,
+        "end": 66
+      }
+    }
+  ],
+  "relations": []
+}

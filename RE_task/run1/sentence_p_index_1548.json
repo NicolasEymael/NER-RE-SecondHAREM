@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano nasceu Richard Nixon?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

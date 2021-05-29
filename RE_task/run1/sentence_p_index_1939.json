@@ -1,0 +1,14 @@
+{
+  "text": "Onde morreu Kurt Cobain?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

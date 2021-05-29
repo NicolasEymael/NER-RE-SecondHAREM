@@ -1,0 +1,14 @@
+{
+  "text": "Qual o significado da sigla NSUK?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 28,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

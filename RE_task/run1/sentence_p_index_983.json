@@ -1,0 +1,105 @@
+{
+  "text": "Ficou tudo em casa, no entanto, porque ambos os ritmos (como a maior parte das danças de negro do Brasil , desde, pelo menos, o século 19 ), tipicamente urbanos que são, vieram, provavelmente, do Kaduke , espécie de Kuduro surgido na cidade de Ambaça ( Mbaka ), grande centro urbano e comercial (!) lá pelos idos de 1880 (veja Capello e Ivens ), no tempo da colonização portuguesa em Angola",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 98,
+        "end": 104
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 107,
+        "end": 137
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 196,
+        "end": 202
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 216,
+        "end": 222
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 244,
+        "end": 250
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 253,
+        "end": 258
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 302,
+        "end": 320
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 327,
+        "end": 342
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 346,
+        "end": 354
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 384,
+        "end": 390
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "pratica_se",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T5"
+    }
+  ]
+}

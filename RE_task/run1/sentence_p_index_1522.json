@@ -1,0 +1,14 @@
+{
+  "text": "Que idade tinha Cate Blanchett quando lhe morreu o pai? Qual foi o primeiro filme dela?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

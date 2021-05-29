@@ -1,0 +1,22 @@
+{
+  "text": "8.5. O IBAP na luta pela defesa do Meio Ambiente",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 7,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 35,
+        "end": 48
+      }
+    }
+  ],
+  "relations": []
+}

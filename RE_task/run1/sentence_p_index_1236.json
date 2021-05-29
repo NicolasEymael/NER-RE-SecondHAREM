@@ -1,0 +1,22 @@
+{
+  "text": "Na lingüística atual considera-se com freqüência só a língua falada 'primária' (espontânea ou 'usual') como 'natural' e 'livre', ao mesmo tempo que a língua exemplar (ou 'língua padrão') e a forma literária desta se consideram como 'artificiais' e 'impostas'. Por conseguinte, consideram-se também só a gramática descritiva 'objetivista' como realmente científica e a gramática normativa como expressão sem fundamento científico duma atitude antiliberal e dogmática. Trata de erros e confusões teóricas que procedem da concepção positivista vulgar da linguagem e da Lingüística. Na realidade e, portanto, na boa teoria, a língua literária representa o grau mais alto da dimensão deôntica (o 'dever ser') da língua; e a gramática normativa é a manifestação metalingüística explícita desta dimensão.7",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 34,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 566,
+        "end": 577
+      }
+    }
+  ],
+  "relations": []
+}

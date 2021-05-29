@@ -1,0 +1,29 @@
+{
+  "text": "A Leucotomia foi a primeira técnica de Psicocirurgia ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 39,
+        "end": 52
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

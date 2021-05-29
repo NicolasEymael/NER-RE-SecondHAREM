@@ -1,0 +1,38 @@
+{
+  "text": "O trato com a língua e seu léxico está presente em Oiticica e em Houaiss, o que leva os dois a defender a necessidade da riqueza vocabular. As seguintes palavras são do velho mestre do Colégio Pedro II, mas Houaiss poderia subscrevê-las com prazer e com assentimento:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 51,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 65,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 185,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 207,
+        "end": 214
+      }
+    }
+  ],
+  "relations": []
+}

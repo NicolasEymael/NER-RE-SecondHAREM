@@ -1,0 +1,93 @@
+{
+  "text": "A relação do tecno com o binômio homem-máquina, no diálogo com Jeff Mills , o legendário produtor de tecno de Detroit nos leva a impressionantes insights do impacto que a terceira onda tem causado na paisagem contemporânea. Detroit , essa \"cidade portátil\", virtualizada na minimalista batida de um sequenciador automático, profetiza em sua música - que já nos deu a Motown , Stooges , e MC5 - o zeitgeist deste início de milênio .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 73
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 110,
+        "end": 117
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 224,
+        "end": 231
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 367,
+        "end": 373
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 376,
+        "end": 383
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 388,
+        "end": 391
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 406,
+        "end": 429
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

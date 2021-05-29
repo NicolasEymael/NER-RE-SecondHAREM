@@ -1,0 +1,103 @@
+{
+  "text": "São eles o cazaque Alexandre Vinokourov ( Astana ), os espanhóis Alberto Contador ( Discovery ) e Alejandro Valverde ( Caisse ), e o norte-americano Levy Leipheimer ( Discovery ). Nós, portugueses, teremos em atenção a estreia de Sérgio Paulinho .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 42,
+        "end": 48
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 65,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 84,
+        "end": 93
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 116
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 119,
+        "end": 125
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 149,
+        "end": 164
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 167,
+        "end": 176
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 230,
+        "end": 245
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

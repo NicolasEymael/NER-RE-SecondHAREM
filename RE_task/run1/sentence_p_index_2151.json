@@ -1,0 +1,14 @@
+{
+  "text": "Só tem que escolher o seu destino e o magellan roadmate calcula automaticamente a sua rota,caso mude a sua rota, para tomar um atalho o RoadMate recalcula a sua rota.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 136,
+        "end": 144
+      }
+    }
+  ],
+  "relations": []
+}

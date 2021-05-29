@@ -1,0 +1,30 @@
+{
+  "text": "Desenhos em Cad e serviços de informatica - Desenhos em CAD, desenhos elétricos, diagramas de força e comando, desenhos para engenharia, etc. Se seu Windows sempre trava ou não funciona direito mande um e-mail",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 12,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 56,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 149,
+        "end": 156
+      }
+    }
+  ],
+  "relations": []
+}

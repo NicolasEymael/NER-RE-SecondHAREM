@@ -1,0 +1,54 @@
+{
+  "text": "No mercado relevante de Viana do Castelo , a Sonae terá que alienar o projecto da loja Carrefour e, se não existir comprador para o projecto, não poderá utilizar a licença num prazo de cinco anos a contar da decisão da Autoridade , salvo se, entretanto, tiver aberto ao público algum hipermercado concorrente na região, segundo o comunicado da AdC .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 87,
+        "end": 96
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 182,
+        "end": 195
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 219,
+        "end": 229
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 344,
+        "end": 347
+      }
+    }
+  ],
+  "relations": []
+}

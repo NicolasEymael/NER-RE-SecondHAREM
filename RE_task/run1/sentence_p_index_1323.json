@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamava a bomba atómica largada em Nagasaqui?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

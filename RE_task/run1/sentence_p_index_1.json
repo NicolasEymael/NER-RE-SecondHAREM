@@ -1,0 +1,287 @@
+{
+  "text": "A revolta histórica produz normalmente uma nova forma de pensamento quanto à forma de organização da sociedade. Assim foi com a Reforma Protestante . No seguimento do colapso de instituições monásticas e do escolasticismo nos finais da Idade Média na Europa , acentuado pela \" Cativeiro Babilónica da igreja \" no papado de Avignon , o Grande Cisma e o fracasso da conciliação, assistimos no século XVI ao fermentar de um enorme debate sobre a reforma da religião e dos posteriores valores religiosos fundamentais. Este debate passou completamente ao lado de Portugal , demasiado distante do foco onde surgiram estes pensamentos. A imprensa, inventada na Alemanha por John Gutenberg , foi importante na divulgação destas ideias. As 95 Teses de Martinho Lutero | 95 Teses de Martinho Lutero foram imediatamente impressas e divulgadas por todas as regiões de língua alemã, o que contribuiu para a crescente popularidade de Martinho Lutero . Não menos relevante foi a influência da pressão social exercida pela Contra-Reforma , na qual os Jesuítas tiveram um papel de liderança. A Inquisição e a censura exercida pela Igreja Católica foram igualmente determinantes para evitar que as ideias reformadoras encontrassem divulgação em Portugal , Espanha ou Itália , países católicos. Historiadores assumem geralmente que a incapacidade de reformar (grande número de interesses legítimos, falta de coordenação na coligação dos reformadores) poderia levar a uma grande revolta ou revolução, uma vez que o sistema deverá ser gradualmente ajustado ou então desintegrar-se. O fracasso da conciliação levou à Reforma Protestante do ocidente europeu. Estes movimentos reformistas frustrados variam desde o nominalismo, a moderna devoção, ao humanismo, e ocorrem em conjunção com o crescente desagrado perante a riqueza e o poder da elite clerical, sensibilizando a população para a corrupção moral e financeira da Igreja .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 128,
+        "end": 147
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 236,
+        "end": 247
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 251,
+        "end": 257
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 277,
+        "end": 307
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 323,
+        "end": 330
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 335,
+        "end": 347
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 388,
+        "end": 401
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 558,
+        "end": 566
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 654,
+        "end": 662
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 667,
+        "end": 681
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "obra",
+      "span": {
+        "begin": 731,
+        "end": 758
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 761,
+        "end": 769
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 773,
+        "end": 788
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 920,
+        "end": 935
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1007,
+        "end": 1021
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1035,
+        "end": 1043
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1077,
+        "end": 1087
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1114,
+        "end": 1129
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1227,
+        "end": 1235
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 1238,
+        "end": 1245
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "local",
+      "span": {
+        "begin": 1249,
+        "end": 1255
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1595,
+        "end": 1614
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1899,
+        "end": 1905
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "natural_de",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R4",
+      "pred": "autor_de",
+      "subj": "T13",
+      "obj": "T12"
+    },
+    {
+      "id": "R5",
+      "pred": "natural_de",
+      "subj": "T13",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "participante_em",
+      "subj": "T13",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T13"
+    },
+    {
+      "id": "R8",
+      "pred": "participante_em",
+      "subj": "T16",
+      "obj": "T15"
+    },
+    {
+      "id": "R9",
+      "pred": "inclui",
+      "subj": "T18",
+      "obj": "T17"
+    },
+    {
+      "id": "R10",
+      "pred": "produtor_de",
+      "subj": "T18",
+      "obj": "T15"
+    },
+    {
+      "id": "R11",
+      "pred": "natural_de",
+      "subj": "T19",
+      "obj": "T8"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T20",
+      "obj": "T3"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T3"
+    },
+    {
+      "id": "R15",
+      "pred": "ident",
+      "subj": "T22",
+      "obj": "T1"
+    },
+    {
+      "id": "R16",
+      "pred": "ident",
+      "subj": "T23",
+      "obj": "T18"
+    }
+  ]
+}

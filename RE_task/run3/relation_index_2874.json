@@ -1,0 +1,29 @@
+{
+  "text": " Quadrinhos e pop art - É neste processo de renovação da sociedade norte-americana que a pop art ganha um impulso e, de certa forma, contribui para que os quadrinhos voltem de novo a ser tratados como coisa séria. Os artistas procuravam demolir a rigidez e a seriedade das artes plásticas através de ícones da sociedade ocidental. Garrafas de Coca Cola, latas de sopa, símbolos gráficos usados em estações de metrô eram usados em associações livres que permitiam o estabelecimento de relações simbólicas e afetivas com as obras em questão. Era uma arte que se valia da repetição de signos conhecidos no intuito de buscar uma identificação com o público a que ela se destinava. A idéia era eliminar as barreiras entre as culturas erudita e popular. Sendo assim, é compreensível que os grandes nomes da pop art utilizassem também as histórias em quadrinhos como um elemento a mais dentro de seus trabalhos. Afinal, a linguagem das HQs, um balão de texto ligado a uma imagem, possibilita a compreensão imediata da mensagem. Além do que, graficamente, eles dispunham de inúmeras referências que serviriam de parâmetro para os pintores pop. Isso pode ser visto na obra de Roy Lichtenstein e seus painéis diretamente copiados de tiras de jornal e, em menor escala, no trabalho de Andy Warhol. Neste caso, mais em decorrência da forma como ele dispunha suas obras - utilizando a narrativa seqüencial em cores primárias nos célebres retratos de Marilyn Monroe, Mao Tsé Tung e James Dean - do que propriamente por se comportar como um quadrinhista tradicional. Ao levar para as galerias a estética das HQs, a pop arte fez com que os quadrinhos ganhassem de volta o respeito que haviam perdido na década de 50. Claro que isso não seria possível sem a renovação promovida pelos Comix. Com a pop art os quadrinhos passaram a ser aceitos por uma camada mais intelectualizada da sociedade. Jules Feiffer tem suas tiras publicadas nas páginas da elitista New Yorker. Na Europa, François Truffaut, Alain Resnais, Federico Fellini e Umberto Eco, teorizam sobre as HQs e declaram seu amor aos quadrinistas norte-americanos. Com a benção da pop art, finalmente as histórias em quadrinhos viraram coisa de gente grande. A quebra de valores promovida pela pop art, pela contracultura, pelos comix e pela beat generation influenciou ainda o jornalismo e a literatura. Hunter S. Thompson e Tom Wolfe criam o \"new journalism\" e inventam uma nova forma de narrativa, misturando a notícia a impressões pessoais e estados alterados de consciência. Se, por um lado, Thompson experimentou todos os tipos de substâncias legais e ilegais para escrever Fear & Loathing in Las Vegas, um relato de suas maluquices na capital mundial do jogo, Wolfe desenvolveu uma linguagem acelerada e dinâmica parecida com as narrativas das HQs. Inclusive com a utilização de onomatopéias:. \"mesmo que alguém quebrasse a corrente e em que todos fluíam e fosse bater de encontro ao asfalto da Grande Estrada a noventa quilômetros por hora - eles possuiam isso gravado na fita - e podiam tocar muitas vezes em retardos variáveis, skakkkkkkkkkkk-akkkkkkkk-akkkkk-akkkkkeeeeeeeeeeeeeeeeeeeeeeeeeeeee. VOCÊ É DEUS ... Tom Wolfe - O Teste do Ácido do Refresco Elétrico. Essa foi a estética vigente dos primeiros textos da literatura underground norte-americana. Em livros como V, O Leilão do Lote 49 e Arco Íris da Gravidade, todos publicados no período que vai de 61 a 73, o escritor Thomas Pynchon freqüentemente adota um modelo de narrativa semelhante ao das histórias em quadrinhos e nos diverte com aviões sendo abatidos por uma rajada de tortas de creme, sátiras ao quadrinho de herói (o personagem Homem Foguete é claramente inspirado no Capitão América), monstros imensos que surgem do nada, ratos falantes, uma rolha assassina que persegue um casal em pleno ato sexual e personagens como nomes improváveis e absurdos (Benny Profane, Oedipa e Mucho Maas, Pierce Inverarity, Fausto Magistral, Tyrone Slothrop, General Pudding, Pig Bodine...). Quem também se utiliza do humor quase infantil das HQs é Kurt Vonnegut em seu manifesto anti-militarista Matadouro 5 e no experimental Timequake. Foi essa reciclagem da cultura de massa norte-americana e a sua junção com os valores emergentes da contracultura que permitiu o surgimento de uma narrativa genuinamente pós-moderna, um gênero que, além de bastante divertido, deixou fortes marcas na literatura norte-americana. Dos anos 60 até os dias de hoje. Fonte: Kung Fu Lounge (http://kfl.blogspot.com/).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 4130,
+        "end": 4139
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 4052,
+        "end": 4065
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

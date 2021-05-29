@@ -1,0 +1,14 @@
+{
+  "text": "Alessandro Nesta saiu em defesa do companheiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    }
+  ],
+  "relations": []
+}

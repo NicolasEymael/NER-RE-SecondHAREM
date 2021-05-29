@@ -1,0 +1,14 @@
+{
+  "text": "Quem se tornou chanceler após ter sido ministro-presidente da Renânia-Palatinado?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 62,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

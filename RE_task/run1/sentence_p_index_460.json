@@ -1,0 +1,14 @@
+{
+  "text": "Nuno Álvares Pereira",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    }
+  ],
+  "relations": []
+}

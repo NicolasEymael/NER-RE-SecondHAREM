@@ -1,0 +1,14 @@
+{
+  "text": "Quantos saltos formam as Cataratas do Iguaçú?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 44
+      }
+    }
+  ],
+  "relations": []
+}

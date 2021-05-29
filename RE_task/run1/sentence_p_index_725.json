@@ -1,0 +1,14 @@
+{
+  "text": "ONDE ESTÁ O PSD ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 12,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

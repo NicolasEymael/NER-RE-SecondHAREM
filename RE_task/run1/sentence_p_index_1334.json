@@ -1,0 +1,14 @@
+{
+  "text": "Quantas pessoas morreram no afundamento do USS Maine?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 43,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

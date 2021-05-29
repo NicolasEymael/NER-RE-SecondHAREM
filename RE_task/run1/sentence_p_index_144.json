@@ -1,0 +1,22 @@
+{
+  "text": "Em dois anos a banda já superou a marca dos 75 concertos, entre os quais se destacam:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 44,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

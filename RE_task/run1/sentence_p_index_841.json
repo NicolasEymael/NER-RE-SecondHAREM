@@ -1,0 +1,14 @@
+{
+  "text": "Ainda que algumas destas ameaças lhe possam parecer interessantes, a Panda recomenda o afastamento face a estes exemplos de malware.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 69,
+        "end": 74
+      }
+    }
+  ],
+  "relations": []
+}

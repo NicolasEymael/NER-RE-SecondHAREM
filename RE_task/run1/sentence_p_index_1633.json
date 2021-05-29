@@ -1,0 +1,22 @@
+{
+  "text": "Quem é Amira Casar? Onde é que ela nasceu? Em que filme é que ela entrou com Richard Anconina?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 93
+      }
+    }
+  ],
+  "relations": []
+}

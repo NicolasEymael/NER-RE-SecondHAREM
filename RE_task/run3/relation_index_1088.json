@@ -1,0 +1,29 @@
+{
+  "text": " A fotografia mais famosa de guerra, o instante em que Federico Borrell , um miliciano republicano cai depois de atingido por uma bala franquista, está agora de novo em crise de autenticidade. Há anos que se discute se a fotografia da autoria do famoso fotojornalista Robert Capa é ou não encenada. Agora um documentário, \" A Sombra do Iceberg \", premiado com o prémio Melhor documentário ibero-americano , no México , vem outra vez questionar a autenticidade da cena ocorrida em Cerro Muriano , povoação dos arredores de Córdoba , e feita em 1936 , no dia 5 de Setembro . As dúvidas levantadas prendem-se com factos investigados. Hugo Doménech , professor da Universidade Jaume de Castellón | professor da Universidade Jaume de Castellón e do jornalista Raul Riebenbaueur reuniram um especialista forense, um militar geodésico e um astrofísico e recolheram depoimentos locais. No filme prevalece a ideia de que o miliciano não foi morto às nove mas à uma da tarde , que há um relato local que diz Borrel ter sido morto atrás de uma árvore, que não existe na foto, e que o miliciano fotografado não é o que foi morto naquele dia . O facto de Capa viajar então com a namorada Gerda Taro (morta pouco depois) e de enviar para Paris os rolos todos misturados sem a designação a quem pertencia cada um, ainda lança mais confusão na história. Por outro lado o negativo original nunca mais apareceu, nem a tira com as fotos tiradas antes e depois . Apesar de se conhecer uma sequência de fotos feitas no mesmo local. O biógrafo de Capa , Richard Whelan - falecido há pouco - recusou depor para o documentário e Cornell Capa , o irmão de Robert , já de idade avançada, nada comenta, remetendo tudo para a sua filha, a fiel depositária do espólio de Robert Capa . A fotografia foi publicada pela primeira vez, em 1936 , na revista VU - pioneira do fotojornalismo moderno e inspiradora de LIFE - e dois anos mais tarde (como andava devagar então a informação!) na LIFE . Na edição da VU Robert Capa era apresentado como o melhor fotógrafo de guerra do Mundo | Mundo e a paginação da reportagem era feito num estilo então vanguardista de fotohistória. Capa era de uma coragem à prova de bala a trabalhar no cenário de guerra. Fotografou por dentro a Guerra Civil espanhola, sempre pelo lado republicano, estava no Dia D | no Dia D na Normandia e acabou por morrer ao pisar uma mina na Indochina a 25 de Maio de 1954 . Como curiosidade passou por Portugal e foi visto no Café Palladium dos Restauradores pelo jornalista de O Século , Francisco Mata , já falecido, e que o contou numa crónica do antigo Sete . Luiz Carvalho , fotojornalista do Expresso.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1525,
+        "end": 1529
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 268,
+        "end": 279
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Isabel Allende é parente de que antigo presidente do Chile | presidente do Chile?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 39,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 80
+      }
+    }
+  ],
+  "relations": []
+}

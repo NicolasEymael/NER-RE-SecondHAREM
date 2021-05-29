@@ -1,0 +1,29 @@
+{
+  "text": " Foi desenvolvida em 1935 pelo médico neurologista português António Egas Moniz (1874-1955), em equipe com o cirurgião Almeida Lima, na Universidade de Lisboa | Universidade de Lisboa. Egas Moniz veio a receber com este trabalho o prêmio Nobel da Medicina e Fisiologia em 1949. A Leucotomia foi a primeira técnica de Psicocirurgia ou seja, a utilização de manipulações orgânicas do cérebro para curar ou melhorar sintomas de uma patologia psiquiátrica (em contrapartida à neurocirurgia que se ocupa de doentes com patologia orgânica directa ou neurológica). Inicialmente foi usada para tratar depressão severa. Egas Moniz sempre defendeu o seu uso apenas em casos graves em que houvesse risco de violência ou suicídio. No entanto apesar de cerca de 6% dos pacientes não sobreviverem à operação, e de vários outros ficarem com alterações da personalidade muito severos, foi praticada com entusiasmo excessivo em muitos paises, nomeadamente o Japão e os Estados Unidos. Neste último país foi popularizada pelo cirurgião Walter Freeman, que divulgou a técnica por todo o seu país, percorrendo o no seu Lobotomobile, e criando inclusivamente uma variante em que espetava um picador de gelo directamente no crânio do doente, desde um ponto logo acima do canal lacrimal com a ajuda de um martelo, rodando-se depois o mesmo para destruir as vias aí localizadas. Supostamente a atractividade deste procedimento seria o seu baixo custo e o desejo social de silenciar doentes psiquiátricos incómodos. A leucotomia ganhou tal popularidade que foi inclusivamente praticada em crianças com mau comportamento. Cerca de 50.000 doentes foram tratados só nos Estados Unidos. Com a ajuda destes abusos, a leucotomia foi abandonada quando surgiram os primeiros fármacos antipsicóticos. Durante muito tempo foi considerada algo injustamente como um episódio barbárico na história da Psiquiatria, sendo comum a comparação à técnica da flebotomia (ou sangria) na história da medicina interna.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 238,
+        "end": 268
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 61,
+        "end": 79
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "outrarel",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

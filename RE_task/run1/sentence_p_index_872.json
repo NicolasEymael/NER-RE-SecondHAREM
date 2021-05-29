@@ -1,0 +1,14 @@
+{
+  "text": "EUA MANTÉM EM SEGREDO ARMAS NÃO-LETAIS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 3
+      }
+    }
+  ],
+  "relations": []
+}

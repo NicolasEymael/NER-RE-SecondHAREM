@@ -1,0 +1,62 @@
+{
+  "text": "Já a coleção de uniformes militares é composta por 836 documentos iconográficos, dos quais destacam-se 228 aquarelas de autoria de José Wasth Rodrigues ; álbuns de aquarelas, do século XVIII , de uniformes militares do período colonial e de desenhos copiados de modelos de uniformes existentes no Arquivo Histórico e Colonial de Lisboa | Arquivo Histórico e Colonial de Lisboa . O valor documental destas obras reside na constituição dos traços da indumentária militar brasileira, do período colonial ao republicano , tornando-se fonte de consulta obrigatória com relação a este tema.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 51,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 103,
+        "end": 106
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 131,
+        "end": 151
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 175,
+        "end": 190
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 297,
+        "end": 335
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 338,
+        "end": 366
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 370,
+        "end": 376
+      }
+    }
+  ],
+  "relations": []
+}

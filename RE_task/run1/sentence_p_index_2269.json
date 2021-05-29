@@ -1,0 +1,59 @@
+{
+  "text": "Decreto-Lei n.º 233/2004, de 14 de Dezembro, alterado pelo Decreto-Lei n.º 243-A/2004, de 31 de Dezembro, que estabelece o regime de comércio de licenças de gases com efeito de estufa na União Europeia",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 59,
+        "end": 85
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 87,
+        "end": 104
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 187,
+        "end": 201
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": " A desforra de Granada. Granada não enfrentou os Reis Católicos por razões de fé ou de religião. Pelo contrário, na corte de Boabdil conviviam muçulmanos, cristãos e judeus, e dessa convivência se fez a que era então, talvez, a mais brilhante civilização do seu tempo, no domínio da arquitectura, da física, da medicina, da matemática, da astrologia. Mas Granada foi sitiada e conquistada por isso mesmo e também pelo território e pela beleza demasiadamente humana do Alhambra . Quando Granada caiu e a reconquista cristã se impôs então a toda a Península , os dois reinos católicos, Portugal e Espanha , partiram à conquista do mundo e tornaram-se Impérios | Impérios marítimos; do Novo Mundo e África ao extremo da Ásia . Inversamente, quando os vencidos de Granada se retiraram para lá do Estreito , de onde tinham vindo séculos antes , nunca mais a civilização árabe e muçulmana recuperou sombra sequer do seu antigo esplendor e liderança. Por isso é que o ano de 1492 (também o da descoberta da América , por Colombo ) é um marco da história universal e um símbolo de derrota e descalabro que nunca mais foi esquecido e ultrapassado pelos crentes muçulmanos. Por mais inverosímil que nos possa parecer, mais de cinco séculos passados e quase quarenta anos depois do homem ter ido à lua, estamos perante uma nova guerra religiosa global, que é também uma guerra de civilizações. Quem disser que ela não existe, ou é ignorante ou diplomata --- em qualquer dos casos, perigoso para os tempos que correm. Estamos perante uma espécie de Cruzadas ao contrário, que o Islão lançou contra os «não crentes» --- sejam judeus, cristãos ou ateus. As Twin Towers , o metro de Londres , a estação de Atocha em Madrid ou a histeria lançada contra os cartonistas dinamarqueses e contra a Dinamarca , são formas modernas de cruzadas travadas em nome de Alá (o Misericordioso ...) contra os valores em que nós, no Ocidente , acreditamos. Cinco séculos passados, o Islão tira a sua desforra de Granada , através das suas duas únicas e demolidoras armas: o petróleo e o terror. Sim, eu sei: não é --- julga-se --- todo o Islão . Mas é o que conta, o que lidera os crentes, o que se escuta na rua e nos jornais, o que doutrina os terroristas, o que prepara a arma nuclear. Em todo o mundo muçulmano houve apenas um jornal, na Jordânia , que ousou escrever que pior que as caricaturas «blasfemas» para o Islão eram os terroristas blasfemos. Mas no dia seguinte o jornal pediu desculpas pelo que escrevera e o director foi despedido. É verdade também que a rua é incendiada a mando da Síria , do Irão ou da Al-Qaeda , e que há sempre uns palestinianos desocupados para dispararem rajadas de metralhadora para o ar com cara feroz e multidões em estado de histeria induzida, para queimar Embaixadas e bandeiras e ameaçar de morte todos os ocidentais a vista. É possível até que o grosso dos muçulmanos não pense assim, que não acredite numa leitura literal e medieval do Corão e que não se reveja na intolerância nem no terror em nome de Deus que o clero radical ensina nas escolas corânicas e prega nas mesquitas. Mas, se assim é, não os escutamos porque eles têm medo: o terror começa dentro dos seus próprios países e sociedades. É justamente isso que hoje nos distingue do Islão : nós temos a liberdade, eles têm o medo como sistema endémico de vida e como arma de arremesso contra «os infiéis». E é pelo medo, também, que eles esperam ganhar esta batalha contra o Ocidente , destruindo o nosso amor à liberdade. Esperam que, aos poucos, sejamos obrigados a chegar ao ponto crucial em que a escolha terá de ser entre a vida ou o nosso modo de vida --- a liberdade, a democracia, a tolerância. Sem que isso possa representar qualquer desculpa para os autores materiais, as escutas telefónicas indiscriminadas, as prisões preventivas sem advogado, os interrogatórios secretos em prisões clandestinas, as leis de excepção, a tortura e Guantanamo , tudo isso, tem a autoria moral dos radicais islâmicos e obedece a um plano concertado de implosão das democracias. É preciso ser muito forte, e preciso perceber, como em 1939 , que a liberdade é o mais absoluto dos nossos bens e o maior valor da nossa cultura e modo de vida, para ser capaz de lhes resistir. Mas é essencial resistir, porque a alternativa é o regresso à Idade Media e a barbárie. É por isso que o gesto dos Comuns , rejeitando a legislação de segurança interna proposta por Tony Blair , porque ela violava direitos e princípios em que se funda a democracia inglesa, é, apesar das consequências daí resultantes, o sinal de uma grande nação que não se rende nem ajoelha. Infelizmente, não foi o nosso caso. Pela mão do ministro Freitas do Amaral , e sem necessidade alguma, Portugal foi enxovalhado, coberto de vergonha e de cobardia, por um dos mais tristes textos políticos que já alguém escreveu. Devo dizer que não me espanta por ai além: a nossa «diplomacia» não tem feito mais nada nos últimos 25 anos | nos últimos 25 anos que não rastejar perante os poderosos, em cada cena e em cada tempo: Angola , Indonésia (com a notável excepção de Guterres e Sampaio ), Estados Unidos e, agora, perante os países islâmicos. [...]. Miguel Sousa Tavares - Jornal \"Expresso\" | Jornal \" Expresso \" - 11.02.2006.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 760,
+        "end": 767
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 355,
+        "end": 362
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

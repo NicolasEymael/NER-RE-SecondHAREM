@@ -1,0 +1,22 @@
+{
+  "text": "8.4. O IBAP na luta pela cidadania plena para a Pessoa Portadora de Deficiência.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 7,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 48,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

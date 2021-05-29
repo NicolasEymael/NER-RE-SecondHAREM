@@ -1,0 +1,14 @@
+{
+  "text": "- Tem sim. Sai um Tropa aí - disse o branquelo pro chapa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 18,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

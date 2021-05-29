@@ -1,0 +1,14 @@
+{
+  "text": "Protocolo de Quioto",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

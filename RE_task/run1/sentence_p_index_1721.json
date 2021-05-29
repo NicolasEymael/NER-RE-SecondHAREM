@@ -1,0 +1,77 @@
+{
+  "text": "Que sistema de pensões diz ser \"o segundo maior do Reino Unido pelo montante do fundo\"? A que companhia comprou o Centro Comercial Forestside em Belfast por 50 milhões de librasem 1998? Que organismo administra o Sistema de Pensões do SNS | Sistema de Pensões do SNS britânico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 62
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 141
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 145,
+        "end": 152
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 157,
+        "end": 177
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 177,
+        "end": 184
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 213,
+        "end": 238
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 241,
+        "end": 259
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 263,
+        "end": 266
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

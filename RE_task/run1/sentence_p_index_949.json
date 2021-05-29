@@ -1,0 +1,14 @@
+{
+  "text": "Walter Benjamim",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

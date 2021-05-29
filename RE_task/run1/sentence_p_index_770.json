@@ -1,0 +1,53 @@
+{
+  "text": "Este templo inscreve-se pela sua importância enquanto estaleiro-escola, numa conjuntura de gradual influência e aceitação dos Franciscanos na corte e na sociedade em geral: a rainha D. Isabel era particularmente dedicada à Ordem, ingressando depois de viúva na Ordem Terceira de São Francisco e fazendo-se sepultar numa magnífica arca feral neste mesmo Mosteiro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 126,
+        "end": 138
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 175,
+        "end": 191
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 223,
+        "end": 228
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 261,
+        "end": 292
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 353,
+        "end": 361
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

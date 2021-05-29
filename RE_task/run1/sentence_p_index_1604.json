@@ -1,0 +1,22 @@
+{
+  "text": "A que horas ocorreu o acidente no metro de Valência a 3 de Julho de 2006? Quantos mortos causou esse acidente? A que velocidade circulava o metro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 72
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,183 @@
+{
+  "text": "Carlos Gerbase faz parte de uma geração de cineastas que apareceu em Porto Alegre nos anos 90 , com a intenção de colocar o Rio Grande do Sul no mapa nacional da Sétima Arte . Através da Casa de Cinema de Porto Alegre | Casa de Cinema de Porto Alegre , esse grupo produziu obras-primas como o curta-metragem Ilha das Flores e apresentou para o país cineastas como Jorge Furtado , considerado um dos mais interessantes realizadores do cinema brasileiro atual. Gerbase faz parte desse grupo e, mantendo a tradição, coloca mais uma questão para a produção nacional ao lançar seu novo filme 3 Efes simultaneamente no cinema, na TV, na internet e em DVD. \"Só faltou a versão rádio\", brincou ele, bem-humorado, com a reportagem do jornal fluminense O Globo .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 69,
+        "end": 81
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 82,
+        "end": 93
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 124,
+        "end": 141
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 162,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 187,
+        "end": 217
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 220,
+        "end": 234
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 238,
+        "end": 250
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 308,
+        "end": 323
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 364,
+        "end": 377
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 459,
+        "end": 466
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "obra",
+      "span": {
+        "begin": 587,
+        "end": 593
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 743,
+        "end": 750
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "residencia_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "localizado_em",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "obra_de",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "vinculo_inst",
+      "subj": "T10",
+      "obj": "T6"
+    },
+    {
+      "id": "R9",
+      "pred": "relacao_profissional",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "autor_de",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "obra_de",
+      "subj": "T12",
+      "obj": "T11"
+    }
+  ]
+}

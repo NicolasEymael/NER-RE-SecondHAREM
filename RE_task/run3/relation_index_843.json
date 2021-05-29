@@ -1,0 +1,29 @@
+{
+  "text": " Ministério da Defesa Nacional. Ministro da Defesa Nacional visita Forças Nacionais Destacadas no Afeganistão | Forças Nacionais Destacadas no Afeganistão. O Ministro da Defesa Nacional , Nuno Severiano Teixeira , desloca-se ao Afeganistão , no dia 29 de Dezembro , para efectuar uma visita às Forças Nacionais Destacadas em Cabul | Forças Nacionais Destacadas em Cabul . Nuno Severiano Teixeira visitará o contingente português estacionado em Campo Warehouse , composto pela 22.ª Companhia de Atiradores Pára-Quedistas da Brigada de Reacção Rápida | 22.ª Companhia de Atiradores Pára-Quedistas da Brigada de Reacção Rápida e uma equipa de Controladores Aéreos Avançados da Força Aérea | Controladores Aéreos Avançados da Força Aérea . O Ministro da Defesa deverá assistir ao briefing do destacamento e visitar o aquartelamento do Campo Warehouse . Com um total de 161 militares, o contingente português integrado na Força Internacional de Assistência e Segurança ( ISAF ) constitui a Força de Reacção Rápida do Comandante |Força de Reacção Rápida do Comandante da força da NATO no Afeganistão. Nuno Severiano Teixeira reúne-se ainda com o comandante da força da NATO ( ISAF ) no Afeganistão , General Dan McNeill . A participação militar Portuguesa no Afeganistão começou a 10 de Agosto de 2005 . Nuno Severiano Teixeira aproveita a deslocação a Cabul para manter encontros com as autoridades afegãs. O Ministro da Defesa deverá reunir-se com o Ministro da Defesa afegão, Raheem Wardag , e com o Presidente da República Islâmica do Afeganistão | Presidente da República Islâmica do Afeganistão , Hamid Karzai . O Ministro da Defesa Nacional estará de regresso a Lisboa no dia 30 de Dezembro .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1194,
+        "end": 1213
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1163,
+        "end": 1167
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

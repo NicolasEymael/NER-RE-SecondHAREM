@@ -1,0 +1,29 @@
+{
+  "text": "A que horas é que caiu o telhado do supermercado Casino em Nice? De que material era feito o telhado do supermercado? Quantas pessoas morreram no acidente? Em que país ficava o supermercado?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 49,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 59,
+        "end": 63
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

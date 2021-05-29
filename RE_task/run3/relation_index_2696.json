@@ -1,0 +1,29 @@
+{
+  "text": " O Tour de França de 2009 | Tour de França de 2009 | Tour de França de 2009 vai começar no Mónaco com um contra-relógio de 15 quilómetros, numa etapa que também terminará no principado monegasco. O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1. \"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica\" foram apontados por Christian Prudhomme como justificação para a decisão. O Tour de França | Tour de França voltará assim ao Mónaco, depois de 45 anos | depois de 45 anos ausente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 519,
+        "end": 525
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 67
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

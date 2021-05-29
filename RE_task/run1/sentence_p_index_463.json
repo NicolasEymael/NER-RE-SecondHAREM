@@ -1,0 +1,45 @@
+{
+  "text": "Casou com Leonor de Alvim , em 1377 em Vila Nova da Rainha , freguesia do concelho de Azambuja .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 39,
+        "end": 58
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 86,
+        "end": 94
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

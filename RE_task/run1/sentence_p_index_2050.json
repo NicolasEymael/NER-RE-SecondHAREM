@@ -1,0 +1,14 @@
+{
+  "text": "Que ensina Vital do Rego?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 24
+      }
+    }
+  ],
+  "relations": []
+}

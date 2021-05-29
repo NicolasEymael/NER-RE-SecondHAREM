@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que fica a represa Ataturk?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Plano Nacional de Atribuição de Licenças de Emissão - PNALE 2005-2007 (versão notificada à Comissão Europeia)",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 0,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 54,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 91,
+        "end": 108
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,70 @@
+{
+  "text": "A 30.ª | 30.ª edição do Dakar vai partir de Lisboa no dia 5 de Janeiro com a chegada ao Senegal marcada para 20, numa competição que terá no próximo ano perto de 6.000 quilómetros de provas especiais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 2,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 50
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 70
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 88,
+        "end": 95
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 104,
+        "end": 111
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 138,
+        "end": 152
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 153,
+        "end": 179
+      }
+    }
+  ],
+  "relations": []
+}

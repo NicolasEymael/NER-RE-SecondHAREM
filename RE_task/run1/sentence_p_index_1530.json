@@ -1,0 +1,22 @@
+{
+  "text": "Quando é que morreu Alfred Hitchcock? Para onde é que ele emigrou em 1939? Como é que se chamava o seu primeiro filme americano?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 66,
+        "end": 73
+      }
+    }
+  ],
+  "relations": []
+}

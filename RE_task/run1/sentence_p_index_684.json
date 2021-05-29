@@ -1,0 +1,167 @@
+{
+  "text": "Em 1476 acompanha D. Afonso V na batalha de Toro, a tentativa fracassada de D. João de reclamar o trono de Castela , já que era cunhado de Henrique IV de Castela | Henrique IV de Castela . Mais tarde , em iria acompanhar D. Afonso na jornada a França para pedir auxílio ao rei Luís XI de França | rei Luís XI de França na luta pelo trono de Castela , que seria rejeitado. Entretanto, D. Afonso abdica do trono, para D. João II .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 29
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 44,
+        "end": 48
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 76,
+        "end": 83
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 107,
+        "end": 114
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 139,
+        "end": 161
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 164,
+        "end": 175
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 179,
+        "end": 186
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 189,
+        "end": 199
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 221,
+        "end": 230
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 244,
+        "end": 250
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 273,
+        "end": 294
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 297,
+        "end": 308
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 312,
+        "end": 318
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 341,
+        "end": 348
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 384,
+        "end": 393
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 416,
+        "end": 426
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_familiar",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T5"
+    }
+  ]
+}

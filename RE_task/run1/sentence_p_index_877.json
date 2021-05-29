@@ -1,0 +1,53 @@
+{
+  "text": "O painel, cujo relatório deve sair até ao fim deste ano , colecionou 147 relatórios e propostas de investigadores, muitos deles financiados pelo JNLWP . Um grupo no Oak Ridge National Laboratory , no Tennessee , por exemplo, propõe utilizar campos eletromagnéticos intensos a fim de produzir efeitos que vão \"desde a interrupção da memória de curto prazo à total perda de controlo voluntário das funções corporais\". Outros propõem armas de energia dirigida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 69,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 145,
+        "end": 150
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 165,
+        "end": 194
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 200,
+        "end": 209
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

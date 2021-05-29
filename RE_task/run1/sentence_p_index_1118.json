@@ -1,0 +1,101 @@
+{
+  "text": "Com Bhutto de fora, os olhos voltam-se para outro ex-premiê, também candidato, Nawaz Sharif. Mal se passara uma hora da morte de Bhutto quando ele entrou no Hospital Geral de Rawalpindi | Hospital Geral de Rawalpindi para as condolências. Dada a confusão que imperava, foi um feito. É arte política, sujeito hábil. Embora os dois ensaiassem uma aliança, Sharif não poderia ser mais diferente de Bhutto. Se ela era pró-EUA, ele não esconde seus laços com a Arábia Saudita. E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 79,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 108,
+        "end": 116
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 129,
+        "end": 135
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 157,
+        "end": 185
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 188,
+        "end": 202
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 206,
+        "end": 216
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 354,
+        "end": 360
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 395,
+        "end": 401
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 418,
+        "end": 421
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 456,
+        "end": 470
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    }
+  ]
+}

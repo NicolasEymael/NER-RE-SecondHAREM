@@ -1,0 +1,30 @@
+{
+  "text": "Quantas ilhas tem Cabo Verde? Quantas são habitadas? Em qual delas nasceu Eugénio Tavares? E em qual deles fica a Praia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 18,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 119
+      }
+    }
+  ],
+  "relations": []
+}

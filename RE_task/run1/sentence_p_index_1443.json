@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o Godfather of Soul?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

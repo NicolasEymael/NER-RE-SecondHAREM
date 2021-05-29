@@ -1,0 +1,22 @@
+{
+  "text": "Jornal A Tarde | Jornal A Tarde (www.atarde.com.br).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

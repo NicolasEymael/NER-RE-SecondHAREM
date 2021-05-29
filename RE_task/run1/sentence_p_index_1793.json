@@ -1,0 +1,14 @@
+{
+  "text": "Quem matou Philipe Henriot?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

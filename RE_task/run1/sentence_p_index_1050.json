@@ -1,0 +1,14 @@
+{
+  "text": "O símbolo universal da paz, a pomba branca, aparece na logomarca da \" Operação Sangue Quente bicando a cabeça de uma ave, que lembra o cruzamento de um urubu com uma águia: uma remissão às forças armadas norte-americanas sendo detonada por uma força que, embora pareça inofensiva, é propositiva, intervém. \"Nessa ação específica, queríamos atingir os cidadãos médios, para que eles associassem os alvos com o capital que financia a guerra, explicam.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 70,
+        "end": 92
+      }
+    }
+  ],
+  "relations": []
+}

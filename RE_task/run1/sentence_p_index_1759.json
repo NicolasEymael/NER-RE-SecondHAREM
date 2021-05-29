@@ -1,0 +1,43 @@
+{
+  "text": "Quem venceu o Campeonato do Mundo de Contra-Relógio em 1995? Em que país se disputou a prova? Qual o tempo do vencedor? E quem venceu em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 14,
+        "end": 51
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 134,
+        "end": 141
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "data_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

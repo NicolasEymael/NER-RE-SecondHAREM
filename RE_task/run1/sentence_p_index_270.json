@@ -1,0 +1,37 @@
+{
+  "text": "Telescópios, brinquedos, livros, um simulador de voo, sessões de observação do sol e do céu nocturno e foguetões de água vão estar, entre sexta-feira e domingo , em Cascais , à disposição dos visitantes da FASCINIO - Feira de Astronomia e Ciência .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 159
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 165,
+        "end": 172
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 206,
+        "end": 246
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

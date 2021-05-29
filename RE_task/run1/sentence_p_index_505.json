@@ -1,0 +1,61 @@
+{
+  "text": "O Santander Gestão de Activos aponta para que as novas listagens no próximo ano na Euronext Lisboa aconteçam quer através de privatizações, dando como exemplos os casos da ANA e da TAP, quer através de sociedades de capital privado como o grupo Visabeira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 65,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 83,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 181,
+        "end": 184
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 245,
+        "end": 254
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

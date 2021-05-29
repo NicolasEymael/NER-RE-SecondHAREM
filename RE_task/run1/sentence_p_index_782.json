@@ -1,0 +1,22 @@
+{
+  "text": "O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical em Setembro. No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições dentro de mês e meio, quando começar o rali.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 100,
+        "end": 111
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 200,
+        "end": 220
+      }
+    }
+  ],
+  "relations": []
+}

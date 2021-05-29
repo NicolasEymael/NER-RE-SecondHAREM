@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi Juan Manuel Fangio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

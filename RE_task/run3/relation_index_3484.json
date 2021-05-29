@@ -1,0 +1,29 @@
+{
+  "text": " Paquistão após o assassinato. de Benazir Bhutto. 28/Dezembro/2007 · 0:01 · 147 Comentários. É sempre chocante assistir à decomposição de um país. Mas, após o assassinato de Benazir Bhutto, é o que está acontecendo com o Paquistão. O momento é tenso. Uma revolta popular pode estourar. Agora, que faria sentido declarar Estado de Emergência | Estado de Emergência e impor a Lei Marcial, o presidente Pervez Musharraf está desautorizado. Afinal, há coisa de dois meses, aplicou um golpe contra a Suprema Corte utilizando-se justamente desta tática. Será que ousaria um novo Estado de Emergência | Estado de Emergência ? Será que sobreviveria a tal decreto? Será que o Exército se manterá fiel a ele? Será que o Serviço de Inteligência, tão ligado ao norte islâmico, ainda o respeita minimamente?. O que acontecerá não é possível prever. Eleições estão marcadas para 8 de janeiro, Bhutto era favorita. O partido mais votado do parlamento eleito fará o primeiro ministro. Num país estável, o assassinato de um dos principais candidatos a essa altura seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato. Mas, se já foi um dia, o Paquistão deixou de ser um país normal, quanto mais estável. O ideal seria que eleições ocorressem. É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez. Os partidários de Bhutto, ontem, acusavam Musharraf do assassinato. Mas será?. Em campanha, a ex-primeira-ministra mostrava-se particularmente agressiva contra o Talibã, o radicalismo islâmico e sua cria, a al-Qaeda, alojados ao norte. Benazir Bhutto contava com a simpatia dos EUA por conta. Não há dúvidas de que, como premiê, Bhutto forçaria o presidente Musharraf a ampliar sua ofensiva. A conversa da experiente política com o presidente afegão Hamid Karzai, o outro chefe de Estado preocupado com esta briga, faz poucos dias, é indício de qual sua prioridade no governo. Após seu assassinato, o presidente, que acaba de abandonar a farda de general, não tem como garantir sequer sua sobrevivência política. Se o conflito entre ambos era aberto, ausência de Bhutto piora a situação. Se a lógica ainda prevalecer no país em frangalhos, parece evidente que os maiores interessados em sua morte são justamente o Talibã e a al-Qaeda. A al-Qaeda às vezes assume seus atentados. Outras vezes, não. No Onze de Setembro, ficou em silêncio por mais de mês enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos EUA ao Afeganistão. Neste caso, a falta de autoria clara favorece o caos. O caos interessa à turma de bin-Laden. Com Bhutto de fora, os olhos voltam-se para outro ex-premiê, também candidato, Nawaz Sharif. Mal se passara uma hora da morte de Bhutto quando ele entrou no Hospital Geral de Rawalpindi | Hospital Geral de Rawalpindi para as condolências. Dada a confusão que imperava, foi um feito. É arte política, sujeito hábil. Embora os dois ensaiassem uma aliança, Sharif não poderia ser mais diferente de Bhutto. Se ela era pró-EUA, ele não esconde seus laços com a Arábia Saudita. E se acaso sauditas e norte-americanos são oficialmente aliados, na realidade da política local a ação é diferente. A al-Qaeda é um grupo saudita. A Arábia Saudita era um dos três países do mundo que reconheciam, no Afeganistão, o governo Talibã. A vertente de islamismo radical que impera no norte do Paquistão é profundamente semelhante à que a Arábia Saudita espalha pelo mundo. Sharif não é fundamentalista. Mas a geopolítica que o sustenta e financia é tão atada aos sauditas que um gabinete liderado por ele é marcado por uma interrogação. O que vai imperar? A Arábia Saudita interessada em regimes islâmicos como os defendidos pelos radicais? Ou a Arábia Saudita interessada em combater o terrorismo? No Paquistão, as duas opções são incompatíveis. Enterros no Paquistão acontecem rápido. Provavelmente hoje, talvez amanhã. Se demorar mais, escaparam à tradição - coisa sempre perigosa - para evitar as multidões. A multidão é incontrolável. Se o país rachar. Se houver um golpe de Estado. Se radicais islâmicos conseguirem um atalho para o poder. O mundo respira fundo. O \"Paquistão é uma potência nuclear.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3525,
+        "end": 3531
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 2750,
+        "end": 2762
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

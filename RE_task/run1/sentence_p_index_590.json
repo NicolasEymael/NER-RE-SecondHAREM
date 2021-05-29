@@ -1,0 +1,30 @@
+{
+  "text": "Em Portugal, o Instituto Nacional de Saúde elaborou cenários de uma eventual pandemia de gripe humana de origem em aves, que poderá ou não ser desencadeada pelo H5N1, a estirpe do vírus mais mortal até agora conhecida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 15,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 161,
+        "end": 165
+      }
+    }
+  ],
+  "relations": []
+}

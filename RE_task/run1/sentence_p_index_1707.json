@@ -1,0 +1,37 @@
+{
+  "text": "Para que organização nos EUA trabalhava Aldrich H. Ames? A que país é que Ames vendia informação? Como é que se chamava a mulher dele? Quando é que ele foi preso?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 40,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 78
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

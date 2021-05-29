@@ -1,0 +1,38 @@
+{
+  "text": "Mais de 32 mil pessoas poderiam morrer se uma pandemia de gripe humana de origem aviária atingisse Portugal, segundo cenários elaborados este ano por peritos do Instituto Nacional de Saúde Ricardo Jorge.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 0,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 99,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 137,
+        "end": 145
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 161,
+        "end": 202
+      }
+    }
+  ],
+  "relations": []
+}

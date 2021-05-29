@@ -1,0 +1,22 @@
+{
+  "text": "Luís Correia domina concorrência em Casais S.Quintino",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 12
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

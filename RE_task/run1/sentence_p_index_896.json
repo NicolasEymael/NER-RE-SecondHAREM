@@ -1,0 +1,73 @@
+{
+  "text": "Com a citação dessa frase de Jessé Oliveira, Fabio Gomes iniciou matéria de cobertura do 2º Encontro de Arte de Matriz Africana, realizado de 12 a 16 de dezembro de 2007 no Teatro de Arena em Porto Alegre.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 29,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 45,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 89,
+        "end": 127
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 139,
+        "end": 169
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 173,
+        "end": 188
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 192,
+        "end": 204
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

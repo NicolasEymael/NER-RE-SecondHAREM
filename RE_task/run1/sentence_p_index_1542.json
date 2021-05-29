@@ -1,0 +1,30 @@
+{
+  "text": "Quando é que foi inaugurada a Ponte da Normandia | Ponte da Normandia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": "Qual foi a distribuidora do filme «O Planeta dos Macacos» que estreou em 1968?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 35,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 70,
+        "end": 77
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

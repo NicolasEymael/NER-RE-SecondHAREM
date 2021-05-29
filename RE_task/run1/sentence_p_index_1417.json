@@ -1,0 +1,14 @@
+{
+  "text": "Com que idade morreu Elvis Presley?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 21,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

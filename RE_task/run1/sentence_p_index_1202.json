@@ -1,0 +1,38 @@
+{
+  "text": "Um universo tão multifacetado quanto este permite a execução de um livro de macroscopia de vida, como esse dedicado, com muita justiça, aos 80 anos de Antônio Houaiss, cuja trajetória triunfal pode ser resumida nesse título feliz do depoimento do diplomata e musicólogo Vasco Mariz: um processo administrativo-ideológico. É o que foi a vida de Houaiss: nada se fez de improviso ou por acaso. Operário disciplinado, cada degrau de sua ascensão era impulsionado pela força do seu projeto ideológico de bem servir a quem dele precisasse, e, na ponta última desse projeto, bem servir a seu país.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 140,
+        "end": 147
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 151,
+        "end": 166
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 270,
+        "end": 281
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 344,
+        "end": 351
+      }
+    }
+  ],
+  "relations": []
+}

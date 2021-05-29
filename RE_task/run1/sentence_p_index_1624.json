@@ -1,0 +1,37 @@
+{
+  "text": "Quando é que saiu o rimeiro Álbum | Álbum da cantora americana Anastacia? Desde a saída do seu primeiro álbum, quantos discos é que Anastacia vendeu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 28,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 63,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 132,
+        "end": 141
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que significa NLW?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 16,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

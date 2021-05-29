@@ -1,0 +1,14 @@
+{
+  "text": "Que idade tem o Sol?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 16,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

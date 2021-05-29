@@ -1,0 +1,37 @@
+{
+  "text": "Quantos lugares tem um carro eléctrico Impact da General Motors? Qual a autonomia do carro, em milhas? Quanto tempo demora a acelerar das 0 às 60 milhas por hora? Qual é a sua velocidade de topo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 39,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 49,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 134,
+        "end": 161
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "proprietario_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

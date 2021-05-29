@@ -1,0 +1,103 @@
+{
+  "text": "Um consenso começou a surgir durante o reinado de Isabel I . Em 1559 , Isabel retorna à religião do pai, com o restabelecimento do \" Ato de Supremacia \" e do \" Livro de Orações \" de Eduardo VI . Através da \" Confissão dos Trinta e Nove Artigos \" ( 1563 ), Isabel alcança um compromisso entre o protestantismo e o catolicismo: embora o dogma se aproxime do calvinismo, só admitindo como sacramento o baptismo e a eucaristia, é mantida a hierarquia episcopal e o fausto das cerimónias religiosas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 61,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 71,
+        "end": 77
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 133,
+        "end": 150
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 160,
+        "end": 176
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 182,
+        "end": 192
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 208,
+        "end": 243
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 248,
+        "end": 252
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 256,
+        "end": 262
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "relacao_familiar",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    }
+  ]
+}

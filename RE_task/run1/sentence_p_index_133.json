@@ -1,0 +1,14 @@
+{
+  "text": "\"O tecno, obviamente, é música da e sobre a tecnologia.\" Os produtores estão familiarizados com seu kit de estúdio e o imaginário de cabine de vôos, painéis de controle e instrumentação (\"e agora...Eu aperto esse switch\"), que tem desde sempre temperado samplers e títulos de canções, sinalizando sua afinidade com tecnicistas de outros tipos. Detroit , como o lugar imaginário onde uma velha geração de máquinas industriais está dando lugar a máquinas de informação, fluxos se acelerando e desmaterializando, é onde relações humanas com a tecnologia estão sendo reconfiguradas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 344,
+        "end": 351
+      }
+    }
+  ],
+  "relations": []
+}

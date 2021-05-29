@@ -1,0 +1,77 @@
+{
+  "text": "A primeira bomba que atingiu o Citibank da Rua Miguel Calmon , no Comércio , e que deveria ser silenciosa como planejado fez um estrondo alto. Pernas bambas titubearam. Sorte a ronda da Polícia Federal que estava na área ter mais o que fazer naquele momento . Da mesma forma com os homens da viatura da Polícia Militar ocupados em espancar dois homens em outra esquina e nada viram. Uma prostituta entretia a guarda de outra viatura na Manoel Dias e o coletivo pôde agir sem problemas no BankBoston , último banco-alvo da ação.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 60
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 66,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 186,
+        "end": 201
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 242,
+        "end": 257
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 303,
+        "end": 318
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 436,
+        "end": 447
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 488,
+        "end": 498
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "text": "A Free Beer é a nova ação do coletivo dinamarquês Superflex, composto por Bjornstjerne Reuter Christiansen, Jakob Fenger e Rasmus Nielsen. No ano passado, o grupo trouxe polêmica à 27ª Bienal de São Paulo | 27ª Bienal de São Paulo com o Guaraná Power, censurado pela presidência da instituição, que afirmou que não se tratava de uma obra de arte. Apesar do veto, o Guaraná Power, feito em colaboração com a Cooperativa de Agricultores da Região de Maués | Cooperativa de Agricultores da Região de Maués, na Amazônia, chegou a ser distribuído em museus e na própria Vermelho, durante a Bienal.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 50,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 74,
+        "end": 106
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 108,
+        "end": 120
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 123,
+        "end": 137
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 139,
+        "end": 153
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 181,
+        "end": 204
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 207,
+        "end": 217
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 221,
+        "end": 230
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 237,
+        "end": 250
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "outro",
+      "span": {
+        "begin": 365,
+        "end": 378
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 407,
+        "end": 453
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 456,
+        "end": 483
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 487,
+        "end": 502
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 507,
+        "end": 515
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 565,
+        "end": 573
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 585,
+        "end": 591
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R2",
+      "pred": "produtor_de",
+      "subj": "T12",
+      "obj": "T10"
+    },
+    {
+      "id": "R3",
+      "pred": "produtor_de",
+      "subj": "T13",
+      "obj": "T10"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T7"
+    }
+  ]
+}

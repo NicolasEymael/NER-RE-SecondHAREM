@@ -1,0 +1,30 @@
+{
+  "text": "Tal orientação coincide com a de um dos maiores teóricos da linguagem dos nossos dias. Eugenio Coseriu, em resumo de uma conferência no Liceu Literário Português, assim se manifesta:",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 70,
+        "end": 85
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 87,
+        "end": 102
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 136,
+        "end": 161
+      }
+    }
+  ],
+  "relations": []
+}

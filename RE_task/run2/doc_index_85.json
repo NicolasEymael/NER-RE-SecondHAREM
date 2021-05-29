@@ -1,0 +1,165 @@
+{
+  "text": " O Tour de França de 2009 | Tour de França de 2009 | Tour de França de 2009 vai começar no Mónaco com um contra-relógio de 15 quilómetros, numa etapa que também terminará no principado monegasco. O início do contra-relógio terá lugar precisamente no mesmo local do local de partida das provas de Fórmula 1. \"O prestígio do principado, a filosofia que tem para o desporto e grandes eventos e a localização geográfrica\" foram apontados por Christian Prudhomme como justificação para a decisão. O Tour de França | Tour de França voltará assim ao Mónaco, depois de 45 anos | depois de 45 anos ausente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 3,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 28,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 43,
+        "end": 50
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 57
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 67
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 68,
+        "end": 75
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 91,
+        "end": 97
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 137
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 296,
+        "end": 305
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 438,
+        "end": 457
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 494,
+        "end": 508
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 511,
+        "end": 515
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 519,
+        "end": 525
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 543,
+        "end": 549
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 551,
+        "end": 568
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 581,
+        "end": 588
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T5"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T7"
+    }
+  ]
+}

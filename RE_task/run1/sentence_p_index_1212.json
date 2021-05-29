@@ -1,0 +1,78 @@
+{
+  "text": "Outra plausível explicação para a matrícula em Letras Clássicas se deve ao fato de se tratar de um curso de largo e profundo prestígio cultural dentro das universidades do mundo inteiro e por um aspecto especial de nele, àquela época inicial dos estudos superiores no Brasil, contar com uma plêiade de mestres europeus, de renome internacional, que vieram ao Brasil, convidados por Afrânio Peixoto em nome do nosso Governo, para lançar as raízes nessa área de estudos universitários: Jean Bourciez, Jacques Perret, Eugène Albertini, Georges Millardet.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 47,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 268,
+        "end": 274
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 359,
+        "end": 365
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 382,
+        "end": 397
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 415,
+        "end": 422
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 484,
+        "end": 497
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 499,
+        "end": 513
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 515,
+        "end": 531
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 533,
+        "end": 550
+      }
+    }
+  ],
+  "relations": []
+}

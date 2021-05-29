@@ -1,0 +1,14 @@
+{
+  "text": "Qual o comprimento total da rodovia Dom Pedro I?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 36,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

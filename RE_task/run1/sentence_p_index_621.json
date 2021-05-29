@@ -1,0 +1,30 @@
+{
+  "text": "Assim, o jogo com a Roménia promete trazer-nos um Cordeiro mais «chorão». «Vai haver choradeira no início, no fim, o tempo todo», promete, bem-disposto, o pilar, que vai «continuar na Académica enquanto der gozo».",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 184,
+        "end": 193
+      }
+    }
+  ],
+  "relations": []
+}

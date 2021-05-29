@@ -1,0 +1,129 @@
+{
+  "text": " Site Admin | Site Admin. Registo: 12 Apr 2005. Mensagens: 4. Local/Origem: Lisboa (Portugal). Colocada: Quarta-feira Maio 04, 2005 23:36 Assunto: Como efectuar um Registo (tem vantagens). Gostaria muito, que os Acólitos, se registassem no forum, de modo a ser algo organizado, principalmente os da AAPSE e é muito simples, querem ver. José Eduardo Pires. Ass. de Acólitos da Paróquia de Santo Eugénio | Ass. de Acólitos da Paróquia de Santo Eugénio.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 59,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 76,
+        "end": 82
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 84,
+        "end": 92
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 105,
+        "end": 131
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 132,
+        "end": 137
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 212,
+        "end": 220
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 299,
+        "end": 304
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 336,
+        "end": 354
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 356,
+        "end": 401
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 404,
+        "end": 420
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 424,
+        "end": 449
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T8"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T12",
+      "obj": "T8"
+    }
+  ]
+}

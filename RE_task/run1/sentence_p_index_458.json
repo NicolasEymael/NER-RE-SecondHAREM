@@ -1,0 +1,69 @@
+{
+  "text": "Em 1514 na Índia dedicou-se à administração e diplomacia, a concluir a paz com Calecute, a receber embaixadas de reis indianos e a consolidar e embelezar Goa, onde, por meio do casamento de portugueses com mulheres indígenas procura criar uma raça luso-indiana. O seu prestígio chegara ao auge criando as bases do Império Português no Oriente | Império Português no Oriente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 11,
+        "end": 16
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 79,
+        "end": 87
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 154,
+        "end": 157
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 314,
+        "end": 331
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 335,
+        "end": 342
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 345,
+        "end": 373
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Face então às ausências de vulto acima referidas, todas devido a ligações ao doping -- à excepção naturalmente de Armstrong , que se retirou após a sétima vitória em 2005 --, três ou quatro nomes surgem ainda assim mais destacados na corrida pela vitória.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 114,
+        "end": 123
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 163,
+        "end": 170
+      }
+    }
+  ],
+  "relations": []
+}

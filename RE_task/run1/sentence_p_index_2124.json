@@ -1,0 +1,14 @@
+{
+  "text": "Telemóveis vão ter domínio na Net",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

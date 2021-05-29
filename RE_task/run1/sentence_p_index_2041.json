@@ -1,0 +1,14 @@
+{
+  "text": "Diga um livro de Júlio Verne.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 17,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

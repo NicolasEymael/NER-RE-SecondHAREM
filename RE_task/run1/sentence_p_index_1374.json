@@ -1,0 +1,22 @@
+{
+  "text": "De que é que Jasão e os Argonautas andavam à procura?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 24,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

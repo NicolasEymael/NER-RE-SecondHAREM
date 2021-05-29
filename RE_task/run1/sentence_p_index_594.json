@@ -1,0 +1,14 @@
+{
+  "text": "Novidades na Macworld 2007",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 13,
+        "end": 26
+      }
+    }
+  ],
+  "relations": []
+}

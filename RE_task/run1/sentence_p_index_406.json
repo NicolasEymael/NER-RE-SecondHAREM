@@ -1,0 +1,29 @@
+{
+  "text": "Francis WURTZ , da CEUE/EVN , condenou \"de maneira absoluta as declarações antieuropeias e indignas\" que se ouviram no hemiciclo: \"O meu grupo está a favor de um referendo, mas opõe-se a acções como esta\", afirmou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 27
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

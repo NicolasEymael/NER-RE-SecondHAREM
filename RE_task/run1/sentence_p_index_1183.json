@@ -1,0 +1,14 @@
+{
+  "text": "- E aê, tem o Tropa de Elite ou não? - perguntei de novo, querendo sair logo pro cinema.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 14,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

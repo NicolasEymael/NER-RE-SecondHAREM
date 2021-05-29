@@ -1,0 +1,167 @@
+{
+  "text": "Depois de um primeiro momento de visão panorâmica, surgem os estudos especiais de autor: M. Said Ali (de Evanildo Bechara), J. Mattoso Câmara Jr. (de Carlos Eduardo Falcão Uchôa), Clóvis Monteiro (de Jayr Calhau), Olmar Guterres da Silveira (de Horácio Rolim de Freitas), o exaustivo estudo sobre Sousa da Silveira (de Maximiano de Carvalho e Silva), sem contar as análises percucientes de Joaquim Mattoso Câmara Jr. acerca da obra de M. Said Ali e João Ribeiro, reunidos nos Dispersos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 89,
+        "end": 100
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 105,
+        "end": 121
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 124,
+        "end": 145
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 150,
+        "end": 177
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 180,
+        "end": 195
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 200,
+        "end": 211
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 214,
+        "end": 240
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 245,
+        "end": 269
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 297,
+        "end": 314
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 319,
+        "end": 348
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 390,
+        "end": 416
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 435,
+        "end": 446
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 449,
+        "end": 461
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 476,
+        "end": 485
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "autor_de",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "autor_de",
+      "subj": "T8",
+      "obj": "T7"
+    },
+    {
+      "id": "R5",
+      "pred": "autor_de",
+      "subj": "T10",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T3"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "obra_de",
+      "subj": "T14",
+      "obj": "T11"
+    }
+  ]
+}

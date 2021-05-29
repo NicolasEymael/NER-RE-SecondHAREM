@@ -1,0 +1,54 @@
+{
+  "text": "Pöttering , Sócrates e Barroso assinam Carta dos Direitos Fundamentais da UE | Carta dos Direitos Fundamentais da UE",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 20
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 30
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 39,
+        "end": 76
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 79,
+        "end": 110
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 114,
+        "end": 116
+      }
+    }
+  ],
+  "relations": []
+}

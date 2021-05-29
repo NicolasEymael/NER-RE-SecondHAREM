@@ -1,0 +1,14 @@
+{
+  "text": "Que rei morreu em 1718?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que Jacques Chirac foi assassinado?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 13,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

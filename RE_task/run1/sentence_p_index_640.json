@@ -1,0 +1,45 @@
+{
+  "text": "Tendo-se distinguido na defesa deAzamor, em que acompanhara o duque de Bragança, pediu a D. Manuel uma recompensa para seus feitos; mas os boatos que corriam sobre a maneira pouco escrupulosa como dividira as presas de uma incursão tinham chegado aos ouvidos do Rei. Este, apesar das suas justificações, e não o considerando culpado, não lhe concedeu as mercês pedidas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 62,
+        "end": 79
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 89,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 262,
+        "end": 265
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

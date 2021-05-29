@@ -1,0 +1,38 @@
+{
+  "text": "Segundo informou a ASI (agência espacial italiana) no fim da noite de ontem por telefone, o impacto dos destroços teria ocorrido às 18h06 (horário de Brasília ), numa área remota do oceano. Os italianos não devem conduzir operação para resgatar os detritos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 51,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 129,
+        "end": 137
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 150,
+        "end": 158
+      }
+    }
+  ],
+  "relations": []
+}

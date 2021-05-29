@@ -1,0 +1,53 @@
+{
+  "text": "A cerimónia de proclamação foi interrompida em diversas ocasiões por uma minoria de deputados que protestaram nas últimas bancadas do hemiciclo, exigindo a realização de um referendo ao Tratado de Lisboa . Os protestos foram calados pelos aplausos da maioria dos eurodeputados e pelo próprio Presidente do Conselho | Presidente do Conselho , no início do seu discurso: \"Por mais que muitos gritem tentando impedir os outros de falar, esta é uma data fundamental da história europeia\", afirmou José SÓCRATES .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 186,
+        "end": 203
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 292,
+        "end": 314
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 317,
+        "end": 327
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 331,
+        "end": 339
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 493,
+        "end": 506
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

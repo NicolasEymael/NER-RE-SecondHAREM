@@ -1,0 +1,38 @@
+{
+  "text": "Durão Barroso acrescentou à longa lista de sucessos enunciados por Sócrates outros que considerou \"também importantes\", como a decisão de criar o Instituto Europeu de Tecnologia e o lançamento de uma Política Marítima Europeia .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 67,
+        "end": 75
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 146,
+        "end": 177
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 200,
+        "end": 226
+      }
+    }
+  ],
+  "relations": []
+}

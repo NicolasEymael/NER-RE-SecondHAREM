@@ -1,0 +1,30 @@
+{
+  "text": "28/Dezembro/2007 · 0:01 · 147 Comentários",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 23
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 26,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

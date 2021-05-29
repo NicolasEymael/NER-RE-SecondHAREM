@@ -1,0 +1,14 @@
+{
+  "text": "Qual a capital do Estado Livre de Orange?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 18,
+        "end": 40
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "O que foi a Revolução dos Cravos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 12,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

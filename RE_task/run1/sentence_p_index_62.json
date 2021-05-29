@@ -1,0 +1,107 @@
+{
+  "text": "HEIDEGGER e o 4-4-2: Foi, ontem , apresentado o livro « Liderança - As Lições de José Mourinho » de Luís Lourenço , baseado na sua tese de mestrado. Segundo o autor, José Mourinho \"é diferente por partir de um novo paradigma de pensamento, preconizado por Heidegger ou Morin , por exemplo, e o operacionalizar. Trata-se de um novo olhar para o Todo , que põe de parte a divisão e análise das partes e o pensamento cartesiano de há quatro séculos \". Cada vez que leio isto (e faço-o várias vezes ao dia , na esperança de o vir a compreender), gosto de imaginar a seguinte conversa entre dois adeptos, à saída de Stanford Bridge :",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 26,
+        "end": 31
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 56,
+        "end": 94
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 100,
+        "end": 113
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 166,
+        "end": 179
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 256,
+        "end": 265
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 269,
+        "end": 274
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 344,
+        "end": 348
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 425,
+        "end": 445
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 482,
+        "end": 501
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 611,
+        "end": 626
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "text": "Vem-se, a pouco e pouco, compondo o quadro da história das idéias e das atividades dos lingüistas, filólogos e gramáticos brasileiros. A partir de um primeiro e fragmentário levantamento, por falta de informações, de José Leite de Vasconcelos, e do bem mais circunstanciado Breve retrospecto sobre o ensino da Língua Portuguesa | Breve retrospecto sobre o ensino da Língua Portuguesa, redigido por Maximino Maciel em novembro de 1910 e que vem como apêndice à sua Gramática Descritiva, vem-se avolumando, em vários centros universitários brasileiros, a pesquisa de informações sobre o tema, de modo que, dentro de pouco, já se pode elaborar um manual bastante rico e informativo sobre essas idéias e atividades.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 217,
+        "end": 242
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 274,
+        "end": 327
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 398,
+        "end": 413
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 414,
+        "end": 433
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "obra",
+      "span": {
+        "begin": 464,
+        "end": 484
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "datado_de",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

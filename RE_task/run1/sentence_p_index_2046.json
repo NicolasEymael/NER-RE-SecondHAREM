@@ -1,0 +1,14 @@
+{
+  "text": "Qual a nacionalidade de Geoffrey Oryema?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

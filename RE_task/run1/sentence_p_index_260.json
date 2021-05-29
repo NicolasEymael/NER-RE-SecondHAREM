@@ -1,0 +1,38 @@
+{
+  "text": "Miguel Sousa Tavares - Jornal \"Expresso\" | Jornal \" Expresso \" - 11.02.2006",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 40
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 52,
+        "end": 60
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 65,
+        "end": 75
+      }
+    }
+  ],
+  "relations": []
+}

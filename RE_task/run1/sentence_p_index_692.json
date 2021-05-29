@@ -1,0 +1,38 @@
+{
+  "text": "Os clientes de média tensão (MT) terão um aumento de 2,7%, enquanto os de baixa tensão especial (BTE), normalmente pequenas empresas, terão um aumento de 2,5%.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 29,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 53,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 97,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 154,
+        "end": 158
+      }
+    }
+  ],
+  "relations": []
+}

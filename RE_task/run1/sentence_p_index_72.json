@@ -1,0 +1,73 @@
+{
+  "text": "Parece que o que é intelectualmente honesto é dizer que um programa humorístico de sátira social e política deve ser imparcial (argumento espantoso). Ou dizer que criticar o prof. Marcelo é fazer campanha pelo Sim . O próprio prof. Marcelo diz que foi criticado por muitos defensores do Não o que só pode significar que, pelos vistos, há gente do Não a fazer campanha pelo Sim .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 187
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 210,
+        "end": 213
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 226,
+        "end": 239
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 287,
+        "end": 290
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 347,
+        "end": 350
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 373,
+        "end": 376
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

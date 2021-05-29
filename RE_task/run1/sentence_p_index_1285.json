@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que trabalha o Homer Simpson?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 22,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

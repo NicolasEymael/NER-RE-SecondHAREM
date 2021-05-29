@@ -1,0 +1,14 @@
+{
+  "text": "Para descobrir a razão dessa diferença, Kawaoka usou uma estratégia de \"engenheirar\" os vírus, trocando genes entre as linhagens virais. Desse modo, conseguiu identificar qual deles era o responsável pela maior capacidade de infecção do influenza.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 40,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

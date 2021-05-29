@@ -1,0 +1,209 @@
+{
+  "text": " Lisboa-Dakar | Lisboa - Dakar: Carlos Sousa ambiciona pódio. O piloto português Carlos Sousa revelou que tem \"capacidade para chegar ao pódio\" dos automóveis na edição de 2008 do Lisboa-Dakar | Lisboa - Dakar cujo percurso foi hoje apresentado em Lisboa. Carlos Sousa acredita que este ano o rali vai ser mais duro. \"Vai ser um percurso para os mais resistentes. É mais difícil, mais exigente e as coisas entre os mais rápidos vão ser decididas ao segundo\", afirmou o piloto da Lagos Team, que vai conduzir um Volkswagen Touareg idêntico aos de fábrica. Apesar de ambicionar um lugar nos três primeiros, o piloto sabe que a concorrência é apertada e que não vai ser fácil: \"Há 15 ou mais pilotos com hipóteses de chegar à vitória e ao pódio. As coisas vão ficar mais interessantes para quem vir o rali em casa ou pela Internet | Internet, mas para os pilotos vai ser uma luta até ao último dia\". O português, que nas últimas três edições foi sempre sétimo classificado, sofreu uma lesão cervical em Setembro. No entanto, já está a treinar a bom ritmo e garantiu que estará nas melhores condições dentro de mês e meio, quando começar o rali.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 16,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 25,
+        "end": 30
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 44
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 81,
+        "end": 93
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 169,
+        "end": 176
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 180,
+        "end": 192
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 195,
+        "end": 201
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 204,
+        "end": 209
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 228,
+        "end": 232
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 248,
+        "end": 254
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 256,
+        "end": 268
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 282,
+        "end": 290
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 479,
+        "end": 489
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 511,
+        "end": 529
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "valor",
+      "span": {
+        "begin": 678,
+        "end": 688
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 819,
+        "end": 827
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "tempo",
+      "span": {
+        "begin": 877,
+        "end": 894
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 997,
+        "end": 1008
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 1097,
+        "end": 1117
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "participante_em",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T6"
+    },
+    {
+      "id": "R7",
+      "pred": "inclui",
+      "subj": "T14",
+      "obj": "T4"
+    }
+  ]
+}

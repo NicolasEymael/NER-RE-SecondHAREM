@@ -1,0 +1,29 @@
+{
+  "text": " Camacho ganhou sempre a Jesualdo mas não ao FC Porto. Se as estatísticas quiserem dizer alguma coisa, Camacho pode encarar o clássico de sábado com optimismo. O espanhol soma por vitórias os 3 jogos frente a Jesualdo Ferreira, técnico ao qual sucedeu no comando do Benfica, em 2002/2003. No entanto, há outra leitura que tem de ser feita: o espanhol jamais venceu o FC Porto para o campeonato. Em três \"duelos\", face a Jesualdo, então ao comando do Sp.Braga, Camacho venceu por duas vezes como visitante (3-1 em 2002/2003 e 3-0 em 2003/2004) e uma como anfitrião (2-0 em 2003/2004). O espanhol está 100 por cento vitorioso face a Jesualdo, mas nunca enceu o FC Porto para o campeonato, tendo como melhor registo o empate na Luz, em 2003/2004 (1-1). Na mesma temporada, Camacho perdeu no FC Porto por 2-0 e, na anterior, já tinha perdido em casa por 1-0. A 16 de Maio de 2004, na final da Taça de Portugal | Taça de Portugal, o FC Porto adiantou-se, por Derlei, mas o grego Fyssas empatou e, no prolongamento, Simão derrotou o \"onze\" de José Mourinho, que, 10 dias depois | 10 dias depois, viria a vencer a Liga dos Campeões (3-0 ao AS Mónaco). Por seu lado, Jesualdo Ferreira tem um balanço negativo nos confrontos com o Benfica, com quatro vitórias, três empates e cinco derrotas (13-19 em golos), mas nunca perdeu ao comando do FC Porto: \"a época passada, venceu no Dragão (3-2) e empatou na Luz (1-1).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 45,
+        "end": 53
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 33
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Não obstante seja intensa a atividade do IBAP desenvolvida no âmbito da Internet | Internet (home-page, conferência eletrônica e lista de debates), aproximadamente 50% dos associados não tem acesso a essa facilidade. Não há absolutamente nenhuma necessidade de conectar-se à Internet | Internet para participar das atividades desenvolvidas pelo IBAP.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 41,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 148,
+        "end": 167
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 275,
+        "end": 283
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 345,
+        "end": 349
+      }
+    }
+  ],
+  "relations": []
+}

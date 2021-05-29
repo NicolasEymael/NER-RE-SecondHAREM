@@ -1,0 +1,22 @@
+{
+  "text": "O que é que era o Rainbow Warrior? Quem é que o afundou em 1985?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 18,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

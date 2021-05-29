@@ -1,0 +1,215 @@
+{
+  "text": "Foi educado na corte de D. Afonso V. Partiu na esquadra mandada em 1480 em socorro do rei D. Fernando de Nápoles | rei D. Fernando de Nápoles, «para reprimir o furor dos turcos». Esteve na expedição de 1489 para defender a fortaleza da Graciosa, situada da ilha que o rio Luco forma junto da cidade de Larache. Foi estribeiro-mor do rei D. João II, a quem em 1476 acompanhou nas guerras com Castela. Esteve assim nas praças-fortes de Arzila e Larache (Marrocos) em 1489, e em 1490 faz parte da guarda de D. João II, tendo voltado novamente a Arzila em 1495.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 71
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 86,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 115,
+        "end": 130
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 134,
+        "end": 141
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 199,
+        "end": 206
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 236,
+        "end": 244
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 272,
+        "end": 276
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 302,
+        "end": 309
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 333,
+        "end": 347
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 356,
+        "end": 363
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 391,
+        "end": 398
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 440
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 443,
+        "end": 450
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 452,
+        "end": 460
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 462,
+        "end": 469
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 473,
+        "end": 480
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 504,
+        "end": 514
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 542,
+        "end": 548
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 549,
+        "end": 556
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T9"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T14"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T15",
+      "obj": "T8"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T6"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T18",
+      "obj": "T10"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T13"
+    }
+  ]
+}

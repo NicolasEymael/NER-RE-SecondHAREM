@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que morreu Ayrton Senna?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

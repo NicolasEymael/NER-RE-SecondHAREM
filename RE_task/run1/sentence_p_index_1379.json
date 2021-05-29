@@ -1,0 +1,115 @@
+{
+  "text": "Que idade tinha Miguel Induraín durante a Volta a Espanha de 1985 | Volta a Espanha de 1985? Em que ano é que ele ganhou a Volta à Espanha ? Quantas etapas da Volta à França do Futuro de 1986 | Volta à França do Futuro de 1986 é que ele ganhou? Que prémio é que ele recebeu em 1992?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 42,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 68,
+        "end": 83
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 84,
+        "end": 91
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 123,
+        "end": 138
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 159,
+        "end": 191
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 194,
+        "end": 218
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 219,
+        "end": 226
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 274,
+        "end": 281
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ter_participacao_de",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "ter_participacao_de",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ter_participacao_de",
+      "subj": "T7",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "data_de",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

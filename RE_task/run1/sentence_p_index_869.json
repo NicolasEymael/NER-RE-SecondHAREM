@@ -1,0 +1,14 @@
+{
+  "text": "Tom Wolfe - O Teste do Ácido do Refresco Elétrico",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "FINLANDÊS DA FERRARI ARREBATOU TÍTULO CONTRA FAVORITISMO DA MCLAREN",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 13,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 67
+      }
+    }
+  ],
+  "relations": []
+}

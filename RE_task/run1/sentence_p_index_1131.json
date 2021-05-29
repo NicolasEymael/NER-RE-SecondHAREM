@@ -1,0 +1,85 @@
+{
+  "text": "A Free Beer surgiu em 2004, numa parceria com estudantes da Universidade de Copenhague | Universidade de Copenhague. \"Buscamos transferir os princípios do software livre para algo físico, e a cerveja se tornou um bom exemplo\", conta Nielsen. \"Por isso, a Free Beer tem sido comparada ao Linux [sistema operacional gratuito] e à Wikipedia\", diz o artista.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 26
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 86
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 89,
+        "end": 101
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 105,
+        "end": 115
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 233,
+        "end": 240
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 255,
+        "end": 264
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 287,
+        "end": 292
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 328,
+        "end": 337
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "data_de",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

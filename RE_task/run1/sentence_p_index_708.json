@@ -1,0 +1,22 @@
+{
+  "text": "José Sócrates apresentou balanço dos últimos seis meses",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 33,
+        "end": 55
+      }
+    }
+  ],
+  "relations": []
+}

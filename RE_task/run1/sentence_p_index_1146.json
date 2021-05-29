@@ -1,0 +1,46 @@
+{
+  "text": "Há work songs, Gospels, Spirituals, Rhytm'n' Blues, Soul e Funk ainda rolando por ali. Querem regredir um pouco mais? Não? Ok. Já sabemos muito bem onde isto vai dar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 15,
+        "end": 22
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 24,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 36,
+        "end": 50
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 52,
+        "end": 56
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 59,
+        "end": 63
+      }
+    }
+  ],
+  "relations": []
+}

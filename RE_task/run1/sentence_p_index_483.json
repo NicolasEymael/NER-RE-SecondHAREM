@@ -1,0 +1,30 @@
+{
+  "text": "A 16 de Junho de 1940 , Aristides decide entregar um visto a todos os refugiados que o pedirem: \"A partir de agora, darei vistos a toda a gente, já não há nacionalidades, raça ou religião\". Com a ajuda dos seus filhos e sobrinhos e do rabino Kruger , ele carimba passaportes, assina vistos, usando todas as folhas de papel disponíveis.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 33
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 235,
+        "end": 248
+      }
+    }
+  ],
+  "relations": []
+}

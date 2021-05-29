@@ -1,0 +1,70 @@
+{
+  "text": "PPM , referindo-se ao sketch sobre o prof. Marcelo , diz que, «em plena campanha eleitoral» quisemos Žridicularizar os argumentos de um dos lados em confronto no referendo». Primeiro, o prof. Marcelo não representa o Não . Ele mesmo, aliás, afirma que há vários Nãos . Segundo, a nossa rábula sobre o prof. Marcelo foi transmitida no domingo, dia 28 de Janeiro . A campanha começou na terça-feira, dia 30 . Dizer que fizemos o sketch «em plena campanha eleitoral» é, portanto, uma... Bom, parece-me que não há maneira delicada de o dizer: é mentira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 3
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 37,
+        "end": 50
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 186,
+        "end": 199
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 217,
+        "end": 220
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 262,
+        "end": 266
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 301,
+        "end": 314
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 331,
+        "end": 360
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "tempo",
+      "span": {
+        "begin": 382,
+        "end": 404
+      }
+    }
+  ],
+  "relations": []
+}

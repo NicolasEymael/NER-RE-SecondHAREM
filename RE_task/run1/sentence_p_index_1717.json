@@ -1,0 +1,59 @@
+{
+  "text": "Qual é o aperitivo mais popular na Grã-Bretanha? Quantas pessoas na Grã-Bretanha comem os \"Walkers\" desta marca todos os dias? Qual é o sabor de batata frita de pacote mais popular na Grã-Bretanha? Que companhia britânica faz batata frita de pacote à mão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 35,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 68,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 91,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 112,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 184,
+        "end": 196
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T1"
+    }
+  ]
+}

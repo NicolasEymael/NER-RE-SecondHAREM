@@ -1,0 +1,14 @@
+{
+  "text": "Quantas regiões tem Marrocos? Qual é a maior delas?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 20,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

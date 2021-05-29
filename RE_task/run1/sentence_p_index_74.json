@@ -1,0 +1,54 @@
+{
+  "text": "Não posso deixar de fazer referência às últimas palavras de PPM , que me parecem interessantes: « Ricardo Araújo Pereira pode dizer que não me conhece de lado nenhum, como disse ao 24 Horas . Pode, mas estará a faltar à verdade se o repetir em relação ao Rodrigo Moita de Deus .» Quero agradecer, penhorado, que PPM me autorize a dizer o que eu disse. Já é mais do que costuma fazer, e registo a evolução democrática. Agradeço ainda mais que me ponha de sobreaviso em relação à veracidade do que eu não disse mas, por uma razão que neste momento me escapa, poderei vir a dizer.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 63
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 120
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 181,
+        "end": 189
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 255,
+        "end": 276
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 312,
+        "end": 315
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 532,
+        "end": 545
+      }
+    }
+  ],
+  "relations": []
+}

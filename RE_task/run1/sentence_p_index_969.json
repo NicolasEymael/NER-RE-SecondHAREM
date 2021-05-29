@@ -1,0 +1,38 @@
+{
+  "text": "Acreditem, mas, os Pupilos do Kuduro , e outros kuduristas , quando em conjunto, dançam, quase exatamente, o que a nossa Ala dos Malandrinhos dançava lá naqueles bem passados anos 60 . Os braços e as mãos dançam break, mas, da cintura para baixo, bundas e pernas dançam o mais desbragado dos Sambas . Pode?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 121,
+        "end": 141
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 153,
+        "end": 182
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 292,
+        "end": 298
+      }
+    }
+  ],
+  "relations": []
+}

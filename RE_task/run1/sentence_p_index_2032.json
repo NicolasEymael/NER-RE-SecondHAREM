@@ -1,0 +1,14 @@
+{
+  "text": "Que povo foi convertido Ã ortodoxia durante a Idade Média?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 46,
+        "end": 57
+      }
+    }
+  ],
+  "relations": []
+}

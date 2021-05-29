@@ -1,0 +1,38 @@
+{
+  "text": "Com fundamento no disposto na alínea a) do artigo 40.º e no n.º 1 do artigo 118.º do Decreto-Lei n.º 202/2004 , de 18 de Agosto , com as alterações introduzidas pelo Decreto-Lei n.º 201/2005 , de 24 de Novembro ;",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 85,
+        "end": 109
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 112,
+        "end": 127
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 166,
+        "end": 190
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 193,
+        "end": 210
+      }
+    }
+  ],
+  "relations": []
+}

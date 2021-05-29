@@ -1,0 +1,14 @@
+{
+  "text": "Que vaivém pôs a sonda espacial Ulisses em órbita?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 32,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

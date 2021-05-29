@@ -1,0 +1,14 @@
+{
+  "text": "Que é o que Arafat usava na cabeça?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

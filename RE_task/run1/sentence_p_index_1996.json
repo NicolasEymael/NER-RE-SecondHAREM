@@ -1,0 +1,14 @@
+{
+  "text": "Quem foi Qin Shi Huang?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 9,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

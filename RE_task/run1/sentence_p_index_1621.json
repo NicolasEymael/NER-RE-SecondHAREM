@@ -1,0 +1,37 @@
+{
+  "text": "Que idade tinha Grégory Villemin quando o seu corpo foi encontrado? Quem era Bernard Laroche? Que juiz acusou Christine Villemin?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 77,
+        "end": 92
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 110,
+        "end": 128
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "relacao_familiar",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

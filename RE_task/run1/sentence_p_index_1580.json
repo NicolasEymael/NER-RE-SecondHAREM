@@ -1,0 +1,14 @@
+{
+  "text": "Onde é que fica o aeroporto de Irkutsk?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

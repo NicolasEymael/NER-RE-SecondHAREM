@@ -1,0 +1,61 @@
+{
+  "text": "As marcas indicam avistamentos de gorilas das planícies registradas por rastreadores tribais antes e depois de um surto do vírus ebola no santuário de Lossi, na República Federativa do Congo. Usando o CyberTracker, um software com o qual os ecologistas podem registrar suas observações em campo usando computadores portáteis conectados a aparelhos de posicionamento global (GPS), os rastreadores puderam reunir dados que comprovam a degradação da população local da espécie. Inicialmente céticos, os cientistas mais tarde confirmaram suas constatações de que o vírus estava matando os gorilas e outros animais, e publicaram um artigo numa edição recente da revista Science.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 151,
+        "end": 156
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 161,
+        "end": 190
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 201,
+        "end": 213
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 374,
+        "end": 377
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 511,
+        "end": 521
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 665,
+        "end": 672
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,931 @@
+{
+  "text": " \" Pequena Notável \" ou a \" Brazilian Bombshell \". Depois de ser exibida no Rio , chega a São Paulo a mostra Carmen Miranda para sempre , que será inaugurada hoje para convidados e amanhã para o público no Memorial da América Latina | Memorial da América Latina . Fotos, roupas (algumas são releituras contemporâneas de seu estilo), objetos, são mais de 700 peças reunidas (além de filmes e músicas) para contar a história da \" Pequena Notável \" ou a \" Brazilian Bombshell \" - não há no mundo quem não conheça essa genial estrela que conquistou o Brasil , a Broadway e Hollywood . A imagem recorrente que vem à cabeça é a da baiana com badulaques na cabeça sempre sorridente - ela se apresentava com nada menos que 20 quilos sobre o corpo, entre roupas e acessórios, e uma plataforma de 15 cm de altura. Carmen Miranda ( 1909-1955 ) \"nasceu personagem, era uma artista\" , como diz o jornalista e escritor Ruy Castro , que há pouco lançou uma biografia sobre a estrela. Apesar do enorme sucesso conquistado a partir do fim da década de 1930 nos EUA , para Ruy Castro a fase da artista no Brasil é a que precisa ser \"urgentemente conhecida pelo público brasileiro\". Ele, que fez consultoria dos textos presentes na mostra, vai realizar uma palestra gratuita na sexta-feira, , às 19h30 , sobre a vida e a obra da artista na Biblioteca Victor Civita , no Memorial . Carmen Miranda para sempre é um projeto que vem sendo realizado há mais de dois anos . Com curadoria de Fabiano Canosa , a mostra feita com peças da própria coleção de Canosa , do Museu Carmen Miranda (inaugurado em 1976 ) e da família da artista, tem percurso cronológico e está dividida em núcleos. Inicia com o nascimento em Portugal e inclui imagens de sua família. Depois, vem a fase brasileira, \"quando ela era a rainha do disco, do rádio, do cineteatro e fez filmes que estão quase todos destruídos, uma tragédia\". Um dos únicos que restaram é Alô, Alô Carnaval , de 1936 , que Carmen fez ao lado de sua irmã Aurora , morta em dezembro - como conta o curador. Não era ainda a Carmen Miranda dos badulaques. Era uma \"mulher art déco dos anos 30 \", como diz Canosa , que usava calças, ternos e vestidos belos - em particular, há uma sala especial com retratos da artista feitos em 1931 , em Buenos Aires , pela alemã Annemarie Heinrich . E foi durante uma de suas apresentações no Cassino da Urca | Cassino da Urca , no Rio , em 1939 , que o produtor americano Lee Shubert viu Carmen e se encantou. Levou-a para a Broadway e o sucesso foi inevitável. Ela, com o Bando da Lua , ficou consagrada já no início com o espetáculo The Streets of Paris . Daí em diante, tornou-se uma das maiores celebridades que o mundo já conheceu. Carmen Miranda para sempre . Galeria Marta Traba . Memorial da América Latina | Memorial da América Latina . Av. Auro Soares de Moura Andrade , 664, 3823-4741. 9h/18h (fecha 2.ª ). Grátis. Até 16/4 . Abertura hoje , 19h30 , para convidados. Diariamente , às 10h30 e às 15h , exibição do documentário Bananas Is My Business.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 3,
+        "end": 18
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 76,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 90,
+        "end": 99
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 109,
+        "end": 135
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 158,
+        "end": 162
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 181,
+        "end": 187
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 206,
+        "end": 232
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 235,
+        "end": 243
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 247,
+        "end": 261
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 346,
+        "end": 357
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 428,
+        "end": 443
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 453,
+        "end": 472
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 547,
+        "end": 553
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 558,
+        "end": 566
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 569,
+        "end": 578
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "valor",
+      "span": {
+        "begin": 715,
+        "end": 724
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 787,
+        "end": 792
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 804,
+        "end": 818
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "tempo",
+      "span": {
+        "begin": 821,
+        "end": 830
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 905,
+        "end": 915
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "tempo",
+      "span": {
+        "begin": 1006,
+        "end": 1039
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1044,
+        "end": 1047
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 1055,
+        "end": 1065
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1087,
+        "end": 1093
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1256,
+        "end": 1270
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "tempo",
+      "span": {
+        "begin": 1274,
+        "end": 1282
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "local",
+      "span": {
+        "begin": 1321,
+        "end": 1345
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "local",
+      "span": {
+        "begin": 1351,
+        "end": 1359
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "obra",
+      "span": {
+        "begin": 1362,
+        "end": 1388
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1426,
+        "end": 1446
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 1466,
+        "end": 1480
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1530,
+        "end": 1536
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1542,
+        "end": 1562
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 1575,
+        "end": 1582
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 1690,
+        "end": 1698
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "obra",
+      "span": {
+        "begin": 1913,
+        "end": 1930
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "tempo",
+      "span": {
+        "begin": 1933,
+        "end": 1940
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "individuo",
+      "span": {
+        "begin": 1947,
+        "end": 1953
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "individuo",
+      "span": {
+        "begin": 1978,
+        "end": 1984
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "tempo",
+      "span": {
+        "begin": 1993,
+        "end": 2004
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "individuo",
+      "span": {
+        "begin": 2045,
+        "end": 2059
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "tempo",
+      "span": {
+        "begin": 2101,
+        "end": 2112
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "individuo",
+      "span": {
+        "begin": 2125,
+        "end": 2131
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "tempo",
+      "span": {
+        "begin": 2245,
+        "end": 2252
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "local",
+      "span": {
+        "begin": 2258,
+        "end": 2270
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "individuo",
+      "span": {
+        "begin": 2284,
+        "end": 2302
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "local",
+      "span": {
+        "begin": 2348,
+        "end": 2363
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "local",
+      "span": {
+        "begin": 2366,
+        "end": 2373
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "local",
+      "span": {
+        "begin": 2377,
+        "end": 2381
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "local",
+      "span": {
+        "begin": 2387,
+        "end": 2390
+      }
+    },
+    {
+      "id": "T52",
+      "obj": "tempo",
+      "span": {
+        "begin": 2393,
+        "end": 2400
+      }
+    },
+    {
+      "id": "T53",
+      "obj": "individuo",
+      "span": {
+        "begin": 2428,
+        "end": 2439
+      }
+    },
+    {
+      "id": "T54",
+      "obj": "individuo",
+      "span": {
+        "begin": 2444,
+        "end": 2450
+      }
+    },
+    {
+      "id": "T55",
+      "obj": "local",
+      "span": {
+        "begin": 2481,
+        "end": 2489
+      }
+    },
+    {
+      "id": "T56",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2529,
+        "end": 2541
+      }
+    },
+    {
+      "id": "T57",
+      "obj": "obra",
+      "span": {
+        "begin": 2591,
+        "end": 2611
+      }
+    },
+    {
+      "id": "T58",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2693,
+        "end": 2719
+      }
+    },
+    {
+      "id": "T59",
+      "obj": "local",
+      "span": {
+        "begin": 2722,
+        "end": 2741
+      }
+    },
+    {
+      "id": "T60",
+      "obj": "local",
+      "span": {
+        "begin": 2744,
+        "end": 2770
+      }
+    },
+    {
+      "id": "T61",
+      "obj": "local",
+      "span": {
+        "begin": 2773,
+        "end": 2781
+      }
+    },
+    {
+      "id": "T62",
+      "obj": "local",
+      "span": {
+        "begin": 2785,
+        "end": 2799
+      }
+    },
+    {
+      "id": "T63",
+      "obj": "local",
+      "span": {
+        "begin": 2802,
+        "end": 2834
+      }
+    },
+    {
+      "id": "T64",
+      "obj": "tempo",
+      "span": {
+        "begin": 2853,
+        "end": 2859
+      }
+    },
+    {
+      "id": "T65",
+      "obj": "tempo",
+      "span": {
+        "begin": 2867,
+        "end": 2870
+      }
+    },
+    {
+      "id": "T66",
+      "obj": "tempo",
+      "span": {
+        "begin": 2882,
+        "end": 2890
+      }
+    },
+    {
+      "id": "T67",
+      "obj": "tempo",
+      "span": {
+        "begin": 2902,
+        "end": 2906
+      }
+    },
+    {
+      "id": "T68",
+      "obj": "tempo",
+      "span": {
+        "begin": 2909,
+        "end": 2914
+      }
+    },
+    {
+      "id": "T69",
+      "obj": "tempo",
+      "span": {
+        "begin": 2934,
+        "end": 2945
+      }
+    },
+    {
+      "id": "T70",
+      "obj": "tempo",
+      "span": {
+        "begin": 2948,
+        "end": 2956
+      }
+    },
+    {
+      "id": "T71",
+      "obj": "tempo",
+      "span": {
+        "begin": 2959,
+        "end": 2965
+      }
+    },
+    {
+      "id": "T72",
+      "obj": "obra",
+      "span": {
+        "begin": 2993,
+        "end": 3015
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "incluido",
+      "subj": "T8",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T3"
+    },
+    {
+      "id": "R5",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T13"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T20"
+    },
+    {
+      "id": "R10",
+      "pred": "natural_de",
+      "subj": "T23",
+      "obj": "T15"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T21"
+    },
+    {
+      "id": "R12",
+      "pred": "inclui",
+      "subj": "T25",
+      "obj": "T3"
+    },
+    {
+      "id": "R13",
+      "pred": "inclui",
+      "subj": "T25",
+      "obj": "T4"
+    },
+    {
+      "id": "R14",
+      "pred": "natural_de",
+      "subj": "T25",
+      "obj": "T14"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T28",
+      "obj": "T8"
+    },
+    {
+      "id": "R16",
+      "pred": "inclui",
+      "subj": "T29",
+      "obj": "T28"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T29",
+      "obj": "T8"
+    },
+    {
+      "id": "R18",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T32"
+    },
+    {
+      "id": "R19",
+      "pred": "localizado_em",
+      "subj": "T34",
+      "obj": "T3"
+    },
+    {
+      "id": "R20",
+      "pred": "data_de",
+      "subj": "T35",
+      "obj": "T34"
+    },
+    {
+      "id": "R21",
+      "pred": "natural_de",
+      "subj": "T36",
+      "obj": "T19"
+    },
+    {
+      "id": "R22",
+      "pred": "ter_participacao_de",
+      "subj": "T37",
+      "obj": "T19"
+    },
+    {
+      "id": "R23",
+      "pred": "data_de",
+      "subj": "T38",
+      "obj": "T37"
+    },
+    {
+      "id": "R24",
+      "pred": "incluido",
+      "subj": "T38",
+      "obj": "T22"
+    },
+    {
+      "id": "R25",
+      "pred": "ident",
+      "subj": "T39",
+      "obj": "T19"
+    },
+    {
+      "id": "R26",
+      "pred": "participante_em",
+      "subj": "T39",
+      "obj": "T37"
+    },
+    {
+      "id": "R27",
+      "pred": "natural_de",
+      "subj": "T39",
+      "obj": "T36"
+    },
+    {
+      "id": "R28",
+      "pred": "relacao_familiar",
+      "subj": "T40",
+      "obj": "T39"
+    },
+    {
+      "id": "R29",
+      "pred": "data_morte",
+      "subj": "T41",
+      "obj": "T40"
+    },
+    {
+      "id": "R30",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T39"
+    },
+    {
+      "id": "R31",
+      "pred": "inclui",
+      "subj": "T43",
+      "obj": "T38"
+    },
+    {
+      "id": "R32",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T33"
+    },
+    {
+      "id": "R33",
+      "pred": "incluido",
+      "subj": "T45",
+      "obj": "T43"
+    },
+    {
+      "id": "R34",
+      "pred": "incluido",
+      "subj": "T46",
+      "obj": "T10"
+    },
+    {
+      "id": "R35",
+      "pred": "incluido",
+      "subj": "T48",
+      "obj": "T3"
+    },
+    {
+      "id": "R36",
+      "pred": "incluido",
+      "subj": "T50",
+      "obj": "T3"
+    },
+    {
+      "id": "R37",
+      "pred": "ident",
+      "subj": "T51",
+      "obj": "T3"
+    },
+    {
+      "id": "R38",
+      "pred": "inclui",
+      "subj": "T51",
+      "obj": "T48"
+    },
+    {
+      "id": "R39",
+      "pred": "incluido",
+      "subj": "T51",
+      "obj": "T25"
+    },
+    {
+      "id": "R40",
+      "pred": "incluido",
+      "subj": "T52",
+      "obj": "T43"
+    },
+    {
+      "id": "R41",
+      "pred": "natural_de",
+      "subj": "T53",
+      "obj": "T23"
+    },
+    {
+      "id": "R42",
+      "pred": "ident",
+      "subj": "T54",
+      "obj": "T42"
+    },
+    {
+      "id": "R43",
+      "pred": "localizado_em",
+      "subj": "T55",
+      "obj": "T23"
+    },
+    {
+      "id": "R44",
+      "pred": "incluido",
+      "subj": "T55",
+      "obj": "T23"
+    },
+    {
+      "id": "R45",
+      "pred": "natural_de",
+      "subj": "T55",
+      "obj": "T15"
+    },
+    {
+      "id": "R46",
+      "pred": "relacao_profissional",
+      "subj": "T56",
+      "obj": "T54"
+    },
+    {
+      "id": "R47",
+      "pred": "ter_participacao_de",
+      "subj": "T57",
+      "obj": "T54"
+    },
+    {
+      "id": "R48",
+      "pred": "ter_participacao_de",
+      "subj": "T57",
+      "obj": "T54"
+    },
+    {
+      "id": "R49",
+      "pred": "ter_participacao_de",
+      "subj": "T57",
+      "obj": "T56"
+    },
+    {
+      "id": "R50",
+      "pred": "ter_participacao_de",
+      "subj": "T57",
+      "obj": "T56"
+    },
+    {
+      "id": "R51",
+      "pred": "inclui",
+      "subj": "T60",
+      "obj": "T59"
+    },
+    {
+      "id": "R52",
+      "pred": "ident",
+      "subj": "T60",
+      "obj": "T29"
+    },
+    {
+      "id": "R53",
+      "pred": "inclui",
+      "subj": "T61",
+      "obj": "T59"
+    },
+    {
+      "id": "R54",
+      "pred": "ident",
+      "subj": "T61",
+      "obj": "T29"
+    },
+    {
+      "id": "R55",
+      "pred": "ident",
+      "subj": "T62",
+      "obj": "T10"
+    },
+    {
+      "id": "R56",
+      "pred": "inclui",
+      "subj": "T63",
+      "obj": "T60"
+    },
+    {
+      "id": "R57",
+      "pred": "ident",
+      "subj": "T67",
+      "obj": "T6"
+    },
+    {
+      "id": "R58",
+      "pred": "ident",
+      "subj": "T68",
+      "obj": "T27"
+    }
+  ]
+}

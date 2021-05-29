@@ -1,0 +1,22 @@
+{
+  "text": "Costuma-se dizer -- e com razão - que o PSD é o Sport Lisboa e Benfica da política, uma vez que se trata do partido com a maior diversidade de classes sociais. O que explica, ao mesmo tempo a existência de tantos barões no partido: desde que se mastigue com a boca fechada e não se diga «treuze», é-se barão.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 48,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

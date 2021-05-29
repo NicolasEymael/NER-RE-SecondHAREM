@@ -1,0 +1,14 @@
+{
+  "text": "Quantas pessoas morreram no atentado na estação de Bolonha?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 58
+      }
+    }
+  ],
+  "relations": []
+}

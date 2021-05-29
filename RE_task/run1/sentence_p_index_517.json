@@ -1,0 +1,30 @@
+{
+  "text": "« Call girl », cujo argumento o realizador escreveu ao longo de dois anos em parceria com Tiago Santos , é uma história sobre o poder do dinheiro e da sedução, sobre a corrupção no meio político e a prostituição de luxo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 90,
+        "end": 102
+      }
+    }
+  ],
+  "relations": []
+}

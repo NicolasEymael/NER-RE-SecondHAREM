@@ -1,0 +1,14 @@
+{
+  "text": "Quanto pesa Romário?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 19
+      }
+    }
+  ],
+  "relations": []
+}

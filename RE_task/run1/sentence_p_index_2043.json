@@ -1,0 +1,14 @@
+{
+  "text": "Que guerra durou de 1865 a 1870?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

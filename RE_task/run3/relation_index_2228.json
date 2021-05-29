@@ -1,0 +1,29 @@
+{
+  "text": " COISAS DA SÁBADO: NÃO HÁ MAL QUE SEMPRE DURE, NEM BEM QUE NUNCA ACABE. 1. Acabou para Sócrates o alibi dos governos anteriores. Com excepcionais condições de governação, com maioria absoluta, com o show europeu para dar dimensão internacional, sem «forças de bloqueio» na Presidência, com uma oposição nos dois primeiros anos muito mais responsável do que alguma vez o PS foi, gozando de muitas simpatias e ainda de mais cumplicidades, mas agora são os resultados que se esperam. Os primeiros resultados que se conhecem são todos maus com excepção do controlo do défice e mesmo aí parece (ao Tribunal de Contas) que as coisas também não são tão boas como se pensava. O empobrecimento dos portugueses continua e é um empobrecimento sem esperança. Como se todos fossem, a seu modo, um desempregado com quarenta anos. 2. A propaganda governamental está a esgotar-se. PowerPoint, simulações de computador, assistências reverendas ou de casting, já só sobrevivem na RTP e nos «momentos-\"Chávez» . Os especialistas, as agências, os assessores, bem podem estudar novas fórmulas para «comunicar», que a teimosia dos factos erodiu as técnicas de propaganda que o governo e o Primeiro-ministro tem usado até à exaustâo. 3. As reformas estilo Sócrates não passaram na maioria dos casos de medidas de contenção orçamental e, só em raros casos, foram medidas de verdadeira reforma. Mas quer as verdadeiras quer as falsas reformas foram sempre acompanhadas de um discurso de agressividade populista contra as classes e grupos profissionais destinatários -- funcionários públicos, professores, agentes da justiça, jornalistas -- que motivaram respostas corporativas. Este estilo agressivo colocou os grupos profissionais inteiros contra o governo em vez de os dividir entre sectores conservadores e «modernizadores», o que retirou eficácia às poucas reformas genuínas que se esboçaram. 4. Três programas emblemáticos caracterizaram este governo: o Plano Tecnológico, o Simplex e as «Novas Oportunidades». O que de melhor o governo Sócrates fez, passou por aqui. Talvez, de todos, o Simplex tenha sido o que melhores resultados trouxe. Ainda é cedo para se fazer uma avaliação global, mas a simplificação burocrática conheceu um impulso sério. 5. O Plano Tecnológico traduz muito do deslumbramento de Sócrates e da sua geração pelo poder das tecnologias, e pela crença que as tecnologias tem efeitos sociais de per si. Não tem. São instrumentos que só actuam em contextos sociais próprios e muitos milhares de euros de material avariado, computadores, gadgets, estão por essas escolas e instituições públicas onde depois das belas sessões públicas de ofertas e inaugurações não se cuidou, por exemplo, da manutenção. Para além disso, ter banda larga em Ferreira do Alentejo é excelente se ela servir para alguma coisa, se as literacias para a usar existirem para além da ida à Internet | Internet para ver os sítios de futebol, pornografia e as fotografias da turma no Hi5.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 273,
+        "end": 284
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 87,
+        "end": 95
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

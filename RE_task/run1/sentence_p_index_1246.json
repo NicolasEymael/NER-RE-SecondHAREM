@@ -1,0 +1,14 @@
+{
+  "text": "Em que escola estuda o Harry Potter? Qual a divisa da escola? Em quantas casas está dividida? Quem é o director da escola?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

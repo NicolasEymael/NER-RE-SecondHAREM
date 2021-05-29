@@ -1,0 +1,30 @@
+{
+  "text": "A quantas pessoas foi até agora atribuída a Medalha Olímpica Nobre Guedes? Quem é que a recebeu em 1951 em vela? Quem é que a recebeu em 2005 em judo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 44,
+        "end": 73
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 96,
+        "end": 103
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 134,
+        "end": 141
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quem compôs a canção \"Grândola, Vila Morena\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 22,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

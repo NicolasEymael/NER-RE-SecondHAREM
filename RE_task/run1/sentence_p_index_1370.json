@@ -1,0 +1,14 @@
+{
+  "text": "Qual foi o nome de código do Desembarque da Normândia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 29,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

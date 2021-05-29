@@ -1,0 +1,14 @@
+{
+  "text": "Pontos de interesse, organizados em mais de 40 categorias incluíndo, restaurantes, parques, estações de serviço, hotéis, escolas etc.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 36,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

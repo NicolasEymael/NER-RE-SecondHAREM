@@ -1,0 +1,14 @@
+{
+  "text": "Quando começa o outono no hemisfério sul?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 14,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

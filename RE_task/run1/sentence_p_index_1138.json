@@ -1,0 +1,97 @@
+{
+  "text": "No próximo sábado, às 16h, Ronaldo Lemos, diretor do Creative Commons | diretor do Creative Commons no Brasil, irá participar de um debate com os membros do Superflex, na Vermelho, e logo após será realizada uma gincana intitulada \"Free Beer Pub Quiz\", na qual participantes receberão prêmios ao responderem questões sobre propriedade intelectual e direitos autorais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 19,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 40
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 42,
+        "end": 69
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 83,
+        "end": 99
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 103,
+        "end": 109
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 157,
+        "end": 166
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 171,
+        "end": 179
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 232,
+        "end": 250
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "natural_de",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

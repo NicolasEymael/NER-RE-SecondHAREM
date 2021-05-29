@@ -1,0 +1,30 @@
+{
+  "text": "Quando se realizaram os Jogos Olímpicos de Munique | Jogos Olímpicos de Munique?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 24,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

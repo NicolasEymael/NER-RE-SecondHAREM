@@ -1,0 +1,14 @@
+{
+  "text": "Por que estado é senador Barack Obama?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 25,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

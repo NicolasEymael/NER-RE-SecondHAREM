@@ -1,0 +1,14 @@
+{
+  "text": "Quanto custou a construção da Torre Eiffel?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 30,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

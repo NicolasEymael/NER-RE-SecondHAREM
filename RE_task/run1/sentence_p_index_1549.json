@@ -1,0 +1,30 @@
+{
+  "text": "Quando é que o antigo Parlamento da Bretanha | Parlamento da Bretanha foi destruído por um incêndio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 22,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 47,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 61,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

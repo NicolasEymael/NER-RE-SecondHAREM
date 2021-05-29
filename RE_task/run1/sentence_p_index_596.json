@@ -1,0 +1,46 @@
+{
+  "text": "Sempre é o iPhone , dirão os que acompanharam as especulações e palpites dos últimos meses . A Apple , empresa de tecnologias que tem nos leitores multimédia iPod e nos computadores Macintosh a sua bandeira, acaba de entrar na área das telecomunicações.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 11,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 90
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 95,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 158,
+        "end": 162
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 182,
+        "end": 191
+      }
+    }
+  ],
+  "relations": []
+}

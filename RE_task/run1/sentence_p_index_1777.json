@@ -1,0 +1,22 @@
+{
+  "text": "Que equipa era treinada por Fernando Santos em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 44,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Quais as cinco praias do desembarque das quais um industrial comprou 200 toneladas de areia para comemorar o 50º aniversário do Dia-D?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 69,
+        "end": 82
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 109,
+        "end": 112
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 128,
+        "end": 133
+      }
+    }
+  ],
+  "relations": []
+}

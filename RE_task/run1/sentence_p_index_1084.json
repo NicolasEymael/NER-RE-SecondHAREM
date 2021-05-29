@@ -1,0 +1,38 @@
+{
+  "text": "Vários projetos usando o CyberTracker em áreas de preservação da África do Sul também estão interrompidos, em parte devido ao preconceito contra rastreadores analfabetos e a falta de entusiasmo por parte dos administradores, diz Liebenberg. Mesmo assim, ele pretende desenvolver o CyberTracker, transformando-o num sistema para monitorar mudanças ambientais e compartilhar informações pelo mundo todo. \"No momento, faltam cientistas para reunir informação em campo\", disse. \"Se pudermos contar com a ajuda das pessoas que vivem nesses lugares, poderemos, teoricamente, monitorar todo o ecossistema global.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 25,
+        "end": 37
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 229,
+        "end": 239
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 281,
+        "end": 293
+      }
+    }
+  ],
+  "relations": []
+}

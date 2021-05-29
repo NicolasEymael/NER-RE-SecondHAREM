@@ -1,0 +1,75 @@
+{
+  "text": "Fabio (ele não acentua o nome e que eu vou fazer com a proparoxítona relativa, a quebra de ditongo, o escambáu), pois o homem diz que Jessé Oliveira escreveu a frase \"a propósito de justificar a escolha do texto Transegun, de Cuti, como primeira peça montada pelo grupo CaixaPreta, criado em 2002 a partir da reunião de artistas negros atuantes em Porto Alegre.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 5
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 134,
+        "end": 148
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 212,
+        "end": 221
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 226,
+        "end": 230
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 270,
+        "end": 280
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 289,
+        "end": 296
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 348,
+        "end": 360
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "data_nascimento",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

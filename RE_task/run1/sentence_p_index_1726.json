@@ -1,0 +1,14 @@
+{
+  "text": "Quais são as sete colinas de Roma? Qual é a mais pequena delas? Quem é o dono delas? Em qual delas fica a residência do presidente?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 33
+      }
+    }
+  ],
+  "relations": []
+}

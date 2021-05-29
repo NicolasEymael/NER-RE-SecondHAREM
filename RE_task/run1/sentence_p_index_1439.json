@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade bávara fica a sede da Adidas AG?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 36,
+        "end": 45
+      }
+    }
+  ],
+  "relations": []
+}

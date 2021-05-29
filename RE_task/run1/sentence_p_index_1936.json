@@ -1,0 +1,30 @@
+{
+  "text": "Que tipo de bombas foram usadas pelo IRA no ataque a Heathrow em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 40
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 53,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 62,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

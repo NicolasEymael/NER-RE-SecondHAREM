@@ -1,0 +1,62 @@
+{
+  "text": "Entre os desafios que esperam a UE nos próximos meses , o presidente da Comissão Europeia | presidente da Comissão Europeia destacou a necessidade de os 27 ajudarem a encontrar uma solução para resolver a questão do Kosovo . \"Isto é um teste para a Europa onde não podemos falhar\", sublinhou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 34
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 35,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 58,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 106,
+        "end": 123
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 153,
+        "end": 155
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 216,
+        "end": 222
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 249,
+        "end": 255
+      }
+    }
+  ],
+  "relations": []
+}

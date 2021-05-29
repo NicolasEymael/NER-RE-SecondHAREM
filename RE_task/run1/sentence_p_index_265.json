@@ -1,0 +1,173 @@
+{
+  "text": "O Ministro da Defesa deverá assistir ao briefing do destacamento e visitar o aquartelamento do Campo Warehouse . Com um total de 161 militares, o contingente português integrado na Força Internacional de Assistência e Segurança ( ISAF ) constitui a Força de Reacção Rápida do Comandante |Força de Reacção Rápida do Comandante da força da NATO no Afeganistão. Nuno Severiano Teixeira reúne-se ainda com o comandante da força da NATO ( ISAF ) no Afeganistão , General Dan McNeill . A participação militar Portuguesa no Afeganistão começou a 10 de Agosto de 2005 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 95,
+        "end": 110
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 129,
+        "end": 132
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 181,
+        "end": 227
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 230,
+        "end": 234
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 249,
+        "end": 286
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 288,
+        "end": 311
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 315,
+        "end": 325
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 338,
+        "end": 342
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 346,
+        "end": 357
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 359,
+        "end": 382
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 427,
+        "end": 431
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 434,
+        "end": 438
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 444,
+        "end": 455
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 458,
+        "end": 477
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 517,
+        "end": 528
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 537,
+        "end": 559
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T9",
+      "obj": "T6"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T9"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T15",
+      "obj": "T12"
+    }
+  ]
+}

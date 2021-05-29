@@ -1,0 +1,91 @@
+{
+  "text": "A 24 de Novembro de 1960 , no restaurante Le Vrai Gascon (n.º 82 da rue du Bac , Paris ), em torno dessas figuras majestáticas que eram Raymond Queneau e François Le Lionnais , nasceu uma das mais heterodoxas correntes literárias do século XX . Desafio intelectual e brincadeira de literatos apaixonados pela sua língua, explosiva mistura de cérebros moldados pelas leis da gramática e mentes científicas habituadas a todo o tipo de operações lógicas, o OuLiPo ( Ouvroir de Littérature Potentiel ) veio libertar a literatura da forma mais radical: acorrentando-a. Isto é, inventando um sem número de constrangimentos que estimulam a imaginação e a perícia verbal de quem escreve.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 24
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 42,
+        "end": 56
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 78
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 81,
+        "end": 86
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 136,
+        "end": 151
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 154,
+        "end": 174
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 230,
+        "end": 242
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 454,
+        "end": 460
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 463,
+        "end": 495
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticante_de",
+      "subj": "T6",
+      "obj": "T8"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T8"
+    }
+  ]
+}

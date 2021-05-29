@@ -1,0 +1,14 @@
+{
+  "text": "O que é o ICBAS?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 15
+      }
+    }
+  ],
+  "relations": []
+}

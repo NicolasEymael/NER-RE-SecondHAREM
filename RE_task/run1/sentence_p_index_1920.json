@@ -1,0 +1,14 @@
+{
+  "text": "De que estúdio cinematográfico foi Cedric Gibbons director artístico?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 35,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "O génio militar de Nuno Álvares Pereira foi decisivo na Batalha de Aljubarrota .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 56,
+        "end": 78
+      }
+    }
+  ],
+  "relations": []
+}

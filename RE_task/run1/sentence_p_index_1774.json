@@ -1,0 +1,22 @@
+{
+  "text": "Em que constelação fica Vega? E Régulo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 24,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 32,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

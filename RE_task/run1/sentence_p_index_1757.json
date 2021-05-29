@@ -1,0 +1,14 @@
+{
+  "text": "A quem pertence o Cisne Branco?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

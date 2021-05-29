@@ -1,0 +1,14 @@
+{
+  "text": "Mosteiro de Santa Clara-a-Velha",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 0,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

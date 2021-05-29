@@ -1,0 +1,22 @@
+{
+  "text": "Quem foi votado o futebolista do ano na Bélgica em 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 40,
+        "end": 47
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 48,
+        "end": 55
+      }
+    }
+  ],
+  "relations": []
+}

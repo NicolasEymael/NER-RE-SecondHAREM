@@ -1,0 +1,22 @@
+{
+  "text": "Quantas vezes é que Alain Prost foi campeão do Mundo | Mundo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 47,
+        "end": 52
+      }
+    }
+  ],
+  "relations": []
+}

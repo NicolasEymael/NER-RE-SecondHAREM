@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Boaventura Kloppenburg?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,54 @@
+{
+  "text": "Em suma, a UCI quer controlar em 2008 cada ciclista por 12 vezes -- às análises de sangue juntam-se às da urina --, na sua maioria inopinadas, devendo gastar, com todo o programa do passaporte biológico, qualquer coisa como 6 milhões de euros, contra 1 milhão gasto este ano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 11,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 52,
+        "end": 64
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 224,
+        "end": 242
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 251,
+        "end": 259
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 266,
+        "end": 274
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,51 @@
+{
+  "text": "Ao chegar numa casa de portão alto, o protagonista é recebido por sua futura vítima, Stephen Albert , sujeito que fora encarregado de decifrar um enigma do livro escrito por Ts'ui Pen . Este, que era um antepassado do próprio personagem principal, tinha abandonado sua próspera vida (era governador de sua província, doutor em astronomia, em astrologia, enxadrista, calígrafo e famoso poeta) para compor um labirinto e um livro. No entanto, o enigma revelado por Albert é justamente que o livro e o labirinto são o mesmo objeto. A chave para a descoberta estava num fragmento de uma carta deixada por Ts'ui Pen , no qual estava escrito: \"Deixo aos vários futuros (não a todos) meu jardim de caminhos que se bifurcam\" (BORGES, 1995: 94 94 | BORGES, 1995: 94).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 85,
+        "end": 99
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 174,
+        "end": 183
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 463,
+        "end": 469
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 601,
+        "end": 610
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    }
+  ]
+}

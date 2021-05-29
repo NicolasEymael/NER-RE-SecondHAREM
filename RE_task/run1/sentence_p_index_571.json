@@ -1,0 +1,46 @@
+{
+  "text": "Mesmo no século XIX, lavradores Sebastianistas no sertão brasileiro acreditavam que o rei iria regressar para ajuda-los na luta contra a República ateia Brasileira | República ateia Brasileira\" (Ver Revolta dos Canudos).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 6,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 46
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 137,
+        "end": 163
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 175
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 199,
+        "end": 218
+      }
+    }
+  ],
+  "relations": []
+}

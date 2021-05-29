@@ -1,0 +1,86 @@
+{
+  "text": "O acordo político quanto à revisão foi obtido durante a Presidência Alemã , tendo cabido a Portugal concluir o processo de revisão. Com a adopção da revisão do Mecanismo no Conselho de Justiça e Assuntos Internos de 8 de Novembro , este processo ficou concluído, passando a União a ficar dotado de um Mecanismo mais expedito para resposta a emergências graves. As principais novidades do Mecanismo são a clarificação de competências entre a Comissão e a Presidência no quadro de intervenções em países terceiros, a existência de competências comunitárias ao nível do transporte e a criação, numa base voluntária, de módulos de protecção civil.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 56,
+        "end": 73
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 91,
+        "end": 99
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 160,
+        "end": 169
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 173,
+        "end": 212
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 213,
+        "end": 229
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 274,
+        "end": 279
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 301,
+        "end": 310
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 388,
+        "end": 397
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 441,
+        "end": 449
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 454,
+        "end": 465
+      }
+    }
+  ],
+  "relations": []
+}

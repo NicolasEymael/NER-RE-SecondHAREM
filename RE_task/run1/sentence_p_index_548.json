@@ -1,0 +1,91 @@
+{
+  "text": "Segundo Pacheco Pereira , é esta diversidade social que começa a estar seriamente ameaçada. Há uns tempos , escreveu no PÚBLICO que «o problema do PSD é começar a ter só um Portugal ou dois dentro de si». Não podia estar mais em desacordo com esta afirmação. Para mim, é precisamente esse o problema do partido. Se, em vez de « Portugais », o PSD tivesse uma Finlândia ou duas Dinamarcas dentro dele, aí sim podia ser que o partido fosse a algum lado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 8,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 92,
+        "end": 105
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 120,
+        "end": 127
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 147,
+        "end": 150
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 173,
+        "end": 181
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 328,
+        "end": 337
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 343,
+        "end": 346
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 359,
+        "end": 368
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 377,
+        "end": 387
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T4"
+    }
+  ]
+}

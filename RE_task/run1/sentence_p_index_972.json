@@ -1,0 +1,22 @@
+{
+  "text": "Apenas uma opinião, mas, é preciso cuidado porque assim, por extensão, o papel do Mocinho poderia ser atribuído a sociedade neoliberal globalizada, ao Capitalismo em suma, e ao estupendo grau de desenvolvimento tecnológico que ele propicia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 82,
+        "end": 89
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 151,
+        "end": 162
+      }
+    }
+  ],
+  "relations": []
+}

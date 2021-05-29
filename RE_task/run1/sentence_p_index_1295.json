@@ -1,0 +1,14 @@
+{
+  "text": "Como se chama o deus grego da Medicina?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 30,
+        "end": 38
+      }
+    }
+  ],
+  "relations": []
+}

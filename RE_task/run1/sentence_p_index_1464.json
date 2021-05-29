@@ -1,0 +1,30 @@
+{
+  "text": "Em quantos países foram transmitidas as Olimpíadas de Albertville | Olimpíadas de Albertville?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 40,
+        "end": 65
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 68,
+        "end": 78
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 82,
+        "end": 93
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,61 @@
+{
+  "text": "O Fabio contou que um destaque do Encontro foi a apresentação na sexta, 14, da peça Taba-Taba, texto do francês Bernard Koltès, que marca a estréia da atriz Renata de Lélis na direção.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 34,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 62,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 84,
+        "end": 93
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 112,
+        "end": 126
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 157,
+        "end": 172
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

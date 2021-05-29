@@ -1,0 +1,54 @@
+{
+  "text": "A partida da edição de 2008 está marcada para a Praça do Império, em Lisboa. O Centro Cultural de Belém | Centro Cultural de Belém será o quartel-general para os carros, motos e camiões.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 48,
+        "end": 64
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 69,
+        "end": 75
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 79,
+        "end": 103
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 106,
+        "end": 121
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 125,
+        "end": 130
+      }
+    }
+  ],
+  "relations": []
+}

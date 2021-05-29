@@ -1,0 +1,14 @@
+{
+  "text": "« PolivalênciaVacas - Para o BCE somos vacas!!",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

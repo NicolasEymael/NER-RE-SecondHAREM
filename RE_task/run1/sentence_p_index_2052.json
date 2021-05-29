@@ -1,0 +1,14 @@
+{
+  "text": "De quem é \"O Capital\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 11,
+        "end": 20
+      }
+    }
+  ],
+  "relations": []
+}

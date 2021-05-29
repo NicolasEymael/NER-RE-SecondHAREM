@@ -1,0 +1,78 @@
+{
+  "text": "Um curioso exemplar, óbvio momento de experimentação portuguesa do gótico, o Convento de Santa Clara de Coimbra | Convento de Santa Clara de Coimbra, melhor conhecido por Mosteiro de Santa Clara-a-Velha. A fundação é posterior a 1286, mas só com o auxílio de D. Isabel de Aragão | D. Isabel de Aragão, as obras do edifício actual tiveram início. Respeita, em termos de planta e alçados, a disposição dos templos de Clarissas - três naves de sete tramos sem transepto, e cabeceira com três capelas (as dos extremos quadrangulares, poligonal a capela-mor).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 77,
+        "end": 111
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 137
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 141,
+        "end": 148
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 171,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 227,
+        "end": 233
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 259,
+        "end": 278
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 281,
+        "end": 290
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 294,
+        "end": 300
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 415,
+        "end": 424
+      }
+    }
+  ],
+  "relations": []
+}

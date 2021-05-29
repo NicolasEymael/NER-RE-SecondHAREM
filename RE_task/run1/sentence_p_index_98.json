@@ -1,0 +1,30 @@
+{
+  "text": "Em seu livro, num estilo que remixa ensaio e ficção científica, grupos colaborativos independentes e autônomos seriam os grandes monstros que ameaçam o atual estágio do neo-liberalismo corporativo. Espécie de alienígenas no meio da lógica capitalista da competitividade e das redes de \"cooperação forçada\", os coletivos colaborativos autônomos atuam numa esfera que transcende a mercantilização e podem efetuar uma troca auto-sustentável que, se aplicada em larga escala - o que para muitos é pura utopia - , correria o risco de transformar totalmente a paisagem social, econômica e política do planeta. Comunismo open source? Talvez, pelo menos é o que Spehr acredita, com um otimismo desafiante, o mesmo que o faz organizar a conferência anual \" Out of This World em Bremen , onde junta programadores, ativistas, escritores de ficção científica, filósofos e teóricos para debater a aplicação do código aberto à transformação social visando o futuro.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 654,
+        "end": 659
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 748,
+        "end": 765
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 769,
+        "end": 775
+      }
+    }
+  ],
+  "relations": []
+}

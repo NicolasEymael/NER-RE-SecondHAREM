@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a altitude do Monte Rosa?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

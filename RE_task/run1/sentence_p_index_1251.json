@@ -1,0 +1,14 @@
+{
+  "text": "O que foi a Revolução de Veludo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 12,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

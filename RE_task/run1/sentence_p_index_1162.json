@@ -1,0 +1,45 @@
+{
+  "text": "No Velho Mundo, são 13 as espécies descritas, necessitando de esclarecimentos epidemiológicos. Não se encontrou nenhuma infectada pelo T. cruzi. A espécie mais conhecida dentre estas é Triatoma rubrofasciata, que é cosmopolita e encontrada em regiões portuárias.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 3,
+        "end": 14
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 20,
+        "end": 22
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 135,
+        "end": 143
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 185,
+        "end": 207
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "causador_de",
+      "subj": "T4",
+      "obj": "T1"
+    }
+  ]
+}

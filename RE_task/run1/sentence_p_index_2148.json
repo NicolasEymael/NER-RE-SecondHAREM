@@ -1,0 +1,30 @@
+{
+  "text": "-Sistema de Navegação automóvel, pronto a usar , com indicações de mudança de direcção (turn-by-turn) de voz e visuais a 3 dimensões (True view 3d navigation exclusiva da Magellan), e ecrã táctil com 32.000 côres.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 1,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 171,
+        "end": 179
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 200,
+        "end": 206
+      }
+    }
+  ],
+  "relations": []
+}

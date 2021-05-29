@@ -1,0 +1,30 @@
+{
+  "text": "Depois...na dita praia de S. Bernardino , e depois na Praia das Maçãs , tornei-me uma grande nadadora é uma maneira um bocadinho... como hei-de dizer? pouco rigorosa de dizer. Eu era uma nadadora de muita resistência. De fundo, digamos. Mas sempre com aquele estilo, que passou de bruços para agulha, e que realmente me fazia avançar muito, mas eu não sabia outro estilo, nunca nadei de braçada, crawl...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 26,
+        "end": 39
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 54,
+        "end": 69
+      }
+    }
+  ],
+  "relations": []
+}

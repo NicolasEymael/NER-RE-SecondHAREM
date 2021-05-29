@@ -1,0 +1,30 @@
+{
+  "text": "O Estatuto Social do IBAP | Estatuto Social do IBAP está registrado no Estatuto Social do IBAP.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 28,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 47,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

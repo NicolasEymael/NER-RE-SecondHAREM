@@ -1,0 +1,29 @@
+{
+  "text": " Em Dezembro em Lisboa. Sócrates: cimeira \"União Europeia-África | União Europeia - África não deve ser uma cimeira «sobre Mugabe». A cimeira União Europeia-África | União Europeia - África , prevista para 8 e 9 de Dezembro em Lisboa, não deve ser uma cimeira sobre o Presidente do Zimbabwe | Presidente do Zimbabwe, Robert Mugabe, defendeu hoje José Sócrates, primeiro-ministro português e presidente em exercício da União Europeia (UE). «O que queremos é que esta cimeira entre a União Europeia e África, uma cimeira histórica muito importante, se concentre nos documentos que vão ser aprovados e não sobre o Presidente Robert Mugabe», declarou Sócrates em Singapura, à margem da cimeira entre a UE e os países do Sudeste asiático, segundo a Lusa . O Zimbabwe foi convidado para participar na cimeira, apesar da oposição do Reino Unido que ameaçou boicotar a reunião se Mugabe estiver presente. «Esta é uma cimeira que não se realiza há sete anos, uma cimeira sobre os direitos do Homem, sobre as alterações climáticas, sobre as migrações, sobre os problemas da União Europeia e da União Africana», salientou Sócrates. «O objectivo é restaurar o diálogo político alargado com a África e fazer não apenas uma estratégia da Europa para a África mas uma estratégia conjunta, pela primeira vez na história», lembrou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 67,
+        "end": 81
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 32
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

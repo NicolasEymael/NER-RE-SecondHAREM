@@ -1,0 +1,449 @@
+{
+  "text": "1. Hoje à noite o Benfica tem um teste elucidativo sobre o seu verdadeiro valor. Teve-o também antes contra o Manchester United , onde passou com distinção, é facto, mas o Manchester desta época e, sobretudo, o de Dezembro passado , é uma pálida imitação dos «red devils» de um passado recente , que tudo atemorizavam. O Liverpool , para além de campeão europeu em título, é melhor equipa e mais calculista. Contra ele, o Benfica tem de jogar o seu máximo e então se verá se o seu máximo está ou não ao mais alto nível europeu. Ao iniciar com uma derrota inapelável este terrível ciclo de nove dias em que tudo se pode sonhar e tudo se pode perder, o Benfica de Ronald Koeman | Benfica de Ronald Koeman parece ter lançado a descrença entre os seus --- adeptos e jornalistas. De repente, a tão louvada equipa de há três semanas atrás parece já não inspirar confiança a ninguém e o seu treinador virou um saco de pancada ao alcance de todas as frustrações. Acusa-se Koeman de mudar constantemente a equipa, como se ele fosse responsável pelas lesões e castigos ou pela chegada de uma mini-enxurrada de reforços em Dezembro , anunciados pela Direcção como o suplemento que faltava para a conquista da Liga dos Campeões e que ele, logicamente, tinha de experimentar e utilizar. E esquecendo-se até de que foi uma dessas inesperadas «revoluções» na formação da equipa que conduziu à também inesperada vitória contra o Manchester . Até se acusa Koeman de já ter experimentado quatro guarda-redes, como se fosse ele o culpado pelas lesões de Quim e de Moreira , pela manifesta impreparação de Nereu , ou pela «épica» contratação de Moretto , delirantemente saudada pela massa associativa e afins. Embora não me motive muito perceber o que se passa em casa alheia, a mim parece-me que, mais prosaicamente, a questão das esperanças traídas no Benfica tem sobretudo a ver com a ilusão criada sobre o valor real da equipa. Tudo começou na época passada, com um Campeonato e uma Taça ganhos de forma que foi tudo menos convincente mas que, por temor ou reverência, ninguém se atreveu a questionar. Por isso, quando Luís Filipe Vieira disse que esta era uma equipa de campeões, toda a gente fingiu que sim, e, quando, reforços acrescentados, ele passou a dizer que esta era uma equipa capaz de chegar à final e talvez ganhar a Champions , continuaram todos a fingir que acreditavam. Depois, houve a vitória sobre o Manchester e a série de sete triunfos consecutivos na Liga portuguesa e foi ver o José Veiga , de peito feito, a anunciar a inevitável revalidação do título e a Europa ao virar da esquina. Mas ninguém se deteve a pensar quantos, desses sete jogos, foram ganhos sem dúvidas de arbitragem e através de exibições convincentes, porque é um crime de lesa-majestade questionar o mérito dos triunfos benfiquistas. E assim se criou a verdade oficial de que estava aí um grande Benfica , que nada nem ninguém conseguiriam parar. Agora, três súbitas derrotas depois, cai-se no extremo oposto. E na pior altura, quando a equipa mais precisava da confiança dos seus. Mas, se entre hoje e domingo , tudo correr mal para os benfiquistas, é certo e sabido que quem semeou os ventos de ilusão não colherá as tempestades de desilusão. Isso está guardado para um bode expiatório mais conveniente.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 3,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 95,
+        "end": 100
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 110,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 182
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 183,
+        "end": 194
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 211,
+        "end": 230
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 321,
+        "end": 330
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 422,
+        "end": 429
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 586,
+        "end": 598
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "organizacao",
+      "span": {
+        "begin": 651,
+        "end": 675
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 678,
+        "end": 685
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 689,
+        "end": 702
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "tempo",
+      "span": {
+        "begin": 808,
+        "end": 832
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 964,
+        "end": 970
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 1109,
+        "end": 1120
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1139,
+        "end": 1147
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 1198,
+        "end": 1215
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1413,
+        "end": 1423
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 1439,
+        "end": 1445
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1535,
+        "end": 1539
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "individuo",
+      "span": {
+        "begin": 1545,
+        "end": 1552
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "individuo",
+      "span": {
+        "begin": 1586,
+        "end": 1591
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 1625,
+        "end": 1632
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1834,
+        "end": 1841
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1950,
+        "end": 1960
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1967,
+        "end": 1971
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "individuo",
+      "span": {
+        "begin": 2103,
+        "end": 2121
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2314,
+        "end": 2323
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2402,
+        "end": 2412
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2456,
+        "end": 2460
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "individuo",
+      "span": {
+        "begin": 2484,
+        "end": 2494
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 2563,
+        "end": 2569
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2871,
+        "end": 2878
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "tempo",
+      "span": {
+        "begin": 3065,
+        "end": 3085
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T13",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T17",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T19",
+      "obj": "T4"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T13"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T2"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T2"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T2"
+    },
+    {
+      "id": "R13",
+      "pred": "incluido",
+      "subj": "T24",
+      "obj": "T2"
+    },
+    {
+      "id": "R14",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T2"
+    },
+    {
+      "id": "R15",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T13"
+    },
+    {
+      "id": "R16",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T21"
+    },
+    {
+      "id": "R17",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T22"
+    },
+    {
+      "id": "R18",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T23"
+    },
+    {
+      "id": "R19",
+      "pred": "vinculo_inst",
+      "subj": "T25",
+      "obj": "T24"
+    },
+    {
+      "id": "R20",
+      "pred": "incluido",
+      "subj": "T25",
+      "obj": "T17"
+    },
+    {
+      "id": "R21",
+      "pred": "ter_participacao_de",
+      "subj": "T26",
+      "obj": "T2"
+    },
+    {
+      "id": "R22",
+      "pred": "ter_participacao_de",
+      "subj": "T27",
+      "obj": "T2"
+    },
+    {
+      "id": "R23",
+      "pred": "vinculo_inst",
+      "subj": "T28",
+      "obj": "T25"
+    },
+    {
+      "id": "R24",
+      "pred": "ter_participacao_de",
+      "subj": "T29",
+      "obj": "T2"
+    },
+    {
+      "id": "R25",
+      "pred": "ter_participacao_de",
+      "subj": "T31",
+      "obj": "T2"
+    },
+    {
+      "id": "R26",
+      "pred": "vinculo_inst",
+      "subj": "T32",
+      "obj": "T25"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T34",
+      "obj": "T2"
+    }
+  ]
+}

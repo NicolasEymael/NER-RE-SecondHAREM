@@ -1,0 +1,14 @@
+{
+  "text": "Distribuição de jornais gratuitos quase duplicou este ano",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 49,
+        "end": 57
+      }
+    }
+  ],
+  "relations": []
+}

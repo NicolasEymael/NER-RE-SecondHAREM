@@ -1,0 +1,22 @@
+{
+  "text": "Quem foi o último rei da Bulgária | rei da Bulgária?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 18,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 43,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,29 @@
+{
+  "text": " THANKSGIVING COM MINE DE RIEN. Na noite de Acção de Graças | Na noite de Acção de Graças apresento-vos um blogue escrito dos EUA , da cidade onde eu várias vezes passei este feriado. Evidentemente, é mais um blogue de um LEFTista (embora neste caso não vá insistir muito no aspecto LEFT porque o rapaz nem é muito disso...). O autor, para além de um velho amigo - conheço-o desde caloiro -, é uma pessoa interessantíssima, e tem com certeza uma perspectiva muito sua a acrescentar ao assunto para mim fascinante das relações entre a Europa e a América , o Velho e o Novo Continente . Antes de eu ir para os EUA falava-me entusiasmadíssimo do american way of life e de como era boa a comida nas universidades americanas - a escolha de pizzas! os hot-dogs! os hamburgers! - sem se aperceber de como me estava a deixar horrorizado. Depois da LEFT o Pedro veio para Paris fazer Teoria de Cordas . Na Cité Universitaire arranjou maneira de não ficar muito tempo na Residência André de Gouveia , indo antes para uma casa que era a cara dele - a Deutsche de la Meurthe , a mais antiga, a mais clássica, aquela onde Simone de Beauvoir ia visitar o estudante Jean-Paul Sartre . Quando eu cheguei, deu-me a conhecer a área de Montparnasse e do Port Royal . Nessa altura era um parisiense com uma costela americana, português q.b. e vagamente judeu. Agora é um americano parisiense, um verdadeiro mangeur de fromage. Pôs a Europa e a Teoria das Cordas de parte e foi para a melhor cidade da América do Norte mostrar que um físico matemático é pau para toda a obra - nem que seja para mostrar que a Biologia Celular é só \"quebra de simetria\" e que não há nada como o outono na Nova Inglaterra . Que rica prenda de Thanksgiving | de Thanksgiving . Bem vindo, Pedro . A 24 de Novembro de 1960 , no restaurante Le Vrai Gascon (n.º 82 da rue du Bac , Paris ), em torno dessas figuras majestáticas que eram Raymond Queneau e François Le Lionnais , nasceu uma das mais heterodoxas correntes literárias do século XX . Desafio intelectual e brincadeira de literatos apaixonados pela sua língua, explosiva mistura de cérebros moldados pelas leis da gramática e mentes científicas habituadas a todo o tipo de operações lógicas, o OuLiPo ( Ouvroir de Littérature Potentiel ) veio libertar a literatura da forma mais radical: acorrentando-a. Isto é, inventando um sem número de constrangimentos que estimulam a imaginação e a perícia verbal de quem escreve. Na definição sucinta de Queneau , um autor oulipiano é um «rato que constrói o labirinto do qual se propõe sair». Um labirinto de palavras, claro; um labirinto textual. E se grande parte da produção destes autores auto-espartilhados não sobrevive fora do contexto em que surgiu, enquanto mecanismo lúdico ou exercício de estilo, o certo é que os processos do OuLiPo estão inscritos na estrutura de algumas obras-primas de autores como Italo Calvino ( Se Numa Noite de Inverno um Viajante ) ou Georges Perec ( A Vida Modo de Usar ; La Disparition ; etc). Quanto mais não fosse por isso, já valeria a pena celebrar os 45 anos | os 45 anos de um movimento que continua activo e em expansão (investigar aqui).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 1654,
+        "end": 1662
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 126,
+        "end": 129
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

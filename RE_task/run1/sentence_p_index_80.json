@@ -1,0 +1,54 @@
+{
+  "text": "É por isso que as comemorações dos 15 anos de actividade do CCB , que decorrerão ao longo do ano de 2008 , vão ser especialmente orientadas para o público que fez do CCB um equipamento indipensável na vida cultural da cidade. Não editaremos álbuns auto-congratulatórios nem promoveremos grandes jantares de celebração; não lançaremos fogo de artifício nem nos envolveremos em extravagâncias de programação que estariam para lá da nossa dimensão e recursos. Investiremos tudo o que está ao nosso alcance para tornar a programação de espectáculos de 2008 mais acessível aos frequentadores do CCB .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 35,
+        "end": 42
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 60,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 81,
+        "end": 104
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 166,
+        "end": 169
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 545,
+        "end": 552
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 590,
+        "end": 593
+      }
+    }
+  ],
+  "relations": []
+}

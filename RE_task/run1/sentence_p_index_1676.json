@@ -1,0 +1,14 @@
+{
+  "text": "Em que aeroporto é que Carol Ann Timmel perdeu o seu gato? Como é que se chamava o gato? Em que tipo de avião é que o gato foi perdido? Quanto é que avião se atrasou enquanto prosseguia a busca?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 23,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

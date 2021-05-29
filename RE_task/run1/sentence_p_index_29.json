@@ -1,0 +1,46 @@
+{
+  "text": "Os fragmentos do satélite italiano Bepposax mergulharam na noite de ontem no oceano Pacífico , deixando aliviados os mais de 30 países _inclusive o Brasil _ que estavam sob risco de serem atingidos pelos destroços.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 35,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 84,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 117,
+        "end": 127
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 148,
+        "end": 154
+      }
+    }
+  ],
+  "relations": []
+}

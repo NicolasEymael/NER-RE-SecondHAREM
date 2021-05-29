@@ -1,0 +1,29 @@
+{
+  "text": " Actualmente é de 570,6 euros. Espanha aumenta salário mínimo para 600 euros. O Governo socialista espanhol aprovou hoje o aumento do salário mínimo em Espanha , fazendo-o passar dos actuais 570,6 euros para 600 euros no próximo ano . «Aprovámos o decreto que estabelece o salário mínimo interprofissional nos 600 euros por mês, com efeito a partir de 1 de Janeiro », anunciou o chefe do Governo , José Luís Rodriguez Zapatero , numa conferência de imprensa do último Conselho de Ministros deste ano . Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou Zapatero , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos 460 euros em 2004 , aquando da sua ascensão ao poder. O chefe do governo vai disputar um segundo mandato de quatro anos nas eleições legislativas de 9 de Março , e salienta frequentemente o seu balanço económico positivo. Em Outubro , Zapatero prometeu igualmente aumentar o salário mínimo até aos 800 euros por mês em caso de reeleição. À excepção dos antigos países do bloco de leste, a Espanha é um dos países que tem o salário mínimo mais baixo da União Europeia , juntamente com Portugal , Grécia e Malta .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1167,
+        "end": 1181
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 1199,
+        "end": 1207
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Em que desporto é Torneio das Cinco Nações?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 18,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

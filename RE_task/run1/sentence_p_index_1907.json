@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Vigdís Finnbogadóttir?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

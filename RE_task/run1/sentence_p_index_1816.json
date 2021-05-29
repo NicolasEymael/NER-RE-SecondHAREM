@@ -1,0 +1,14 @@
+{
+  "text": "Quando foi inaugurado o metropolitano de Lisboa? Quantas estações tem agora?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

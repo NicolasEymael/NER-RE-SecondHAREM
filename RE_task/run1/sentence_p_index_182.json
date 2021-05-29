@@ -1,0 +1,14 @@
+{
+  "text": "Associação dos Amigos do Museu Histórico Nacional",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

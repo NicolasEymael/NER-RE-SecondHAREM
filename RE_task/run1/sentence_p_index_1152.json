@@ -1,0 +1,117 @@
+{
+  "text": "Histórico Carlos Chagas: A doença de Chagas ou tripanosomíase americana foi descoberta pelo médico sanitarista Carlos Justiniano Ribeiro das Chagas - Carlos Chagas - em 1909. Este brasileiro descobriu a doença e descreveu praticamente todos os seus aspectos. Quando Carlos Chagas realizava uma campanha contra a malária que atingia operários na construção de um trecho da Estrada de Ferro Central do Brasil | Estrada de Ferro Central do Brasil, ao norte de Minas Gerais, ao fazer exames de uma menina doente, encontrou tripanosomos em seu sangue. Ao examinar posteriormente as fezes de insetos existentes na região e o sangue de animais mamíferos, constatou também a presença dos mesmos parasitas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 23
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 27,
+        "end": 43
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 111,
+        "end": 147
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 150,
+        "end": 163
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 166,
+        "end": 173
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 266,
+        "end": 279
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 372,
+        "end": 406
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 409,
+        "end": 433
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 437,
+        "end": 443
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 457,
+        "end": 469
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "natural_de",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T9"
+    }
+  ]
+}

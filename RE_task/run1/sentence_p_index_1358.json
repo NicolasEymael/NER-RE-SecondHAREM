@@ -1,0 +1,37 @@
+{
+  "text": "Em que cidade fica a Sagrada Família de Gaudí | Sagrada Família de Gaudí ?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 21,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "obra",
+      "span": {
+        "begin": 48,
+        "end": 63
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 67,
+        "end": 72
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

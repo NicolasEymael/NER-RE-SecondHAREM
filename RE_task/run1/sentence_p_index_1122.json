@@ -1,0 +1,14 @@
+{
+  "text": "Superflex lança cerveja \"pública\"",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 9
+      }
+    }
+  ],
+  "relations": []
+}

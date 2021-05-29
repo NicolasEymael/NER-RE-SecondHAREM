@@ -1,0 +1,14 @@
+{
+  "text": "Euro segue em alta face ao dólar",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 0,
+        "end": 4
+      }
+    }
+  ],
+  "relations": []
+}

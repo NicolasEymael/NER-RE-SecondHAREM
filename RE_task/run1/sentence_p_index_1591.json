@@ -1,0 +1,37 @@
+{
+  "text": "Quais são os outros três nomes do Arsenal Football Club? Quando é que este clube foi fundado? Em que estádio é que os jogadores do Arsenal têm estado a treinar desde Agosto de 2006? Quantos lugares tem o estádio?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 34,
+        "end": 55
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 131,
+        "end": 138
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 180
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

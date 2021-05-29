@@ -1,0 +1,54 @@
+{
+  "text": "Conscientes de que tal regra contradiria o princípio básico de actuação da protecção civil (resposta rápida e imediata após uma emergência), os Estados-Membros e a Comissão Europeia desenvolveram diversas diligências procurando obter uma clarificação/revisão de tais Directrizes junto da UN/OCHA . Em particular, foi obtido acordo no Grupo de Trabalho PROCIV quanto a uma abordagem global dos Estados-Membros sobre esta matéria.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 144,
+        "end": 159
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 164,
+        "end": 181
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 267,
+        "end": 278
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 288,
+        "end": 295
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 334,
+        "end": 358
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 393,
+        "end": 408
+      }
+    }
+  ],
+  "relations": []
+}

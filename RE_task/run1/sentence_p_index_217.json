@@ -1,0 +1,30 @@
+{
+  "text": "Museóloga e desenhista, Sophia Jobim lecionava na Escola Nacional de Belas Artes a disciplina de Indumentária Histórica .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 24,
+        "end": 36
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 50,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 97,
+        "end": 119
+      }
+    }
+  ],
+  "relations": []
+}

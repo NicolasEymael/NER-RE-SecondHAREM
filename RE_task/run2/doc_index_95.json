@@ -1,0 +1,293 @@
+{
+  "text": " Amazonas - Índios querem sobrenomes característicos da etnia. HOME PAGE RONDONIA AO VIVO , 24.12.2007. Índios do Amazonas reivindicam o direito de registrar os filhos de forma organizada, respeitosa e com os sobrenomes que caracterizam suas etnias. Os pontos foram apontados pelos indígenas na reunião de encerramento da primeira fase do Projeto Registro Civil dos Povos Indígenas do Amazonas | Projeto Registro Civil dos Povos Indígenas do Amazonas , que aconteceu na última semana em Manaus . De acordo com o projeto, iniciado em setembro de 2007 , 17 líderes indígenas estiveram em 44 comunidades no Alto Rio Negro , Alto e Médio Solimões , Vale do Javari , Purus , Juruá e Manaus para aplicar os questionários de avaliação sobre a atual situação dos registros civis da população e coletar dados para a elaboração de um relatório. O documento, será apresentado em março de 2008 e incluirá o resultado geral das avaliações e as sugestões dos povos indígenas. Ao todo, foram mais de 1,4 mil questionários aplicados em 325 comunidades, o equivalente a 43 etnias visitadas. Fonte: Clipping da 6ªCCR do MPF | 6ªCCR do MPF .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 1,
+        "end": 9
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 12,
+        "end": 18
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 92,
+        "end": 102
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 104,
+        "end": 110
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 114,
+        "end": 122
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 339,
+        "end": 393
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 423,
+        "end": 438
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 442,
+        "end": 450
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 467,
+        "end": 483
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 487,
+        "end": 493
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 530,
+        "end": 549
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "valor",
+      "span": {
+        "begin": 552,
+        "end": 554
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 586,
+        "end": 588
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 604,
+        "end": 618
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 621,
+        "end": 642
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 645,
+        "end": 659
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 662,
+        "end": 667
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 670,
+        "end": 675
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "local",
+      "span": {
+        "begin": 678,
+        "end": 684
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "tempo",
+      "span": {
+        "begin": 865,
+        "end": 881
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 977,
+        "end": 992
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 1020,
+        "end": 1023
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "valor",
+      "span": {
+        "begin": 1053,
+        "end": 1055
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1093,
+        "end": 1105
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1117,
+        "end": 1120
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "obra_de",
+      "subj": "T7",
+      "obj": "T2"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R7",
+      "pred": "incluido",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "incluido",
+      "subj": "T15",
+      "obj": "T1"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T1"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R13",
+      "pred": "ident",
+      "subj": "T20",
+      "obj": "T11"
+    }
+  ]
+}

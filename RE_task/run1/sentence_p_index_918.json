@@ -1,0 +1,69 @@
+{
+  "text": "Um estande central foi montado, com direito a banquinhos brancos e cortinas feitas com tubo de plástico, o que garantiu o resultado mais bonito entre todos os estandes, sem dúvida. Mas não ficou só por aí (e não mesmo!). O espaço contou com um estúdio de rádio e um estúdio de TV em pleno estande, que projetou vídeos o tempo inteiro, chamando a atenção dos participantes. Comandadas por Gabriel Menotti , do Cine Falcatrua , as projeções não seguiam uma programação prévia. \" Ano passado a gente preparou um mote especial pra cá, que passava num horário determinado. Nesse ano , a gente tá controlando a transmissão 24 horas , conta. Foi feita uma grade de programação de 36 horas | de 36 horas , com materiais da internet e enviados através de uma convocação especial para o festival, mas o que se viu por lá foram pessoas levando seus vídeos para passar sem marcar hora, bem no espírito colaborativo da cultura livre. \"Naturalmente, você fazendo a programação do lado do espaço de exibição, as pessoas têm acesso não só a tela como ao dispositivo de controle e também a nós, que estamos controlando a estrutura. Então você tem um diálogo muito maior entre os projecionistas e o público, completa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 388,
+        "end": 403
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 409,
+        "end": 423
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 477,
+        "end": 488
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 568,
+        "end": 577
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 617,
+        "end": 625
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 670,
+        "end": 681
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 687,
+        "end": 695
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

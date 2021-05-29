@@ -1,0 +1,22 @@
+{
+  "text": "Diga um Herói da União Soviética | Herói da União Soviética.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 8,
+        "end": 32
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 44,
+        "end": 59
+      }
+    }
+  ],
+  "relations": []
+}

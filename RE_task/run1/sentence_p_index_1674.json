@@ -1,0 +1,37 @@
+{
+  "text": "Que espécie de animal é que Victor Bernal tentou comprar a 25 de Janeiro de 1993? Em que tipo de avião estava o animal? Quem estava a fazer-se passar pelo animal? Em quanto foi Bernal multado?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 28,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 57,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 177,
+        "end": 183
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

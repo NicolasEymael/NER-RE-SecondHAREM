@@ -1,0 +1,30 @@
+{
+  "text": "Que grupo terrorista cometeu um atentado durante os Jogos Olímpicos de Munique | Jogos Olímpicos de Munique?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 52,
+        "end": 78
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 81,
+        "end": 96
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 100,
+        "end": 107
+      }
+    }
+  ],
+  "relations": []
+}

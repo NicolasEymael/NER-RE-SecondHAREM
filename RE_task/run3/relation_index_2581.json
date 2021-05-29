@@ -1,0 +1,29 @@
+{
+  "text": " George Steiner - holocausto ou holocaustos?. George Steiner esteve recentemente em Portugal e de acordo com notícia no Ciência Hoje o ensaísta vem proferir um discurso que a Europa é uma civilização decadente e que aparecerão outros locais do planeta como a China e a Índia ?. Esta afirmação levantou-me uma série de inquitações:. Ora a Índia e a China já têm o seu espaço, as suas incongruências e cometendo os piores atentados ecológicos de sempre enquanto hoje há uma Europa que tem feito da sustentabilidade um exemplo a este planeta...exigir mais é possível, concerteza. Mas George Steiner ( G.S. ), proferiu uma outra barbaridade ainda mais grave uma civilização que mata os seus judeus não recupera ...Não visitou o memorial em Berlim , concerteza...ou tão aplaudido sábio terá esquecido de Aristides Sousa Mendes ou de Oskar Schindler ?. Por mim G.S. que fique pela América e ataque outros holocaustos que não criticou: Guantanamo , o muro internacional no México , que ataque a administração Bush que ainda não assinou o Protocolo de Quioto , que ataque um país que mantem a pena de morte, que ataque um país onde é constitucional o uso de armas...e lembrar-lhe que há muitos holocaustos no mundo... G.S. , enquanto aufere uns bons milhões de dólares e estará num gabinete provavelmente nada ecológico, com ar condicionado, podia sair um pouco da sua aura de eterna vítima de anti-semitismo e demonstar mais solidariedade com estas irracionalidades no Mundo de hoje como Angola e que são também holocautos tão ou mais graves que Kosovo e/ou Israel-Palestina : Darfur , Birmânia , Congo , Ruanda , Singapura , Indonésia , Tibete, povos da Amazónia , Curdos e Nações sem Estado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 966,
+        "end": 972
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 875,
+        "end": 882
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

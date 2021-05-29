@@ -1,0 +1,14 @@
+{
+  "text": "Será que hoje ainda podemos falar de \"a\" música contemporânea? Há uma diversidade de manifestações que se movem nesta área, desde as mais exigentes às mais oportunisticamente simplistas, todas sobre essa mesma capa de \"música contemporânea\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 9,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,46 @@
+{
+  "text": "Mais de um ano atrás , New Scientist revelou que responsáveis superiores da JNLWP pretendiam reescrever os tratados de armas químicas e biológicas a fim de terem mais liberdade para desenvolverem armas não letais ( 16 Dezembro 2000 , pg. 4). Os relatórios tornavam claro que investigações que violam os tratados foram efetuadas desde os anos 1990 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 76,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 215,
+        "end": 231
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 328,
+        "end": 346
+      }
+    }
+  ],
+  "relations": []
+}

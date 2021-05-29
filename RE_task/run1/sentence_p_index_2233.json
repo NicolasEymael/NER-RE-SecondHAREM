@@ -1,0 +1,14 @@
+{
+  "text": "8.1. O IBAP é vinculado a algum partido político?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 7,
+        "end": 11
+      }
+    }
+  ],
+  "relations": []
+}

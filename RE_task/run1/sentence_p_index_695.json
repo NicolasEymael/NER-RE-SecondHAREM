@@ -1,0 +1,54 @@
+{
+  "text": "Desde o último aumento do preço do pão, em Janeiro de 2004, o preço da farinha mais do que duplicou, o das leveduras subiu 40%, o da energia 25%, o do gás 32%, o do gasóleo 70% e os custos com pessoal 14%, explicou.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 123,
+        "end": 126
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 141,
+        "end": 144
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 155,
+        "end": 158
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 173,
+        "end": 176
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 201,
+        "end": 204
+      }
+    }
+  ],
+  "relations": []
+}

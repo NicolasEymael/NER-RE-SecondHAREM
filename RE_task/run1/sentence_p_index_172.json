@@ -1,0 +1,14 @@
+{
+  "text": "O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por 6 a 0 . Três dos gols que levou eram defensáveis, segundo o jornal italiano.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 100,
+        "end": 105
+      }
+    }
+  ],
+  "relations": []
+}

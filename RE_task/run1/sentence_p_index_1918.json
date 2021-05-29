@@ -1,0 +1,22 @@
+{
+  "text": "Onde é que Braque e Picasso trabalharam juntos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 11,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Quem foi eleito presidente da África do Sul | presidente da África do Sul a 9 de Maio de 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 43
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 73
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 74,
+        "end": 93
+      }
+    }
+  ],
+  "relations": []
+}

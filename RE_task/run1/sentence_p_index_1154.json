@@ -1,0 +1,30 @@
+{
+  "text": "Definição da doença: A doença de Chagas é uma infecção transmissível causada por um parasita que circula no sangue e ataca o coração, bem como órgãos do aparelho digestivo (esôfago e intestino). Sua transmissão exige a participação de um vetor, o triatomíneo conhecido pelo nome de barbeiro, fincão, chupança entre outras dependendo da região. É uma doença do continente americano (sul dos Estados Unidos até a Argentina).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 23,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 390,
+        "end": 404
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 411,
+        "end": 420
+      }
+    }
+  ],
+  "relations": []
+}

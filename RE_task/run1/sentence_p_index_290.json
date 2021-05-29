@@ -1,0 +1,213 @@
+{
+  "text": "Fernando Pessoa permanece em Lisboa enquanto todos regressam para Durban : a mãe, o padrasto, os irmãos e a criada Paciência que viera com eles. Volta sozinho para a África no vapor Herzog . Na mesma época , tenta escrever romances em inglês e matricula-se na Commercial School . Lá estuda à noite enquanto de dia se ocupa com disciplinas humanísticas. Em 1903 , candidata-se à Universidade do Cabo da Boa Esperança | Universidade do Cabo da Boa Esperança . Na prova de exame para a admissão, não obtém uma boa classificação, mas tira a melhor nota entre os 899 candidatos no ensaio de estilo inglês. Recebe por isso o Queen Victoria Memorial Prize (« Prémio Rainha Vitória »). Um ano depois novamente ingressa na Durban High School onde frequenta o equivalente a um primeiro ano universitário, Aprofunda a sua cultura, lendo clássicos ingleses e latinos; escreve poesia e prosa em inglês e surgem os heterónimos Charles Robert Anon e H. M. F. Lecher ; nasce z sua irmã Maria Clara e publica o jornal do liceu um ensaio crítico intitulado Macaulay . Por fim, encerra os seus bem sucedidos estudos na África do Sul após realizar na Universidade o « Intermediate Examination in Arts », adquirindo bons resultados.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 29,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 66,
+        "end": 72
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 115,
+        "end": 124
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 166,
+        "end": 172
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "outro",
+      "span": {
+        "begin": 182,
+        "end": 188
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 191,
+        "end": 205
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 260,
+        "end": 277
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 290,
+        "end": 297
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 307,
+        "end": 313
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 353,
+        "end": 360
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 378,
+        "end": 415
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 455
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 558,
+        "end": 561
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 619,
+        "end": 648
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 652,
+        "end": 673
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 678,
+        "end": 691
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 714,
+        "end": 732
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 913,
+        "end": 932
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 935,
+        "end": 950
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 970,
+        "end": 981
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1039,
+        "end": 1047
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1100,
+        "end": 1113
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1131,
+        "end": 1143
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1148,
+        "end": 1180
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T15"
+    }
+  ]
+}

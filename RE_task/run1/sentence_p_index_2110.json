@@ -1,0 +1,14 @@
+{
+  "text": "Darun Informática - Comércio de produtos de informática como impressoras, softwares, equipamentos para automação comercial e suprimentos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 17
+      }
+    }
+  ],
+  "relations": []
+}

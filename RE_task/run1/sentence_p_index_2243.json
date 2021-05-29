@@ -1,0 +1,30 @@
+{
+  "text": "Além de publicar o livro \"Direitos da Pessoa Portadora de Deficiência\" e promover o Seminário \"Ordem Constitucional e os Direitos da Pessoa Portadora de Deficiência\", o IBAP mantém uma página exclusivamente dedicada ao tema, onde se encontram veiculados cursos, publicações, links e legislação.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 26,
+        "end": 69
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 95,
+        "end": 164
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 169,
+        "end": 173
+      }
+    }
+  ],
+  "relations": []
+}

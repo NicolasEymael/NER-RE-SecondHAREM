@@ -1,0 +1,145 @@
+{
+  "text": "Os comix atraíram também uma parcela considerável de artistas da velha guarda. Cansado da censura do Comics Code e empolgado com o movimento, Will Eisner lança um gênero inédito: as novelas gráficas ( Um Contrato com Deus e O Edifício ), uma mistura de literatura e quadrinhos com uma linguagem mais madura e bem mais experimental do que a usada na HQ tradicional. Outro veterano a pedir uma vaga no porão do quadrinho underground foi Harvey Kurtzman . À margem da indústria desde a instituição do Comics Code , ele voltou à cena com a revista Help , uma versão ainda mais pirada da MAD Magazine . Junto com ele vieram os bons companheiros de EC Comics Bill Elder e Wallace Wood , que, nesse período , deu ao mundo a memorável My World , uma fábula pessoal sobre a decadência moral dos Estados Unidos .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 101,
+        "end": 112
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 142,
+        "end": 153
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 201,
+        "end": 221
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 224,
+        "end": 234
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 349,
+        "end": 351
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 435,
+        "end": 450
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 498,
+        "end": 509
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 544,
+        "end": 548
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "outro",
+      "span": {
+        "begin": 583,
+        "end": 595
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "organizacao",
+      "span": {
+        "begin": 643,
+        "end": 652
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 653,
+        "end": 663
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 666,
+        "end": 678
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 686,
+        "end": 699
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "obra",
+      "span": {
+        "begin": 727,
+        "end": 735
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "organizacao",
+      "span": {
+        "begin": 786,
+        "end": 800
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "propriedade_de",
+      "subj": "T8",
+      "obj": "T6"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T10"
+    },
+    {
+      "id": "R3",
+      "pred": "vinculo_inst",
+      "subj": "T12",
+      "obj": "T10"
+    }
+  ]
+}

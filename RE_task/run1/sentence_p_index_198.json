@@ -1,0 +1,67 @@
+{
+  "text": "A solenidade do término das obras do \" Projeto de Restauração e Modernização do Museu Histórico Nacional 2003 - 2006 \" foi realizada no dia 19 de maio de 2006 , no âmbito das comemorações do Dia Internacional de Museus | do Dia Internacional de Museus , com a presença do Ministro de Estado da Cultura , Gilberto Passos Gil Moreira .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 39,
+        "end": 116
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 133,
+        "end": 158
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 188,
+        "end": 208
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 224,
+        "end": 251
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 272,
+        "end": 301
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 304,
+        "end": 331
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

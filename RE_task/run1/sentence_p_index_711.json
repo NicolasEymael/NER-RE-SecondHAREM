@@ -1,0 +1,38 @@
+{
+  "text": "Durão Barroso discursava na sessão plenária extraordinária do Parlamento Europeu , durante a qual José Sócrates apresentou os resultados da presidência portuguesa da UE .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 62,
+        "end": 80
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 98,
+        "end": 111
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 168
+      }
+    }
+  ],
+  "relations": []
+}

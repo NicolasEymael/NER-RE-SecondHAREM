@@ -1,0 +1,29 @@
+{
+  "text": " Lobos recebidos em apoteose. SELECÇÃO DE REGRESSO APÓS BOA PRESTAÇÃO NO MUNDIAL. Centenas de pessoas recepcionaram no Aeroporto da Portela | Aeroporto da Portela , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi. A boa prestação global da equipa no Mundial da modalidade, que ainda decorre em França , não passou despercebida em Portugal , embora \" Os Lobos \" não tenham conseguido vencer um único jogo. Quando a comitiva portuguesa saiu na área de chegadas, por volta das 16.30 horas , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de Portugal de forma entusiasmada. Vasco Uva : «Honrámos o país». Um dos jogadores mais acarinhados pelos adeptos na chegada a Lisboa , o capitão Vasco Uva explicou por que houve uma empatia tão grande entre a selecção e uma fatia considerável do público português. \"Foi a maneira como nos batemos, a maneira como fizemos honrar o País \", considerou, acrescentando que o momento mais emotivo que sentiu foi quando ouviu o hino nacional português no jogo de estreia dos \" Lobos \", contra a Escócia , em St. Etienne . \"Foi muito bom.\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 587,
+        "end": 595
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 30,
+        "end": 38
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

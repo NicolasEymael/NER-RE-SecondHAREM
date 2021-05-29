@@ -1,0 +1,67 @@
+{
+  "text": "Apesar de algumas coisas legais aqui e ali, as HQs só saíram do marasmo no começo dos anos 60 após o surgimento da literatura beat e das primeiras manifestações da contracultura. Criado em São Francisco , o movimento dos Comix deu um novo impulso criativo aos quadrinhos. Primeiro porque seus integrantes estavam num desbunde total e não estavam nem aí para a rígida moral norte-americana. Segundo porque as revistas dos Comix não eram vendidas em bancas e sim em lojinhas hippies, cujos donos não queriam nem saber se as ditas-cujas tinham ou não o famigerado Comics Code Aproval .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 47,
+        "end": 50
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 72,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 189,
+        "end": 202
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 226
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 421,
+        "end": 426
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 561,
+        "end": 580
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "natural_de",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T5",
+      "obj": "T4"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que morreu Federica Montseny?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

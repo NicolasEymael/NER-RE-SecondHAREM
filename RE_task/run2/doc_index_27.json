@@ -1,0 +1,661 @@
+{
+  "text": " THANKSGIVING COM MINE DE RIEN. Na noite de Acção de Graças | Na noite de Acção de Graças apresento-vos um blogue escrito dos EUA , da cidade onde eu várias vezes passei este feriado. Evidentemente, é mais um blogue de um LEFTista (embora neste caso não vá insistir muito no aspecto LEFT porque o rapaz nem é muito disso...). O autor, para além de um velho amigo - conheço-o desde caloiro -, é uma pessoa interessantíssima, e tem com certeza uma perspectiva muito sua a acrescentar ao assunto para mim fascinante das relações entre a Europa e a América , o Velho e o Novo Continente . Antes de eu ir para os EUA falava-me entusiasmadíssimo do american way of life e de como era boa a comida nas universidades americanas - a escolha de pizzas! os hot-dogs! os hamburgers! - sem se aperceber de como me estava a deixar horrorizado. Depois da LEFT o Pedro veio para Paris fazer Teoria de Cordas . Na Cité Universitaire arranjou maneira de não ficar muito tempo na Residência André de Gouveia , indo antes para uma casa que era a cara dele - a Deutsche de la Meurthe , a mais antiga, a mais clássica, aquela onde Simone de Beauvoir ia visitar o estudante Jean-Paul Sartre . Quando eu cheguei, deu-me a conhecer a área de Montparnasse e do Port Royal . Nessa altura era um parisiense com uma costela americana, português q.b. e vagamente judeu. Agora é um americano parisiense, um verdadeiro mangeur de fromage. Pôs a Europa e a Teoria das Cordas de parte e foi para a melhor cidade da América do Norte mostrar que um físico matemático é pau para toda a obra - nem que seja para mostrar que a Biologia Celular é só \"quebra de simetria\" e que não há nada como o outono na Nova Inglaterra . Que rica prenda de Thanksgiving | de Thanksgiving . Bem vindo, Pedro . A 24 de Novembro de 1960 , no restaurante Le Vrai Gascon (n.º 82 da rue du Bac , Paris ), em torno dessas figuras majestáticas que eram Raymond Queneau e François Le Lionnais , nasceu uma das mais heterodoxas correntes literárias do século XX . Desafio intelectual e brincadeira de literatos apaixonados pela sua língua, explosiva mistura de cérebros moldados pelas leis da gramática e mentes científicas habituadas a todo o tipo de operações lógicas, o OuLiPo ( Ouvroir de Littérature Potentiel ) veio libertar a literatura da forma mais radical: acorrentando-a. Isto é, inventando um sem número de constrangimentos que estimulam a imaginação e a perícia verbal de quem escreve. Na definição sucinta de Queneau , um autor oulipiano é um «rato que constrói o labirinto do qual se propõe sair». Um labirinto de palavras, claro; um labirinto textual. E se grande parte da produção destes autores auto-espartilhados não sobrevive fora do contexto em que surgiu, enquanto mecanismo lúdico ou exercício de estilo, o certo é que os processos do OuLiPo estão inscritos na estrutura de algumas obras-primas de autores como Italo Calvino ( Se Numa Noite de Inverno um Viajante ) ou Georges Perec ( A Vida Modo de Usar ; La Disparition ; etc). Quanto mais não fosse por isso, já valeria a pena celebrar os 45 anos | os 45 anos de um movimento que continua activo e em expansão (investigar aqui).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 32,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 74,
+        "end": 89
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 126,
+        "end": 129
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 150,
+        "end": 162
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 222,
+        "end": 226
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 534,
+        "end": 540
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 545,
+        "end": 552
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 557,
+        "end": 562
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "local",
+      "span": {
+        "begin": 567,
+        "end": 582
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 608,
+        "end": 611
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 840,
+        "end": 844
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 847,
+        "end": 852
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 863,
+        "end": 868
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 875,
+        "end": 891
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "organizacao",
+      "span": {
+        "begin": 897,
+        "end": 915
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 946,
+        "end": 957
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 961,
+        "end": 988
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "local",
+      "span": {
+        "begin": 1040,
+        "end": 1062
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 1109,
+        "end": 1127
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1151,
+        "end": 1167
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "local",
+      "span": {
+        "begin": 1217,
+        "end": 1229
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "local",
+      "span": {
+        "begin": 1235,
+        "end": 1245
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "tempo",
+      "span": {
+        "begin": 1248,
+        "end": 1260
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "local",
+      "span": {
+        "begin": 1413,
+        "end": 1419
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1424,
+        "end": 1441
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "local",
+      "span": {
+        "begin": 1481,
+        "end": 1497
+      }
+    },
+    {
+      "id": "T28",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 1588,
+        "end": 1604
+      }
+    },
+    {
+      "id": "T29",
+      "obj": "tempo",
+      "span": {
+        "begin": 1654,
+        "end": 1662
+      }
+    },
+    {
+      "id": "T30",
+      "obj": "local",
+      "span": {
+        "begin": 1666,
+        "end": 1681
+      }
+    },
+    {
+      "id": "T31",
+      "obj": "tempo",
+      "span": {
+        "begin": 1700,
+        "end": 1715
+      }
+    },
+    {
+      "id": "T32",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1721,
+        "end": 1733
+      }
+    },
+    {
+      "id": "T33",
+      "obj": "individuo",
+      "span": {
+        "begin": 1747,
+        "end": 1752
+      }
+    },
+    {
+      "id": "T34",
+      "obj": "tempo",
+      "span": {
+        "begin": 1755,
+        "end": 1779
+      }
+    },
+    {
+      "id": "T35",
+      "obj": "local",
+      "span": {
+        "begin": 1797,
+        "end": 1811
+      }
+    },
+    {
+      "id": "T36",
+      "obj": "local",
+      "span": {
+        "begin": 1830,
+        "end": 1833
+      }
+    },
+    {
+      "id": "T37",
+      "obj": "local",
+      "span": {
+        "begin": 1836,
+        "end": 1841
+      }
+    },
+    {
+      "id": "T38",
+      "obj": "individuo",
+      "span": {
+        "begin": 1891,
+        "end": 1906
+      }
+    },
+    {
+      "id": "T39",
+      "obj": "individuo",
+      "span": {
+        "begin": 1909,
+        "end": 1929
+      }
+    },
+    {
+      "id": "T40",
+      "obj": "tempo",
+      "span": {
+        "begin": 1985,
+        "end": 1997
+      }
+    },
+    {
+      "id": "T41",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2209,
+        "end": 2215
+      }
+    },
+    {
+      "id": "T42",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2218,
+        "end": 2250
+      }
+    },
+    {
+      "id": "T43",
+      "obj": "individuo",
+      "span": {
+        "begin": 2459,
+        "end": 2466
+      }
+    },
+    {
+      "id": "T44",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 2794,
+        "end": 2800
+      }
+    },
+    {
+      "id": "T45",
+      "obj": "individuo",
+      "span": {
+        "begin": 2870,
+        "end": 2883
+      }
+    },
+    {
+      "id": "T46",
+      "obj": "obra",
+      "span": {
+        "begin": 2886,
+        "end": 2922
+      }
+    },
+    {
+      "id": "T47",
+      "obj": "individuo",
+      "span": {
+        "begin": 2928,
+        "end": 2941
+      }
+    },
+    {
+      "id": "T48",
+      "obj": "obra",
+      "span": {
+        "begin": 2944,
+        "end": 2963
+      }
+    },
+    {
+      "id": "T49",
+      "obj": "obra",
+      "span": {
+        "begin": 2966,
+        "end": 2980
+      }
+    },
+    {
+      "id": "T50",
+      "obj": "tempo",
+      "span": {
+        "begin": 3048,
+        "end": 3058
+      }
+    },
+    {
+      "id": "T51",
+      "obj": "valor",
+      "span": {
+        "begin": 3064,
+        "end": 3071
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T6"
+    },
+    {
+      "id": "R5",
+      "pred": "incluido",
+      "subj": "T14",
+      "obj": "T9"
+    },
+    {
+      "id": "R6",
+      "pred": "praticado_por",
+      "subj": "T15",
+      "obj": "T13"
+    },
+    {
+      "id": "R7",
+      "pred": "vinculo_inst",
+      "subj": "T16",
+      "obj": "T13"
+    },
+    {
+      "id": "R8",
+      "pred": "residencia_de",
+      "subj": "T18",
+      "obj": "T13"
+    },
+    {
+      "id": "R9",
+      "pred": "incluido",
+      "subj": "T18",
+      "obj": "T14"
+    },
+    {
+      "id": "R10",
+      "pred": "residencia_de",
+      "subj": "T19",
+      "obj": "T13"
+    },
+    {
+      "id": "R11",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T14"
+    },
+    {
+      "id": "R12",
+      "pred": "natural_de",
+      "subj": "T20",
+      "obj": "T14"
+    },
+    {
+      "id": "R13",
+      "pred": "natural_de",
+      "subj": "T21",
+      "obj": "T14"
+    },
+    {
+      "id": "R14",
+      "pred": "incluido",
+      "subj": "T22",
+      "obj": "T14"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T23",
+      "obj": "T14"
+    },
+    {
+      "id": "R16",
+      "pred": "inclui",
+      "subj": "T25",
+      "obj": "T14"
+    },
+    {
+      "id": "R17",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T9"
+    },
+    {
+      "id": "R18",
+      "pred": "sede_de",
+      "subj": "T25",
+      "obj": "T7"
+    },
+    {
+      "id": "R19",
+      "pred": "natural_de",
+      "subj": "T25",
+      "obj": "T7"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T26",
+      "obj": "T15"
+    },
+    {
+      "id": "R21",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T8"
+    },
+    {
+      "id": "R22",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T10"
+    },
+    {
+      "id": "R23",
+      "pred": "incluido",
+      "subj": "T27",
+      "obj": "T4"
+    },
+    {
+      "id": "R24",
+      "pred": "incluido",
+      "subj": "T29",
+      "obj": "T4"
+    },
+    {
+      "id": "R25",
+      "pred": "residencia_de",
+      "subj": "T30",
+      "obj": "T13"
+    },
+    {
+      "id": "R26",
+      "pred": "ident",
+      "subj": "T32",
+      "obj": "T3"
+    },
+    {
+      "id": "R27",
+      "pred": "ident",
+      "subj": "T33",
+      "obj": "T13"
+    },
+    {
+      "id": "R28",
+      "pred": "incluido",
+      "subj": "T35",
+      "obj": "T14"
+    },
+    {
+      "id": "R29",
+      "pred": "incluido",
+      "subj": "T36",
+      "obj": "T14"
+    },
+    {
+      "id": "R30",
+      "pred": "ident",
+      "subj": "T37",
+      "obj": "T14"
+    },
+    {
+      "id": "R31",
+      "pred": "natural_de",
+      "subj": "T39",
+      "obj": "T14"
+    },
+    {
+      "id": "R32",
+      "pred": "praticante_de",
+      "subj": "T39",
+      "obj": "T41"
+    },
+    {
+      "id": "R33",
+      "pred": "ident",
+      "subj": "T42",
+      "obj": "T41"
+    },
+    {
+      "id": "R34",
+      "pred": "ident",
+      "subj": "T43",
+      "obj": "T38"
+    },
+    {
+      "id": "R35",
+      "pred": "praticante_de",
+      "subj": "T43",
+      "obj": "T42"
+    },
+    {
+      "id": "R36",
+      "pred": "ident",
+      "subj": "T44",
+      "obj": "T41"
+    },
+    {
+      "id": "R37",
+      "pred": "praticante_de",
+      "subj": "T45",
+      "obj": "T41"
+    },
+    {
+      "id": "R38",
+      "pred": "obra_de",
+      "subj": "T46",
+      "obj": "T45"
+    },
+    {
+      "id": "R39",
+      "pred": "praticante_de",
+      "subj": "T47",
+      "obj": "T41"
+    },
+    {
+      "id": "R40",
+      "pred": "obra_de",
+      "subj": "T48",
+      "obj": "T47"
+    },
+    {
+      "id": "R41",
+      "pred": "obra_de",
+      "subj": "T49",
+      "obj": "T47"
+    }
+  ]
+}

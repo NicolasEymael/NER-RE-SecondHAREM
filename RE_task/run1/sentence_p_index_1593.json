@@ -1,0 +1,38 @@
+{
+  "text": "Quantos estados ratificaram a convenção adoptada pela Assembleia Geral da ONU | Assembleia Geral da ONU em 20 de Novembro de 1989?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 54,
+        "end": 77
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 96
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 100,
+        "end": 103
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 104,
+        "end": 129
+      }
+    }
+  ],
+  "relations": []
+}

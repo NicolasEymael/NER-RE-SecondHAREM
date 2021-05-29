@@ -1,0 +1,22 @@
+{
+  "text": "Quando a comitiva portuguesa saiu na área de chegadas, por volta das 16.30 horas , a agitação cresceu de tom, com a maioria dos adeptos a gritar o nome de Portugal de forma entusiasmada.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 55,
+        "end": 80
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 155,
+        "end": 163
+      }
+    }
+  ],
+  "relations": []
+}

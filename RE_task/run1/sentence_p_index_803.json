@@ -1,0 +1,46 @@
+{
+  "text": "O Conselho de Estado aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais TD-SCDMA . A estreia poderá acontecer durante os Jogos Olímpicos de 2008 | Jogos Olímpicos de 2008 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 20
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 121,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 170,
+        "end": 193
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 196,
+        "end": 211
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 212,
+        "end": 219
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Em que filme de Kevin Reynolds actuou Kevin Costner?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

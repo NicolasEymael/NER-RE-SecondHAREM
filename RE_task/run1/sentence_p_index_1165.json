@@ -1,0 +1,30 @@
+{
+  "text": "Trinta passos adiante parei e lembrei do recente caso \"Tropa de Elite: o filme tinha vazado no pirata, e desde o início da semana estava sendo vendido nas ruas do Rio. Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 55,
+        "end": 69
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 105,
+        "end": 129
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 163,
+        "end": 166
+      }
+    }
+  ],
+  "relations": []
+}

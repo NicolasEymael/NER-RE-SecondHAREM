@@ -1,0 +1,38 @@
+{
+  "text": "Em que filme de André Cayatte participou Annie Girardot em 1971? De que doença é que ela sofre desde 2006? Onde é que ela nasceu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 16,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 41,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 56,
+        "end": 63
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 95,
+        "end": 105
+      }
+    }
+  ],
+  "relations": []
+}

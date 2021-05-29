@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica a Grande Hanish?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 12,
+        "end": 25
+      }
+    }
+  ],
+  "relations": []
+}

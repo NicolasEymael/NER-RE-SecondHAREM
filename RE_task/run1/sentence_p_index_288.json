@@ -1,0 +1,227 @@
+{
+  "text": "Em razão do casamento, muda-se com a mãe e um tio-avô, Manuel Gualdino da Cunha , para Durban , onde passa a maior parte da sua juventude. Viajam no navio Funchal até à Madeira e depois no paquete Inglês Hawarden Castle até ao Cabo da Boa Esperança . Tendo que dividir a atenção da mãe com os filhos do casamento e com o padrasto, Pessoa isola-se, o que lhe propiciava momentos de reflexão. Em Durban recebe uma educação britânica, o que lhe proporciona um profundo contacto com a língua inglesa. Os seus primeiros textos e estudos são feitos em inglês. Mantém contato com a literatura inglesa através de autores como Shakespeare , Edgar Allan Poe , John Milton , Lord Byron , John Keats , Percy Shelley , Alfred Tennyson , entre outros. O inglês teve grande destaque na sua vida, trabalhando com o idioma quando, mais tarde , se torna correspondente comercial em Lisboa , além de utilizar o idioma em alguns dos seus textos e traduzir trabalhos de poetas ingleses, como O Corvo e Annabel Lee de Edgar Allan Poe . Com excepção de Mensagem , os únicos livros publicados em vida são os das colectâneas dos seus poemas ingleses: Antinous e 35 Sonnets e English Poems I - II e III , escritos entre 1918 e 1921 .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 55,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 87,
+        "end": 93
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 155,
+        "end": 162
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 169,
+        "end": 176
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 204,
+        "end": 219
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 227,
+        "end": 248
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 331,
+        "end": 337
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 394,
+        "end": 400
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 618,
+        "end": 629
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 632,
+        "end": 647
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 650,
+        "end": 661
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 664,
+        "end": 674
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 677,
+        "end": 687
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 690,
+        "end": 703
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 706,
+        "end": 721
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 814,
+        "end": 824
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "local",
+      "span": {
+        "begin": 864,
+        "end": 870
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "obra",
+      "span": {
+        "begin": 971,
+        "end": 978
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "obra",
+      "span": {
+        "begin": 981,
+        "end": 992
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 996,
+        "end": 1011
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "obra",
+      "span": {
+        "begin": 1030,
+        "end": 1038
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "obra",
+      "span": {
+        "begin": 1126,
+        "end": 1134
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "obra",
+      "span": {
+        "begin": 1137,
+        "end": 1147
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "obra",
+      "span": {
+        "begin": 1150,
+        "end": 1170
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "obra",
+      "span": {
+        "begin": 1173,
+        "end": 1176
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "tempo",
+      "span": {
+        "begin": 1188,
+        "end": 1205
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "autor_de",
+      "subj": "T20",
+      "obj": "T18"
+    },
+    {
+      "id": "R2",
+      "pred": "autor_de",
+      "subj": "T20",
+      "obj": "T19"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "3. Cooperação com Países do Mediterrâneo Sul | Países do Mediterrâneo Sul",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 18,
+        "end": 44
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 47,
+        "end": 53
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 57,
+        "end": 73
+      }
+    }
+  ],
+  "relations": []
+}

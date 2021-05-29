@@ -1,0 +1,29 @@
+{
+  "text": " Cavalo-marinho Boi PIntado, o dia de Reis | o dia de Reis e a Lei Rouanet, Recife, PE · 05/1. Rosa Campello · Recife ( PE ) · 31/12/2007 11:18 · 137 votos. Celebração ao Dia de Reis | ao Dia de Reis , evento que acontece sempre dia 06 de janeiro , estaremos antecipando-o um pouco, para o dia 05 de janeiro de 2008 , e com motivos de sobra para comemorá-lo: Mestre Grimário acaba de receber incentivo para finalizar seu CD CAVALO-MARINHO BOI PINTADO , o qual tem a participação especial das crianças do Ponto de Cultura do MOVIMENTO PRÓ-CRIANÇA através da Lei Rouanet !!!!!!!!!!!!!!!!!!!!!!!!. A Empresa socialmente responsável , é a STN - SISTEMA DE TRANSMISSÃO DO NORDESTE | STN - SISTEMA DE TRANSMISSÃO DO NORDESTE . \" CAVALO-MARINHO , Uma Dança Dramática Brasileira:. Cavalo-marinho , uma tradição folclórica do ciclo de Natal | de Natal , é a versão pernambucana do Bumba-meu-Boi . Encontrado em toda parte do Brasil , o Bumba-meu-boi é uma dança dramática que tem como elemento principal a morte e ressurreição do boi mágico. Uma apresentação de cavalo-marinho abrange música vocal, dança, cenas dramáticas, ação, poesia improvisada, música instrumental, máscaras e fantasias. No interior, para o norte do Recife , apresenta-se durante a safra da cana-de-açúcar( agosto a janeiro ). O enredo do Cavalo-marinho concentra-se em torno do Capitão , um proprietário rural que tinha deixado suas terras sob o controle de Mateus e Sebastião , dois vaqueiros. O Capitão deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam. O Capitão manda um Soldado tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o Mateus e o Sebastião usam como armas e instrumentos musicais. Agora é a vez do Mestre Ambrósio , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo Capitão e seus Galantes , uma guarda de honra. Entre elas, são danças em homenagem aos Reis Magos , que compartilha temas musicais com as devoções de Reis no Portugal , e uma para São Gonçalo de Amarante | São Gonçalo de Amarante . Entram, em seguida, dezenas de personagens, cada uma das quais faz parte do mundo do engenho-de-açúcar. Entre elas, há personagens realísticas, como o Valentão , o Cangaceiro e o Vaqueiro - que fala na poesia do Sertão , e imaginárias- como o Caboclo de Urubá | Caboclo de Urubá . A apresentação termina com a entrada, dança, morte e ressurreição do Boi . O acompanhamento musical fica por conta do banco, um grupo de músicos que tocam Rabeca | Rabeca , Pandeiro | Pandeiro , Bage | Bage ( Reco-reco | Reco-reco ) e Mineiro | Mineiro ( Ganzá | Ganzá ). Os Percussionistas e, às vezes , o Rabequeiro também cantam. Entre seqüências, se ouve toadas do vasto repertório, versos improvisados e música instrumental para dança. Durante os anos 90 , o interesse no Cavalo-marinho por parte do público da região metropolitana do Recife tem crescido muito, como parte de um ressurgimento de interesse na cultura popular em geral. Jovens visitam o interior para assistir a apresentações e para entrar no Mergulhão - a dança de abertura do Cavalo-marinho, e existem diversos projetos de pesquisa e documentação\" . Texto: John Murphy , Ph.D., Etnomusicólogo e professor de música na Western Illinois University ( até 2001 ) e a University of North Texas ( à partir de Agosto de 2001 ).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2942,
+        "end": 2948
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 1,
+        "end": 15
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

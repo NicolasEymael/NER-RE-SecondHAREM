@@ -1,0 +1,77 @@
+{
+  "text": "Os seus companheiros de equipa tiveram prestações diferentes, tendo Ricardo Pereira alcançado o 6º lugar e Hugo Basaula o 15º lugar. Para o mais jovem membro do Team Suzuki Cepsa, Hugo Basaula, esta manga começou muito bem, pois o piloto fez uma partida fenomenal e assumiu a 3ª posição no pelotão. Mas uma queda que sofreu num salto, fez com que tivesse que recuperar da última posição e já com muito tempo de atraso para os seus adversários. Após uma recuperação endiabrada conseguiu então a 15º posição final.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 68,
+        "end": 83
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 96,
+        "end": 98
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 107,
+        "end": 119
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 122,
+        "end": 125
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 161,
+        "end": 178
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 180,
+        "end": 192
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 276,
+        "end": 278
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "valor",
+      "span": {
+        "begin": 494,
+        "end": 497
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "text": " Ronaldo volta a treinar com bola no Milan. Fenômeno não participava de um coletivo desde novembro . Jogador se recupera de lesão. Das agências de notícias Dubai , Emirados Árabes. Depois de ser cotado para vestir a camisa do Flamengo , o Fenômeno parece, se não satisfeito, pelo menos conformado em retornar ao grupo do Milan . Após longo período se recuperando de uma lesão, Ronaldo calçou as chuteiras e voltou a treinar com bola, o que não fazia desde novembro . O atacante segue em recuperação. Nesta sexta-feira , participou da maior parte das atividades, em Dubai , nos Emirados Árabes . O técnico dividiu o elenco em dois times com 11 jogadores atuando na metade do gramado do estádio Al Maktoum . Em seguida, quando começou a movimentação com bola, Ronaldo seguiu correndo. Aí quem se destacou - negativamente, de acordo com o jornal italiano \" La Gazzetta dello Sport \" - foi o goleiro Dida . O brasileiro voltou a não passar segurança e no treino em campo reduzido seu time foi derrotado por 6 a 0 . Três dos gols que levou eram defensáveis, segundo o jornal italiano. Alessandro Nesta saiu em defesa do companheiro. - Poderíamos ter vencido o Inter ( 2 a 1 , o segundo gol em falha de Dida ). Não podemos ficar pressionando o Dida . Estaremos ao seu lado e considero que ele está se portando de maneira positiva na concentração - explica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 37,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 44,
+        "end": 52
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 84,
+        "end": 98
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 156,
+        "end": 161
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 164,
+        "end": 179
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 226,
+        "end": 234
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 239,
+        "end": 247
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 321,
+        "end": 326
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 377,
+        "end": 384
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 450,
+        "end": 464
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 500,
+        "end": 517
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "local",
+      "span": {
+        "begin": 565,
+        "end": 570
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 577,
+        "end": 592
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "valor",
+      "span": {
+        "begin": 640,
+        "end": 642
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "local",
+      "span": {
+        "begin": 693,
+        "end": 703
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 758,
+        "end": 765
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "organizacao",
+      "span": {
+        "begin": 854,
+        "end": 877
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 896,
+        "end": 900
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "valor",
+      "span": {
+        "begin": 1003,
+        "end": 1008
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "individuo",
+      "span": {
+        "begin": 1080,
+        "end": 1096
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1155,
+        "end": 1160
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "valor",
+      "span": {
+        "begin": 1163,
+        "end": 1168
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "individuo",
+      "span": {
+        "begin": 1197,
+        "end": 1201
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "individuo",
+      "span": {
+        "begin": 1238,
+        "end": 1242
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "vinculo_inst",
+      "subj": "T9",
+      "obj": "T2"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T10",
+      "obj": "T1"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T13",
+      "obj": "T5"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T6"
+    },
+    {
+      "id": "R10",
+      "pred": "incluido",
+      "subj": "T16",
+      "obj": "T5"
+    },
+    {
+      "id": "R11",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    },
+    {
+      "id": "R12",
+      "pred": "incluido",
+      "subj": "T19",
+      "obj": "T2"
+    },
+    {
+      "id": "R13",
+      "pred": "vinculo_inst",
+      "subj": "T19",
+      "obj": "T9"
+    },
+    {
+      "id": "R14",
+      "pred": "relacao_profissional",
+      "subj": "T19",
+      "obj": "T1"
+    },
+    {
+      "id": "R15",
+      "pred": "incluido",
+      "subj": "T21",
+      "obj": "T2"
+    },
+    {
+      "id": "R16",
+      "pred": "vinculo_inst",
+      "subj": "T21",
+      "obj": "T9"
+    },
+    {
+      "id": "R17",
+      "pred": "relacao_profissional",
+      "subj": "T21",
+      "obj": "T1"
+    },
+    {
+      "id": "R18",
+      "pred": "relacao_profissional",
+      "subj": "T21",
+      "obj": "T19"
+    },
+    {
+      "id": "R19",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T19"
+    },
+    {
+      "id": "R20",
+      "pred": "ident",
+      "subj": "T25",
+      "obj": "T19"
+    }
+  ]
+}

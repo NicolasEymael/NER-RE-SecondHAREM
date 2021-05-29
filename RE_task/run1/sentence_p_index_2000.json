@@ -1,0 +1,14 @@
+{
+  "text": "Em que estado fica Porto Alegre?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 19,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

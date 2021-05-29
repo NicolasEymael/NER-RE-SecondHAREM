@@ -1,0 +1,29 @@
+{
+  "text": " Fim de ano com uísque barato no Rio. Por favor, não entenda, por uísque barato, uísque vagabundo. É uísque bom, sem batismo, só que de preço baixo mesmo. Venho notando isso nos últimos meses. Deve ser por conta da queda do dólar: os donos de bares, finalmente, estão entendendo que uísque escocês não tem, necessariamente, que sair caro no balcão. Aquele \"ouro\" líquido, que o balconista costumava servir a conta-gotas e com um chorinho miserável e sem vela, está deixando de existir. Com a garrafa de um bom scotch sendo vendida a menos de R$ 60 em qualquer supermercado, já é possível encontrar, com facilidade, bares e botequins que assumiram o serviço regado do puro scotch. O Belmonte da Rua do Lavradio, por exemplo, é um desses. Por R$ 8,50, toma-se uma dose boca larga de Johnny Walker Red Label. E a régua é só de vinte doses, contra as absurdas 24 doses de alguns bares por aí. Nada mal, não?. Para você, leitor que não toma uísque, ter uma idéia do que isso significa, basta dizer que a menos de 150 metros dali, no Carlitos da Rua Mem de Sá, uma dose do mesmo Red Label, servido em dedal de moça, custa R$ 12,50. Uma diferença exorbitante de preço e quantidade. E por que isso?, você há de perguntar. Puro preconceito, amigo. Os donos do Carlitos ainda acham que uísque é coisa de rico, coitados. Mas, para nossa sorte, essa ignorância aos poucos vai sendo riscada do mapa. Até quando o dólar deixar, claro... Outros exemplos de bom uísque barato e regado na cidade do Rio:. - Aboim, na Rua Souza Lima, em Copacabana: o Pé-Sujo mais especializado em uísque da cidade serve mais de dez marcas diferentes de scotch. As mais baratas (White Horse e Grants 8 anos) saem a R$ 7,00, sempre na tala larga. - Azeitona & Cia, na Rua Dias Ferreira, no Leblon: O melhor custo-benefício do scotch na Zona Sul do Rio | Zona Sul do Rio. Uma dose caprichadíssima de Red Label no copo longo sai por meros R$ 7. E ainda vem com a boa conversa do Azeitona, o dono. - Bar do Adão da Rua Dona Mariana, em Botafogo: Não é muito boteco, mas ali o Ballantines 12 anos sai por R$ 9 a dose. Espetáculo que melhora ainda mais às terças-feiras, quando a casa especializada em pastel serve tudo dobrado. E o mesmo uísque sai, então, pela bagatela de R$ 4,50. - Bar Barata Ribeiro, na esquina das Ruas Barata Ribeiro e Barão de Ipanema, em Copacabana: Botequinho escondido no meio do caos copacabanense, mas que tem um coração de ouro e uma blea prateleira de uísques. - Bar Vieira Souto, na Praça da Cruz Vermelha, Centro da cidade: Um restaurante popular dos bons, que serve um filé com fritas espetacular e uísque de excelente procedência a R$ 8, no capricho. - BotecoTaco, no Humaitá: As madrugadas varam e o uísque não pára de sair no templo carioca dos notívagos. Doses cavalares de uísque oito anos, a menos de R$ 10.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2663,
+        "end": 2670
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 2648,
+        "end": 2658
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

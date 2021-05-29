@@ -1,0 +1,14 @@
+{
+  "text": "Como se chamavam os Reis Católicos?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 20,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

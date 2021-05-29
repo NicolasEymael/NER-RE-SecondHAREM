@@ -1,0 +1,86 @@
+{
+  "text": "A Resolução nº 13 do FNDE dá continuidade do Programa Vamos Cuidar do Brasil com as Escolas , estabelecendo normas para o apoio financeiro a projetos de formação de professores em Educação Ambiental . Tais projetos de formação envolverão professores do segundo ciclo do ensino fundamental ( 5a a 8a séries), de escolas públicas que participaram do processo da II Conferência Nacional Infanto-Juvenil pelo Meio Ambiente ; e à elaboração, aquisição, reimpressão ou reprodução do material didático empregado na formação. O objetivo desta ação, é estimular, em professores, alunos e gestores de educação, a leitura crítica da realidade a partir da diversidade e do meio ambiente e a participação no processo de construção de conhecimentos, pesquisa e intervenção cidadã com base em valores voltados à sustentabilidade da vida em suas múltiplas dimensões. Os projetos de formação devem aprimorar a qualidade da abordagem da educação ambiental que, segundo Censo do INEP | Censo do INEP | Censo do INEP , encontra presente em 94,5% d",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 2,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 21,
+        "end": 25
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "obra",
+      "span": {
+        "begin": 45,
+        "end": 91
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 180,
+        "end": 198
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 360,
+        "end": 418
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 960,
+        "end": 964
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "obra",
+      "span": {
+        "begin": 967,
+        "end": 980
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 983,
+        "end": 988
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 992,
+        "end": 996
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 1020,
+        "end": 1025
+      }
+    }
+  ],
+  "relations": []
+}

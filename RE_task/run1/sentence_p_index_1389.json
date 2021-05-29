@@ -1,0 +1,22 @@
+{
+  "text": "Que partido político governou a Espanha de 28 de Outubro de 1982 a 3 de Março de 1996?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 32,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 40,
+        "end": 85
+      }
+    }
+  ],
+  "relations": []
+}

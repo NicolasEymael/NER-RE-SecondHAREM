@@ -1,0 +1,14 @@
+{
+  "text": "4 - ESTRUTURA ORGANIZACIONAL DO IBAP",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 32,
+        "end": 36
+      }
+    }
+  ],
+  "relations": []
+}

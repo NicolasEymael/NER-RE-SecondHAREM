@@ -1,0 +1,62 @@
+{
+  "text": "O tabaco também vai pesar mais na carteira: o Governo decidiu em 2005 que o Imposto sobre o Tabaco teria um aumento médio anual de 15% até 2009 e, a partir de Janeiro de 2008, um maço das marcas mais comercializadas poderá mesmo aumentar, em média, 30 cêntimos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 53
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 62,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 76,
+        "end": 98
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 131,
+        "end": 134
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 135,
+        "end": 143
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "tempo",
+      "span": {
+        "begin": 147,
+        "end": 174
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "valor",
+      "span": {
+        "begin": 249,
+        "end": 260
+      }
+    }
+  ],
+  "relations": []
+}

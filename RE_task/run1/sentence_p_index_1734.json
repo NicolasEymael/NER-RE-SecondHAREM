@@ -1,0 +1,14 @@
+{
+  "text": "Que árvore está na bandeira do Líbano?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 31,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

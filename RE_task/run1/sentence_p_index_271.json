@@ -1,0 +1,75 @@
+{
+  "text": "Organizada pelo Núcleo Interactivo de Astronomia ( NUCLIO ) no Centro de Interpretação Ambiental da Ponta do Sal | Centro de Interpretação Ambiental da Ponta do Sal , em São Pedro do Estoril , a quarta edição da iniciativa inclui sessões de observação do sol e do céu nocturno, oficinas de astronomia, lançamentos de foguetões de água, palestras e uma \"procura de asteróides\", actividade que a instituição promove regularmente nas escolas do concelho.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 16,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 51,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 63,
+        "end": 112
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 115,
+        "end": 148
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 152,
+        "end": 164
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 170,
+        "end": 190
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 414,
+        "end": 426
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T6"
+    }
+  ]
+}

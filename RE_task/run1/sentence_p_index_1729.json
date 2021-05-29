@@ -1,0 +1,14 @@
+{
+  "text": "Quem fabrica os foguetões Ariane?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 26,
+        "end": 32
+      }
+    }
+  ],
+  "relations": []
+}

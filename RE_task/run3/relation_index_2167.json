@@ -1,0 +1,29 @@
+{
+  "text": " Palácio Nacional de Mafra | Palácio Nacional de Mafra. Em 1715 , foi fundado o Convento de Nossa Senhora e Santo António de Mafra | Convento de Nossa Senhora e Santo António de Mafra , que pertencia à província eclesiástica da Arrábida . Teve origem numa comunidade do Hospício do Espírito Santo . Em 1730 , sagrada a Igreja de Nossa Senhora e Santo António , junto de Mafra , foi para lá transferida a sobredita comunidade. Entre 1771 e 1791 , por breve de Clemente XIV , de 4 de julho de 1770 , a requerimento do Marquês de Pombal , foi ocupado pelos Cónegos Regulares de Santo Agostinho da Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra | Congregação de Santa Cruz de Coimbra ; os Franciscanos da Província da Arrábida | Franciscanos da Província da Arrábida saíram do Convento de Mafra | Convento de Mafra , em Maio de 1771 . Em 1791 , os Cónegos Regulares de Santo Agostinho saíram do edifício de Mafra . Em 1834 , no âmbito da \" Reforma geral eclesiástica \" empreendida pelo ministro e secretário de Estado , Joaquim António de Aguiar , executada pela Comissão da Reforma Geral do Clero ( 1833-1837 ), pelo Decreto de 28 de Maio , promulgado a 30 desse mês , foram extintos todos os conventos, mosteiros, colégios, hospícios e casas de religiosos de todas as ordens religiosas, ficando as de religiosas, sujeitas aos respectivos bispos, até à morte da última freira, data do encerramento definitivo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 822,
+        "end": 830
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 80,
+        "end": 130
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

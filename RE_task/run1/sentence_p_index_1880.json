@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano foi proposta pela primeira vez a \"Parceria para a Paz\"?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 45,
+        "end": 64
+      }
+    }
+  ],
+  "relations": []
+}

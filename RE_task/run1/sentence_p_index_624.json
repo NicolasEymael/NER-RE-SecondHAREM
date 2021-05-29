@@ -1,0 +1,81 @@
+{
+  "text": "Centenas de pessoas recepcionaram no Aeroporto da Portela | Aeroporto da Portela , num clima de enorme entusiasmo e euforia, a selecção portuguesa de râguebi. A boa prestação global da equipa no Mundial da modalidade, que ainda decorre em França , não passou despercebida em Portugal , embora \" Os Lobos \" não tenham conseguido vencer um único jogo.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 37,
+        "end": 57
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 60,
+        "end": 69
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 73,
+        "end": 80
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 195,
+        "end": 202
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 239,
+        "end": 245
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 275,
+        "end": 283
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 295,
+        "end": 303
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T6",
+      "obj": "T3"
+    }
+  ]
+}

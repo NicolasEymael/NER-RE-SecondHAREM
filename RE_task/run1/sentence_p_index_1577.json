@@ -1,0 +1,51 @@
+{
+  "text": "Que prémio ganhou o filme \"Pulp Fiction\" no Festival de Cannes | Festival de Cannes? Quem realizou esse filme? Quem é o actor principal?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 27,
+        "end": 39
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 44,
+        "end": 62
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 65,
+        "end": 73
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 77,
+        "end": 83
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ter_participacao_de",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ter_participacao_de",
+      "subj": "T3",
+      "obj": "T1"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Na quinta-feira, a Organização Mundial de Saúde confirmou que um paquistanês vítima da gripe das aves tinha contraído o vírus H5N1 de outro humano, apesar de os peritos afastarem ainda qualquer risco de contaminação generalizado.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 0,
+        "end": 15
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 47
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "outro",
+      "span": {
+        "begin": 126,
+        "end": 130
+      }
+    }
+  ],
+  "relations": []
+}

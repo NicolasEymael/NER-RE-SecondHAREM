@@ -1,0 +1,46 @@
+{
+  "text": "Soraia Chaves veste a pele de mulher fatal e no papel do autarca corrompido está Nicolau Breyner , aos quais se juntam dois inspectores de polícia, os actores Ivo Canelas e José Raposo , e aquele que alicia à corrupção, interpretado por Joaquim de Almeida .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 81,
+        "end": 96
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 159,
+        "end": 170
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 173,
+        "end": 184
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 237,
+        "end": 255
+      }
+    }
+  ],
+  "relations": []
+}

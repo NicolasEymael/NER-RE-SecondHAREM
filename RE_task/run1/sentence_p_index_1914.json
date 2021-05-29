@@ -1,0 +1,22 @@
+{
+  "text": "Em que data é que os Estados Unidos invadiram o Haiti?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 21,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 48,
+        "end": 53
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,22 @@
+{
+  "text": "Na comemoração do centenário do seu nascimento em 1988 , seu corpo foi transladado para o Mosteiro dos Jerónimos , confirmando o reconhecimento que não teve em vida.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 47,
+        "end": 54
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 90,
+        "end": 112
+      }
+    }
+  ],
+  "relations": []
+}

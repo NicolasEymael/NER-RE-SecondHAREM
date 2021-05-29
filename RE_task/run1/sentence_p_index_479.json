@@ -1,0 +1,77 @@
+{
+  "text": "Aristides de Sousa Mendes permanece ainda cônsul de Bordéus | cônsul de Bordéus quando tem início a Segunda Guerra Mundial , e as tropas de Adolf Hitler avançam rapidamente sobre a França . Salazar manteve a neutralidade de Portugal .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 25
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 42,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 72,
+        "end": 79
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 100,
+        "end": 122
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 152
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 181,
+        "end": 187
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 190,
+        "end": 197
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 224,
+        "end": 232
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T8",
+      "obj": "T7"
+    }
+  ]
+}

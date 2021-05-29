@@ -1,0 +1,87 @@
+{
+  "text": "Quem quiser produzir e comercializar a Free Beer pode baixar do site www.freebeer.org a logomarca da cerveja, de forma gratuita. \"Já há Free Beer sendo produzida na Inglaterra, nos Estados Unidos, na Dinamarca e até na República Tcheca\", afirma Fenger.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 39,
+        "end": 48
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 136,
+        "end": 145
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 165,
+        "end": 175
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 181,
+        "end": 195
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 200,
+        "end": 209
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 219,
+        "end": 235
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 245,
+        "end": 251
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "sede_de",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Qual a duração do filme «A Nona Porta»?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 25,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

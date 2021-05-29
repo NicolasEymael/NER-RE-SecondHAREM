@@ -1,0 +1,14 @@
+{
+  "text": "Qual é o maior banco do Japão?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 24,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

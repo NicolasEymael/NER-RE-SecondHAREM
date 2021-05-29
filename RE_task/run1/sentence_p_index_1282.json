@@ -1,0 +1,14 @@
+{
+  "text": "Em que país fica Çatal Hüyük?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 17,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

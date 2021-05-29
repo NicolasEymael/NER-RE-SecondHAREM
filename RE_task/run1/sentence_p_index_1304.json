@@ -1,0 +1,14 @@
+{
+  "text": "Em que dia foi assassinado Rajiv Gandhi?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 39
+      }
+    }
+  ],
+  "relations": []
+}

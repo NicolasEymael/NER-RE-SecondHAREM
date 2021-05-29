@@ -1,0 +1,14 @@
+{
+  "text": "Que corpo celeste é Toutatis?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 20,
+        "end": 28
+      }
+    }
+  ],
+  "relations": []
+}

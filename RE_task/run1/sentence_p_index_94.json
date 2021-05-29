@@ -1,0 +1,14 @@
+{
+  "text": "Inicialmente restrita ao círculo de programadores e geeks, a idéia da criação coletiva e distribuída que caracteriza as comunidades Linux e software livre tem virado fonte de inspiração para grupos os mais diversos que estão se voltando para este modo de trabalho como um modelo viável e menos restritivo, não-hierárquico.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 132,
+        "end": 137
+      }
+    }
+  ],
+  "relations": []
+}

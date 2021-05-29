@@ -1,0 +1,14 @@
+{
+  "text": "José Eduardo Pires",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 18
+      }
+    }
+  ],
+  "relations": []
+}

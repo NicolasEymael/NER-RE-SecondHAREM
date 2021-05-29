@@ -1,0 +1,14 @@
+{
+  "text": "Diga um recipiente da Grande Cruz do Mérito.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 22,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

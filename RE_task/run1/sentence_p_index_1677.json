@@ -1,0 +1,45 @@
+{
+  "text": "Quem nacionalizou as ferrovias argentinas em 1947? Que proporção das linhas era considerada insegura em 1989? Quem era o presidente da comissão nacional de caminhos-de-ferro argentina em 1994? Quantas pessoas trabalhavam para os caminhos-de-ferro argentinos em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 49
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 108
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 184,
+        "end": 191
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 258,
+        "end": 265
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Que empresa editou a Diciopédia?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 21,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

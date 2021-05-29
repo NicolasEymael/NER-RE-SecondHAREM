@@ -1,0 +1,14 @@
+{
+  "text": "Onde trabalha José Rodrigues Filho?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

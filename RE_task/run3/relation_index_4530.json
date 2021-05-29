@@ -1,0 +1,29 @@
+{
+  "text": " Team Suzuki Cepsa - Notícias. 27 Março de 2005. Luís Correia domina concorrência em Casais S.Quintino. Luís Correia em Suzuki RMZ 250 voltou a demonstrar o seu excelente momento de forma ao dominar por completo a classe 125cc na 2ª jornada do Campeonato Nacional de Motocross, que se realizou este domingo em Casais de S.Quintino. Numa pista em bom estado, apesar da ameaça de chuva que pairou na região durante o domingo de Páscoa, foram muitos os espectadores que resolveram ver o espectáculo do Motocross. E o piloto a dar mais espectáculo foi Luís Correia que deu um recital de condução aos seus mais directos adversários, averbando uma vitória que não deixa margens para dúvidas. Para o piloto do Team Suzuki Cepsa, o dia até começou muito bem com a conquista do 1º lugar na grelha de partida. Na partida não conseguiu chegar à primeira curva na liderança mas após algumas voltas, cedo instalou-se no comando do numeroso pelotão, distanciando-se a partir desse momento dos seus perseguidores. Com esta vitória cimentou a liderança na classificação actual do Campeonato Nacional de Motocross, classe 125. Os seus companheiros de equipa tiveram prestações diferentes, tendo Ricardo Pereira alcançado o 6º lugar e Hugo Basaula o 15º lugar. Para o mais jovem membro do Team Suzuki Cepsa, Hugo Basaula, esta manga começou muito bem, pois o piloto fez uma partida fenomenal e assumiu a 3ª posição no pelotão. Mas uma queda que sofreu num salto, fez com que tivesse que recuperar da última posição e já com muito tempo de atraso para os seus adversários. Após uma recuperação endiabrada conseguiu então a 15º posição final. Ricardo Pereira esteve mais uma vez muito regular e rápido terminando no 6º lugar com a Suzuki RMZ 250. Na classe maior, Ricardo Pazos, partiu determinado a melhorar a sua prestação relativamente à Águeda, e com uma condução mais adaptada à Suzuki RMZ 450, alcançou o 3º lugar, muito perto de Paulo Gonçalves que secundou Hugo Santos no Podium | Podium. No final da tarde realizou-se a manga do Absoluto, e mais uma vez Luís Correia demonstrou porque é o piloto mais rápido a correr em Portugal com máquinas da classe 125. Alcançou o 3º lugar em termos de Absoluto e foi o melhor piloto da classe 125. Para Ricardo Pazos esta manga ficou marcada por uma queda espectacular que sofreu logo na volta inicial e quando tentava assumir a liderança, numa descida em que os pilotos alcançam velocidades muito elevadas. Apesar do grande aparato da queda, Ricardo Pazos pode prosseguir em prova, pois os seus equipamentos protegeram-no de lesões graves, nomeadamente o capacete CMS, botas Oxtar e equipamento Shift. Apesar de ter quase uma volta de atraso para os seus adversários, não baixou os braços e realizou uma grande recuperação, alcançando o 12º lugar. Para o publico presente a luta travada entre Hugo Basaula e Ricardo Pereira foi empolgante, pois os pilotos trocavam de posições em todo o percurso da pista. No final seria Ricardo Pereira a levar a melhor sobre o colega de equipa, alcançando o 11º lugar e Hugo Basaula o 17º lugar. Esta prova também contava para o Troféu Suzuki Cepsa Cetelem Motojornal, e o lugar mais alto do Podium | Podium voltou a ser ocupado por Ricardo Pereira, que assim permanece invicto deste o início desta iniciativa em 2004.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 1945,
+        "end": 1956
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 499,
+        "end": 508
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticante_de",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

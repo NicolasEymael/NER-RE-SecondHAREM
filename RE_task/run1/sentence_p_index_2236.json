@@ -1,0 +1,37 @@
+{
+  "text": "R: Não, a despeito de atuar em harmonia com as diretrizes de determinadas Organizações Internacionais | Organizações Internacionais, como a Anistia Internacional, o IBAP não mantém nenhum vínculo com entidades internacionais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 74,
+        "end": 101
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 140,
+        "end": 161
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 165,
+        "end": 169
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T2",
+      "obj": "T1"
+    }
+  ]
+}

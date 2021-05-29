@@ -1,0 +1,22 @@
+{
+  "text": "Espanha aumenta salário mínimo para 600 euros",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 36,
+        "end": 45
+      }
+    }
+  ],
+  "relations": []
+}

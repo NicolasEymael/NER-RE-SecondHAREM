@@ -1,0 +1,14 @@
+{
+  "text": "Em que ano foi fundada a firma Adidas Group AG? Qual é a sua área de trabalho?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 31,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

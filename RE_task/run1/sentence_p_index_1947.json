@@ -1,0 +1,14 @@
+{
+  "text": "Onde fica a cidadezinha de Neftegorsk?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 27,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

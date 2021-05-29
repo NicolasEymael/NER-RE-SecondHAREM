@@ -1,0 +1,14 @@
+{
+  "text": "Os politicos comprados por Bruxelas gerem as manadas nacionais.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 27,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

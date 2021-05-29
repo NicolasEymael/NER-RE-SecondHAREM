@@ -1,0 +1,165 @@
+{
+  "text": "Da confluência de características inatas de Antônio Houaiss com a possível participação da presença de Oiticica, aponto em primeiro lugar, como traço comum a ambos, a preocupação da sistematização dos fatos estudados. Oiticica era um sistematizador por excelência; suas análises em geral confluíam para quadros sinóticos ou esquemas. Daí é o próprio mestre do Pedro II que estabelece, neste sentido, sua relação com outro sistematizador nesses estudos de linguagem que foi Maximino Maciel, catedrático de Língua Portuguesa do Colégio Militar, autor de uma Gramática Descritiva, muito em voga no ensino entre 1887 a 1930, mais ou menos, depois caída injustamente no esquecimento e hoje objeto de teses de pós-graduação em nossas universidades, pelo que apresentava de intuições transformadas em lições da lingüística moderna. Nos prefácios e em notas de rodapé, entre outras oportunidades, José Oiticica ressalta essa contribuição de Maximino. Na última palestra de uma série proferida em São Paulo, na Rádio Cruzeiro do Sul, na década de 40, refere-se à contribuição do gramático sergipano e a importância da sistematização do desenvolvimento dos programas escolares e de sua aplicação na experiência pedagógica desenvolvida no Colégio Latino-Americano de propriedade de Oiticica, entre 1905 e 1908.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 44,
+        "end": 59
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 103,
+        "end": 111
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 218,
+        "end": 226
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 360,
+        "end": 368
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 473,
+        "end": 488
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 505,
+        "end": 522
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 526,
+        "end": 541
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "obra",
+      "span": {
+        "begin": 556,
+        "end": 576
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 602,
+        "end": 619
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 636,
+        "end": 642
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "tempo",
+      "span": {
+        "begin": 680,
+        "end": 684
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 889,
+        "end": 902
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 933,
+        "end": 941
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "local",
+      "span": {
+        "begin": 988,
+        "end": 997
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 1002,
+        "end": 1023
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "tempo",
+      "span": {
+        "begin": 1025,
+        "end": 1040
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1228,
+        "end": 1252
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 1271,
+        "end": 1279
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "tempo",
+      "span": {
+        "begin": 1281,
+        "end": 1298
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "proprietario_de",
+      "subj": "T18",
+      "obj": "T17"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "text": "5.1. Preciso estar conectado/a à Internet | Internet para participar do IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 72,
+        "end": 76
+      }
+    }
+  ],
+  "relations": []
+}

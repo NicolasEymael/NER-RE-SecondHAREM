@@ -1,0 +1,22 @@
+{
+  "text": "D: Mas depois... depois... tornaste-te uma grande nadadora",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 7,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 17,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

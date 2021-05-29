@@ -1,0 +1,22 @@
+{
+  "text": "Fonte: Clipping da 6ªCCR do MPF | 6ªCCR do MPF .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 19,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 43,
+        "end": 46
+      }
+    }
+  ],
+  "relations": []
+}

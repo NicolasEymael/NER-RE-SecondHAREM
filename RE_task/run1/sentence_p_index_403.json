@@ -1,0 +1,51 @@
+{
+  "text": "O líder do PPE/DE | líder do PPE/DE , Joseph DAUL , criticou os protestos, afirmando que o PE é \"um hemiciclo onde reina a democracia\" não sendo, por isso, \"digno actuar desta maneira\".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 29,
+        "end": 35
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 38,
+        "end": 49
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 91,
+        "end": 93
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

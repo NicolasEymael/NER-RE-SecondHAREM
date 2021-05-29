@@ -1,0 +1,70 @@
+{
+  "text": "A onda de violência na Nigéria e a instabilidade no Paquistão são apontadas como o curto-circuito que faltava ao conjunto de pressões acumuladas sobre os preços do crude nos últimos anos . Umas são estruturais: dificuldade da oferta responder a uma crescente procura, com dois países a liderarem a pressão consumista ( China , que já é o segundo maior consumidor do mundo, e a Índia ); escassez do sistema de refinação aliada à resistência do cartel dos países exportadores, a OPEP , em aumentar significativamente a sua produção. Outras são conjunturais: temperaturas frias do pico do Inverno ; e a descida das reservas dos EUA , o maior mercado consumidor do mundo. Outras são técnicas e com impacto que promete durar: depreciações do dólar face ao euro, quando esta matéria-prima é cotada na moeda norte-americana e as reservas dos países produtores também são em dólares, ao mesmo tempo que reforça o poder de compra dos investidores munidos de outras divisas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 23,
+        "end": 30
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 52,
+        "end": 61
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 170,
+        "end": 186
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 319,
+        "end": 324
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 377,
+        "end": 382
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 477,
+        "end": 481
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 583,
+        "end": 593
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 625,
+        "end": 628
+      }
+    }
+  ],
+  "relations": []
+}

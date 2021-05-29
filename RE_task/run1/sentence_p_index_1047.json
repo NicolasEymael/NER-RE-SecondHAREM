@@ -1,0 +1,54 @@
+{
+  "text": "Foram 20 pessoas no planejamento. Oito partiram para o ataque. Foi na madrugada de segunda para terça-feira , entre 3 e 4 horas , cronometradas, aproveitando a calmaria das ruas do primeiro dia da semana . Duas \"viaturas de ataque com quatro ativistas cada e um carro de cobertura. Eles se definem: \"São três gerações de homens e mulheres desobedientes civis e militares com diferentes graus de envolvimento em questões e ações sociais. O mais novo 20 , o mais velho 59 . \"Não deixe seu sangue esfriar, proteste é só o começo. Ainda que o efeito vermelho das bombas tenha sido efêmero, a adrenalina continua em alta.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 6,
+        "end": 8
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 67,
+        "end": 107
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 110,
+        "end": 127
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 178,
+        "end": 203
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 449,
+        "end": 451
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 467,
+        "end": 469
+      }
+    }
+  ],
+  "relations": []
+}

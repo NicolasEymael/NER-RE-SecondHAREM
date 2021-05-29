@@ -1,0 +1,14 @@
+{
+  "text": "Texto extraído do site português Resistir (www.resistir.info).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 33,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

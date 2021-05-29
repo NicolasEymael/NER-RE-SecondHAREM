@@ -1,0 +1,38 @@
+{
+  "text": "New Scientist não pode contatar Hale . \"Ainda estamos a formular a nossa resposta às pessoas da Sunshine \", foi tudo que um assistente disse. Mas os poucos relatórios que Hammond obteve constituem uma leitura interessante.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 32,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 96,
+        "end": 104
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 171,
+        "end": 178
+      }
+    }
+  ],
+  "relations": []
+}

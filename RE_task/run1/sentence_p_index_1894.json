@@ -1,0 +1,14 @@
+{
+  "text": "Qual é a altura da Torre Eiffel?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 19,
+        "end": 31
+      }
+    }
+  ],
+  "relations": []
+}

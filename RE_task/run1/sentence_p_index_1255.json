@@ -1,0 +1,14 @@
+{
+  "text": "Onde foi fabricado Bender Bending Rodriguez?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 19,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,62 @@
+{
+  "text": "A al-Qaeda às vezes assume seus atentados. Outras vezes, não. No Onze de Setembro, ficou em silêncio por mais de mês enquanto a comunidade internacional cobrava provas de seu envolvimento antes de autorizar um ataque dos EUA ao Afeganistão. Neste caso, a falta de autoria clara favorece o caos. O caos interessa à turma de bin-Laden.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 10
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 11,
+        "end": 19
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 65,
+        "end": 81
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 116
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 221,
+        "end": 224
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 228,
+        "end": 239
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 323,
+        "end": 332
+      }
+    }
+  ],
+  "relations": []
+}

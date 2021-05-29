@@ -1,0 +1,29 @@
+{
+  "text": " Ontem, na esquina de casa, um camelô estendia seus murais com capas de DVDs mal impressas. Passei por ele sem me importar, era apenas mais um desses caras que atrapalham o nosso caminho pelas calçadas. Continuei rumo à sessão das 19h no Espaço de Cinema em Botafogo. Trinta passos adiante parei e lembrei do recente caso \"Tropa de Elite: o filme tinha vazado no pirata, e desde o início da semana estava sendo vendido nas ruas do Rio. Titubeei um pouco, podia perder a sessão no cinema, mas acabei voltando para conferir os títulos que o camelô oferecia. Cheguei devagar, olhando meio de longe, um pouco constrangido, confesso. Ainda sou dessas pessoas que têm um certo pudor em ficar ali, cara a cara com o pirata. Logo encontrei dois títulos nacionais:Xuxa Gêmeas e Ó paí ó | Ó paí ó. Perguntei se ele tinha Tropa de Elite, o rapaz branquelo, com cara de rapper zona sul, boné e bermudão Billabong respondeu:. - Ah, esse não é o filme que teve os armamentos roubados no \"Chapéu Mangueira\"?. - É esse mesmo. É com o Olavo da novela. - Que Olavo?. - O Wagner, Wagner Moura. - Beleza então, se a qualidade não for boa eu volto aqui amanhã e troco. Nessa, o camelo parou pra olhar uma conversa meio estranha que seu companheiro de banca travava com um sujeito meio cara de PM | PM à paisana. Ficou ali, meio de esguelha, prestando atenção, e eu, ao lado, esperando o produto. Parecia que a conversa alheia fechava alguma combinação. Cutuquei:. - E aê, tem o Tropa de Elite ou não? - perguntei de novo, querendo sair logo pro cinema. - Tem sim. Sai um Tropa aí - disse o branquelo pro chapa. O comparsa foi lá numa bolsa preta e pegou lá um plástico com uma folha mal impressa que trazia Tropa de Elite escrito com uma fonte meio \"Linha Direta\" e umas fotos não identificáveis que deviam reproduzir cenas do filme. Dentro vinha o DVD da \"mídia roxinha\", abri pra constatar. Me entregou logo dizendo:. - Também tem aquele ali, com o Lázaro Ramos, \"Ó pái ó\". - Ó Paí ó | Ó Paí ó, to ligado, esse eu já vi - o que não era verdade, só para não estender mais a transação. - Também tem o Caixa Dois, sabe qual é?. - Sei sim, mas hoje só quero o Tropa mesmo - já quase íntimo do filme do Padilha. Paguei e fui pro cinema pensando na tamanha facilidade com que aquele filme tinha parado nas minhas mãos por 5 pratas, menos que um big mac...no esforço que devia ter sido fazer tudo aquilo: levantar a história com os Bopes, roteirizar em zilhões de tratamentos, reservar o espaço na agenda de caras como Tulé Peak (diretor de arte), Braulio Mantovani (roteirista) e Daniel Rezende (montador) - não por acaso, o mesmo trio ternura por trás de Cidade de Deus -, e além disso, aprovar o projeto, captar, produzir, filmar, ter as filmagens paralisadas pelo roubo de todo o armamento cenográfico, artefatos que protagonizam o filme do início ao fim, e ainda finalizar, negociar a comercialização, traçar uma estratégia de marketing, etc. Uma trabalheira danada. E depois de tudo isso, ver um pedaço mutilado do seu \"filho\" de 3 anos parar na mão de geral por 5 real (a versão que circula é que a cópia vendida pelos ambulantes é o segundo corte do filme, que já estaria na 16ª versão da montagem). É um caso inédito para o cinema brasileiro, e talvez para a Polícia também. Um filme que desperta tal interesse do público, de forma tão espontânea, que ganha as ruas pela via da ilegalidade antes do seu lançamento nos cinemas, numa avassaladora \"não-ação\" de marketing viral, ou numa curiosa referência àquilo mesmo de que trata sua história. O vazamento da cópia já está sendo investigado pela própria Polícia. Haja metalinguagem cinematográfica!. Resta saber como isso vai repercutir daqui pra frente. Vai ser bom ou não? Quem pode ter certeza sobre o que o diretor José Padilha diz à Folha de S. Paulo: \"que ninguém sabe o efeito que as vendas piratas terão sobre a bilheteria do filme, mas acredita na chance de não haver prejuízo à performance da venda de ingressos, já que, analisa, o público do DVD pirata é um e o dos cinemas, outro.\" Ou será que o boca a boca vai fazer o filme estourar? Vai virar reportagem do Fantástico? Ganhar as páginas policiais dos jornais mais uma vez?. Mídia espontânea ou um baita furo pirata, ninguém pode dizer ainda. O que dá pra comentar do lado de cá é que o filme é brilhantemente aterrador. Um thriller que combina a crueza esquemática de Notícias de uma guerra particular | Notícias de uma guerra particular e a cinematografia exuberante de Cidade de Deus. Esse é só o começo de uma grande História que vem por aí. Em breve, num cinema perto de você.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 431,
+        "end": 434
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 258,
+        "end": 266
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

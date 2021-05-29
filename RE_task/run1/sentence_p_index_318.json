@@ -1,0 +1,38 @@
+{
+  "text": "Existe, pois, espaço mais do que suficiente e vontade comum para uma cooperação mais profunda e forte entre a UE e África no campo da protecção civil, nomeadamente com os parceiros do Mediterrâneo . Assim, pretendeu-se reforçar a cooperação com os países do Mediterrâneo Sul , através de acções tais como a partilha de boas práticas e informação sobre riscos comuns, cooperação nos sistemas de alerta precoce ou exercícios conjuntos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 110,
+        "end": 112
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 115,
+        "end": 121
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 184,
+        "end": 196
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 258,
+        "end": 274
+      }
+    }
+  ],
+  "relations": []
+}

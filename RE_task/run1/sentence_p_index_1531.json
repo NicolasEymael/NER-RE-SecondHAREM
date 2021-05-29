@@ -1,0 +1,45 @@
+{
+  "text": "Quem organiza o Carnaval do Rio | Carnaval do Rio? Qual é o comprimento da arena do Sambódromo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 16,
+        "end": 31
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 34,
+        "end": 42
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 46,
+        "end": 49
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 84,
+        "end": 94
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "incluido",
+      "subj": "T4",
+      "obj": "T3"
+    }
+  ]
+}

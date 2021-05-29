@@ -1,0 +1,54 @@
+{
+  "text": "A maioria dos consumidores domésticos podem assim esperar uma subida da factura mensal de 1,08 euros no próximo ano, mas os clientes industriais sofrerão um aumento médio de 3,0%, com maior peso para os de muita alta tensão (MAT) e alta tensão (AT) que terão uma subida de 3,9%.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 90,
+        "end": 100
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 101,
+        "end": 115
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 174,
+        "end": 178
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 225,
+        "end": 228
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "outro",
+      "span": {
+        "begin": 245,
+        "end": 247
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "valor",
+      "span": {
+        "begin": 273,
+        "end": 277
+      }
+    }
+  ],
+  "relations": []
+}

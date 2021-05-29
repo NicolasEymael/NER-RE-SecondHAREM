@@ -1,0 +1,46 @@
+{
+  "text": "O que acontecerá não é possível prever. Eleições estão marcadas para 8 de janeiro, Bhutto era favorita. O partido mais votado do parlamento eleito fará o primeiro ministro. Num país estável, o assassinato de um dos principais candidatos a essa altura seria justificativa para suspender o pleito e realizá-lo adiante, quando o partido vitimado tivesse chances de apresentar novo candidato. Mas, se já foi um dia, o Paquistão deixou de ser um país normal, quanto mais estável. O ideal seria que eleições ocorressem. É preciso manter a mínima aparência de democracia sob o risco de que ela desapareça de vez.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 64,
+        "end": 81
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 83,
+        "end": 89
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 237,
+        "end": 250
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 404,
+        "end": 410
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 414,
+        "end": 423
+      }
+    }
+  ],
+  "relations": []
+}

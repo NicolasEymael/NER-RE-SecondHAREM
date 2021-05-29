@@ -1,0 +1,166 @@
+{
+  "text": "Em linhas gerais, depois que os estudos lingüísticos no Brasil se puderam beneficiar da contribuição mais moderna da Europa e da América, traçam-se cinco gerações de representantes bem delineadas das quais só trataremos das três primeiras, porque na última delas se inserem a atividade e a produção de Antônio Houaiss, sobre quem queremos hoje vos falar. Na primeira, inserem-se, entre outros, M. Said Ali, João Ribeiro, Pacheco da Silva Júnior, Maximino Maciel. Uma segunda, com Mário Barreto, Sousa da Silveira, Antenor Nascentes, José Oiticica, Clóvis Monteiro; uma terceira, com J. Mattoso Câmara Jr., Serafim da Silva Neto, Sílvio Elia, Gladstone Chaves de Melo, Celso Cunha, Antônio Houaiss.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 56,
+        "end": 62
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 117,
+        "end": 123
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 129,
+        "end": 136
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 302,
+        "end": 317
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 339,
+        "end": 343
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 394,
+        "end": 405
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 407,
+        "end": 419
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 421,
+        "end": 444
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 446,
+        "end": 461
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 480,
+        "end": 493
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 495,
+        "end": 512
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 514,
+        "end": 531
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 533,
+        "end": 546
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 548,
+        "end": 563
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 583,
+        "end": 604
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 606,
+        "end": 627
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 629,
+        "end": 640
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "individuo",
+      "span": {
+        "begin": 642,
+        "end": 666
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "individuo",
+      "span": {
+        "begin": 668,
+        "end": 679
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "individuo",
+      "span": {
+        "begin": 681,
+        "end": 696
+      }
+    }
+  ],
+  "relations": []
+}

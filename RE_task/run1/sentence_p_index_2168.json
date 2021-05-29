@@ -1,0 +1,14 @@
+{
+  "text": "Oferecendo um serviço diversificado, eficaz, rápido e completo na área dos resíduos, torna-se o parceiro ideal na Gestão Global de Resíduos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 114,
+        "end": 139
+      }
+    }
+  ],
+  "relations": []
+}

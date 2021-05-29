@@ -1,0 +1,14 @@
+{
+  "text": "Em que cidade francesa fica o Moulin Rouge?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 42
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,14 @@
+{
+  "text": "Fascinado desde pequeno pela arte tribal de seguir rastros, Liebenberg desenvolveu a teoria de que as atividades ancestrais de caça e coleta representam nada menos do que a própria origem da ciência. Rastrear um animal, argumenta o pesquisador, exige um processo de observação e confrontação de hipóteses muito semelhante ao método científico.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 60,
+        "end": 70
+      }
+    }
+  ],
+  "relations": []
+}

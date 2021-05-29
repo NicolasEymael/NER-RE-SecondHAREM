@@ -1,0 +1,51 @@
+{
+  "text": "A situação destes dois países \"provocou o regresso de muito capital especulativo ao mercado\", segundo o presidente da Ritterbusch & Associates | presidente da Ritterbusch & Associates , Jim Ritterbusch , citado pela Reuters .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 104,
+        "end": 142
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 159,
+        "end": 183
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 186,
+        "end": 201
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 216,
+        "end": 223
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "vinculo_inst",
+      "subj": "T3",
+      "obj": "T2"
+    }
+  ]
+}

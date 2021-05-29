@@ -1,0 +1,14 @@
+{
+  "text": "Quem é Nguyen Chi Thien? Quando é que ele desapareceu?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

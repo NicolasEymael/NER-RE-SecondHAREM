@@ -1,0 +1,14 @@
+{
+  "text": "Em que estado brasileiro fica Faro?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

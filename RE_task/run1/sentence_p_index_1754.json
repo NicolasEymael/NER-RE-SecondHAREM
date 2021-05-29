@@ -1,0 +1,22 @@
+{
+  "text": "Em que distrito fica Chaves? Quantas freguesias tem o concelho? Que municípios ficam a oeste? Quantos habitantes tinha em 2006?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 21,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 119,
+        "end": 126
+      }
+    }
+  ],
+  "relations": []
+}

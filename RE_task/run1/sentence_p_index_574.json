@@ -1,0 +1,30 @@
+{
+  "text": "O euro segue a reforçar os ganhos em relação à divisa dos Estados Unidos esta segunda-feira , cotando sobre 1,474 dólares , seis cêntimos acima dos máximos da sessão anterior.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 58,
+        "end": 72
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 73,
+        "end": 91
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "valor",
+      "span": {
+        "begin": 108,
+        "end": 121
+      }
+    }
+  ],
+  "relations": []
+}

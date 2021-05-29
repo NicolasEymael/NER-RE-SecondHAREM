@@ -1,0 +1,95 @@
+{
+  "text": "O Antonio Ricardo e mais uma turma da Araribóia Runners , trocou Nikiti por BH para suar ao redor do Lago da Pampulha | Lago da Pampulha . Bela paisagem, calor demais, esforço descomunal para alguns, exemplos de solidariedade que são para a gente seguir... Enfim, mais uma prova para colocar num lugar destacado na prateleira das boas memórias. Diz aí, Antonio ...",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 2,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 38,
+        "end": 55
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 65,
+        "end": 71
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 76,
+        "end": 78
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 101,
+        "end": 117
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 120,
+        "end": 124
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 128,
+        "end": 136
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 353,
+        "end": 360
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "residencia_de",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T1"
+    }
+  ]
+}

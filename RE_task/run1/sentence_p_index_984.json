@@ -1,0 +1,103 @@
+{
+  "text": "Este Kaduke , talvez tenha gerado, a partir do mesmo processo, no Brasil colonial, o Kalundu que, mesclado à danças européias como a Polka e a Mazurka (espécies de danças de periferia brancas, populares na Europa central), deram numa dança popularíssima na Corte brasileira (um Kuduro colonial) chamada de Lundu .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 5,
+        "end": 11
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 66,
+        "end": 72
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 85,
+        "end": 92
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 133,
+        "end": 138
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 143,
+        "end": 150
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 206,
+        "end": 212
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "local",
+      "span": {
+        "begin": 257,
+        "end": 262
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 278,
+        "end": 284
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 306,
+        "end": 311
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "pratica_se",
+      "subj": "T6",
+      "obj": "T4"
+    },
+    {
+      "id": "R2",
+      "pred": "pratica_se",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "pratica_se",
+      "subj": "T7",
+      "obj": "T9"
+    },
+    {
+      "id": "R4",
+      "pred": "outrarel",
+      "subj": "T9",
+      "obj": "T3"
+    }
+  ]
+}

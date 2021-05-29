@@ -1,0 +1,22 @@
+{
+  "text": "posted by DGP @ 4:29 AM",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 10,
+        "end": 13
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 16,
+        "end": 23
+      }
+    }
+  ],
+  "relations": []
+}

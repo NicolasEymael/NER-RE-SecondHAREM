@@ -1,0 +1,14 @@
+{
+  "text": "Nair de Teffé",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 13
+      }
+    }
+  ],
+  "relations": []
+}

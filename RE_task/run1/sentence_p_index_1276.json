@@ -1,0 +1,22 @@
+{
+  "text": "O que era a Gestapo? Quantos membros tinha durante a Segunda Grande Guerra?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 12,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 53,
+        "end": 74
+      }
+    }
+  ],
+  "relations": []
+}

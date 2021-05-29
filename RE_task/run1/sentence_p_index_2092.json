@@ -1,0 +1,22 @@
+{
+  "text": "Um dos destaques do evento foi a apresentação do resultado do trabalho desenvolvido em sala de aula pela oficina Noções básicas de Histórias em Quadrinhos, da Associação dos Artistas - Música e Arte.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 113,
+        "end": 154
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 159,
+        "end": 198
+      }
+    }
+  ],
+  "relations": []
+}

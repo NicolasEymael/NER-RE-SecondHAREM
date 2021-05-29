@@ -1,0 +1,22 @@
+{
+  "text": "Quem é Lester Piggott? Quantos vencedores do British Classic é que ele montou? Quanto tempo é que ele passou na prisão por crimes fiscais?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 7,
+        "end": 21
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 45,
+        "end": 60
+      }
+    }
+  ],
+  "relations": []
+}

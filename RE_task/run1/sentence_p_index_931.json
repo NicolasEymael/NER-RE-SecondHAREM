@@ -1,0 +1,187 @@
+{
+  "text": "O enredo do Cavalo-marinho concentra-se em torno do Capitão , um proprietário rural que tinha deixado suas terras sob o controle de Mateus e Sebastião , dois vaqueiros. O Capitão deseja celebrar a volta dele às suas terras, mas, os vaqueiros não deixam. O Capitão manda um Soldado tirar a licença à força, e ele consegue, após muita confusão cômica e pancadas altas, mas, sem dor, das bexigas de boi que o Mateus e o Sebastião usam como armas e instrumentos musicais. Agora é a vez do Mestre Ambrósio , que imita todas as personagens do folguedo, que continua com uma longa seqüência de danças pelo Capitão e seus Galantes , uma guarda de honra. Entre elas, são danças em homenagem aos Reis Magos , que compartilha temas musicais com as devoções de Reis no Portugal , e uma para São Gonçalo de Amarante | São Gonçalo de Amarante .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 12,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 52,
+        "end": 59
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 132,
+        "end": 138
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 141,
+        "end": 150
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 171,
+        "end": 178
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "individuo",
+      "span": {
+        "begin": 256,
+        "end": 263
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "individuo",
+      "span": {
+        "begin": 273,
+        "end": 280
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "individuo",
+      "span": {
+        "begin": 406,
+        "end": 412
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "individuo",
+      "span": {
+        "begin": 417,
+        "end": 426
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 485,
+        "end": 500
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 599,
+        "end": 606
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "organizacao",
+      "span": {
+        "begin": 614,
+        "end": 622
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 686,
+        "end": 696
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "organizacao",
+      "span": {
+        "begin": 749,
+        "end": 753
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "local",
+      "span": {
+        "begin": 757,
+        "end": 765
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "individuo",
+      "span": {
+        "begin": 779,
+        "end": 802
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "individuo",
+      "span": {
+        "begin": 805,
+        "end": 816
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "local",
+      "span": {
+        "begin": 820,
+        "end": 828
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T2"
+    },
+    {
+      "id": "R6",
+      "pred": "relacao_profissional",
+      "subj": "T12",
+      "obj": "T2"
+    }
+  ]
+}

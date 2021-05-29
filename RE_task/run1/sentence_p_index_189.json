@@ -1,0 +1,30 @@
+{
+  "text": "Iniciada em dezembro de 2003 , a primeira fase das obras incluiu a recuperação de uma área de 1.500 metros quadrados que estavam completamente sem uso há mais de trinta anos e apresentavam um avançado processo de deteriorização. Nesse local, foram instalados os novos acessos ao circuito de exposições (escadas rolantes e elevador para portadores de necessidades especiais) e os espaços para atendimento ao público - guarda volumes, cafeteria, sanitários públicos e bilheteria - além de áreas para serviços internos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 9,
+        "end": 28
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 94,
+        "end": 116
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 151,
+        "end": 173
+      }
+    }
+  ],
+  "relations": []
+}

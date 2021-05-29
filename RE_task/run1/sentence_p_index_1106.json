@@ -1,0 +1,14 @@
+{
+  "text": "Obrigada ao Hugo Jorge pela dica.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 12,
+        "end": 22
+      }
+    }
+  ],
+  "relations": []
+}

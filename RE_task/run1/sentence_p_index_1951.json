@@ -1,0 +1,14 @@
+{
+  "text": "O que é a Parceria para a Paz?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 10,
+        "end": 29
+      }
+    }
+  ],
+  "relations": []
+}

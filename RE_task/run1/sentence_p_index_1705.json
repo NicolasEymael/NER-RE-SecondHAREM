@@ -1,0 +1,14 @@
+{
+  "text": "Quem escreveu a canção \"Dancing Queen\"? Quantas pessoas tinha esse grupo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 24,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

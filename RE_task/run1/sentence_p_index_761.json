@@ -1,0 +1,30 @@
+{
+  "text": "Este aumento foi conseguido graças ao acordo com os sindicatos e o patronato acrescentou Zapatero , que afirmou que esse valor correspondia às suas promessas eleitorais, precisando que o salário mínimo estava nos 460 euros em 2004 , aquando da sua ascensão ao poder.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 89,
+        "end": 97
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 213,
+        "end": 222
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 223,
+        "end": 230
+      }
+    }
+  ],
+  "relations": []
+}

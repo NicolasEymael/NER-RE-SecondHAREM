@@ -1,0 +1,46 @@
+{
+  "text": "Ali, só me lembro de ser eu. Mas talvez houvesse outros, da família Xara Brasil , que eram as pessoas ali principais, e eram realmente ... não me lembro. Agora outros meninos em Lisboa , ou iam para as piscinas, de Algés e Dafundo | Algés e Dafundo , e outras coisas assim.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 68,
+        "end": 79
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 178,
+        "end": 184
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 215,
+        "end": 220
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 223,
+        "end": 230
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 233,
+        "end": 248
+      }
+    }
+  ],
+  "relations": []
+}

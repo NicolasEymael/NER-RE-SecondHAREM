@@ -1,0 +1,22 @@
+{
+  "text": "Mapeamento da EA no Ensino Superior",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 14,
+        "end": 16
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 20,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

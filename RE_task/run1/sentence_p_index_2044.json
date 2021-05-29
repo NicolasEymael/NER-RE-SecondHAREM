@@ -1,0 +1,14 @@
+{
+  "text": "Para que instrumento são os concertos de Chopin?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 41,
+        "end": 47
+      }
+    }
+  ],
+  "relations": []
+}

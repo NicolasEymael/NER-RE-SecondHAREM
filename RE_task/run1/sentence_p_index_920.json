@@ -1,0 +1,157 @@
+{
+  "text": "Realizada no Teatro do Sesi | Teatro do Sesi , local ao lado do espaço do fisl, a noite começou com os gaúchos da Bataclã FC , que entraram no palco com uniformes do DMLU , o Departamento Municipal de Limpeza Urbana de Porto Alegre | Departamento Municipal de Limpeza Urbana de Porto Alegre e abriram o show com o clássico Amigo Punk . A certa altura, o vocalista Richard Serraria chamou o público que dançava na fila do gargarejo a subir ao palco, com o comentário \"É software livre, é palco livre, mas acho que a cara feia dos seguranças não motivou o pessoal a se arriscar. Não que isso tenha sido problema: Richard acabou o show no meio da massa, cantando com as mãos pra cima, pra alegria de todos. A segunda atração foi o DJ Dolores | DJ Dolores , que antes de tocar comentou que muita gente considerava que fazer música no computador era como enviar um e-mail, uma atividade burocrática e sem vida. Pra fechar o seu discurso, largou um \"Então me dêem licença que eu vou ali passar um e-mail, sob os aplausos do público. O ponto alto foi o dueto com a rabeca do Maciel Salustiano , filho do Mestre Salustiano , que fizeram uma performance de arrepiar.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 13,
+        "end": 27
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 30,
+        "end": 36
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 40,
+        "end": 44
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "organizacao",
+      "span": {
+        "begin": 114,
+        "end": 124
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 166,
+        "end": 170
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 175,
+        "end": 231
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 234,
+        "end": 274
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 278,
+        "end": 290
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "obra",
+      "span": {
+        "begin": 323,
+        "end": 333
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 364,
+        "end": 380
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 611,
+        "end": 618
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 728,
+        "end": 738
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "individuo",
+      "span": {
+        "begin": 744,
+        "end": 751
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 1068,
+        "end": 1085
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "individuo",
+      "span": {
+        "begin": 1097,
+        "end": 1114
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T5"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T7",
+      "obj": "T5"
+    },
+    {
+      "id": "R3",
+      "pred": "obra_de",
+      "subj": "T9",
+      "obj": "T4"
+    },
+    {
+      "id": "R4",
+      "pred": "incluido",
+      "subj": "T10",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T11",
+      "obj": "T10"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "text": " Associação Académica de Coimbra | Associação Académica de Coimbra. A Associação Académica de Coimbra | Associação Académica de Coimbra ( AAC ), fundada a 3 de Novembro de 1887 , é a mais antiga associação de estudantes de Portugal . Representa os cerca de 20 000 estudantes da Universidade de Coimbra | Universidade de Coimbra , que são automaticamente considerados seus sócios quando se encontrem inscritos nesta universidade. A AAC alberga uma série de secções culturais e desportivas. Entre as secções culturais pontificam, o Centro de Estudos Cinematográficos ( CEC ) que realiza anualmente o Festival \" Caminhos do Cinema Português \" | Festival \"Caminhos do Cinema Português\" , a Rádio Universidade de Coimbra ( RUC ), a Secção de Jornalismo (que edita o jornal universitário \" A Cabra \"), a secção de fado, o Grupo de folclore e etnografia | Grupo de folclore e etnografia ( GEFAC ) e os grupos de teatro ( TEUC e CITAC ). As secções desportivas abrangem um vasto leque de desportos, tais como o futebol, andebol, basquetebol, rugby, conoagem, natação, voleibol, ténis, artes marciais e xadrez, entre outros. A \" Académica \" é assim o \"clube\" mais eclético do pais, uma vez que \"pratica\" o maior número de modalidades. Também referido como \" Académica \", o clube de futebol profissional mais conhecido de Coimbra , de seu verdadeiro nome Associação Académica de Coimbra - Organismo Autónomo de Futebol ( AAC-OAF ), é considerado o herdeiro da secção de futebol da AAC (que se mantém na pratica amadora), mas é hoje um clube independente, cuja ligação com a AAC é cada vez mais ténue. A AAC é dirigida pela Direcção Geral ( DG ), composta por estudantes, e eleita anualmente entre Novembro e Dezembro em eleições abertas a todos os sócios, tanto estudantes como os sócios seccionistas. À DG compete a administração da AAC bem como a representação política dos estudantes. Em termos políticos, é ainda de referir a importância das Assembleias Magnas , assembleias sobretudo de discussão da política da Academia , abertas a todos os sócios, cujas decisões têm de ser obrigatoriamente cumpridas, independentemente da opinião da DG . Este poder decisório da Assembleia Magna torna-a no palco de discussões acesas, sobretudo entre os estudantes politizados. No passado recente, tem havido no mínimo 5-6 Assembleias Magnas por ano , com participação oscilante, mas um mínimo de cerca de 200 sócios. Infelizmente, a falta de interesse generalizado por estas questões na nossa sociedade, particularmente nas faixas etárias mais jovens, faz-se reflectir na fraca participação das Assembleias Magnas [carece de fontes?]. No entanto, a AAC continua a lutar para pautar a política educativa do Ensino Superior em Portugal [carece de fontes?]. O actual edifício da AAC foi inaugurado em 1961 e alberga praticamente todas as secções da AAC , estando integrado num quarteirão que inclui ainda uma sala de espectáculos (Teatro Académico de Gil Vicente) e um complexo de cantinas.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1794,
+        "end": 1796
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1613,
+        "end": 1627
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "text": "Sejamos francos: Não há 'modernidade', 'novidade' possível (pelo menos em se tratando de música e dança populares) fora do contexto efervescente das periferias. Fora dos guetos e favelas nada se cria. Tudo se copia. Sempre foi assim e, talvez, sempre será. O eixo irradiador de toda esta fervura é o mesmo eixo de um centro econômico de cada época, cada ocasião, no caso, em nossos dias, Nova York, onde vicejaram o Rap, o Street Dance, o Grafitti, manifestações criadas nas periferias da grande maçã podre, a Big Apple sem Beatles, sem MacIntosh, sem nada.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 372,
+        "end": 386
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 388,
+        "end": 397
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 416,
+        "end": 419
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 423,
+        "end": 435
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 439,
+        "end": 447
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 510,
+        "end": 519
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 524,
+        "end": 531
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 537,
+        "end": 546
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "praticado_em",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "praticado_em",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "praticado_em",
+      "subj": "T5",
+      "obj": "T2"
+    },
+    {
+      "id": "R4",
+      "pred": "ident",
+      "subj": "T6",
+      "obj": "T2"
+    }
+  ]
+}

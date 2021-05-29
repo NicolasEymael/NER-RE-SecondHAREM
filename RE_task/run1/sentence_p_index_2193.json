@@ -1,0 +1,14 @@
+{
+  "text": "2.3. Existem estagiários a serviço do próprio IBAP?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 46,
+        "end": 50
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Que selecções disputaram a final da Taça América de 1995 | Taça América de 1995?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 36,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 59,
+        "end": 71
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 72,
+        "end": 79
+      }
+    }
+  ],
+  "relations": []
+}

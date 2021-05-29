@@ -1,0 +1,14 @@
+{
+  "text": "Quando nasceu Machado de Assis?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 14,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

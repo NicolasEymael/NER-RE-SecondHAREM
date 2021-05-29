@@ -1,0 +1,14 @@
+{
+  "text": "Que avião civil efectuou o voo mais longo sem escalas? Onde é que o A340 levou a cabo o voo mais longo sem escalas por um avião civil? Quando é que este feito foi levado a cabo?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 68,
+        "end": 72
+      }
+    }
+  ],
+  "relations": []
+}

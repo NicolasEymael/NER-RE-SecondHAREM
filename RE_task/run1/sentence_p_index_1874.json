@@ -1,0 +1,22 @@
+{
+  "text": "Que sinfonia compôs Beethoven em 1824?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 20,
+        "end": 29
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

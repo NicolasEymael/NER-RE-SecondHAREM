@@ -1,0 +1,14 @@
+{
+  "text": "PAULINHO EM PROVA DESFALCADA DE VEDETAS",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 8
+      }
+    }
+  ],
+  "relations": []
+}

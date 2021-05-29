@@ -1,0 +1,22 @@
+{
+  "text": "Confrontado com os primeiros avisos de Lisboa , ele terá dito: \"Se há que desobedecer, prefiro que seja a uma ordem dos homens do que a uma ordem de Deus \".",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 39,
+        "end": 45
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 149,
+        "end": 153
+      }
+    }
+  ],
+  "relations": []
+}

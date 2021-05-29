@@ -1,0 +1,29 @@
+{
+  "text": " Euro segue em alta face ao dólar. O euro segue a reforçar os ganhos em relação à divisa dos Estados Unidos esta segunda-feira , cotando sobre 1,474 dólares , seis cêntimos acima dos máximos da sessão anterior. A tendência reflecte as perspectivas do mercado de uma nova descida nas taxas de juro da Reserva Federal dos EUA | Reserva Federal dos EUA com o objectivo de inverter o cenário de abrandamento da economia. Por outro lado, números do Fundo Monetário Internacional divulgados na passada sexta-feira indicam que a divisa europeia já pesa 26,4% do total das reservas externas em todo mundo no terceiro trimestre, mais do que no trimestre anterior e a comparar com 24,4% um ano antes . Na passada sexta-feira , o Banco Central Europeu ( BCE ) fixou a taxa de câmbio oficial a 1,4692 dólares , um valor que corresponde a mais 17% face ao câmbio média calculado para 2006 , quando a moeda única europeia se fixou em 1,2556 dólares , segundo dados do BCE para a média anual.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 326,
+        "end": 341
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 93,
+        "end": 107
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "localizado_em",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

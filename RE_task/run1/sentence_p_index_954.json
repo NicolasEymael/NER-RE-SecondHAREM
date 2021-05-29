@@ -1,0 +1,65 @@
+{
+  "text": "Para chegarmos ao conto de Borges , passemos antes por Italo Calvino . No capítulo chamado \" Multiplicidade \" do seu livro Seis Propostas para o Próximo Milênio | Seis Propostas para o Próximo Milênio , Calvino destaca como uma das (boas) características da literatura contemporânea essa capacidade de estabelecer redes de conexões entre os acontecimentos, entre as pessoas, entre as coisas do mundo, em outras palavras, essa capacidade atual de a escritura poder ser múltipla.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 55,
+        "end": 68
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 93,
+        "end": 107
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "obra",
+      "span": {
+        "begin": 123,
+        "end": 160
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 203,
+        "end": 210
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "obra_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

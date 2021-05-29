@@ -1,0 +1,14 @@
+{
+  "text": "Que edifício foi erigido no século 12?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 25,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

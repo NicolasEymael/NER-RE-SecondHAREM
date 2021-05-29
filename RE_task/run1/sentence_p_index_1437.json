@@ -1,0 +1,14 @@
+{
+  "text": "Quando é que foi construída a Esfinge?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "obra",
+      "span": {
+        "begin": 30,
+        "end": 37
+      }
+    }
+  ],
+  "relations": []
+}

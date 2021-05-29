@@ -1,0 +1,97 @@
+{
+  "text": "A pergunta do \"onde está\" é tradicional na comunicação social e nalguns casos foi feita com estragos consideráveis, como aconteceu com Vítor Constâncio à frente do PS . A pergunta em si é pouco relevante, porque o que a comunicação social quer é festa e, quando acha que não a tem, clama por actores no palco. Admito que os tempos agora não estarão como estavam no tempo de Constâncio , nem a dedicação carinhosa da comunicação social ao PSD é idêntica à que na época prodigalizava ao PS , cujo estado a preocupava. Mas, quando vier a pergunta, será mais para a coreografia do que para a substância, porque esta está há muito respondida: de há uns tempos a esta parte , o PSD está onde está o PS .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 135,
+        "end": 151
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 164,
+        "end": 166
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 362,
+        "end": 370
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "individuo",
+      "span": {
+        "begin": 374,
+        "end": 384
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "organizacao",
+      "span": {
+        "begin": 438,
+        "end": 441
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 485,
+        "end": 487
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 638,
+        "end": 667
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 672,
+        "end": 675
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 693,
+        "end": 695
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T2",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T1"
+    },
+    {
+      "id": "R3",
+      "pred": "ident",
+      "subj": "T8",
+      "obj": "T5"
+    }
+  ]
+}

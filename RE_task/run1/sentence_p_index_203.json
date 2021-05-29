@@ -1,0 +1,53 @@
+{
+  "text": "O Museu mantém, ainda, Arquivo Institucional sobre a trajetória do próprio Museu Histórico Nacional , com documentos, fotografias, impressos, recortes de jornal, etc. As fotos utilizadas para ilustrar o item \" ARQUITETURA E HISTÓRIA \" integram este acervo. O Arquivo Institucional é aberto a consultas, mediante agendamento prévio através do telefone 21-25509265.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 2,
+        "end": 7
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 23,
+        "end": 44
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 75,
+        "end": 99
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "outro",
+      "span": {
+        "begin": 210,
+        "end": 232
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 259,
+        "end": 280
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

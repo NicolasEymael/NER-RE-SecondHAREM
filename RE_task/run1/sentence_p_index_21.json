@@ -1,0 +1,83 @@
+{
+  "text": "Uma alteração num único gene é capaz de transformar um vírus inofensivo no agente causador de uma gripe mortal. A descoberta, segundo pesquisadores da Universidade de Wisconsin-Madison | Universidade de Wisconsin - Madison ( EUA ), poderá levar à compreensão de como as epidemias da doença surgem e qual a melhor forma de combatê-las.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 151,
+        "end": 184
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 187,
+        "end": 199
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "local",
+      "span": {
+        "begin": 203,
+        "end": 212
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 215,
+        "end": 222
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 225,
+        "end": 228
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "sede_de",
+      "subj": "T3",
+      "obj": "T2"
+    },
+    {
+      "id": "R2",
+      "pred": "sede_de",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "inclui",
+      "subj": "T4",
+      "obj": "T3"
+    },
+    {
+      "id": "R4",
+      "pred": "inclui",
+      "subj": "T5",
+      "obj": "T4"
+    },
+    {
+      "id": "R5",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T1"
+    },
+    {
+      "id": "R6",
+      "pred": "sede_de",
+      "subj": "T5",
+      "obj": "T2"
+    }
+  ]
+}

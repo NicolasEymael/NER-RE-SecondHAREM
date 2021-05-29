@@ -1,0 +1,78 @@
+{
+  "text": "O esforço nacional foi mantido durante vinte e oito anos , com o qual foi possível suster as sucessivas tentativas de invasão dos exércitos de Filipe III e vencê-los nas mais importantes batalhas, assinando o tratado de paz definitivo em 1668 . Esses anos foram bem sucedidos devido à conjugação de diversas vertentes como a coincidência das revoltas na Catalunha , os esforços diplomáticos da Inglaterra , França , Holanda e Roma , a reorganização do exército português, a reconstrução de fortalezas e a consolidação política e administrativa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 31,
+        "end": 56
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "individuo",
+      "span": {
+        "begin": 143,
+        "end": 153
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 235,
+        "end": 242
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 245,
+        "end": 255
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 354,
+        "end": 363
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 394,
+        "end": 404
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "organizacao",
+      "span": {
+        "begin": 407,
+        "end": 413
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "organizacao",
+      "span": {
+        "begin": 416,
+        "end": 423
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "organizacao",
+      "span": {
+        "begin": 426,
+        "end": 430
+      }
+    }
+  ],
+  "relations": []
+}

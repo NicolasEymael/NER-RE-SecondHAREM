@@ -1,0 +1,14 @@
+{
+  "text": "Nem todas as portagens sofrerão alterações, uma vez que os contratos de concessão determinam que os aumentos sejam arredondados em múltiplos de 5 cêntimos.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "valor",
+      "span": {
+        "begin": 144,
+        "end": 154
+      }
+    }
+  ],
+  "relations": []
+}

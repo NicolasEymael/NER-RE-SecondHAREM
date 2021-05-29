@@ -1,0 +1,22 @@
+{
+  "text": "Estes valores foram calculados com base na lei 53-B/2006, de 29 de Dezembro, que cria o indexante dos apoios sociais e novas regras de actualização das pensões e outras prestações sociais do sistema de Segurança Social.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 58,
+        "end": 75
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "organizacao",
+      "span": {
+        "begin": 202,
+        "end": 218
+      }
+    }
+  ],
+  "relations": []
+}

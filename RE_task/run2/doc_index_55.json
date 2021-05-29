@@ -1,0 +1,235 @@
+{
+  "text": " Distribuição de jornais gratuitos quase duplicou este ano. O número de jornais gratuitos nacionais distribuídos nos nove primeiros meses deste ano quase duplicou em relação ao mesmo período de 2006, ultrapassando os 600 mil exemplares, de acordo com dados hoje divulgados pela APCT. A subida deveu-se sobretudo ao lançamento de dois novos títulos - o Global Notícias e o Meia-Hora que, em conjunto, representam mais de 235 mil exemplares - mas também a um crescimento das tiragens dos principais jornais gratuitos que já existiam. Entre os mais antigos, o maior crescimento foi registado pelo Metro que passou a distribuir mais 22.600 exemplares do que fazia no ano passado, atingindo este ano os 180 mil. Com este aumento, o Metro passou a ser o maior jornal gratuito, à frente do Destak que registou, este ano, uma circulação de 173 mil exemplares (melhorando 5,3 por cento). A maior subida em termos relativos foi, no entanto, protagonizada pelo económico gratuito Oje que aumentou a sua circulação em quase 56 por cento, passando para os 22 mil exemplares. Refira-se que os dados hoje divulgados pela APCT não contabilizam ainda o jornal lançado pelo Público e A Bola, o Sexta-feira.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 50,
+        "end": 58
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 113,
+        "end": 147
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 174,
+        "end": 198
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 217,
+        "end": 224
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 257,
+        "end": 261
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 278,
+        "end": 282
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 352,
+        "end": 367
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "outro",
+      "span": {
+        "begin": 372,
+        "end": 381
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "valor",
+      "span": {
+        "begin": 412,
+        "end": 427
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "outro",
+      "span": {
+        "begin": 594,
+        "end": 599
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 624,
+        "end": 635
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "tempo",
+      "span": {
+        "begin": 660,
+        "end": 674
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 686,
+        "end": 694
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "valor",
+      "span": {
+        "begin": 698,
+        "end": 705
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "outro",
+      "span": {
+        "begin": 727,
+        "end": 732
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 783,
+        "end": 789
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "tempo",
+      "span": {
+        "begin": 804,
+        "end": 812
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "valor",
+      "span": {
+        "begin": 832,
+        "end": 839
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "valor",
+      "span": {
+        "begin": 863,
+        "end": 876
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 969,
+        "end": 972
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "valor",
+      "span": {
+        "begin": 1006,
+        "end": 1024
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "valor",
+      "span": {
+        "begin": 1043,
+        "end": 1049
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "tempo",
+      "span": {
+        "begin": 1085,
+        "end": 1089
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1106,
+        "end": 1110
+      }
+    },
+    {
+      "id": "T25",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1156,
+        "end": 1163
+      }
+    },
+    {
+      "id": "T26",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1166,
+        "end": 1172
+      }
+    },
+    {
+      "id": "T27",
+      "obj": "outro",
+      "span": {
+        "begin": 1176,
+        "end": 1187
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T10"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T24",
+      "obj": "T6"
+    }
+  ]
+}

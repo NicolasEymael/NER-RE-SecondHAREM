@@ -1,0 +1,22 @@
+{
+  "text": "Que jogador espanhol ganhou Roland Garros em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 28,
+        "end": 41
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 42,
+        "end": 49
+      }
+    }
+  ],
+  "relations": []
+}

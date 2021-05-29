@@ -1,0 +1,22 @@
+{
+  "text": "Quem era o capitão do Ajax em 1994?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 22,
+        "end": 26
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 27,
+        "end": 34
+      }
+    }
+  ],
+  "relations": []
+}

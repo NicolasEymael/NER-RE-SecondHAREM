@@ -1,0 +1,253 @@
+{
+  "text": " China vai desenvolver nova geração de telemóveis em 2008. A China vai desenvolver telemóveis de banda larga «de nova geração» em 2008 , informa hoje a imprensa estatal. O Conselho de Estado aprovou o plano de pesquisa da tecnologia de terceira geração, usando os padrões de redes nacionais TD-SCDMA . A estreia poderá acontecer durante os Jogos Olímpicos de 2008 | Jogos Olímpicos de 2008 . O programa de desenvolvimento «estará de acordo com as tendências da tecnologia da informação e ajudará a melhorar a inovação e competitividade mundial das empresas chinesas», disse o ministro da Indústria da Informação , Wang Xundong , citado pela agência Xinhua . Segundo Wang , este será um dos principais temas da pesquisa tecnológica chinesa em 2008 , juntamente com o desenvolvimento de microprocessadores e circuitos integrados, entre outros. A tecnologia TD-SCDMA é desenvolvida integralmente pela China , em oposição aos padrões norte-americanos ( CDMA 2000 ) e europeus ( WCDMA ). Ainda não há data para a concessão de licenças para telemóveis 3G , que serão disputadas entre as quatro grandes operadoras de comunicações fixas e móveis do país: China Telecom , China Netcom , China Mobile e China Unicom .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1,
+        "end": 6
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 50,
+        "end": 57
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "organizacao",
+      "span": {
+        "begin": 61,
+        "end": 66
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 127,
+        "end": 134
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "tempo",
+      "span": {
+        "begin": 145,
+        "end": 149
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 172,
+        "end": 190
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 291,
+        "end": 299
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 340,
+        "end": 363
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "acontecimento",
+      "span": {
+        "begin": 366,
+        "end": 381
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "tempo",
+      "span": {
+        "begin": 382,
+        "end": 389
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "individuo",
+      "span": {
+        "begin": 576,
+        "end": 611
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 614,
+        "end": 626
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "organizacao",
+      "span": {
+        "begin": 649,
+        "end": 655
+      }
+    },
+    {
+      "id": "T14",
+      "obj": "individuo",
+      "span": {
+        "begin": 666,
+        "end": 670
+      }
+    },
+    {
+      "id": "T15",
+      "obj": "tempo",
+      "span": {
+        "begin": 739,
+        "end": 746
+      }
+    },
+    {
+      "id": "T16",
+      "obj": "outro",
+      "span": {
+        "begin": 855,
+        "end": 863
+      }
+    },
+    {
+      "id": "T17",
+      "obj": "organizacao",
+      "span": {
+        "begin": 898,
+        "end": 903
+      }
+    },
+    {
+      "id": "T18",
+      "obj": "outro",
+      "span": {
+        "begin": 949,
+        "end": 958
+      }
+    },
+    {
+      "id": "T19",
+      "obj": "outro",
+      "span": {
+        "begin": 974,
+        "end": 979
+      }
+    },
+    {
+      "id": "T20",
+      "obj": "outro",
+      "span": {
+        "begin": 1046,
+        "end": 1048
+      }
+    },
+    {
+      "id": "T21",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1147,
+        "end": 1160
+      }
+    },
+    {
+      "id": "T22",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1163,
+        "end": 1175
+      }
+    },
+    {
+      "id": "T23",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1178,
+        "end": 1190
+      }
+    },
+    {
+      "id": "T24",
+      "obj": "organizacao",
+      "span": {
+        "begin": 1193,
+        "end": 1205
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T3",
+      "obj": "T1"
+    },
+    {
+      "id": "R2",
+      "pred": "ident",
+      "subj": "T4",
+      "obj": "T2"
+    },
+    {
+      "id": "R3",
+      "pred": "incluido",
+      "subj": "T6",
+      "obj": "T1"
+    },
+    {
+      "id": "R4",
+      "pred": "vinculo_inst",
+      "subj": "T11",
+      "obj": "T1"
+    },
+    {
+      "id": "R5",
+      "pred": "ident",
+      "subj": "T12",
+      "obj": "T11"
+    },
+    {
+      "id": "R6",
+      "pred": "ident",
+      "subj": "T14",
+      "obj": "T11"
+    },
+    {
+      "id": "R7",
+      "pred": "ident",
+      "subj": "T15",
+      "obj": "T2"
+    },
+    {
+      "id": "R8",
+      "pred": "ident",
+      "subj": "T16",
+      "obj": "T7"
+    },
+    {
+      "id": "R9",
+      "pred": "ident",
+      "subj": "T17",
+      "obj": "T1"
+    }
+  ]
+}

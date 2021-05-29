@@ -1,0 +1,14 @@
+{
+  "text": "e a vontade divina de ser Deus.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 26,
+        "end": 30
+      }
+    }
+  ],
+  "relations": []
+}

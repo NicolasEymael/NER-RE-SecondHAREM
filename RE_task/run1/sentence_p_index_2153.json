@@ -1,0 +1,22 @@
+{
+  "text": "-Inclui cartão SD de 512 Mb para importação de mapas,waypoints ou rotas criadas em casa.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "outro",
+      "span": {
+        "begin": 15,
+        "end": 17
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "valor",
+      "span": {
+        "begin": 21,
+        "end": 27
+      }
+    }
+  ],
+  "relations": []
+}

@@ -1,0 +1,101 @@
+{
+  "text": "O recorde histórico verificou-se na bolsa mercantil de Nova Iorque , com a transacção do crude de tipo leve, de referência para o mercado dos EUA , com entrega para Fevereiro , a pular mais de três dólares numa só sessão e a bater na marca histórica dos 100 dólares . Baixou pouco depois para os 99,17 dólares . Em Londres , o Brent do Mar do Norte | Brent do Mar do Norte , também com entrega para Fevereiro , subiu igualmente mais de três dólares e passou pela primeira vez o patamar dos 97 dólares . O novo máximo histórico ficou em 97,74 dólares .",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 55,
+        "end": 66
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 142,
+        "end": 145
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 160,
+        "end": 174
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "valor",
+      "span": {
+        "begin": 254,
+        "end": 265
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "valor",
+      "span": {
+        "begin": 296,
+        "end": 309
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 315,
+        "end": 322
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "outro",
+      "span": {
+        "begin": 327,
+        "end": 348
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 360,
+        "end": 372
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "tempo",
+      "span": {
+        "begin": 394,
+        "end": 408
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "valor",
+      "span": {
+        "begin": 490,
+        "end": 500
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "valor",
+      "span": {
+        "begin": 536,
+        "end": 549
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "inclui",
+      "subj": "T2",
+      "obj": "T2"
+    }
+  ]
+}

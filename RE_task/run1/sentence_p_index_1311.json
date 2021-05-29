@@ -1,0 +1,14 @@
+{
+  "text": "Que escola foi fundada por Walter Groupis?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 27,
+        "end": 41
+      }
+    }
+  ],
+  "relations": []
+}

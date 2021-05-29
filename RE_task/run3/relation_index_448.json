@@ -1,0 +1,29 @@
+{
+  "text": " O PRESIDENTE Sarkozy abriu a Conferência de Dadores realizada em Paris com uma frase grandiloquente sobre a necessidade urgente de criar um Estado palestiniano no fim de 2008 . O Presidente ou é mentiroso ou finge-se ignorante, ou as duas coisas. Depois do falhanço esperado da cimeira de Annapolis , um modo de Condoleezza Rice salvar a face e de a Administração | Administração americana e a Europa continuarem a fingir que estão interessadas em resolver o conflito israelo-palestiniano e de lavarem as mãos de tudo o resto, Sarkozy não pode ignorar que o momento para pronunciamentos débeis é o menos adequado. Tony Blair , depois de ter minado todo o processo de paz do Médio Oriente ao ordenar a invasão do Iraque de braço dado com Bush , continua a emitir piedades deste género, e diz que está na altura de resolver o problema e que ele pode ser resolvido. Blair não sabe o que diz. A verdade é que não pode ser resolvido, já não pode, e não pode justamente nesta fase, quando os palestinianos têm não um mas dois governos e dois territórios, um ocupado pelos israelitas, a Cisjordânia , outro abandonado pelos israelitas e bombardeado pelos israelitas, Gaza . Anos e anos de destruição compulsiva de interlocutores, alguns moderados, e de opressão, fizeram do povo palestiniano uma nação de pedintes. Gaza subvive das esmolas iranianas, sauditas e dos Emiratos , e a Cisjordânia subvive de doações da Europa , da América , de Estados árabes e das Nações Unidas . Nenhuma nação palestiniana pode aspirar a ser um Estado palestiniano , e um país viável, sem unidade do território e do povo, e sem soberania sobre esse povo e esse território. No terreno, temos a pior situação de sempre. O Hamas a mandar em Gaza , e a OLP a fingir que manda na Cisjordânia . Sarkozy , e Blair , e os europeus, sendo a Europa o maior dador de dinheiro para os palestinianos e já vamos ver porquê, não podem desconhecer que nem Mahmoud Abbas é um chefe com apoio popular na Cisjordânia nem a OLP , dominada pela Fatah , tem apoio popular em Gaza . Se realizassem eleições na Cisjordânia , Abbas e um grupo de agentes corruptos disfarçados de \"moderados\" não as ganhariam, e não as ganhariam nas cidades onde o Hamas ganhou. Abbas pode fingir mandar em Ramallah e na clientela privilegiada de uma organização que não soube constituir-se como fonte legítima do poder palestiniano, não pode fingir que é considerado em Jenin e Hebron , em Nablus e Tulkarem , em Jericó e Jerusalém Oriental . Abbas , arrastando-se aos pés dos chefes europeus a mendigar uns milhares de milhões de dólares enquanto insulta o Hamas e aceita que os palestinianos de Gaza sejam colectivamente punidos pelo embargo israelita e pela recusa americana e europeia de incluir o Hamas no processo de paz é visto como uma marioneta do Ocidente e um traidor. Os israelitas sabem isto melhor do que ninguém porque são os que melhor conhecem a quimera do road map. Israel , sabendo que não pode devolver a Cisjordânia , desmantelar os colonatos, prescindir da Ocupação sem comprometer a sua segurança, dividir Jerusalém ou ceder a pretensões sobre o regresso de milhões de refugiados (que nunca poderão regressar), está interessado em manter as ficções americanas e europeias e administrar a Ocupação e a relação de forças, como a sua supremacia militar assegura. O Hamas está interessado, simetricamente, em administrar a resistência. Israel só seria obrigado a ceder se os Estados Unidos deixassem de apoiar e de vender milhares de milhões de dólares de armas aos israelitas, e Israel sabe que isso nunca acontecerá, por razões da política interna americana e da força do lobby judeu. Nenhum candidato democrata, nem mesmo o utópico Obama , ousariam modificar este estado de coisas. A posição da Europa , dando milhares de milhões que a dispensem de contribuir para uma resolução política, é a mais contraproducente. A Europa prefere pagar para não ser incomodada, e prefere transformar, como transformou, os palestinianos numa nação de pedintes. A velha e cínica Europa , origem de todo este problema, a assassina Europa como lhe chama o escritor israelita Amos Oz , sabe que não pode contrariar os Estados Unidos e não quer contrariar os israelitas por má consciência. Sabe também que os palestinianos são um povo espoliado, banido, revoltado e oprimido, e que parte da responsabilidade histórica dessa opressão lhe pertence. Como contribui para o problema sem contribuir para a solução, a Europa adoptou um discurso de duplicidades e subentendidos, de fraquezas e recuos, de que o senhor Javier Solanas é o exemplo acabado. A rematar o discurso, a Europa passa cheques. Os palestinianos habituaram-se a explorar esta fraqueza a seu favor e transformaram a sua reivindicação numa vitimização que lhes dá direito, de tanto em tanto tempo, a uma compensação monetária. Muitos milhões acabam, como no tempo de Arafat, em contas secretas e nos bolsos de uma oligarquia. Tanto dinheiro não chega para comprar os palestinianos que não estão à venda. Os palestinianos vêem o Muro entrar-lhes pelas vidas dentro, vêem a sua destituição transformada em humilhação, e votam Hamas ou Jihad Islâmica . Em Gaza , as crianças querem ser mártires. E sem Gaza , não haverá Palestina . Clara Ferreira Alves.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "local",
+      "span": {
+        "begin": 2958,
+        "end": 2969
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 1081,
+        "end": 1092
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "ident",
+      "subj": "T1",
+      "obj": "T2"
+    }
+  ]
+}

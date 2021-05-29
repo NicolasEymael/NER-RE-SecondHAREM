@@ -1,0 +1,22 @@
+{
+  "text": "Alguns pesquisadores tentam explicar a estrutura da base rítmica, da batida (beat) do Kuduro por meio de teorias moderninhas ou simplificações que insistem em preconizar a importância, ao nosso ver, exagerada, das tecnologias na criação e na evolução destas danças e gêneros musicais. Os reis da parada seriam portanto os equipamentos eletrônicos (como o já velho Sampler , por exemplo).",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 86,
+        "end": 92
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "outro",
+      "span": {
+        "begin": 364,
+        "end": 371
+      }
+    }
+  ],
+  "relations": []
+}

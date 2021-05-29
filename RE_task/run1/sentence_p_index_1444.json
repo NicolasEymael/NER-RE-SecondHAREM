@@ -1,0 +1,14 @@
+{
+  "text": "Quem é o marido da rainha Isabel II?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 19,
+        "end": 35
+      }
+    }
+  ],
+  "relations": []
+}

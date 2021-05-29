@@ -1,0 +1,30 @@
+{
+  "text": "Que presidente dos Estados Unidos | presidente dos Estados Unidos é que Francisco Durán tentou matar?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 4,
+        "end": 33
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "local",
+      "span": {
+        "begin": 51,
+        "end": 65
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "individuo",
+      "span": {
+        "begin": 72,
+        "end": 87
+      }
+    }
+  ],
+  "relations": []
+}

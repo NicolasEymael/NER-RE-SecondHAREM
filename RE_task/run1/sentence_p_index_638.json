@@ -1,0 +1,117 @@
+{
+  "text": "Fernão de Magalhães, algumas vezes referenciado como Fernando de Magalhães, (primavera de 1480 --- 27 de abril de 1521) foi um navegador português que, ao serviço do rei de Espanha | rei de Espanha, comandou a expedição marítima que efectuou a primeira viagem de circum-navegação ao globo. Foi o primeiro a dobrar estreito hoje conhecido pelo seu nome (o Estreito de Magalhães) e o primeiro europeu a navegar no Oceano Pacífico. Fernão de Magalhães morre nas Filipinas no curso daquela expedição, posteriormente chefiada por Juan Sebastián Elcano 1522.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "individuo",
+      "span": {
+        "begin": 0,
+        "end": 19
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 21,
+        "end": 34
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "abstraccao",
+      "span": {
+        "begin": 53,
+        "end": 74
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "tempo",
+      "span": {
+        "begin": 77,
+        "end": 118
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "individuo",
+      "span": {
+        "begin": 166,
+        "end": 180
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "local",
+      "span": {
+        "begin": 190,
+        "end": 197
+      }
+    },
+    {
+      "id": "T7",
+      "obj": "tempo",
+      "span": {
+        "begin": 323,
+        "end": 327
+      }
+    },
+    {
+      "id": "T8",
+      "obj": "local",
+      "span": {
+        "begin": 355,
+        "end": 376
+      }
+    },
+    {
+      "id": "T9",
+      "obj": "local",
+      "span": {
+        "begin": 412,
+        "end": 427
+      }
+    },
+    {
+      "id": "T10",
+      "obj": "individuo",
+      "span": {
+        "begin": 429,
+        "end": 448
+      }
+    },
+    {
+      "id": "T11",
+      "obj": "local",
+      "span": {
+        "begin": 459,
+        "end": 468
+      }
+    },
+    {
+      "id": "T12",
+      "obj": "individuo",
+      "span": {
+        "begin": 525,
+        "end": 546
+      }
+    },
+    {
+      "id": "T13",
+      "obj": "tempo",
+      "span": {
+        "begin": 547,
+        "end": 551
+      }
+    }
+  ],
+  "relations": [
+    {
+      "id": "R1",
+      "pred": "vinculo_inst",
+      "subj": "T6",
+      "obj": "T5"
+    }
+  ]
+}

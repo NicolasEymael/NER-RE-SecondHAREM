@@ -1,0 +1,14 @@
+{
+  "text": "Em que país teve origem a epidemia de gripe de 1918?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "tempo",
+      "span": {
+        "begin": 44,
+        "end": 51
+      }
+    }
+  ],
+  "relations": []
+}

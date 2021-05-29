@@ -1,0 +1,22 @@
+{
+  "text": "Quantos reservistas tinha a Haganah em 1936?",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 28,
+        "end": 35
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 36,
+        "end": 43
+      }
+    }
+  ],
+  "relations": []
+}

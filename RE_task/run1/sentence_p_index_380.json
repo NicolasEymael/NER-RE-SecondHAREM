@@ -1,0 +1,54 @@
+{
+  "text": "A convicção dominante no mercado, a avaliar pelos analistas contactados pela Reuters , é a de que o preço desta matéria-prima continuará provavelmente a subir nos próximos cinco anos , a não ser que o crescimento económico abrande e abrande também a procura de combustível. A pressão para a subida de preços que se verifica desde 2002 continua a ter condições para manter o ritmo: algumas regiões fora da OPEP , nomeadamente o mar do Norte , têm a sua produção em declínio, a China mantém um intenso ritmo de procura de combustível e o sistema de refinação continua a enfrentar uma escassez de capacidade para os produtos de grande qualidade.",
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "organizacao",
+      "span": {
+        "begin": 77,
+        "end": 84
+      }
+    },
+    {
+      "id": "T2",
+      "obj": "tempo",
+      "span": {
+        "begin": 159,
+        "end": 182
+      }
+    },
+    {
+      "id": "T3",
+      "obj": "tempo",
+      "span": {
+        "begin": 324,
+        "end": 334
+      }
+    },
+    {
+      "id": "T4",
+      "obj": "local",
+      "span": {
+        "begin": 405,
+        "end": 409
+      }
+    },
+    {
+      "id": "T5",
+      "obj": "local",
+      "span": {
+        "begin": 434,
+        "end": 439
+      }
+    },
+    {
+      "id": "T6",
+      "obj": "organizacao",
+      "span": {
+        "begin": 476,
+        "end": 481
+      }
+    }
+  ],
+  "relations": []
+}
